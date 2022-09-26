@@ -54,4 +54,195 @@ Wien, den 23. Februar 1843.
 
 3\. Capland (Bokkeveld).
 
+4\. Chassigny (Langres).
+
+5\. Juvenas.
+
+6\. Stannern.
+
+7\. Constantinopel.
+
+8\. Jonzac.
+
+9\. Bialistock.
+
+10\. Lontalax.
+
+11\. Nobleborough (Nobleboro, Maine).
+
+12\. Mässing (Eggenfelden).
+
+13\. Parma (Casignano).
+
+14\. Siena.
+
+15\. Ensisheim.
+
+16\. L'Aigle.
+
+17\. Liponas.
+
+18\. Chantonnay.
+
+19\. Renazzo (Ferrara).
+
+20\. Richmond (Virginien).
+
+21\. Weston (Connecticut).
+
+22\. La Baffe (Epinal).
+
+23\. Benares (Krakhut).
+
+24\. Gouv. Poltawa.
+
+25\. Krasno-Ugol.
+
+26\. Erxleben.
+
+27\. Gouv. Simbirsk.
+
+28\. Mauerkirchen.
+
+29\. Nashville (Tennessee).
+
+30\. Luce.
+
+31\. Lissa.
+
+32\. Owahu (Hanaruru).
+
+33\. Charkow (Ukraine).
+
+34\. Zaborzika.
+
+35\. Bachmut.
+
+36\. Politz (Köstriz).
+
+37\. Kuleschofka.
+
+38\. Slobodka.
+
+39\. Milena.
+
+40\. Forsyth (Georgien).
+
+41\. Yorkshire (Wold-Cottage).
+
+42\. Glasgow (High Possil).
+
+43\. Berlanguillas (Burgos).
+
+44\. Apt (Saurette).
+
+45\. Vouille (Poitiers).
+
+46\. Chateau-Renard (Trigueres).
+
+47\. Sales (Villefranche).
+
+48\. Agen.
+
+49\. Nanjemoy (Maryland).
+
+50\. Asco.
+
+51\. Toulouse.
+
+52\. Blansko.
+
+53\. Wessely.
+
+54\. Limerik (Adair).
+
+55\. Grüneberg (Heinrichau).
+
+56\. Tipperary (Mooresfort).
+
+57\. Gouv. Kursk.
+
+58\. Lixna (Dünaburg).
+
+59\. Tabor (Plan).
+
+60\. Charsonville (Orleans).
+
+61\. Doroninsk.
+
+62\. Seres (Macedonien).
+
+63\. Sigena (Sena).
+
+64\. Barbotan (Roquefort, Creon Juillac).
+
+65\. Eichstädt (Wittens).
+
+66\. Gross-Divina (Budetin).
+
+67\. Zebrak (Horzowitz).
+
+68\. Timochin (Smolensk).
+
+69\. Macao (Rio Assu).
+
+### Meteoreisen.
+
+70\. Atacama.
+
+71\. Krasnojarsk (Sibirien, Pallas).
+
+72\. Brahin.
+
+73\. Sachsen (Steinbach oder Grimma ? mit dem Eisen, angeblich aus Norwegen).
+
+74\. Bitburg.
+
+75\. Toluca (Xiquipilco).
+
+76\. Elbogen.
+
+77\. Agram (Hraschina).
+
+78\. Lenarto.
+
+79\. Red-River (Louisiana oder Texas).
+
+80\. Durango.
+
+81\. Guilford.
+
+82\. Caille (Grasse).
+
+83\. Ashville (Buncombe).
+
+84\. Tennessee.
+
+85\. Bohumilitz.
+
+86\. Bahia (Bemdego).
+
+87\. Zacatecas.
+
+88\. Rasgata.
+
+89\. Tucuman (Otumpa).
+
+90\. Senegal.
+
+91\. Cap der guten Hoffnung.
+
+92\. Clairborne (Alabama).
+
+### Anhang.
+
+93\. Oaxaca.
+
+94\. Grönland (Baffingsbay).
+
+## Übersicht der Meteoriten im k. k. Mineralien-Kabinette, nach den Fall- oder Fundorten.
+
+(Die Nummern beziehen sich auf die Reihenfolge in der Uebersicht Nr. 1., und dienen zur Erleichterung des Aufsuchens im vorliegenden Cataloge.)
+
+...
 
