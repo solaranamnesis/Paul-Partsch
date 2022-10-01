@@ -504,7 +504,7 @@ Wien, den 23. Februar 1843.
 
 (Die Nummern beziehen sich auf die Reihenfolge in der Uebersicht Nr. 1, und dienen zur Erleichterung des Aufsuchens im vorliegenden Cataloge.)
 
- **&nbsp;** | **Jahr** | **Monat und Tag**                                  | **&nbsp;**                
+ **Nr.** | **Jahr** | **Monat und Tag**                                  | **&nbsp;**                
 ------------|----------|----------------------------------------------------|---------------------------
  &nbsp;     | &nbsp;   | &nbsp;                                             | 1\. Meteorsteine\.        
  15         | 1492     | 7\. November                                       | Ensisheim\.               
@@ -583,5 +583,62 @@ Wien, den 23. Februar 1843.
  78 bis 94  | &nbsp;   | Die Fallzeit unbekannt\.                           | Alle andern Eisenmassen\. 
  94         | &nbsp;   | Die Fallzeit unbekannt\.                           | Alle andern Eisenmassen\. 
 
-...
+## Wegweiser.
 
+Die Meteoriten-Sammlung des k.k. Mineralien-Kabinettes ist in einem langen pultförmigen Glasschrank, mit nach zwei Seiten abfallenden Glaswänden, in der Mitte des vierten Saales aufgestellt. Auf der wagerechten Ebene des Glasschrankes erheben sich, nach der Länge desselben ziehend, jedoch beiderseits noch Raum lassend, drei breite niedere Stufen, wodurch im Ganzen fünf Abtheilungen entstehen. Die obere oder zweite, beiden Seiten des Pult-Schrankes gemeinschaftliche Stufe, (mit Abtheilung Nr. 1 bezeichnet) enthält die grössten Stücke, deren Volum eine systematische Einreihung unter die anderen nicht erlaubte, nähmlich die zwei berühmten grossen Eisenmassen von Elbogen und Agram, grosse Stücke der Eisenmassen von Atacama, Lenarto, Bohumilitz, Bahia und Krasnojarsk, einen grossen ganzen Meteorstein von Tabor, einen solchen von Wessely, und einen von Lissa, drei grosse ganze Steine von Stannern, ein grosses Fragment des Steines von Chantonnay und zwei grosse ganze Steine von L’Aigle (letztere zwei auf der Rückseite des Schrankes). Die Reihenfolge der nach ihren Verwaudtschaften zusammengestellten Meteoriten kleineren Formaies beginnt in der vorderen, gegen den dritten Saal des Mineralien-Kabinettes gekehrten Hälfte des Schrankes; hier sind auf der untersten, mit Nr. 2 bezeichneten Abtheilung, auf der Ebene des Schrankes, unterhalb der ersten Stufe die Meteorsteine, welche kein gediegenes Eisen enthalten (Nr. 1 bis 12 der Tabelle Nr. 1.) aufgestellt; von da wendet sich die Reihe auf die Rückseite des Glasschrankes, der auf der ersten Stufe (Abtheilung Nr. 3) und in der Abtheilung unterhalb derselben (Abtheilung Nr.4) auf einem ausgedehnten Raume die anderen, weit zahlreicheren Meteorsteine, welche gediegenes Eisen einschliessen (von Nr. 13 bis 69 der Tabelle Nr. 1.) enthält. Die Reihe springt von der Abtheilung Nr. 4 nun wieder auf die Vorderseite des Glasschrankes, wo die erste Stufe, mit Abtheilung Nr.5 bezeichnet, die kleineren Stücke von Meteoreisen trägt; Anfangs die ästigen mit Olivin (von Nr. 70 bis 73), darauf die derben oder formlosen (von Nr. 74 bis 94), womit die Sammlung endet. — AlleStücke liegen auf ovalen, weiss lackirten, mit goldenen Leisten gezierten Untersätzen von verschiedener Grösse und Höhe, auf welchen eine Etiquette den Namen der Localität, das Falljahr, und wenn (wie bei allen Eisenmassen, mit alleiniger Ausnahme der Agramer) die Fallzeit nicht bekannt ist, die Zeit ihrer Auffindung oder Bekanntwerdung angibt. Die bei jeder Localität mit Nr. 1 beginnenden Nummern auf den Untersätzen beziehen sich auf die Beschreibung der Localität, sowohl in dem Kabinetts- als dem vorliegenden gedruckten Cataloge.
+
+## 1\. Meteorsteine.
+
+Nr. 1 bis 69.
+
+### 1\. Alais.
+
+St. Etienne de Lolm und Valence, Dept. du Gard, Frankreich.
+
+15. Mai 1806, 5 Uhr Abends.
+
+Bräunlich schwarze, theils bröckliche und zerreibliche, theils (durch Zerreibung entstandene) pulverige Substanz, hie und da mit weissen Salz-Effloreseirungen (nach Berzelius: Bittersalz mit Nickelvitriol), in welcher selbst mittelst der Loupe weder kugelige Ausscheidungen, noch gediegenes Eisen und Magnetkies (die jedoch den Analysen zufolge in sehr kleiner Menge vorhanden sind), unterschieden werden können.
+
+1\. Grössere und kleinere Bröckchen, mit Pulver vermischt und, bis aufzwei, ohne Rindensubstanz ; von einem der zwei allda gefallenen , und alsbald zerbröckelten Steine, die zusammen 12 Pfund wogen. — Etwas über 3/32 Loth oder 25 1/2 Gran — 1816. 35. 44, und 1838. 27. 2.* — Theils aus der Mineralien-Sammlung des Marquis de Dree in Paris durch den Director der vereinigten k.k. Hof-Naturalien-Kabinette, Carl von Schreibers, in Tausch erhalten, theils von Herrn Gubernialrath Neumann in Prag eingetauscht.
+
+*) Die hier und hei allen anderen Localitäten von Meteoriten befindlichen Zahlen hedeuten das Jahr und die Nummer des Acquisitions-Postens, dann die Nummer des Stückes in dem respectiven Acquisitions - Posten der Kahinetts. Cataloge.
+
+### 2\. Simonod.
+
+Gemeinde Belmont, Arrondissement Belley, Dep, de l’Ain, Frankreich.
+
+13. November 1835, 9 Uhr Abends.
+
+1. Kleine, eckige und scharfkantige Fragmentchen, sammtschwarz, schwach glänzend, von Fettglanz, spröde, schwer zerreiblich, vollkommen homogen ausschend; von einem der zwei allda gefallenen etwa eigrossen Steine, die wohl bald in kleine Fragmente zerfallen sind. — 3/32 Loth und 4 Gran. — 1840. 28. 1. — Von Herrn Marquis de Dree in Paris in Tausch erhalten. Marquis de Dree erhielt die Substanz durch einen Gendarmerie-Beamten des Dep. de l'Ain.
+
+Ob die Fragmentchen von Simonod oder Belley wirklich einer mit Detonation zersprungenen Feuerkugel, die einen wahren, überrindeten Meteorstein zab, angehören, oder Product einer Sternschnuppe sind, istnoch zweifelhaft. Die Nacht des Falles war eine der Sternschnuppen - Nächte. Herr Millet d’Aubenton berichtete Herrn Arago, dass er zu der oben angegebenen Zeit ein Fenermeteor beobachtete, welches in der Gemeinde Belmont zersprang, und zwar über Häusern und Strohdächern, die es entzündete. Derselbe will auch zwei eigrosse Stücke gefunden haben, die ganz die Beschaffenheit eines Adrolithen besassen. — Später hat Herr Millet Stücke davon der Pariser Akademie übersendet, Er schrieh dabei, dass sie im Allgemeinen das Ansehen von Obsidian haben (was ganz richtig ist), dass der Magnet kleine Metallkügelchen davon ausziche, bestehend aus Eisen, Schwefel, Kupfer, Arsenik und vielleicht Silber?! (was wir in unseren Fragmentchen nicht finden konnten). Er glaubte auch Spuren von Nickel und Chrom darin gefunden zu haben, Die eingesendeten Stücke sind von der Pariser Akademie Hrn. Dumas zur Analyse übergeben worden. (Siche Poggendorffs Annalen B. 36. S. 562 und Bd. 37. S. 460.) — Nach einer Mittheilung, die wir Herrn Marquis de Dree verdanken, fand Herr Damour darin Kieselerde, Eisenoxyd, Kupferoxyd, Schwefel, Kohle und Kalk. — Merkwürdig ist das specifische Gewicht dieser Fragmente‚ nähmlich 1,35. (nach einer Wiegung von Herren Rumler) das geringste von allen bekannten Meteorsteinen.
+
+### 3\. Capland.
+
+Bokkeweld bei Tulpagh, 70 englische Meilen von der Capstadt, am Vorgebirge der guten Hoffnung in Afrika.
+
+13. October 1838, 9 Uhr Morgens.
+
+In die schwarze, matte, durch den Strich Glanz erlangende, weiche und milde Grundmasse sind weissliche und grünliche, undeutliche Körner (die wie Flecken aussehen und wenig Körper zu haben scheinen) eingemengt; gediegen Eisen und Schiwvefelkies sind nicht sichtbar. — Ein höchst eigenthümlicher Metcorstein.
+
+Fragment mit etwasRinde; von einem grossen, einzeln gefallenen Steine von einigen Zentnern an Gewicht, der in viele Trümmer zersprang. — 3/8 Loth. — 1842. 36. 1. — Von dem kaiserl. russischen Minister in Hamburg, geheimen Rath von Struve, in Tausch erhalten. Dieser bekam das Fragment von Professor Mayer, der es vom Cap mitbrachte.
+
+### 4\. Chassigny.
+
+### 5\. Juvenas (Juvinas).
+
+### 6\. Stannern.
+
+### 7\. Constantinopel.
+
+### 8\. Jonzac.
+
+### 9\. Bialistock.
+
+### 10\. Lontalax.
+
+### 11\. Nobleborough.
+
+### 12\. Mässing.
+
+...
