@@ -336,5 +336,173 @@ Wien, den 23. Februar 1843.
 
 12\. Mässing, Unter-Donau-Kreis, Niederbaiern.
 
+65\. Eichstädt, Regenkreis, Franken, Baiern.
+
+36\. Politz bei Gera, Fürstenthum Reuss.
+
+26\. Erxleben, Regierungsbezirk Magdeburg, preussische Provinz Sachsen.
+
+55\. Grüneberg, Regierungsbezirk Liegnitz, Provinz Schlesien.
+
+##### Ungarn.
+
+66\. Gross-Divina, Trentschiner-Comitat.
+
+##### Croatien.
+
+39\. Milena, Warasdiner-Comitat.
+
+##### Russland.
+
+35\. Bachmut, Gouv. Ekaterinoslaw.
+
+9\. Bialistock, gleichnamige Provinz.
+
+33\. Charkow, gleichnamiges Gouvernement.
+
+25\. Krasno-Ugol, Gouv. Räsan.
+
+37\. Kuleschofka, Gouv. Poltawa.
+
+57\. Kursk, (Gouv.)
+
+58\. Lixna, Dünaburger Kreis, Gouv. Witepsk.
+
+10\. Lontalax, Finnland.
+
+24\. Poltawa (Gouv.)
+
+27\. Simbirsk (Gouv.)
+
+38\. Slobodka, Gouv. Smolensk.
+
+68\. Timochin, Gouv. Smolensk.
+
+34\. Zaborzika, Gouv. Volhynien.
+
+##### Türkei.
+
+7\. Constantinopel.
+
+62\. Seres, Macedonien.
+
+#### Asien.
+
+61\. Doroninsk, Gouv. Irkutsk, Sibirien.
+
+23\. Benares, Bengalen, Ostindien.
+
+#### Afrika.
+
+3\. Capland (Bokkeveld bei Tulpagh).
+
+#### Amerika.
+
+11\. Nobleborough, Maine, Vereinigte Staaten von Nord-Amerika.
+
+21\. Weston, Connecticut, Vereinigte Staaten von Nord-Amerika.
+
+49\. Nanjemoy, Maryland, Vereinigte Staaten von Nord-Amerika.
+
+20\. Richmond, Virginien, Vereinigte Staaten von Nord-Amerika.
+
+29\. Nashville, Tennessee, Vereinigte Staaten von Nord-Amerika.
+
+40\. Forsyth, Georgien, Vereinigte Staaten von Nord-Amerika.
+
+69\. Macao, Provinz Rio grande do Norte, Brasilien.
+
+#### Australien.
+
+32\. Owahu, eine der Sandwich-Inseln.
+
+### 1\. Meteoreisen.
+
+#### A\. Europa
+
+##### Frankreich.
+
+82\. Caille, Dept. du Var.
+
+##### Deutschland.
+
+76\. Elbogen, Elbogner Kreis, Böhmen.
+
+85\. Bohumilitz, Prachiner Kreis, Böhmen.
+
+73\. Sachsen (Steinbach bei Eibenstock im Erzgebirgischen Kreise oder Grimma ? im Leipziger Kreise).
+
+74\. Bitburg, Regierungsbezirk Trier, Rheinpreussen.
+
+##### Ungarn.
+
+78\. Lenarto, Saroscher Comitat.
+
+##### Croatien.
+
+77\. Agram, Agramer Comitat.
+
+##### Russland.
+
+72\. Brahin, Gouv. Minsk, ehemals Lithauen.
+
+#### B\. Asien.
+
+##### Sibirien.
+
+71\. Krasnojarsk, Gouv. Jeniseisk.
+
+#### C\. Afrika.
+
+90\. Senegambien (am oberen Teil des Senegalstromes).
+
+91\. Cap der guten Hoffnung (zwischen dem Sonntags- und Boschesmannsflusse).
+
+#### D\. Amerika.
+
+94\. Grönland (Baffingsbay)
+
+##### Vereinigte Staaten von Nord-Amerika.
+
+84\. Tennessee. (Cocke-County in Staate Tennessee).
+
+83\. Ashville, Nord-Carolina.
+
+81\. Guilford, Nord-Carolina.
+
+92\. Clairborne, Staat Alabama.
+
+79\. Louisiana oder Texas ? (am Red-River oder rothen Flusse).
+
+##### Vereinigte Mexicanische Bundesstaaten.
+
+80\. Durango, im gleichnamigen Staate.
+
+87\. Zacatecas, im gleichnamigen Staate.
+
+75\. Toulca, (Xiquipilio, im Staate Mexiko).
+
+93\. Oaxaca, (in der Misteca, im Staate Oaxaca).
+
+##### Columbien. (Neu-Granada.)
+
+88\. Rasgata, nordostlich von Santa Fe de Bogota.
+
+##### Bolivia. (ehemals Peru.)
+
+70\. Atacama. (Wüste Atacama, an der Grenze von Chili).
+
+##### Brasilien.
+
+86\. Bahia, am Bache Bemdego bei Monte Santo, Capitanie Bahia.
+
+##### Vereinigte Staaten am Rio de la Plata.
+
+89\. Tucuman. (Otumpa, im Staate Tucuman.)
+
+## Übersicht der Meteoriten im k. k. Mineralien-Kabinette, nach der Zeitfolge ihres Niederfallens.
+
+(Die Nummern beziehen sich auf die Reihenfolge in der Uebersicht Nr. 1, und dienen zur Erleichterung des Aufsuchens im vorliegenden Cataloge.)
+
 ...
 
