@@ -6,4 +6,4 @@ Public Domain Works of Paul Partsch (1791 - 1856)
 English - Plain Text  
 English - PDF  
 [German - Plain Text](Die-Meteoriten/full-text-german.md)  
-[German - PDF]() | [Biolinum]() | [Fraktur]() | [Schwabacher]()  
+[German - PDF] | [Biolinum] | [Fraktur] | [Schwabacher]  
