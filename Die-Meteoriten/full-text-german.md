@@ -504,8 +504,9 @@ Wien, den 23. Februar 1843.
 
 (Die Nummern beziehen sich auf die Reihenfolge in der Uebersicht Nr. 1, und dienen zur Erleichterung des Aufsuchens im vorliegenden Cataloge.)
 
- **&nbsp;** | **Jahr** | **Monat und Tag**                                  | **1\. Meteorsteine\.**    
+ **&nbsp;** | **Jahr** | **Monat und Tag**                                  | **&nbsp;**                
 ------------|----------|----------------------------------------------------|---------------------------
+ &nbsp;     | &nbsp;   | &nbsp;                                             | 1\. Meteorsteine\.        
  15         | 1492     | 7\. November                                       | Ensisheim\.               
  59         | 1753     | 3\. Juli                                           | Tabor\.                   
  17         | 1753     | September                                          | Liponas\.                 
