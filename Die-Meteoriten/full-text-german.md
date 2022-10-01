@@ -623,11 +623,43 @@ In die schwarze, matte, durch den Strich Glanz erlangende, weiche und milde Grun
 
 Fragment mit etwasRinde; von einem grossen, einzeln gefallenen Steine von einigen Zentnern an Gewicht, der in viele Trümmer zersprang. — 3/8 Loth. — 1842. 36. 1. — Von dem kaiserl. russischen Minister in Hamburg, geheimen Rath von Struve, in Tausch erhalten. Dieser bekam das Fragment von Professor Mayer, der es vom Cap mitbrachte.
 
-### 4\. Chassigny.
+### 4\. Chassigny,
+
+unweit Langres, Dep. de la Haute-Marne, Frankreich.
+
+3\. October 1815, 8 Uhr Vormittags.
+
+Lichte, blass gelblichgrüne, ins Graue ziehende Grundmasse, von kleinen, eckig-körnigen Zusammensetzungsstücken, welche Theilbarkeit besitzen und hie und da glänzende Schüppchen zeigen, die man leicht für fein eingemengten Magnetkies anschen könnte, der jedoch, eben so wie das metallische Eisen ganz fehlt; in die Grundmasse sind nur schwarze, sehr feine Pünctchen von Chromeisen, oder Magneteisenstein eingestreut; die Rinde ist dick, matt, glatt und rissig. - Ein durch seine Beschaffenheit ganz isolirt stehender, höchst merkwürdiger Meteorstein.
+
+Zwei Bruchstücke von einem einzeln (?) gefallenen Steine, dessen Bruchstücke zusammen 8 Pfund wogen.
+
+1\. Bruchstück mit etwas Rinde, — 3 3/8 Loth. — 1840. 4. 2. — Aus der Heuland’schen, später Heath’schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Sfammt aus der von IIerrn Heuland angekauften Mineralien-Sammlung des Marquis de Dree in Paris.
+
+2\. Bruchstück mit Rinde und einer anpolirten Fläche. — 2 5/16 Loth. — 1816. 77. 1. — Ein Geschenk des verstorbenen Lucas Sohn, Garde adjoint am naturhistorischen Muscum zu Paris.
 
 ### 5\. Juvenas (Juvinas).
 
+(Libonez), Dep. de l'Ardeche, Languadoc, Frankreich.
+
+15\. Juni 1821, zwischen 3 und 4 Uhr Nachmittags.
+
+Aschgraue, deutlich aus zwei Gemengtheilen, einem weissen, zuweilen gelblichen, und einem schmutzig dunkelgrünen, welche in krystallinischen, eckigen Körnern und Blättchen erscheinen, zusammengesetzte Grundmasse; hie und da mit kleinen Höhlungen, in welchen diese zwei Gemengtheile (Labrador ? und Augit) in kleinen, undeutlichen Krystallen erscheinen; an einigen Stellen sind die Gemengtheile von etwas gröberem Korne und in runden oder länglichen Partien ausgeschieden, was Jedoch nur auf polirten Flächen ganz deutlich ist. Wenig und höchst fein eingesprengter Maguetkies. Glänzende, aderige Rinde, hie und da mit braunen Tröpfchen.
+
+Ein grosses und drei kleine Bruchstücke, von einem grossen Steine von 220 Pfund, wovon das Pariser Museum noch ein Stück von 84 Pfund verwahrt. (Es fielen nebsidem noch einige kleinere Steine, deren Gewicht nicht bekannt ist.)
+
+1\. Ein grosses Bruchstück mit einem kleinen Flecken Rinde — 28 1/2 Loth. — 1822. 55. 1.— Von Herrn Leman in Paris gekauft.
+
+2\. Bruchstück mit anpolirter Fläche, ohne Rinde — 495 Loth. — 1822. 56. 1. — Ebenfalls von Herrn Leman gekauft.
+
+3\. Bruchstück mit Rinde, woran kleine Tröpfchen sich zeigen. — 2 25/32 Loth. — 1822. 55. 2. — Von Herrn Leman gekauft.
+
+4\. Bruchstück mit einer anpolirten Fläche (worauf die erwähnten kugeligen und länglichen, grobkörnigen Ausscheidungen zu schen sind) und ziemlich viel Rinde. — 2 3/32 Loth. — 1823. 59. 1. — Von Herrn Leman gekauft.
+
 ### 6\. Stannern.
+
+Iglauer Kreis, Mähren.
+
+22\. Mai 1808, gegen 6 Uhr Morgens.
 
 ### 7\. Constantinopel.
 
