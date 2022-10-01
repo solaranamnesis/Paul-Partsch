@@ -599,7 +599,7 @@ St. Etienne de Lolm und Valence, Dept. du Gard, Frankreich.
 
 Bräunlich schwarze, theils bröckliche und zerreibliche, theils (durch Zerreibung entstandene) pulverige Substanz, hie und da mit weissen Salz-Effloreseirungen (nach Berzelius: Bittersalz mit Nickelvitriol), in welcher selbst mittelst der Loupe weder kugelige Ausscheidungen, noch gediegenes Eisen und Magnetkies (die jedoch den Analysen zufolge in sehr kleiner Menge vorhanden sind), unterschieden werden können.
 
-1\. Grössere und kleinere Bröckchen, mit Pulver vermischt und, bis aufzwei, ohne Rindensubstanz ; von einem der zwei allda gefallenen, und alsbald zerbröckelten Steine, die zusammen 12 Pfund wogen. — Etwas über 3/32 Loth oder 25 1/2 Gran — 1816. 35. 44, und 1838. 27. 2.* — Teils aus der Mineralien-Sammlung des Marquis de Dree in Paris durch den Director der vereinigten k.k. Hof-Naturalien-Kabinette, Carl von Schreibers, in Tausch erhalten, theils von Herrn Gubernialrath Neumann in Prag eingetauscht.
+1\. Grössere und kleinere Bröckchen, mit Pulver vermischt und, bis aufzwei, ohne Rindensubstanz; von einem der zwei allda gefallenen, und alsbald zerbröckelten Steine, die zusammen 12 Pfund wogen. — Etwas über 3/32 Loth oder 25 1/2 Gran — 1816. 35. 44, und 1838. 27. 2.* — Teils aus der Mineralien-Sammlung des Marquis de Dree in Paris durch den Director der vereinigten k.k. Hof-Naturalien-Kabinette, Carl von Schreibers, in Tausch erhalten, theils von Herrn Gubernialrath Neumann in Prag eingetauscht.
 
 *) Die hier und hei allen anderen Localitäten von Meteoriten befindlichen Zahlen hedeuten das Jahr und die Nummer des Acquisitions-Postens, dann die Nummer des Stückes in dem respectiven Acquisitions - Posten der Kahinetts. Cataloge.
 
