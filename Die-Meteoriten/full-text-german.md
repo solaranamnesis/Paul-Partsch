@@ -504,5 +504,83 @@ Wien, den 23. Februar 1843.
 
 (Die Nummern beziehen sich auf die Reihenfolge in der Uebersicht Nr. 1, und dienen zur Erleichterung des Aufsuchens im vorliegenden Cataloge.)
 
+ **&nbsp;** | **Jahr**                 | **Monat und Tag**                                  | **1\. Meteorsteine\.**    
+------------|--------------------------|----------------------------------------------------|---------------------------
+ 15         | 1492                     | 7\. November                                       | Ensisheim\.               
+ 59         | 1753                     | 3\. Juli                                           | Tabor\.                   
+ 17         | 1753                     | September                                          | Liponas\.                 
+ 30         | 1768                     | 13\. September                                     | Luce\.                    
+ 28         | 1768                     | 20\. November                                      | Mauerkirchen\.            
+ 63         | 1773                     | 17\. November                                      | Sigena\.                  
+ 65         | 1785                     | 19\. Februar                                       | Eichstadt\.               
+ 33         | 1787                     | 1\. October                                        | Charkow\.                 
+ 64         | 1790                     | 24\. Juli                                          | Barbotan\.                
+ 14         | 1794                     | 16\. Juni                                          | Siena\.                   
+ 41         | 1795                     | 13\. December                                      | Yorkshire\.               
+ 47         | 1798                     | 8\. oder 12\. Marz                                 | Sales\.                   
+ 23         | 1798                     | 13\. December                                      | Benares\.                 
+ 16         | 1803                     | 6\. April                                          | L’Aigle                   
+ 44         | 1803                     | 8\. October                                        | Apt\.                     
+ 12         | 1803                     | 13\. December                                      | Massing                   
+ 42         | 1804                     | 5\. April                                          | Glasgow                   
+ 61         | 1805                     | 25\. Marz                                          | Doroninsk                 
+ 7          | 1805                     | Juni                                               | Constantinopel            
+ 50         | 1805                     | November                                           | Asco\.                    
+ 1          | 1806                     | 15\. Marz                                          | Alais\.                   
+ 68         | 1807                     | 13\. Marz                                          | Timochin\.                
+ 21         | 1807                     | 14\. December                                      | Weston\.                  
+ 13         | 1808                     | 19\. April                                         | Parma\.                   
+ 6          | 1808                     | 22\. Mai                                           | Stannern\.                
+ 31         | 1808                     | 3\. September                                      | Lissa\.                   
+ 56         | 1810                     | August                                             | Tipperary\.               
+ 60         | 1810                     | 23\. November                                      | Charsonville\.            
+ 37         | 1811                     | zwischen d\. 12\. u\. 13\. Marz um Mitternacht     | Kuleschofka\.             
+ 43         | 1811                     | 8\. Juli                                           | Berlanguillas\.           
+ 51         | 1812                     | 12\. April                                         | Toulouse\.                
+ 26         | 1812                     | 15\. April                                         | Erxleben\.                
+ 18         | 1812                     | 5\. August                                         | Chantonnay\.              
+ 54         | 1813                     | 10\. September                                     | Limerik\.                 
+ 10         | 1813                     | 13\. December                                      | Lontalax\.                
+ 35         | 1814                     | 3\. Februar                                        | Bachmut\.                 
+ 48         | 1814                     | 5\. September                                      | Agen\.                    
+ 4          | 1815                     | 3\. October                                        | Chassigny\.               
+ 34         | 1818                     | 30\. Marz                                          | Zaborzika\.               
+ 62         | 1818                     | Juni                                               | Seres\.                   
+ 38         | 1818                     | 10\. August                                        | Slobodka\.                
+ 8          | 1819                     | 13\. Juni                                          | Jonzac\.                  
+ 36         | 1819                     | 13\. October                                       | Poliz\.                   
+ 58         | 1820                     | 12\. Juli                                          | Lixna\.                   
+ 5          | 1821                     | 15\. Juni                                          | Juvenas\.                 
+ 22         | 1822                     | 13\. September                                     | La Baffe\.                
+ 11         | 1823                     | 7\. August                                         | Nobleborough\.            
+ 19         | 1824                     | 15\. Januar                                        | Renazzo\.                 
+ 67         | 1824                     | 14\. October                                       | Zebrak\.                  
+ 49         | 1825                     | 10\. Februar                                       | Nanjemoy\.                
+ 32         | 1825                     | 14\. September                                     | Owahu\.                   
+ 29         | 1827                     | 9\. Mai                                            | Nashville\.               
+ 9          | 1827                     | 5\. oder 6\. October                               | Bialistock\.              
+ 20         | 1828                     | 4\. Juni                                           | Richmond\.                
+ 40         | 1829                     | 8\. Mai                                            | Forsyth\.                 
+ 25         | 1829                     | 9\. September                                      | Krasno\-Ugol\.            
+ 45         | 1831                     | 18\. Juli \(nach anderen Angaben 13\. Mai\)        | Vouille\.                 
+ 53         | 1831                     | 9\. September                                      | Wessely\.                 
+ 52         | 1833                     | 25\. November                                      | Blansko\.                 
+ 2          | 1835                     | 13\. November                                      | Simonod\.                 
+ 69         | 1836                     | 11\. November \(nach anderen Angaben 11\. December | Macao\.                   
+ 66         | 1837                     | 24\. Juli                                          | Gross\-Divina\.           
+ 3          | 1838                     | 13\. October                                       | Capland\.                 
+ 55         | 1841                     | 22\. Marz                                          | Gruneberg\.               
+ 46         | 1841                     | 12\. Juni                                          | Chateau\-Renard\.         
+ 39         | 1842                     | 26\. April                                         | Milena\.                  
+ 24         | Die Fallzeit unbekannt\. |                                                    | Gouv\. Poltawa\.          
+ 57         | Die Fallzeit unbekannt\. |                                                    | Gouv\. Kursk\.            
+ 27         | Die Fallzeit unbekannt\. |                                                    | Gouv\. Simbirsk\.         
+ &nbsp;     | &nbsp;                   | &nbsp;                                             | 2\. Meteoreisen\.         
+ 77         | 1751                     | 26\. Mai                                           | Agram\.                   
+ 70 bis 76  | Die Fallzeit unbekannt\. |                                                    | Alle andern Eisenmassen\. 
+ 76         | Die Fallzeit unbekannt\. |                                                    | Alle andern Eisenmassen\. 
+ 78 bis 94  | Die Fallzeit unbekannt\. |                                                    | Alle andern Eisenmassen\. 
+ 94         | Die Fallzeit unbekannt\. |                                                    | Alle andern Eisenmassen\. 
+
 ...
 
