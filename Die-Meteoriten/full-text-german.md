@@ -589,13 +589,13 @@ Die Meteoriten-Sammlung des k.k. Mineralien-Kabinettes ist in einem langen pultf
 
 ## 1\. Meteorsteine.
 
-Nr. 1 bis 69.
+Nr\. 1 bis 69.
 
 ### 1\. Alais.
 
 St. Etienne de Lolm und Valence, Dept. du Gard, Frankreich.
 
-15. Mai 1806, 5 Uhr Abends.
+15\. Mai 1806, 5 Uhr Abends.
 
 Bräunlich schwarze, theils bröckliche und zerreibliche, theils (durch Zerreibung entstandene) pulverige Substanz, hie und da mit weissen Salz-Effloreseirungen (nach Berzelius: Bittersalz mit Nickelvitriol), in welcher selbst mittelst der Loupe weder kugelige Ausscheidungen, noch gediegenes Eisen und Magnetkies (die jedoch den Analysen zufolge in sehr kleiner Menge vorhanden sind), unterschieden werden können.
 
@@ -607,7 +607,7 @@ Bräunlich schwarze, theils bröckliche und zerreibliche, theils (durch Zerreibu
 
 Gemeinde Belmont, Arrondissement Belley, Dep, de l’Ain, Frankreich.
 
-13. November 1835, 9 Uhr Abends.
+13\. November 1835, 9 Uhr Abends.
 
 1. Kleine, eckige und scharfkantige Fragmentchen, sammtschwarz, schwach glänzend, von Fettglanz, spröde, schwer zerreiblich, vollkommen homogen ausschend; von einem der zwei allda gefallenen etwa eigrossen Steine, die wohl bald in kleine Fragmente zerfallen sind. — 3/32 Loth und 4 Gran. — 1840. 28. 1. — Von Herrn Marquis de Dree in Paris in Tausch erhalten. Marquis de Dree erhielt die Substanz durch einen Gendarmerie-Beamten des Dep. de l'Ain.
 
@@ -617,7 +617,7 @@ Ob die Fragmentchen von Simonod oder Belley wirklich einer mit Detonation zerspr
 
 Bokkeweld bei Tulpagh, 70 englische Meilen von der Capstadt, am Vorgebirge der guten Hoffnung in Afrika.
 
-13. October 1838, 9 Uhr Morgens.
+13\. October 1838, 9 Uhr Morgens.
 
 In die schwarze, matte, durch den Strich Glanz erlangende, weiche und milde Grundmasse sind weissliche und grünliche, undeutliche Körner (die wie Flecken aussehen und wenig Körper zu haben scheinen) eingemengt; gediegen Eisen und Schiwvefelkies sind nicht sichtbar. — Ein höchst eigenthümlicher Metcorstein.
 
