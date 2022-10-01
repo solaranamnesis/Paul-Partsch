@@ -504,7 +504,7 @@ Wien, den 23. Februar 1843.
 
 (Die Nummern beziehen sich auf die Reihenfolge in der Uebersicht Nr. 1, und dienen zur Erleichterung des Aufsuchens im vorliegenden Cataloge.)
 
-  | **Jahr** | **Monat und Tag**                                  | **1\. Meteorsteine\.**    
+ **&nbsp;** | **Jahr** | **Monat und Tag**                                  | **1\. Meteorsteine\.**    
 ------------|----------|----------------------------------------------------|---------------------------
  15         | 1492     | 7\. November                                       | Ensisheim\.               
  59         | 1753     | 3\. Juli                                           | Tabor\.                   
@@ -572,15 +572,15 @@ Wien, den 23. Februar 1843.
  55         | 1841     | 22\. Marz                                          | Gruneberg\.               
  46         | 1841     | 12\. Juni                                          | Chateau\-Renard\.         
  39         | 1842     | 26\. April                                         | Milena\.                  
- 24         |    | Die Fallzeit unbekannt\.                           | Gouv\. Poltawa\.          
- 57         |    | Die Fallzeit unbekannt\.                           | Gouv\. Kursk\.            
- 27         |    | Die Fallzeit unbekannt\.                           | Gouv\. Simbirsk\.         
-      |    |                                              | 2\. Meteoreisen\.         
+ 24         | &nbsp;   | Die Fallzeit unbekannt\.                           | Gouv\. Poltawa\.          
+ 57         | &nbsp;   | Die Fallzeit unbekannt\.                           | Gouv\. Kursk\.            
+ 27         | &nbsp;   | Die Fallzeit unbekannt\.                           | Gouv\. Simbirsk\.         
+ &nbsp;     | &nbsp;   | &nbsp;                                             | 2\. Meteoreisen\.         
  77         | 1751     | 26\. Mai                                           | Agram\.                   
- 70 bis 76  |    | Die Fallzeit unbekannt\.                           | Alle andern Eisenmassen\. 
- 76         |    | Die Fallzeit unbekannt\.                           | Alle andern Eisenmassen\. 
- 78 bis 94  |    | Die Fallzeit unbekannt\.                           | Alle andern Eisenmassen\. 
- 94         |    | Die Fallzeit unbekannt\.                           | Alle andern Eisenmassen\. 
+ 70 bis 76  | &nbsp;   | Die Fallzeit unbekannt\.                           | Alle andern Eisenmassen\. 
+ 76         | &nbsp;   | Die Fallzeit unbekannt\.                           | Alle andern Eisenmassen\. 
+ 78 bis 94  | &nbsp;   | Die Fallzeit unbekannt\.                           | Alle andern Eisenmassen\. 
+ 94         | &nbsp;   | Die Fallzeit unbekannt\.                           | Alle andern Eisenmassen\. 
 
 ...
 
