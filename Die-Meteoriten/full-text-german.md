@@ -661,6 +661,83 @@ Iglauer Kreis, Mähren.
 
 22\. Mai 1808, gegen 6 Uhr Morgens.
 
+Die lockere, etwas poröse Grundmasse ist von zweierlei Beschaffenheit; entweder (und diess ist meist der Fall) deutlich aus zwei Substanzen, einer weissen und einer grünlich schwarzen, bald ziemlich grob-, bald fein- und schr feinkörnig gemengt; oder, wenn das Gemenge ganz innig ist, ganz einfach erscheinende Grundmasse; letztere überhaupt seltener, und ganze, wenn auch meist kleine Steine constituirend. Die verschiedenen Grade des grob- oder feinkörnigen, aber doch noch unterscheidbaren Gemengtseyns sind meist in einem und demselben Steine vorhanden, und verursachen ein fleckiges Ausschen. Einzelne schwärzliche, meist längliche Körner, zuweilen auch unvollkommen kugelige schwarze Ausscheidungen, von einer anderen Art des Gemengtseyns herrührend, geben dem Steine zuweilen ein porphyr- oder breccienartiges Ansehen. Schwarze, die Masse durchziehende Gänge oder Adern sind höchst selten. Schwefelkies ist ziemlich sparsam, meist fein, zuweilen aber auch in einzelnen bohnengrossen Körnern eingemengt; metallisches Eisen fehlt. Die Rinde ist aderig, oft rissig; mehr oder weniger, aber stets glänzend (wenn nicht durch längeres Liegen in der Erde Verwitterung eintrat), zuweilen wie gefirnisst; auch sind verschiedenartige und unvollkommene Ueberrindungen nicht selten.
+
+Vier und dreissig Stücke, theils ganze Steine, theils grössere oder kleinere Fragmeute, in einem Gesammtgewichte von 27 Pfund, 22 5/32, laothı, von den vielen (etwa 200 bis 300) der allda gefallenen Steine.
+
+Die folgende Reihe von ganzen Steinen und Bruchstücken der Meteorsteine von Stannern ist die grösste und vollständigste, die je von einem Steinfall zusammengebracht worden ist, und stellt die interessantesten Verhältnisse dieser Steine hinsichtlich ihrer Gestalt, ihrer Ueherrindung, der Mengung der Grundmasse u. s. w. dar. Sie ist, mit Ausnahme einizer Stücke, das Resultat der Bemühungen der Herren von Schreibers und von Widmarnstätten, die unmittelbar nach dem Ereigniss als kaiserl, Commissäre zur Untersuchung desselben nach Stannern abgeordnet wurden, Der von dem ersteren darüber in Gilberts Annalen der Physik, B. 29, vom Jahre 1808, erstattete Bericht ist das Vullständisste, das Je über einen Meteorstein-Niederfall bekannt gemacht worden ist, und hat, nebst Biots Bericht über den Steinregen von L’Aigle am meisten zur Beobachtung und Bekanntwerdung späterhin vorgefallener Niederfälle, auf die nun mehr Aufmerksamkeit gerichtet wurde, beigetragen.
+
+A. Ganze und fast ganze Steine, oder doch in dem Zustande, wie sie auf die Erde kamen.
+
+1\. Der grösste bekannte von den bei Stannern gefallenen und nicht zertrümmerten Steinen, wahrscheinlich überhaupt der grösste aller da gefallenen. — Beschrieben undabgebildet in des Directors v. Schreibers Beiträgen zur Geschichte und Kenntniss meteorischer Stein- und Metallmassen, Seite 20, Taf. 4. — 11 Pfund 10 3/4 Loth. — 1809. 8. 1. — Von Herrn Professor Mikan in Prag gekauft. Wurde von Herrn Apotheker Heller in Iglau in einem desshalb abgelassenen Teiche aufgefunden.
+
+2\. Einer der grössten von den beiStanuern gefallenen Steinen; besonders frisch, schön überrindet, auch merkwürdig wegen verschiedenartiger Beschaffenheit der Rinde. — Beschrieben und abgebildet in v. Schreibers Beiträgen, S. 27, Taf. 5. Fig. 5. — 3 Pfund 21 Loth. — 1808. 24. 1. — Wurde während des Aufenthaltes der Untersuchungs-Commission zu Stannern, im Monathe Mai 1808, bei angeordneter Aufsuchung der gefallenen Steine aufgefunden.
+
+3\. Einer von den grossen Steinen von Stannern; höchst ausgezeichnet und vortrefflich erhalten; merkwürdig wegen seiner keilförmigen Gestalt und der Beschaffenheit der Rinde. — Beschrieben und abgebildet in v. Schreiber’s Beiträgen, Seite 30, Taf. 6. Fig. 1. — 2 Pfund 12 1/2 Loth. — 1808. 24, 2. — Wie bei 2) erwähnt, während des Aufenthaltes der Commission aufgefunden.
+
+4\. Ebenfalls einer von den grösseren Steinen; wegen der strahlenförmigen Ueberrindung der Grundfläche merkwürdig. — Beschrieben und abgebildet im angeführten Werke, Seite 32, Taf. 6. Fig. 2. — 1 Pfund 11 3/4 Loth: — 1808. 24. 3. — Ebenfalls in Folge der gemachten Aufforderung während der Anwesenheit der Commission zu Stannern aufgefunden.
+
+5\. Noch einer der grösseren Steine; sehr lehrreich wegen einer unvollkommen überrindeten Fläche, aus welcher die Grundmasse durchblickt. — Beschrieben und abgebildet im angeführten Werke, Seite 33, Taf. 6. Fig. 3. — 1 Pfund 6 7/8 Loth. — 1808. 24. 4. — Aufgefunden wie Nr. 2-4.
+
+6\. Ein mittelgrosser Stein, anscheinend ein Bruchstück, oder die Hälfte eines Steines, aber im Herabfallen zerbrochen; die natürliche Bruchfläche theilweise verändert (etwas braun gefärbt und mit einzelnen kleinen Rindetröpfchen besetzt), also in dem Zustande wie er auf die Erde kam. Ein sehr belehrendes Stück. — Beschrieben und abgebildet im angeführten Werke, S. 36, Taf. VI. Fig. 4. — 1 Pfund 7/8 Loth. — 1808. 24. 5. — Wurde am Tage des Ereignisses aufgefunden und später der Commission übergeben.
+
+7\. Ganzer, mittelgrosser Stein, mit stark glänzender Rinde, an einigen Stellen etwas entblösst. — 1 Pfd. 1/4 Loth. — 1808. 24. 6. — Durch die Commission überbracht.
+
+8\. Ein mittelgrosser ganzer Stein, wenig verletzt, einige Kanten mit hervorragenden, scharfen Linien von Rindensubstanz. - 23 3/16 Loth. — 1809. 4. 2. — Von Herrn von Well gekauft.
+
+9\. Mittelgrosser ganzer Stein. An einer Stelle ist ein Stückchen weggeschnitten und die Fläche anpolirt. — 19 7/8 Loth. — 1827. 27. 4048. — Aus der im Jahre 1827 angekauften von der Nüll’schen Mineralien-Sammlung.
+
+10\. Mittelgrosser ganzer Stein (oder doch in dem Zustande, wie er herab kam), nur mit einer kleinen frischen Bruchfläche, dann einer grösseren Fläche, die während des Herabfallens entstand, braun gefärbt und mit hervorgequollenen Tröpfchen von Rindensubstanz übersäet ist. Iichrreiches, sehr interessantes Stück. — 15 Loth. — 1809. 4. 4. — Von Herrn von \WVell gekauft.
+
+11\. Ein kleiner Stein, fast ganz, nur an dem einen Ende, wahrscheinlich beim Fallen abgebrochen, von zungenförmiger Gestalt; von der Rinde glänzt, wahrscheinlich in Folge von Verwitterung während derselbe in der Erde lag, nur das hervorragende Aderngeflechte. — 10 7/8 Loth. — 1809. 7. 1. — Von Herrn Sonsluk gekauft.
+
+12\. Ein kleiner Stein, wenig verletzt, unvollkommen prismatisch. — 10 1/2 Loth. — 1809. 4. 1. — Von Herrn von Well gekauft.
+
+13\. Ein kleiner, vollkommen ganzer, nicht im geringsten verletzter Stein; verschoben viereckig, — 6 1/2 Taoth. — 1827. 27. 4045. — Aus der von der Nüllschen Mineralien - Sammlung.
+
+14\. Ein kleiner, ganzer, fast prismatischer Stein, mit einer im Falle entstandenen, mehr oder weniger, meist jedoch sehr unvollkommen überrindeten Bruchfläche; ausgezeichnet starke Ueberrindung der Bruchkanten. — 6 1/2 Loth. — 1827. 27. 4046. — Aus der von der Nüllschen Mineralien-Sammlung.
+
+15\. Kleiner Stein, vollkommen ganz (nur eine etwas gekrümmte Ecke ist abgebrochen und schwach angeklebt), die Form dreiseitigpyramidal; die Rinde schwach glänzend. — Beschrieben und abgebildet im angeführten Werke, Seite 23, Tafel 5. Fig. 1. — 5 7/10 Loth. — 1808. 24. 7. — Wie bei Nr. 2. bemerkt aufgefunden, und durch die Commission überbracht.
+
+16a\. Ganzer, sehr merkwürdiger Stein, von einer Scite zugerundet, von der anderen kantig; auch von verschiedener Beschaffenheit der Rinde, welche, wo sie dicker ist, an den Kanten llervorragungen bildet, die beim Kestwerden der Rinde durch den Widerstand der Luft beim Herabfallen, und durch Verschiebungen an der damahls zähflüssigen Oberfläche entstanden seyn müssen. — 4 13/16 Lth. — 1840. 4. 5. — Von Herrn Pötschke gekauft. 
+16b\. Kleiner, ganzer Stein, nur eine Ecke etwas abgestossen, und die Spitze theilweis abgeschlagen; von vierseitig pyramidaler Form mit schiefer Grundfläche; zwei Seiten dick überrindet, stark glänzend, ziemlich glatt, die anderen matter undaderiger. — Beschrieben und abgebildet im angeführten Werke, S. 24, Taf. 5. Fig. 2 a et b. — 4 1/2 Loth. — 1808. 24. 8. — Durch die bei Nr. 2 erwähnte Commission überbracht.
+
+17\. Kleiner, ganzer, an einer Kante der Länge nach entblösster Stein, von ungewöhnlicher Form, wie ein flaches Geschiebe. — 4 7/16 Loth. — 1832. 17. 1. — Von dem k. k. Kämmerer, Grafen Eugen von Czernin, eingetauscht.
+
+18\. Kleiner, unregelmässiger Stein, an einer Kante der Länge nach angebrochen, wodurch eine feinkörnige, fast homogen erscheinende, blaulichgraue Grundmasse, mit ein Paar schr feinen schwarzen Adern zum Vorschein kam; ziemlich stark glänzende Rinde, mit scharfen Erhöhungen. Der ungewöhnlichen Grundmasse wegen merkwürdig. — 4 3/16 Loth. — 1808. 24. 9. — Durch die bei Nr. 2 erwähnte Commission überbracht.
+
+19\. Schr kleiner, ganzer, nur an einer Kante etwas angebrochener Stein, einer der kleinsten von diesem Steinfalle. — Beschrieben und abgebildet im angeführten Werke, S. 25, Taf. 5. Fig. 3. — Kaum 5/8 Loth. — 1808. 25. 1. — Durch das Kreisamt zu Iglau eingesendet.
+
+20\. Ein schr kleiner, und, so viel bekannt, der kleinste, der bei Stannern gefallenen.Steine, vollkommen ganz, flach, fast linsenförmig. — Beschrieben und abgebildet im angeführten Werke, S. 27, Taf. 5. Fig. 4. — 7/32 Loth. — 1808. 25. 2. — Durch das Kreisamt zu Iglau eingesendet.
+
+B\. Bruchstücke.
+
+21\. Grösseres Bruchstück mit Rinde, merkwürdig wegen der deutlichen Ausscheidungen von Magnetkies, wovon eine erbsengross ist. — Beschrieben und theilweise abgebildet in dem angeführten Werke, Seite 69, Taf. 7., untere Reihe, Mittel-Figur. — 13 7/16 Loth. — 1808. 24. 10. — Durch die bei Nr. 2 erwähnte Commission überbracht.
+
+22\. Grösseres Bruchstück mit Rinde und einer unvollkommen überrindeten Bruchfläche; die Grundmasse theils grob-, theils feinkörnig, grau. — 11 1/16 Lth. — 1809. 4. 3. — Von Herrn von Well gekauft.
+
+23\. Fast rundes Bruchstück, mit ganz frischen Bruchflächen und etwas Rinde; die Gemengtheile von dem gewöhnlichen mittelfeinen Korne, und vorzüglich auf einer der Flächen sehr deutlich erkennbar; auch Magnetkies ist deutlich, aber sparsam eingesprengt. — 7 9/16 Loth. — 1827. 27. 4049. — Aus der von der Nüllschen Mineralien-Sammlung.
+
+24\. Längliches Bruchstück, mit etwas Rinde und einer anpolirten Fläche; merkwürdig wegen der Rinde, die theils glänzend, theils durch Verwitterung matt, und mit Tropfen und Perlen von Rindensubstanz besetzt ist. Ein Theil der Rinde ist auch, was höchst selten vorkommt, buntfärbig angelaufen. Die polirte Kläche zeigt Ausscheidungen des schwärzlichen Bestandtheiles, daher eine unvollkommen porphyrartige Structur. — 6 1/2 Lth. — 1808. 24. 11. — Durch die bei Nr. 2 erwähnte Commission überbracht.
+
+25\. Bruchstück, allerseits mit schr frischen Bruchflächen, ohne Rinde; das Gemenge ist ziemlich feinkörnig und an einigen Stellen von dunklerem Grau; der Magnetkies ist darin nicht zu unterscheiden. — 6 5/16 Lth. — 1809. 24. 12. — Durch die bei Nr. 2 erwähnte Commission überbracht.
+
+26\. Längliches Bruchstück, mit ziemlich viel Rinde. Man sicht beinahe noch die ganze Contur des ursprünglichen Steines. Das Stück ist desshalb merkwürdig, weil an den oberen Bruchflächen Spuren von neuer Rindenbildung sichtbar sind, und der Magnetkies daselbst bunt angelaufen ist. — 4 5/16 Loth. — 1808. 24. 13. — Durch die bei Nr. 2 erwähnte Commission überbracht.
+
+27\. Viereckiges Bruchstück, mit abgenützter Bruchfläche und mit Rinde; in der Grundmasse sind dunkelgraue, dichte Ausscheidungen vorhanden. — Beschrieben und (nicht gut) abgebildet in dem angeführten Werke. S. 59, Taf. 7. 1 Fig, der oberen Reihe. — 3 11/16 Loth. — 1808. 24. 14. — Durch die bei Nr. 2 erwähnte Commission überbracht.
+
+28\. Kleines Bruchstück mit poröser Rinde, von welcher ein Theil schuppig abgesprungen ist, und eine zweite matte undrauheRindenlage zumV'orscheine brachte, Merkwürdig ist dieses Fragment noch durch die Erscheinung, dass, wahrscheinlich auf einer während des Falles entstandenen Kluft, Rindensubstanz in das Innere des Steines einzudringen begann, und nun, innerhalb des Randes, derBruchfläche aufsitzt. — Beschrieben und abgebildet im angeführten Werke, S. 38, Taf. 6. Fig. 5. — 3 1/4 Loth. — 1808. 24. 15. — Durch die bei Nr. 2 erwähnte Commissisn überbracht.
+
+29\. Kleines Bruchstück mit Rinde und einer anpolirten Fläche von marmorirtem Ansehen, welche, wie die ganze Masse des Stückes (eine Seltenheit bei den Steinen von Stan nern), ein Paar dünne schwarze Adern durchziehen. — 3 1/8 Loth. — 1808. 24. 16. — Durch die bei Nr. 2 erwähnten Commission überbracht.
+
+30\. Kleines Bruchstück mit Rinde, von welcher die obere, glänzende Lage theilweise abgesprungen ist. Die Grundmasse ist dicht, dunkelgrau, hie und da sind undeutliche, kugeliche Ausscheidungen von derselben Substanz wahrnehmbar. — 2 1/2 Loth. — 1808. 24. 17. — Durch die bei Nr. 2 erwähnte Commission überbracht.
+
+31\. Kleines Bruchstück mit Rinde. Die Grundmasse feinkörnig, von einer dünnen, schwarzen Ader durchzogen. — 1 5/32 Loth. — 1808. 24. 20. — Durch die bei Nr. 2 erwähnte Commission überbracht.
+
+32\. Kleines Bruchstück mit Rinde; die zwei erdigen Gemengtheile an ein Paar Stellen mit deutlicher Theilbarkeit. — 1 3/32 Loth. — 1808. 24. 19. — Durch die bei Nr. 2 erwähnte Commision überbracht.
+
+33\. Acht kleine Fragmente zum Studium der Rinde und der Grundmasse. — 1 1/2 Loth. — 1808. 24. 20. — Aus dem durch die Commission überbrachten Doubletten-Vorrathe.
+
 ### 7\. Constantinopel.
 
 ### 8\. Jonzac.
