@@ -740,14 +740,175 @@ B\. Bruchstücke.
 
 ### 7\. Constantinopel.
 
+Auf dem Fleischplatze, im Inneren dieser Stadt.
+
+Juni 1805, an heltem Tage.
+
+Graue, durch innige Mengung der zwei erdigen Gemengtheile homogen erscheinende Grundmasse, ganz wie bei der zweiten, selteneren Varietät der Steine von Stannern; schwach glänzende Rinde.
+
+1\. Kragment mit etwas Rinde, von einer dünnen schwarzen Ader durchzogen; von einem der mehreren allda gefallenen Steine. — 7/16 Loth. — 1832. 28. 1. — Wurde vor mehreren Jahren (zwischen 1818-1820) durch Herrn Leopold Fitzingers Vermittlung von Freiherrn Nell von Nellenburg, jetzt Hofrat der k. k. Hofkammer in Wien, der den Stein durch den verstorbenen Sohn des damahligen k. k. Internuntius in Constantinopel, Baron von Stürmer, bekam, als Geschenk erhalten.
+
+Wir haben uns in Constantinopel durch Reisende wiederhohlt, aber immer erfolglos bemüht, uns von diesem, mitten in einer grossen Stadt erfolgten Meteorstein-Fall, der allda nun schon ganz vergessen ist, weitere Musterstücke za verschaffen.
+
 ### 8\. Jonzac.
+
+(Barbezieux) Dep. de la basse Charente, Frankreich.
+
+13\. Juni 1819, 6 Uhr Morgens.
+
+Lichtaschgraue Grundmasse, aus zwei ziemlich gleichförmig gemengten Substanzen, einer weissen und einer schwärzlich grauen, bestehend; die letztere fast vorherrschend und in eckigen Kryställchen oder rundlichen Körnern erscheinend. Sehr wenig und höchst fein eingemengter Magnetkies. Glänzende, aderige Rinde. — Ein der ersten, gewöhnlichen Varietät der Meteorsteine von Stannern ähnlicher Meteorit.
+
+Ein fast ganzer Stein und Ein Bruchstück von den mehreren allda gefallenen Steinen, deren Anzahl und Gesammigewicht nicht bekannt geworden ist.
+
+1\. Ein fast ganzer Stein; eine Ecke abgeschnitten, die Schnittfläche unvollkommen polirt; ausserdem auch noch andere kleine Entblössungen des Innern. — 31 11/16 Loth. — 1829. 34. 1. — Aus der Verlassenschaft des Herrn Leman in Paris, durch Professor Desmarest eingetauscht.
+
+2\. Fragment mit Rinde und ganz frischem Bruche. — 4 1/4 Loth. — 1840. 4. 3. — Aus der Heuland'schen, später Heatl'schen Meteoriten - Sammlung durch Herrn Pötschke gekauft. Stammt aus der de Dree'schen Mineralien-Sammlung.
 
 ### 9\. Bialistock.
 
+(Belostock), Dorf Knasti-Knasti, im gleichnahmigen Gouv., Russland.
+
+5\. October alten Styls, 1827, zwischen 9 und 10 Uhr Morgens.
+
+Lichtaschgraue, wenig zusammenhängende, nicht schwer zerreibliche Grundmasse, aus einem schneeweissen, einem graulich schwarzen und einem schmutzig spargelgrünen Mincrale gemengt; die letzteren, nähmlich das schwarze und grüne Mineral, treten auch in grösseren eckigen Körnern, und zum Theile auch in rundlichen Partien auf, und verleihen dem Ganzen ein breccien- und conglomeratartiges Ausschen; auch die weisse feldspathartige Substanz sondert sich an einigen Stellen, doch noch immer mit den anderen Substanzen gemengt, deutlicher aus, und verursachet dadurch eine gefleckte Zeichnung. Der Magnetkies ist in geringer Menge vorhanden. Glänzende poröse Rinde. (Nahe verwandt mit den Steinen von Lontalax, Nobleborough und Mässing.)
+
+1\. Fragment mit Rinde von einem der mehreren allda gefallenen Steine, wovon der grösste 4 Pfund wog. — 3 3/8 Loth. — 1839. 22. 1. — Aus der Mincralien-Sammlung der königl. Universität zu Berlin durch Professor Weiss eingetauscht.
+
 ### 10\. Lontalax.
 
-### 11\. Nobleborough.
+Friederichshamm, Switaipola (nach Chladni Sawotaipola), Gouv. Wiburg, Finnland.
+
+13\. December 1813.
+
+Lichtgraue, körnige, wenig zusammenhängende Grundmasse, angefüllt mit Einmengungen von kleinen, olivengrünen, dann schwärzlichen, eckigen, selten rundlichen Körnern, die vorwaltend sind und dem Ganzen ein porphyr- oder breccienartiges Ausschen geben, endlich weissen feldspathartigen Körnern. Ein Korn von Magnetkies ist deutlich wahrnehmbar, sonst scheint der selbe fein eingesprengt zu seyn. Die Rinde glänzend, aderig.
+
+1\. Bruchstück von einem der mehreren allda gefallenen, aber bei dem Schmelzen des Eises meist in einen Sce versunkenen Steine; etwa die Hälfte eines kleinen Steines; mit Rinde und einer geschnittenen Fläche. — 1 Loth, schwach. — 1832. 30. 1. — Von dem verstorbenen Grafen Gregor von Razoumovsky in Tausch erhalten.
+
+### 11\. Nobleborough,
+
+oder Nobleboro, im Staate Maine, in den vereinigten Staaten von Nord-Amerika.
+
+7\. August 1823, zwischen 4 und 5 Uhr Abends.
+
+In jeder Beziehung dem Steine von Lontalax so ähnlich, dass die dort gegebene Beschreibung auch vollkommen auf den Stein von Nobleborough angewendet werden kann; nur scheint letzterer noch weniger Zusammenhang zu besitzen, und daher zerreiblicher zu seyn.
+
+1\. Drei Bröckchen, wovon das grösste mit Rinde, von einem allda gefallenen Steine von 4 bis 6 Pfund, (ausser welchem noch andere gefallen seyn sollen.) — 3/8 Loth. — 1838. 25. 5. — Aus der chemahls Heulandschen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland erhielt diese Fragmente durch Professor Silliman aus Nord-Amerika.
 
 ### 12\. Mässing.
+
+(St. Nicolas) bei Altotting, Landgericht Eggenfelden in Baiern.
+
+13\. December 1803, zwischen 10 und 11 Uhr Vormittags.
+
+Graulich weisse, ziemlich lockere Grundmasse, meist aus einem, wie Feldspath ausschenden, schnecweissen Mineral bestehend‚ worin kuglige Ausscheidungen von unreiner, pistaziengrüner Farbe, mit ziemlich vollkommenen schiefiwinklichen Theilungstlächen, dann eckige, schwarze, und endlich ganz kleine Körner von olivengrüner Farbe eingemengt sind. Von metallischen Gemengtheilen ist Magnetkies allein deutlich zu erkennen. — Ein höchst ausgezeichneter, dem Steine von Lontalax verwandter Metcorstein.
+
+Zwei kleine Fragmente von einem daselbst einzeln gefallenen Steine von 3 1/4 Pfund.
+
+1a\. Ein kleines Fragment ohne Rinde. — 3/32 Loth, schwach. — 1832. 29. 3. — Durch Director von Schreibers im Jahre 1832 alsGeschenk erhalten, welcher dasselbe im Jahre 1811 von Herrn Lavater in Zürch bekam.
+
+1b\. Kleines Fragment mit frischem Bruch und ohne Rinde. — 3/32 Loth. — 1843. 22. 1. — Von Herrn Johann von Charpentier, Bergwerks-Direetor zu Bex in der Schweiz, in Tausch erhalten. Herr von Charpentier bekam das Fragment von Chladni.
+
+### 13\. Parma.
+
+Casignano, oder eigentlich Pieve die Casignano, bei Borgo St. Domino, im Herzogthume Parma.
+
+19\. April 1808, Mittags.
+
+Liichtgraue Grundmasse, mit vielen kleinen kugelichen und eckigen Ausscheidungen, welche letztere dem Steine ein breccienartiges Anschen geben; mit fein eingesprengtem gediegenen Eisen und Magnetkics, welch letzterer vorwaltet und auch in grösseren Partien auftritt. Schwach glänzende, fast matte Rinde.
+
+Zwei Bruchstücke von einem der allda in grösserer Anzahl gefallenen Steine.
+
+1\. Bruchstück mit Rinde und einer anpolirten Fläche. — 3 19/32 Loth. — 1816. 31. 33. c. — Auf Vermittlung des Directors von Schreibers während seiner Anwesenheit zu Paris im Jahre 1815, durch Tausch aus dem königl. Museum der Naturgeschichte erhalten.
+
+2\. Kleines Bruchstück mit Rinde und einer nicht polirten Schnittfläche. — 1 Loth — 1841. 14. 11. — Aus der Heuland'schen Mecteoriten-Sammlung durch Herrn Pötschke gekauft. Stammt aus der Mineralien-Sammlung des Marquis de Dree. (Durch Verwechslung mit dem Fallorte Berlanguillas erhalten, passt aber an das vom Pariser Museun erhaltene Stück Nr. 1 an, ist also davon in Paris abgebrochen worden.)
+
+### 14\. Siena,
+
+im Grossherzogthume Toscana.
+
+16\. Juni 1794, nach 7 Uhr Abends.
+
+Hellgraue, zuweilen rostbraun gefleckte Grundmasse, mit vielen, theils lichtgrünlichen, theils schwärzlichen, selten kugeligen, meist eckigen Ausscheidungen, die dem Ganzen ein breccien- oder porphyrartiges Anschen verleihen; mit vielem, grösstentheils fein eingesprengten, manchmahl aber auch in Körnern eingewachsenen Magnetkies und weniger, fein eingesprengtem metallischen Eisen. Matte, zum Theil rissige und dadurch weiss geaderte Rinde.
+
+Drei vollkommen ganze, aber schr kleine, dann drei ganze, aber angebrochene oder angeschnittene Steine, und Ein Bruchstück (etwas mehr als die Hälfte eines Steines), zusammen also sieben Stücke von den sehr vielen, jedoch meist kleinen allda gefallenen Steinen.
+
+1\. Ein schr kleiner ganzer Stein. — 7/32 Loth, schwach. — 1832. 29. 4. — Geschenk von Herrn Director von Schreibers.
+
+2\. Ein ebenfalls sehr kleiner ganzer Stein. — 9/32 Loth, schwach. — 1817. 47. 1. — Durch Vermittlung des Professors, Kreiherrn von Jacquin, aus Italien zu Kauf erhalten.
+
+3\. Ein kleiner, fast ganzer Stein, mit einer Bruchfläche. — 17/32 Lth. — 1817. 47. 2. — Wie Nr. 2 durch Freiherrn von Jacquin erhalten.
+
+4\. Ein kleiner, länglicher, ganzer Stein, mit Rinde von zweifacher Beschaffenheit. — 5/8 Loth, schwach. — 1827. 27. 4051. — Aus der im Jahre 1827 angekauften von der Nüll'schen Mineralien-Sammlung.
+
+5\. Ein für diese Localität nicht ganz kleiner, fast ganzer Stein, mit einer grösseren und einigen kleineren Bruchflächen. — 1 13/16 Loth. — 1817. 47. 3. — Wie Nr. 3 durch Freiherrn von Jacquin erhalten.
+
+6\. Ein grösseres Bruchstück (etwas mehr als die Hälfte eines Steines), mit einer Bruch- und einer anpolirten Fläche. — Beschrieben und abgebildet in v. Schreibers Beiträgen, S. 14, Taf. 2. und S. 61, Taf 7. — 1 3/4 Lth. — 1809. 20. 1. — Vom Obersten von Tihavsky als Geschenk erhalten. Ä
+
+7\. Ein grösserer, fast ganzer Stein, mit einer Schnitt- und einer polirten Fläche, auch einer Bruchfläche mit zwei Vertiefungen, worin sich eine schwarze Substanz zeigt, Die Rinde zum Theil mit Eindrücken, — 6 1/32 Lth. — 1822. 20. 1. — Durch Herrn Chierici aus Florenz zu Kauf erhalten.
+
+### 15\. Ensisheim,
+
+im ehemahligen Elsass, jetzt Dep. du Haut-Rhin, Frankreich.
+
+7\. November 1492, zwischen 11 und 12 Uhr Mittags.
+
+Dunkelgraue, rosibraun gefleckte Grundmasse, stellenweise lichter, wodurch ein unvollkommen breccienartiges Ausschen entsteht, das auf polirten Flächen noch deutlicher wahrzunehmen ist. Das nicht häufig und meist fein eingesprengte metallische Eisen, und der vorwaltende, theils fein eingesprengte, theils in kleinen Flecken und Adern auftretende Magnetkies sind, vorzüglich ersteres, auf den Bruchflächen Schwer, dagegen auf polirten Flächen deutlich zu erkennen; sehr ausgezeichnete und zahlreiche, schwarze, glänzende Ablösungsflächen, die den Stein fast Schiefrig, und daher leicht spaltbar machen; auch schwarze glänzende Blättchen‚ die kurze Ablösungsflächen sind. — Ein höchst eigenthümlicher, mit keinem anderen verwechselbarer Meteorstein.
+
+Ein grosses und vier kleine Bruchstücke, sämmtlich ohne Rinde, von einem schr grossen, einzeln gefallenen Steine von 270 Pfund.
+
+1\. Ein grosses Bruchstück, — 24 1/8 Lth. — 1813. 40. 1. — Durch Vermittelung des kaiserl. Ministers Freiherrn von Hügel, während derInvasion der verbündeten Mächte im Jahre 1813, aus Colmar in Elsass als Geschenk erhalten.
+
+2\. Kleineres Bruchstück, — 5 1/32 Lth. — 1841. 6. 71. — Von der königl, sächsischen Mineralien-Niederlage zu Freiberg gekauft.
+
+3\. Bruchstück, — 4 3/32 Loth. — 1827. 27. 4053.
+— Aus der von der Nüll’schen Mineralien-Sammlung.
+
+4\. Längliches Bruchstück, mit zwei anpolirten Flächen. — 2 3/4 Loth. — 1825. 42. 59. — Aus der Mineralien-Sammlung des Grafen Fries gekauft.
+
+5\. Kleines Bruchstück , mit einer anpolirten Fläche, — 1 5/8 Loth. — Von 1809. 19. 1. — Geschenk vom verstorbenen Major v. Schwarz.
+
+Der Meteorstein von Ensisheim ist der älteste von allen, die sich bis an unsere Zeit der Zertrümmerung, dem Verstreuen und endlichem Vergessen und Wegwerfen eutzogen haben. Er verdankt seine Erhaltung dem Umstande, dass Kaiser Maximilian 1. während seines Falles sich in oder bei Ensisheim befand, und den Stein in den Chor der Kirche zu Ensisheim aufhängen liess, mit dem Verhothe, für Niemanden etwas davon abzuschlagen. In der Revolutionszeit wurde der Stein auf die öffentliche Bihliothek zu Colmar gebracht, und viele Stücke davon abgeschlagen. Er befindet sich jetzt, beträchtlich vermindert, neuerdings in der Kirche zu Ensisheim.
+
+### 16\. L'Aigle.
+
+(La Vassolerie, Fontenil, St. Michel, St. Nicolas, Bas-Vernet etc.*) Normandie. Dept. de l'Orne, Frankreich.
+
+26\. April 1803, 1 Uhr Nachmittags.
+
+Theils licht-, theils dunkelgraue, meist rosthraun vefleckte Grundmasse; die lichteren und dunkleren Partien entweder fleckenartig neben einander, oder die lichte Grundmasse von einem dunkleren, bald dickeren, bald dünneren aderigen Gewebe durchzogen, dessen Ziellen die lichteren Stellen sind. In diese ungleich gefärbte Grundmasse sind breccien- oder porphyrartig lichtere oder dunklere, eckige Körner oder Ausscheidungen eingemengt (zuweilen auch schwarze, bohnengrosse Partien, durch das Zusammenfliessen des schwarzen Aderngeflechtes entstanden). Das gediegene Eisen ist in ziemlicher Menge, zum Theil grob, der Magnetkies nur äusserst fein eingesprengt. Schwarze Ablösungsflächen sind nicht selten. Die Rinde ist matt, nicht rauh. — Ein Meteorstein von eigenthümlicher Beschaffenheit.
+
+*) Es werden hier und bei anderen ausgedehnteren Steinfällen mehrere Orte genannt, theils weil die Steine hei allen diesen Orten niederfielen, theils weil sie zuweilen mit verschiedenen Ortsbezeichnungen in Handel kommen, und man sie dann für das Product verschiedener Freigninse halten könnte.
+
+Dreizehn Stücke von den schr vielen (2000 bis 3000) der allda gefallenen Steine, darunter vier ganze Steine.
+
+1\. Grosser, ganzer, ringsum überrindeter Stein. — 2 Pfd. 22 Lth. — 1841. 14. 1. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft. Herr Heuland kaufte den Stein von Herrn Lambotin in Paris.
+
+2\. Grosser, ganzer, überrindeter Stein, von dem ein dabei befindliches und anpassendes Eck abgebrochen ist (auch die Kanten sind hie und da, wie gewöhnlich, etwas abgestossen); an ein Paar Seiten mit Eindrücken. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 12, Taf. 2. — 1 Pfund 30 3/8 Loth — 1. 6. — Wurde durch den verstorbenen k. k. Naturalien-Kabinetts-Director Stütz, im Jahre 1803 von einem Franzosen gekauft.
+
+3\. Fast gauzer Stein, mit einer anpolirten Fläche. — 22 1/8 Loth. — 1840. 11. 2. — Von Herrn von Scala gekauft, Stammt aus der gräflich Razoumovsky'schen Mineralien-Sammlung.
+
+4\. Ein schr kleiner, aber ganzer Stein, nur an einer Kante, und auch hier zum Theil während des Falles verbrochen und wieder unvollkommen überrindet; hellgraue Grundmasse. — 29/32 Loth. — 1816. 36. 35. — Durch Director v. Schreibers während seiner Anwesenheit in Paris im Jahre 1815 vom Mineralienhändler Lambotin erkauft.
+
+5\. Ein Fragment (wohl 2/3 des ganzen Steines); mit anpolirter Fläche. — 8 3/4 Loth. — 1827. 27. 4050. — Aus der Mineralien-Sammlung des Herrn von der Nüll.
+
+6\. Ein frisches Bruchstück mit etwas Rinde, und den in der Beschreibung erwähnten, schwarzen, bohnengrossen Einmengungen. — 6 23/32 Lth. — 1824. 48. 1. — Durch den Herausgeber zu Kauf erhalten.
+
+7\. Bruchstück mit gekrümmter Ablösungsfläche; eine polirte Fläche ist rostbraun gefleckt. — 3 9/32 Loth. — 1808. 4. 1. — Durch Herrn Apothıcker Moser in Paris gekauft.
+
+8\. a. und b. Zwei Bruchstücke mit Rinde und anpolirten Flächen, welche viele rostbraune Flecken zeigen. (Waren zu einem Versuche einige Zeit in der Erde vergraben). — 1 5/32 Loth und 19/32 Loth. — Aus den Doubletten. — Von Herrn Lambotin in Paris im Jahre 1815 gekauft.
+
+9\. a. und b. Zwei Bruchstücke mit rostbraunen, anpolirten Flächen. — 3/4 Loth und 11/16 Loth. — Von 1816. 40. 31. — Durch Director v. Schreibers im Jahre 1815 in Paris gekauft.
+
+10\. Kleines Bruchstück mit frischem Bruche; die Rinde mit weissen Adern. — 3/4 Loth. — 1816. 40. 31. — Wie Nr. 9 angekauft.
+
+11\. Ansehnliches Bruchstück, mit grosser, frischer Bruchfläche, welche das in der Beschreibung erwähnte aderige Gewebe, wodurch ein marmorirtes oder breccienartiges Anschen entsteht, deutlich wahrnehmen lässt; mit Rinde, — 13 3/4 Loth — 1843. 29. 1. — Von Hrn. Francois Marguier in Tausch erhalten.
+
+Die Meteorsteine von L’Aigle sind die verbreiteisten und gemeinsten in Mineralien-Sammlungen. Ein Mineralien-Händler in Paris, Herr Lamhotin, kaufte davon so viel auf, als er in L’Aigle und der Umgegend zusammen bringen konnte. Lange war der Preis derselben 8 bis 10 Francs für die Unze. Jetzt ist davon in Paris nichts mehr zu erhalten.
+
+### 17\. Liponas,
+
+(in Chladni, veilleicht durch einen Druckfehler, unrichtig Laponas) bei Pont de Vesle und Bourg en Bresse, Dept. de l'Ain, Frankreich.
+
+7\. September 1753, 2 Uhr Nachmittags.
 
 ...
