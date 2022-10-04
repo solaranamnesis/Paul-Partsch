@@ -911,4 +911,136 @@ Die Meteorsteine von L’Aigle sind die verbreiteisten und gemeinsten in Mineral
 
 7\. September 1753, 2 Uhr Nachmittags.
 
+Dunkel asch- oder blaulich-graue Grundmasse mit schwärzlich grauen Partien, welche dieselbe durchziehen und fleckig oder marmorirt ausschen machen; beide mit Rostflecken und ziemlich deutlichen, aber mit der Grundmasse fest verwachsenen, kugeligen Ausscheidung; mit fein und mittelfein eingesprengtem, metallischen Eisen und schr fein eingesprengtem Magnetkies. Matte Rinde. — Gleicht fast vollkommen den Meteorsteinen von L'Aigle.
+
+Zwei Bruchstücke von einem der zwei allda gefallenen Steine, welche zusammen 31 1/2 Pfund wogen.
+
+1\. Fragment mit vielRinde und ausgezeichneten Eindrücken an der Oberfläche. — 4 15/32 Loth. — 1838. 25. 3. — Aus der Heuland'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Das Stück lag früher in der von Herrn Heuland erkauften Mineralien-Sammlung des Herrn Marquis de Dree in Paris.
+
+2\. Ein ganz kleines, anpolirtes Bruchstück, ohne Rinde. — 5/16 Loth. — 1832. 29. 1. — Geschenk von Herrn Director von Schreibers, welcher dieses kleine Fragment während seines Aufenthaltes zu Paris im Jahre 1815, aus der de Dree'schen Mineralien-Sammlung erhielt.
+
+Nach dem, was Bigot de Morogues in dem Werke: Memoire sur les chutes des pierres, Seite 334, von einem in dem Museum de Dree befindlichen Meteorstein von unbekannter Abkunft erwähnt, ist es wohl nur Vermuthung, dass die, obwohl nur in sehr wenig Sammlungen vorhandenen Steine von Liponas wirklich von dieser Localität sind, Es heisst da, nachdem die auf unsere Exemplare, die aus des Marquis de Dree Sammlung stammen, vollkommen anwendbare Diagnose gezeben ist: Je presume qu'elle (la pierre d'origine inconnue) peut Etre l'une de celles tombees a Liponas en 1753, ce qui paroit probable a M. Leman, tant a cause de la maniere, dont elle est parvenue a M. de Dree, que par son volume et ses autres caracteres.
+
+### 18\. Chantonnay.
+
+Zwischen Nantes und La Rochelle, Dept. de la Vendee, Frankreich.
+
+5\. August 1812, Nachts 2 Uhr.
+
+Die Grundmasse zeigt stellenweise eine ganz verschiedene Beschaffenheit; sie ist nähmlich theils, und zwar bei weitem vorherrschend, schwarz, schwach schimmernd und dicht, wie mancher Basalt; theils dunkelgrau, braun gefleckt, mit schwarzen Streifen oder Linien durchzogen und daher von marmorirtem Ansehen. (Auch die schwarze Grundmasse hat, was aber nur auf polirten Flächen zu bemerken ist, vereinzelte, meist aber undeutliche, lichtere Flecken, und ist mit einem breiten, noch schwärzeren, aderigen Geflechte durchzogen). Ziemlich viel theils fein, theils in hirsekorngrossen Körnern eingesprengtes metallisches Eisen; weit weniger und höchst fein eingesprengter Maenetkies. Undeutliche, matte Rinde. — Ein höchst eigenthümlicher Meteorstein; nur die lichteren Stellen gleichen zum Theile den Steinen von Seres und Barbotan.
+
+Ein grosses und drei kleinere Fragmente von einem einzeln gefallenen Steine von 69 Pfund.
+
+1\. Grosses Bruchstück; die schwarze Grundmasse vorherrschend; hie und da Rinde; mit einer anpolirten Fläche. — 4 Pfund 5 1/4 Loth. — 1818. 38. 1. — Auf Vermittlung des Herausgebers während seines Aufenthaltes zu Paris im Jahre 1818 von Professor Brochant zu Kauf erhalten.
+
+2\. Bruchstücke mit polirter Fläche, ohne Rinde, von dem Stücke Nr. 1 abgeschnitten. — 7 3/8 Loth. — Von 1818. 38. 1. — Wie Nr. 1 erhalten.
+
+3\. Frisches Bruchstück, ganz schwarz, zum Theil verrostet, mit einer undeutlichen Ablösungsfläche. — 12 23/32 Loth. — 1834. 19. 12. — Von Herrn Doctor Bondi in Dresden gekauft.
+
+4\. Kleines Bruchstück, grau und schwarz gefleckt; ohne Rinde, — 2 1/32 Loth. — Aus den Doubletten. — Von Herrn G. B. Sowerby Sohn in London erhalten.
+
+### 19\. Renazzo,
+
+bei Cento, Provinz Ferrara, im Kirchenstaate.
+
+15\. Janner 1824, zwischen 8 und 9 Uhr Abends.
+
+Matte, schwarze Grundmasse, mit reichlich eingemengten, mit der Grundmasse porphyrarlig und fest verwachsenen, lichtgrauen, kugelichen Ausscheidungen; ziemlich viel metallisches Eisen, theils sehr fein, theils eröblich, meist in die Grundmasse, selten in die kugelichen Ausscheidungen eingesprengt und die letzteren oft ringförmig umgebend; der Magneikies, wenn er vorhanden ist, so fein eingesprengt, dass er nicht unterschieden werden kann, Matte, oder schwach schimmernde Rinde, mit rundlichen, wie schuppig aussehenden Erhöhungen. — Ein höchst merkwürdiger Meteorstein von ganz eigenthümlichem Aussehen, fast wie Obsidianporphyr.
+
+Ein Fragment und ein Blättchen von einem der drei allda aufgefundenen Steine.
+
+1\. Fragment mit Rinde von zweierlei Beschaffenheit und einer anpolirten Fläche. — 2 7/16 Loth. — 1839. 12. 1. — Von Professor Abbate Ranzani in Bologna in Tausch erhalten.
+
+2\. Plättchen mit zwei anpolirten Flächen und mit etwas Rinde (von Nr. 1 abgeschnitten). — 7/32 Loth. — Von 1839. 12. 1. —
+
+### 20\. Richmond.
+
+Chesterfield-County, Staat Virginien, Nord-Amerika.
+
+4\. Juni 1828, 9 Uhr Morgens.
+
+Schwarzgraue, weisslichgrau gesprengelte und rostbraun gefleckte Grundmasse, worin sich kleine Höhlungen befinden; mit vielen kugeligen Ausscheidungen, zum Theile von schmutziggrüner Farbe; mit viel eingesprengtem, fein zertheiltem Magnetkies (der, wie bei vielen anderen Mecteoriten, auf Bruchflächen deutlicher zu schen ist, als auf polirten Flächen) und mässig und mittelfein eingesprengtem metallischen Eisen, Der Magnetkies kleidet einige der oben erwähnten Höhlungen aus, und ist darin zuweilen kugelig und bunt angelaufen. In einer Vertiefung eines der Bruchstücke ist ein Eisenkorn sichtbar. Matte, poröse und, wie es scheint, leicht ablösbare Rinde. — Ein merkwürdiger Metcorstein, von ganz eigenthümlicher Beschaffenheit.
+
+Drei Bruchstücke von einem einzeln gefallenen Steine von 4 Pfund.
+
+1\. Frisches Fragment mit Rinde, — 3 7/8 Loth. — 1840. 19. 4. — Von Herrn Heuland in London gekauft, der das Stück von Herrn Shepard aus Nord-Amerika erhielt.
+
+2\. Bruchstück ohne Rinde, — 3 21/32 Loth. — 1834. 31. 21. — Durch Baron Lederer, k. k. General-Consul in New-York, in Tausch erhalten.
+
+3\. Kleines Bruchstück mit einer anpolirten Fläche. — 1/2 Loth. — Von 1830. 11. 14. — Ebenfalls durch Baron Lederer aus Nord-Amerika in Tausch erhalten.
+
+### 21\. Weston,
+
+im Staate Connecticut, Nord-Amerika,
+
+14\. Dezember 1807, 6 1/2 Uhr Morgens.
+
+Die Grundmasse zeigt zwei verschiedene Farbennuancen, eine dunkelaschgraue und eine helle, graulichweisse, die wohl meist;in einem und demselben Steine neben einander auftreten, vielleicht aber doch jede für sich auch ganze, wenn gleich kleine Steine constituiren mögen. Jedenfalls sind von den Fragmenten, die uns zu Gebothe stehen, oder die wir zu schen Gelegenheit hatten, die einen manchmahl bloss hell graulichweiss, und dann meist mit braunen Rostflecken besäet, die anderen bloss dunkel aschgrau, so dass man Steine von verschiedenen Steinfällen vor sich zu haben glaubt. In anderen meist grösseren Stücken, sicht man jedoch die hellgraue Nüance bald in grösseren Partien, bald in Flecken in der dunkelgrauen auftreten und überzeugt sich dadurch leicht von der Identität des Fund- oder Fallortes. Höchst ausgezeichnet sind in den Meteorsteinen von Weston, die in grosser Menge und Vollkommenheit, aber nur in geringer Grösse auftretenden kugligen Ausscheidungen, die jedoch in den dunkleren Partien weit ausgezeichneter erscheinen. Metallisches Eisen ist in ziemlicher Menge vorhanden aber meist fein eingesprengt; noch feiner der auf Bruchflächen leicht wahrnehmbare Magneikies. Die Rinde ist sehr rauh unduneben, matt oder schimmernd. — Eine sehr charakteristische, leicht erkennbare Varietät von Meteorsteinen.
+
+Fünf Fragmente von ungleicher Beschaffenheit von den sehr vielen und mitunter schr grossen daselbst gefallenen Steinen.
+
+1\. Fragment mit frischem Bruch und unvollkommener Rinde; die Substanz des Steines vorherrschend dunkelgrau mit lichtgrauen Flecken. — 3 Loth. — 1840. 4. 4. — Aus der ehemahls Heuland'schen, späther Heath'schen Metcoriten-Sammlung durch Herrn Pötschke angekauft. Stammt aus der de Dree'schen Mineralien-Sammlung.
+
+2\. Fragment mit anpolirter Fläche ohne Rinde; dunkelgraue Grundmasse mit schr vielen und ausgezeichneten kugligen Ausscheidungen; die Bruchfläche zum Theil rostbraun gefleckt. — 2 9/16 Loth. — 1812. 13. 6. — Von dem verstorbenen Mineralien-Händler Barton eingetauscht.
+
+3\. Fragment mit schr unebener Rinde; die Grundmasse dunkelgrau mit einzelnen lichtgrauen Flecken. — 2 13/32 Loth. — 1838. 8. 1. — Von der Frau Johanna von Henikstein, gebornen von Dieckmann-Secherau eingetauscht. Befand sich früher in der Mineralien-Sammlung des k. k. Hofrathes von Gersdorf.
+
+4\. Kleines Fragment mit etwas Rinde. Lichtgraue Grundmasse mit Rostilecken; diekugligen Ausscheidungen nicht schr deutlich; das metalische Eisen und der Magnetkies fein eingesprengt. — 1 11/32 Loth. — 1821. 50. 42. — Durch Baron Lederer, k. k. General-Consul in New-York, von Dr. Mitchill in Tausch erhälten.
+
+5\. Kleines Eragment ohne Rinde; die Grundmasse theils hellgrau mit Rostflecken, theils dunkelgrau mit kugligen Ausscheidungen. — 1 7/32 Loth. — 1812. 13. 7. — Mit Nr. 2 von dem verstorbenen Mineralien-Händler Barton eingetauscht. —
+
+### 22\. La Baffe,
+
+2 lieues südlich von Epinal, Dept. des Vosges, Frankreich.
+
+13\. September 1822. 7 Uhr Morgens.
+
+Lichtaschgraue oder graulichweisse, rostbraun gefleckte, durch eine grosse Menge von klein kugligen Ausscheidungen körnig erscheinende Grundmasse; mit vielem theils fein, theils mittelfein eingesprengten metallischen Eisen und schr fein eingesprengtem Magnetkies; matte oder schwach schimmernde Rinde. — (Ist von den lichteren Abänderungen der Steine von Weston nicht zu unterscheiden.)
+
+1\. Fragment mit Rinde und kleiner, (ohne Smirgel) unvollkomnen anpolirter Fläche (von einem einzeln gefallenen Steine von unbekanntem Gewichte). — 15/16 Loth. — 1840. 29. 2. — Vom königl. Museum der Naturgeschichte zu Paris auf Vermittlung des Herausgebers, während seines Aufenthaltes zu Paris in Tausch erhalten.
+
+### 23\. Benares.
+
+(Krakhut) in Ostindien.
+
+13\. Dezember 1798. 8 Uhr Abends.
+
+Lichtgraue Grundmasse, ganz angefüllt mit theils kugligen, theils unvollkommen nierförmigen, oder seltener auch eckigen Ausscheidungen von grünlicher Farbe, die mit der Masse nur wenig zusammen hängen, daher aus der Grundmasse hervorragen, oder beim Herausfallen kuglige Eindrücke hinterlassen. Von den metallischen Einmengungen ist der Magnetkies in grösserer Menge als das gediegene Eisen, beide jedoch ziemlich sparsam vorhanden. Matte Rinde, durch welche noch die eingemengten Kugeln zu unterscheiden sind.
+
+Drei Bruchstücke von den vielen allda gefallenen Steinen.
+
+1\. Grosses Fragment mit ausgezeichneten und grossen Kugeln; mit Rinde. — 1 Pfund, 1/16 Loth. — 1840. 4. 1. — Aus der Heath'schen Meteoriten-Sammlung durch Hrn. Pötschke gekauft. Herr Heath bekam das Stück in Madras.
+
+2\. Bruchstück mit Rinde von doppelter Beschaffenheit und einer anpolirten Fläche. — Beschrieben und abgebildet in v. Schreibers Beiträgen, Seite 62. Taf. 7. — 4 11/16 Loth. — 1807. 44. 1. — Geschenk von dem verstorbenen Lord Greville in London.
+
+3\. Bruchstück mit Rinde und einer frischen Bruchfläche; die eingeschlossenen Kügelchen sehr klein — 1 3/16 Loth. — 1838. 40. 1. — Von Herrn Doctor Jakob Baader in Wien eingetauscht. Ist der kleinere Theil eines Kragmentes, das aus der Heuland'schen, später Heath'schen Meteoriten-Sammlung stammt.
+
+### 24\. Gouvernement Poltava.
+
+Ohne nähere Angabe des Fundortes erhalten; (nicht zu verwechseln mit Kuleschofka, das ebenfalls im Gouv. Poltava liegt).
+
+Auch die Fallzeit ist nicht mitgetheilt worden.
+
+Dunkel aschgraue Grundmasse, ganz erfüllt mit einer Menge von kugligen, zuweilen auch eckigen Ausscheidungen von schmutzig grünlichgrauer Farbe. Der Magneikies, zuweilen bunt angelaufen, sondert sich in grosseren körnigen Partien aus, ist jedoch meist nur schr fein eingesprengt. Das metallische Eisen ist in ziemlicher Menge und meist fein eingesprengt. Matte, poröse Rinde. — Einer der aus gezeichnetesten Meteorsteine‚ am nächsten den Steinen von Weston und Krasno-Ugol verwandt.
+
+1\. Bruchstück mit Rinde und einer anpolirten Fläche. — 5 1/8 Loth gut. — 1838. 28. 1. — Von der kaiserl. russischen Akademie der Wissenschaften zu Petersburg durch Professor Kupffer in Tausch erhalten.
+
+Ueber diesen nicht öffentlich bekannt gewordenen Steinfal), der, wie schon oben bemerkt wurde, mit dem von Kuleschofka nicht zu verwechseln ist, fehlen alle historischen Nachrichten.
+
+### 25\. Krasno-Ugol.
+
+(Krasnoi-Ugol) Gouv. Räsan, Russland.
+
+9\. September 1829.
+
+Dunkelgraue Grundmasse, etwas dunkler, als bei dem Steine aus dem Gouv. Poltava, mit welchem der Meteorit von Krasno-Ugol fast vollkommen identisch ist; nur zeigt das kleine Fragment keine grösseren Ausscheidungen von Magnetkies; auch ist die Rinde etwas verschieden, weniger porös und mehr glatt.
+
+1\. Fragment mit Rinde und einer anpolirten Fläche — 19/32 Loth. — 1839. 28. 1. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhalten. Wurde von dem dort aufbewahrten Fragment abgeschnitten, welches diese Universität aus der Sammlung der kaiserl. Akademie der Wissenschaften in Petersburg durch Herrn Professor Kupffer erhielt.
+
+### 26\. Erxleben,
+
+zwischen Magdeburg und Helmstadt, preussische Provinz Sachsen.
+
+15\. April 1812, 4 Uhr Nachmittags.
+
 ...
