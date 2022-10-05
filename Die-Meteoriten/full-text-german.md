@@ -1039,8 +1039,70 @@ Dunkelgraue Grundmasse, etwas dunkler, als bei dem Steine aus dem Gouv. Poltava,
 
 ### 26\. Erxleben,
 
-zwischen Magdeburg und Helmstadt, preussische Provinz Sachsen.
+zwischen Magdeburg und Helmstädt, preussische Provinz Sachsen.
 
 15\. April 1812, 4 Uhr Nachmittags.
+
+Dunkelaschgraue, sehr dichte und auf Bruchflächen ziemlich homogene Grundmasse, mit etwas dunkleren, klein kugelisen Ausscheidungen, die auf Bruchilächen fast gar nicht, deutlich hingegen auf polirten Flächen zu erkennen sind; viel, aber schr fein und gleichförmig eingesprengtes gediegenes Eisen; viel, höchst fein eingesprengter Magneitkies, der, wie gewöhnlich, auf Bruchflächen leichter wahrzunehmen ist, als auf polirten Flächen. (Das Umgekehrte gilt vom metallischen Eisen.) Dünne, matte Rinde, die zuweilen nur in Flecken und Pünktchen auftritt und wie ausgeschwitzt aussieht. — Ein durch seine Dichtheit, auscheinende Homogenität der Grundmasse, und das feine und gleichförmige Gemenge der letzten mit den zwei metallischen Gemengtheilen sehr ausgezeichneter Metcorstein; von allen anderen, mit Ausnahme desjenigen aus dem Gouvernement Simbirsk höchst verschieden.
+
+1\. Ein dreieckiges Bruchstück, von einen einzeln gefallenen Steine von 4 1/2 Pfund; mit etwas Rinde und einer anpolirten Fläche. — 3 Loth — 1814. 22. a. 1. — Geschenk von dem verstorbenen Professor Blumenbach in Göttingen.
+
+### 27\. Gouvernement Simbirsk.
+
+Ohne nähere Angabe des Fallortes und ohne Angabe der Fallzeit erhalten.
+
+Dunkelgraue, feste und dichte Grundmasse, aus welcher auf polirten Flächen kleine, dunklere, ins grünlichgraue ziehende Körner unterscheidbar sind; mit mässig viel, jedoch meist mikroskopisch fein und nur in einzelnen Körnchen etwas gröber eingesprengtem metallischen Eisen, und höchst fein eingesprengtem Magnetkies, Matte, dünne, unterbrochene und fast nur schorfartige Rinde. (So wenigstens an dem kleinen uns zu Gebothe stehenden Stücke). — Ein schr merkwürdiger und eigenthümlicher, nur dem Meteorsteine von Erxleben verwandter Meteorit.
+
+1\. Fragment mit Rinde und einer kleinen anpolirten Fläche. — 17/32 Loth. — 1838. 28. 4. — Von der kaiserlich russischen Akademie der Wissenschaften zu Petersburg durch Herrn Professor Kupffer (leider ohne irgend eine historische Notiz, um die wir uns später erfolglos bemühten), in Tausch erhalten.
+
+### 28\. Mauerkirchen,
+
+im Innkreise, Oesterreich ob der Enns. (Gehörte zur Zeit des Falles zu Baiern.)
+
+20\. November 1768, 4 Uhr Nachmittags.
+
+Sehr hellgraue, fast weisse, wenig zusammenhängende, nicht schwer zerreibliche Grundmasse, mit ziemlich vielen, auf den Bruchflächen wenig wahrnehmbaren, auf Schnittflächen aber leichter erkennbaren kugeligen Ausscheidungen; fein eingesprengtes mcetallisches Eisen und viel, sehr fein eingesprengter Magnetkies, der sich zuweilen in grösseren Körnern, von Hanfkorn- bis Bohnengrösse, aussondert. Matte Rinde. — Ein durch seine helle Farbe und leichte Zerreiblichkeit schr ausgezeichneter Meteorstein.
+
+Zwei Bruchstücke von einem einzeln gefallenen Steine von 38 Pfund; beide mit Rinde.
+
+1\. Ein grösseres Bruchstück mit nicht ganz frischen Bruchflächen, und einer kleinen polirten Fläche. — 23 27/32 Loth. — 1. 7. Durch Professor Chladni im Jahre 1805 in Tausch erhalten.
+
+2\. Ein kleines, aber ganz frisches Bruchstück. — 9 13/32 Loth. — 1825. 42. 8. — Aus der Mineralien-Sammlung des Grafen Fries gekauft.
+
+### 29\. Nashville.
+
+Dorf oder Gegend ? Drake-Creek, 18 engl. Meilen von Nashville, Staat Tennessee, Nord-Amerika.
+
+9\. Mai 1827, 4 Uhr Nachmittags.
+
+Lichtgrane, durch undeutliche, kugelige Ausscheidungen schwach gefleckte, nicht stark zusammenhänsende, und daher schwer polirbare Grundmasse; sehr viel fein eingesprengter Magnetkies, der auch in hanfgrossen Partien auftritt; das metallische Eisen fein zerstreut und in geringer Menge eingesprengt. Matte, ziemlich glatte Rinde.
+
+1\. Fragment mit Rinde, von einem faustgrossen Stücke im Museum des Yale-College zu New-Haven in Nord-Amerika abgeschlagen. (Es fielen mehrere Steine, wovon 5 gesammelt wurden, deren einer 11 Pfd. wog.) — 1 27/32 Loth. — 1840. 32. 1. — Durch Vermittlung des Herrn Baron Lederer, österr. General-Consuls in New-York, von Herrn Professor Silliman in New-Haven in Tausch erhalten.
+
+### 30\. Lucé,
+
+en Maine, jetzt Dep. de la Sarthe, Frankreich.
+
+13\. September 1768, 4 1/2 Uhr Nachmittags.
+
+Lichtgraue, mit Rostflecken durchsäcte Grundmasse, mit undeutlichen kugeligen Ausscheidungen; fein und mittelfein eingesprengtes gediegenes Eisen; sehr fein eingesprengter Magnetkies; rauhe, matte Rinde.
+
+Fragment von einem einzeln (?) gefallenen Steine von 7 1/2 Pfund.
+
+1\. Kleines Fragment mit Rinde und einer anpolirten Fläche. — 17/32 Loth. — 1838. 25. 6. — Aus der ehemahls Heuland'schen, dann Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Das Stück lag früher in der von Herrn Heuland angekauften Mineralien-Sammlung des Marquis de Dree in Paris.
+
+In der königl, Mineralien-Sammlung zu Berlin befindet sich ein Fragment von Luce, das mit der Chladni'schen Meteoriten-Sammlung dahin kam, und von dem am Wiener kaiserl. Mineralien-Kabinette befindlichen verschieden ist. Das Berliner ist dunkelaschgrau, und ganz den Steinen von Limerik und Tipperary ähnlich. Chladni sagt nicht, von wem er sein Stück erhielt. Das unsere stammt aus der de Dree'schen Sammlung, wo esschon Bigot de Morogues sah, der vom Steine von Luce sagt: La pierre tomhde a Lucé, en 1768, est facile a reconnoitre a cause de la teinte uniforme tres-claire; elle est assez compacte A grains fins, et ne présente aucun filon. (Siehe den Anhang: Description comparative de quelques pierres tombdes du ciel, Seite 335 in Bigot's Werke: Memoire historique et physique sur les chutes des pierres tombdes sur la surface de la terre a diverses epoques, Orleans 1812.) Léman charakterisirt den Stein von Lucé folgender Massen: Pierre d’un gris cendré pale, avec une infinité de petits points hrillants, d'un jaune pale, enveloppte d'une croüte noire etc, (Siehe den Artikel Pierres météoriques in dem Nouveau Dictionnaire d'histoire naturelle Vol. 26. Paris 1818.)
+
+Anhang\. Die nachfolgenden zwei Stücke sind mit dem Meteorstein-Fragment Nr. 1 von Lucé, mit Ausnahme der Beschaffenheit der Rinde, was jedoch nicht viel bedeuten will, vollkommen identisch, wurden aber mit der Angabe anderer Localitäten erhalten, mit denen sie nicht übereinstimmen. Wir lassen sie desshalb hier anhangsweise folgen, ohne übrigens die Localität Lucé zu verbürgen.
+
+2\. Bruchstück mit Rinde und polirter Fläche. — 8 13/32 Loth. — 1841. 14. 5. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft, mit der Etiquette: Luimerik. Herr Heuland glaubt den Stein von Herrn Professor Gieseke aus Dublin erhalten zu haben; cs dürfte jedoch eine Verwechslung eingetreten seyn, welche leicht Statt findet, wenn man die Stücke nicht durch aufgeklebte Etiquetten oder Nummern unterscheidet. — Dieses Fragment wird wohl gleichfalls aus der Sammlung des Marquis de Dree herstammen.
+
+3\. Kleines Bruchstück mit etwas Rinde, dicken, schwarzen Adern und anpolirter Fläche. — 19/32 Loth. — 1841. 14. 6. — Aus der Heuland'schen Sammlung durch Herrn Pötschke angekauft. Erhalten mit der Localität Toulouse. Stammt aus des Marquis de Dree Mineralien-Sammlung.
+
+### 31\. Lissa.
+
+(Strattow, Wustra.) Bunzlauer Kreis, Böhmen.
+
+3\. September 1808, 3 1/2 Uhr Nachmittags.
 
 ...
