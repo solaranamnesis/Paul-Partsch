@@ -1105,4 +1105,138 @@ Anhang\. Die nachfolgenden zwei Stücke sind mit dem Meteorstein-Fragment Nr. 1 
 
 3\. September 1808, 3 1/2 Uhr Nachmittags.
 
+Lichtgraue, feinkörnige Grundmasse, in welcher zwar nicht auf Bruch-, doch auf anpolirten Flächen, hellgraue, kugelige oder ovale, mit der Grundmasse innig zusammenhängende Ausscheidungen wahrzunehmen sind; ziemlich viel, aber höchst fein eingesprengtes metallisches Eisen, ungefähr eben so viel, sehr fein eingesprengter, zuweilen aber auch in linsengrossen Partien auftretender Magnetkies. Feine, seltener dicke Adern durchziehen die Grundmasse nach verschiedenen Richtungen. Matte Rinde.
+
+Ein grosser, ganzer Stein und zwei Fragmente von den vier oder fünf der allda gefallenen Steine.
+
+1\. Grosser, ganzer, 7 Zoll langer Stein von unregelmässiger Form (unvollkommen vierseitig, prismatisch), mit vielen kleinen Eindrücken an der Oberfläche; an zwei Stellen mit Bruchflächen und kleinen, beim Falle entstandenen Beschädigungen an den Kanten. — Beschrieben undabgebildet inv. Schreibers Beiträgen, S. 17, Taf. 3. — 5 Pfund, 17 5/8 Loth. — 1809. 17. 1. — Ist vom Lissaer Wirthschaftsamte an das Bunzlauer Kreisant, durch dieses an das königl. böhmische Gubernium und weiter an die vereinigte k. k. Hofkanzlei in Wien eingesendet worden, welche den Meteorstein Seiner Majestät dem Kaiser Franz überreichte, der ihn 1809 durch den Herrn Oberstkämmerer, Grafen von Wrbna, dem k. k. Hof-Mineralien-Kabinette übergeben liess.
+
+2\. Bruchstück mit Rinde und einer anpolirten Fläche. — 3 1/32 Lth. — 1808. 26. 1. — Wurde durch das königl. böhm. Gubernium eingesendet.
+
+3\. Bruchstück mit Rinde und theilweise frischem Bruche. — 2 17/32 Loth. — 1838. 24. 1. — Von Herrn Gubernialrath Neumann in Prag in Tausch erhalten.
+
+### 32\. Owahu.
+
+(Oahu oder Woahoo), eine der Sandwich-Inseln, deren Hauptort Honororu (oder Honololu).
+
+Lichtaschgraue, etwas ins Grünliche zichende, durch eingemengte kugelige Ausscheidungen mehr oder weniger deutlich gefleckte Grundmasse, durchzogen von einer grossen Anzahl schwarzer Adern, die sich zum Theil auch verästeln; schwarze, graphitartig glänzende Ablösungen; ziemlich viel, meist fein eingesprengtes gediegenes Eisen; schr fein eingesprengter Magnetkies; matie, schwarze, zum Theil ins Bräunlichrothe umgeänderte Rinde. Eines von den zwei vorhandenen Stücken zeigt auch rostbraune Flecken in der Grundmasse, in Folge der durch Umstände erfolgten, theilweisen Oxydirung des metallischen Eisens, welches die Umgebungen färbte. Dieses Kennzeichen kann daher vorhanden seyn, oder auch fehlen, und ist somit überhaupt nicht bezeichnend. (Dieser Meteorstein steht dem von Lissa am nächsten.)
+
+Zwei Fragmente von den zwei allda gefallenen Steinen, wovon jeder ungefähr 15 Pfund wog.
+
+1\. Fragment mit Rinde und einer unvollkommen anpolirten Fläche. — 2 Lth. — 1842. 34. 1. — Durch den Curator des Yale-College zu New-Haven in Nord-Amerika, Herrn B. Silliman, in Tausch erhalten. Der 2 Pfund schwere Stein, von dem dieses Fragment herrührt, wurde von dem Rev. Henry Bingham von den Sandwich-Inseln nach Nord-Amerika gebracht.
+
+2\. Fragment mit Rinde und anpolirter Fläche. — 3 1/2 Loth. — 1839. 37. 1. — Von der kaiserl. russischen Universität zu Dorpat durch den Professor und Staatsrath, Moritz von Engelhardt, in Tausch erhalten. Wurde von dem in der Dorpater Universitäts-Sammlung aufbewahrten Stücke, welches der damalıls auf Owahu anwesende Herr Ernst Hoffmann, jetzt Professor in Kiew, von der Kotzebue'schen Weltumseglung mitbrachte, abgeschnitten (dabei aber leider mit Oehl getränkt).
+
+### 33\. Charkow.
+
+(Bobrik) Gouv. Charkow, Ukraine, Russland.
+
+1\. October 1787, 3 Uhr Nachmittags.
+
+Lichtaschgraue Grundmasse, mit eingemengten, undeutlichen Körnern, die etwas ins Grünliche ziehen; in mässiger Menge und meist fein eingemengtes metallisches Eisen; schr fein eingesprengter Magnetkies; matte, glatte Rinde. — Das sehr kleine Fragment zeigt keine schwarze Adern oder Ablösungen, die jedoch vorhanden seyn können.
+
+1\. Kleines Fragment mit Rinde und einer kleinen, mit Quarzpulver polirten Fläche, von einem der mehreren ? allda gefallenen Steine. — 3/32 Loth. — 1839. 22. 4. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhalten, Stammt aus der Chladni'schen Meteoriten-Sammlung.
+
+### 34\. Zaborczika.
+
+(Nach einer brieflichen Angabe von Professor Eichwald Saborytz) am Flusse Slucz oder Sluisch ? Gouv. Volhynien, Russland.
+
+30\. März alten Styls 1818.
+
+Lichtaschgraue, durch undeutlich eingemengte Körner von einer anderen Nuance von Grau nicht ganz homogen ausschende Grundmasse, mit kleinen braunen Rostflecken; ziemlich viel eingesprengter Magnetkies. Ueber das Verhältniss des eingemengten metallischen Eisens lässt sich aus Mangel einer polirten Fläche an dem kleinen zerklüfteten Stücke nicht urtheilen. Rinde ist an dem Fragmente nicht vorhanden.
+
+1. Kleines Fragment ohne Rinde. (Die Zahl der gefallenen Steinen ist unbekannt.) — 5/16 Loth. — 1839. 22. 3. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhalten, welcher das Fragment vom Professor Storodeki in Wilna erhielt.
+
+### 35\. Bachmut.
+
+Gouv. Ekaterinoslaw, Russland.
+
+3\. Februar 1814.
+
+Lichtaschgraue Grundmasse, durch undeutliche, auf polirten Flächen mehr wahrnehmbare, kugelige Kinmengungen schwach gefleckt; nicht viel mittelfein eingesprengtes metallisches Eisen; ziemlich viel, meist sehr fein eingesprengter Magnetkies. Rinde fehlt dem vorhandenen Fragmente.
+
+1\. Fragment ohne Rinde und einer unvollkommen anpolirten Fläche von einem einzeln gefallenen Steine von 40 Pfund. — 7/8 Loth. — 1840. 1. 1. — Vom Mineralien-Kabinette der königl. Universität zu Berlin in Tausch erhalten. Das Stück, von welchem dieses Fragment abgeschnitten wurde, stammt aus Klaproths Sammlung.
+
+### 36\. Politz.
+
+(Köstritz) bei Gera im Fürstenthume Reuss.
+
+13\. October 1819, 8 Uhr Morgens.
+
+Lichtaschgraue Grundmasse, mit undeutlichen braunen Flecken und schwarzen Punkten; diekugeligen Ausscheidungen mehr oder weniger deutlich; schwarze Adern scheinen (so viel nach den vorhandenen kleinen Stücken geurtheilt werden kann) nur seltener aufzutreten; ziemlich viel, jedoch meist fein eingesprengtes metallisches Eisen; weniger und höchst fein eingesprengter Magnetkies; matte, ziemlich dicke Rinde.
+
+Drei Bruchstücke von einem einzeln gefallenen, 7 Pfund schweren Steine.
+
+1\. Flaches Bruchstück mit viel Rinde. — 9/16 Lth. — 1840. 23. 2. — Von Doctor Bondi in Dresden gekauft, der esvon Herrn Laspe in Gera erhielt.
+
+2\. a. Kleines Bruchstück mit Rinde. — 7/32 Loth. — 1839. 22. 5. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhälten. Stammt aus der Chladni'schen Meteoriten-Sammlung.
+
+2\. b. Kleines Bruchstück ohne Rinde; von zwei Seiten anpolirt. — 3/8 Loth. — 1839. 22, 6. — Wie Nr. 2a. erhalten.
+
+### 37\. Kuleschofka.
+
+Romenskyscher Kreis, Gouv. Poltawa, Russland.
+
+12\. März 1811, um Mitternacht.
+
+Lichtaschgraue, stark zusammenhängende Grundmasse, mit höchst feinen, schwer unterscheidbaren braunen Pünktchen. Auf polirten Fächen sind undeutliche, kugelige Ausscheidungen, vieles, theils fein, theils grob eingesprengtes metallisches Eisen und ziemlich viel, aber höchst fein eingesprengter Magnetkies wahrzunehmen; letzterer ist auch auf den Bruchflächen leicht zu unterscheiden. Den Stein durchziehen hie und da dünne, schwarze Adern; auch sind schwarze Ablösungsflächen vorhanden. Dicke, matte oder etwas schimmernde Rinde.
+
+Zwei Bruchstücke von einem einzeln gefallenen Steine von 13 Pfund.
+
+1\. Bruchstück mit Rinde und einer anpolirten Fläche. — 8 27/32 Loth. — 1838. 28. 6. — Von der kaiserl. russischen Akademie der Wissenschaften zu Petersburg durch Herrn Professor Kupffer in Tausch erhalten.
+
+2\. Bruchstück mit Rinde. — 2 3/8 Lth. — 1841. 3. 18. — Von Hrn. Dr. Baader gekauft, welcher das Bruchstück von Hrn. Apotheker Krämmerer in Petersburg eintauschte.
+
+### 38\. Slobodka.
+
+Gouv. Smolensk, Russland.
+
+10\. August 1818.
+
+Lichtgraue, rostbraun gefleckte, mit feinen, schwarzen Adern durchzogene Grundmasse; mit vielen, aber undeutlichen kugeligen, meist jedoch eckigen, mit der Grundmasse fest verwachsenen Ausscheidungen, die dem Steine ein marmorirtes Aussehen geben; ziemlich viel, theils fein, theils mittelfein eingesprengtes metallisches Eisen; weniger, sehr fein eingesprengter Magnetkies; fast matte, oder nur schimmernde Rinde.
+
+Drei Bruchstücke von einem einzeln gefallenen Steine von 7 Pfund.
+
+1\. Bruchstück von schwarzen Adern durchzogen, mit Rinde und einer anpolirten Fläche. — 4 3/32 Loth. — 1829. 41. 15. — Von Doctor Fiedler in Dresden gekauft, mit den imaginären Fundörtern: Ural und Ufa. Herr Fiedler erhielt dieses Fragment vomlerrn G. B. Sowerby in London.
+
+2\. Frisches Bruchstück mit etwas Rinde und einer Ablösungsfläche. — 3 3/32 Loth. — 1841. 14. 9. — Aus der Heatl'schen (früher Heuland'schen) Meteoriten-Sammlung durch Herrn Pötschke gekauft, mit der Etiquette: Timochin. — Stammt aus der Sammlung des Sir Alexander Chrichton, welche in London durch Herrn Sowerby versteigert wurde. Dieses Fragment, so wie Nr. 1, sind von einem grösseren Stücke abgeschlagen, welches nunmehr Baron Reichenbach in Wien aus der Heuland'schen Sammlung besitzt.
+
+3\. Fragment ohne Rinde, mit anpolirter Fläche. — 1 3/8 Loth. — 1839. 28. 2. — Aus der Mineralien-Sammlung der königl. Universität zu Berlin durch Professor Weiss mit dem Fundorte Slohbodka‚ Gouv. Smolensk, Russland (gefallen 10. August 1818) in Tausch erhalten. Stammt aus der von der Berliner Universität angekauften Bergemann’schen Mineralien-Sammlung.
+
+Ob die aufgestellten drei Fragmente wohl sicher von einem und demselben Fundorte, auch wirklich von Slohodka seyen, bleibt noch etwas zweifelhaft.
+
+### 39\. Milena.
+
+(Ungarisch: Milyan). Dorf Pusinsko Selo, eine Meile südlich von Milena, Warasdiner Comitat, Croatien.
+
+26\. April 1842, 3 Uhr Nachmittags.
+
+Lichtaschgraue Grundmasse mit braunen Rostflecken, undeutlichen, etwas dunkleren, kugeligen Ausscheidungen, ziemlich viel fein und mittelfein eingesprengtem metallischen Eisen und sehr fein eingesprengtem Magnetkies; matte oder schwach schimmernde Rinde. — Gehört zu der gewöhnlichen Abänderung der lichten, metallisches Eisen führenden Meteorsteine, und ist von den Meteoriten von Slobodka, Forsyth, Glasgow, Yorkshire, Kuleschofka, Politz, Zaborczika und Charkow kaum zu unterscheiden.
+
+1\. Fragment mit frischem Bruch, einer schwach anpolirten Schnittfläche und etwas Rinde, von einem der zwei oder drei allda gefallenen Steine oder Fragmente von mässiger Grösse, deren Gewicht wegen schneller Zertrümmerung der Steine durch die herbeigeeilten Landleute, nicht genau bekannt wurde, und etwa 10 bis 11 Pfund betragen haben mag. — 11 1/16 Loth. — 1842. 45. 1. — Von Sr. Excellenz dem Bischof von Agram, Georg von Haulik, als Geschenk erhalten.
+
+### 40\. Forsyth,
+
+im Staate Georgien, Nord-Amerika.
+
+8\. Mai 1829, zwischen 3 und 4 Uhr Nachmittags.
+
+Lichtgraue, etwas ins Dunkelgraue ziehende, rostbraun gefleckte Grundmasse, mit undeutlichen kugeligen Ausscheidungen; fein eingesprengtes gediegenes Eisen und meist schr fein eingesprengter Magnetkies; dicke, matte Rinde.
+
+Zwei Bruchstücke von einem einzeln gefallenen Stein von 36 Pfund.
+
+1\. Fragment mit Rinde und anpolirter Schnittiläche. — 2 7/8 Loth. — 1832. 43. 13. — Durch den k. k. General-Consul in New-York, Baron Lederer in Tausch erhalten.
+
+2\. Fragment ohne Rinde, jedoch theilweise ganz frischen Bruchflächen. — 2 3/32 Loth. — 1834. 31. 22. — Wie Nr. 1 erhalten.
+
+### 41\. Yorkshire.
+
+(Woldcottage) England.
+
+13\. December 1795, 3 1/2 Uhr Nachmittags.
+
+Lichtgraue, auf polirten Flächen ins Dunkelgraue geneigte, schwach rosthraun gefleckte Grundmasse, mit undeutlichen, ebenfalls grauen, mit der Grundmasse innig verbundenen, kugeligen, oder ovalen Ausscheidungen; ziemlich viel, theils fein, theils mittelfein eingcesprengtes metallisches Eisen; viel, jedoch sehr fein eingesprengter Magnetkies; schwarze, glänzende Ablösungsflächen; matte, oder schwachschimmernde Rinde.
+
+1\. Bruchstück von einem einzeln gefallenen Steine von 56 englischen Pfund, welchen früher die Familie Sowerby in London besass, der aber nunmehr im brittischen Museum zu Tiondon aufbewahrt wird. — 2 3/32 Lth. — 1816. 76. 2. — Von Herrn Sowerby, Vater, aus London in Tausch erhalten.
+
 ...
