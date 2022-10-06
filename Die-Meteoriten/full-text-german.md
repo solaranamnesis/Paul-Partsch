@@ -1145,7 +1145,7 @@ Lichtaschgraue Grundmasse, mit eingemengten, undeutlichen Körnern, die etwas in
 
 Lichtaschgraue, durch undeutlich eingemengte Körner von einer anderen Nuance von Grau nicht ganz homogen ausschende Grundmasse, mit kleinen braunen Rostflecken; ziemlich viel eingesprengter Magnetkies. Ueber das Verhältniss des eingemengten metallischen Eisens lässt sich aus Mangel einer polirten Fläche an dem kleinen zerklüfteten Stücke nicht urtheilen. Rinde ist an dem Fragmente nicht vorhanden.
 
-1. Kleines Fragment ohne Rinde. (Die Zahl der gefallenen Steinen ist unbekannt.) — 5/16 Loth. — 1839. 22. 3. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhalten, welcher das Fragment vom Professor Storodeki in Wilna erhielt.
+1\. Kleines Fragment ohne Rinde. (Die Zahl der gefallenen Steinen ist unbekannt.) — 5/16 Loth. — 1839. 22. 3. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhalten, welcher das Fragment vom Professor Storodeki in Wilna erhielt.
 
 ### 35\. Bachmut.
 
