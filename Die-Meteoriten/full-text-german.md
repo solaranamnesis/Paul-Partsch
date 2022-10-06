@@ -1239,4 +1239,162 @@ Lichtgraue, auf polirten Flächen ins Dunkelgraue geneigte, schwach rosthraun ge
 
 1\. Bruchstück von einem einzeln gefallenen Steine von 56 englischen Pfund, welchen früher die Familie Sowerby in London besass, der aber nunmehr im brittischen Museum zu Tiondon aufbewahrt wird. — 2 3/32 Lth. — 1816. 76. 2. — Von Herrn Sowerby, Vater, aus London in Tausch erhalten.
 
+### 42\. Glasgow.
+
+(High-Possil) Schottland.
+
+5\. April 1804, Vormittags.
+
+Lichtgraue, rostbraun gefleckte, auch schwarz gesprenkelte Grundmasse, mit undeutlichen, grauen, kugeligen Ausscheidungen; mit theils fein, meist jedoch grob eingesprengtem gediegenen Eisen und sehr fein eingesprengtem Magnetkies; matte Rinde. — Steht den Meteorsteine aus Yorkshire sehr nahe.
+
+1\. Bruchstück von einem einzeln gefallenen Steine, wovon nur zwei Fragmente aufgefunden wurden, mit Rinde und einer anpolirten Fläche. — 7/8 Loth. — 1816. 76. 1. — Von Herrn Sowerby, Vater, aus London in Tausch erhalten.
+
+### 43\. Berlanguillas.
+
+(Burgos, Aranda, Roa) Alt-Castilien, Spanien.
+
+8\. Juli 1811, 8 Uhr Abends.
+
+Fast lichtgraue, auf polirten Flächen dunkelgraue, rostbraun gelleckte Grundmasse, mit undeutlichen, mit der Grundmasse innig verbundenen kugeligen Ausscheidungen; viel, zum Theil fein, zum Theil grob eingesprengtes gediegenes Eisen; auch viel, schr fein eingesprengter Magnetkies; matte Rinde. — Gleicht auffallend dem Meteorstein von Apt, nur ist die Masse etwas lichter und die Rinde ebener.
+
+1\. Ein Bruchstück von einem der drei oder vier daselbst gefallenen Steine unbekannten Gewichts, mit anpolirten Flächen und viel Rinde. — 11 9/32 Loth. — 1816. 31. 33. a. — Durch Vermittlung des Directors von Schreibers von dem Museum der Naturgeschichte in Paris in Tausch erhalten. Wurde von einem daselbst aufbewahrten, 3 Pfund schweren, ganzen Steine abgeschnitten.
+
+### 44\. Apt.
+
+(Saurette), Dep. de Vaucluse, Provence, Frankreich.
+
+8\. October 1803. 10 Uhr Vormittags.
+
+Fast lichtgraue, auf polirten Schnittflächen dunkelgraue, rostbraun gefleckte Grundmasse, mit einzelnen, meist lichteren, kugeligen Ausscheidungen; viel, meistens fein, zum Theil aber auch grob eingesprengtes, metallisches Eisen; viel, schr fein eingesprengter Magnetkies; matte, rauhe Rinde.
+
+Zwei Bruchstücke von einem einzeln gefallenen Steine von 7 Pfund 12 Loth.
+
+1\. Bruchstück mit viel Rinde und einer grossen anpolirten Fläche. Ein darin befindliches grosses Eisenkorn ist geätzt. — 16 7/16 Loth. — 1816. 31. 33. b. — Wurde auf Verwendung des Directors von Schreibers im Jahre 1815 von dem im naturhistorischen Museum zu Paris aufbewahrten, 7 Pfund schweren, ganzen Steine abgeschnitten.
+
+2\. Kleines Bruchstück mit Rinde und einer nicht polirten Schnittfläche. — 2 1/8 Loth. — 1841. 19. 10. — Aus der Heuland'schen Meteoriten-Sammlung, durch Herrn Pötschke gekauft. Wurde mit der falschen Localität Casignano (Parma) erhalten, passt jedoch genau an das Stück Nr. 1 an; ist also bestimmt von Apt und wurde in Paris von Nr. 1 abgebrochen. Stammt aus der Mineralien-Sammlung des Herrn Marquis de Dree.
+
+### 45\. Vouillé,
+
+bei Poitiers, Dept. de la Vienne, Frankreich.
+
+18\. Juli (nach dem Cataloge des Pariser Museums), nach andern Angaben 13\. Mai 1831.
+
+Lichtaschgraue, doch schon stark ins Dunkelblaulichgraue geneigte Grundmasse, durch undeutliche, mit der Grundmasse fest verwachsene kugelige Ausscheidungen schwach gefleckt, zum Theil auch mit Rostflecken durchsäet; ziemlich viel, schr fein, zum Theil aber auch grob eingesprengtes metallisches Eisen, sehr fein eingesprengier Magnetkies, schwach schimmernde, fast matte Rinde.
+
+1\. Fragment mit Rinde und einer unvollkommen (ohne Smirgel) polirten Fläche, von einem einzeln gefallenen Steine von 40 Pfund. — 5 1/16 Loth. — 1840. 29. 1. Vom königl. Museum der Naturgeschichte zu Paris auf Vermittlung des Heransgchers in Tausch erhalten. Das Pariser Museum bekam das Stück von Baron Cuvier zu Geschenk.
+
+### 46\. Château-Renard.
+
+Gemeinde Triguères, Dept. du Loiret, Frankreich.
+
+12\. Juni 1841.
+
+Lichtgraue, doch etwas ins Dunkelblaulichgraue ziehende, durch undeutlich eingemengte kugelige Ausscheidungen gefleckt ausschende, zum Theil auch mit Rostflecken besäcte und schwarz punctirte Grundmasse, von schwarzen, dickeren oder dünneren Adern durchzogen, die sich auf den Bruchflächen manchmal als schwarze Ablösungsflächen darstellen; viel fein und grob eingemengtes metallisches Eisen und sehr fein eingesprengter Magnetkies; matte schwarze Rinde.
+
+Drei Bruchstücke von einem einzeln gefallenen, in zwei grosse und viele kleine Fragmente zersprungenen Steine von 70 bis 80 Pfund.
+
+1\. Fragment mit Rinde und anpolirter Fläche. — 18 9/16 Loth. — 1842. 28. 1. — Von Herrn Roussel in Paris in Tausch erhalten.
+
+2\. Scharfkantiges Bruchstück ohne Rinde, mit einer zum Theil dicken, schwarzen Ader. — 7 1/4 Loth. — 1842. 28. 2. — Mit und wie Nr. 1 erhalten.
+
+3\. Anpolirte Platte mit Rinde. — 2 1/16 Loth. — Von 1842. 28. 1. — Wurde von Nr. 1 abgeschnitten.
+
+### 47\. Salés.
+
+Villefranche, Dept. du Rhône, Frankreich.
+
+8\. oder 12. März 1798. 6 Uhr Abends.
+
+Lichtgraue, doch schon etwas ins Dunkle und Braune ziehende, mit sehr feinen schwarzen Adern durchwebte, rosibraun gefleckte und fein schwarz punctirte Grundmasse, mit wenigen kugeligen Ausscheidungen, wovon einige schmutzig dunkelgrün, andere graulich-weiss sind; viel, theils fein eingesprengtes, theils in Körnern, (die manchmal an 2 Linien und darüber lang sind), eingewachsenes gediegenes Eisen und fein eingesprengter Maeneitkies; undeutliche Ablösungsflächen; matte, dicke und rauhe Rinde.
+
+Zwei Bruchstücke von einem einzeln gefallenen Steine von 20 Pfund.
+
+1\. Bruchstück mit Rinde und zwei anpolirten Flächen. — 16 11/16 Loth. — 1841. 14. 3. — Aus der Heuland'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Stammt aus der Mineralien-Sammlung des Herrn Marquis de Dree.
+
+2\. Bruckstück mit einem kleinen Stück Rinde und einer anpolirten Kläche, in welcher zwei grössere, mit Salpetersäure geätzte Körner von gediegenem Eisen eingewachsen sind. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 86, Taf. 7. — 2 13/32 Loth. — 1816. 35. 43. — Auf Verwendung des Directors von Schreibers während dessen Anwesenheit in Paris im Jahre 1815, aus der Sammlung des Herrn Marquis de Dree in Tausch erhalten. (Ist damals von dem jetzt im k. k. Mineralien-Kabinetie befindlichen Stücke Nr. 1 abgeschnitten worden.)
+
+### 48\. Agen.
+
+Dept. Lot et Garonne, Frankreich.
+
+5\. September 1814, Mittags.
+
+Lichtgraue, auf polirten Klächen ins Dunkelgraue ziehende, rosthraun gefleckte und schwarz punctirte, auch mit vielen, meist schr feinen schwarzen Adern durchzogene Grundmasse, mit dunkelgrauen, fest verwachsenen, kugeligen Ausscheidungen; viel, aber sehr fein eingesprengtem und gleichmässig vertheiltem gediesenen Eisen und mikroskopisch fein eingesprengtem Magnetkies; matte, stellenweise auch schlackige Rinde.
+
+Zwei Bruchstücke von zwei der vielen allda gefallenen Steine, welche hinsichtlich der Helligkeit der Grundmasse und der Rostflecken von einander etwas verschieden sind.
+
+1\. Bruchstück mit viel Rinde und einer anpolirten Fläche. — 4 9/32 Loth. — 1816. 31. 33. e. — Auf Vermittlung des k. k. Naturalien-Kabinetts-Directors von Schreibers im Jahre 1815 aus dem königlichen Museum der Naturgeschichte in Paris durch Tausch erhalten.
+
+2\. Bruchstück (halber Stein ?) von lichterem Grau, und mit polirter Kläche. — 7 1/4 Loth. — 1841. 14. 7. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft. Ist von Nr. 1 etwas verschieden. Herr Heuland kaufte das Stück von Herrn Leman in Paris, als die Hälfte des angeblich grössten der bei Agen gefallenen Steine, was jedoch unrichtig ist, da der grösste 18 Pfund wog.
+
+Die Meteorsteine von Agen sind vorzüglich merkwürdig durch den Umstand, dass sie, obwohl gediegenes Eisen führend, doch keinen Nickel enthalten, ein Fall, der unter allen anderen eiscnführenden nur noch hei dem Meteorsteine von Wessely Statt findet.
+
+### 49\. Nanjemoy.
+
+Maryland, in den vereinigten Staaten von Nord-Amerika.
+
+10\. Februar 1825, gegen Mittag.
+
+Zwischen licht uud[dunkelaschgrau schwankende, feste und dichte, zum Theil mit Rostflecken durchsäete Grundmasse, mit theilslichteren, meist aber dunkleren, mit der Grundmasse fest verwachsenen, kugeligen Ausscheidungen; mit ziemlich viel fein eingesprengtem gediegenen Eisen, und höchst fein cingesprengtem Magnetkies; raulle und matte Rinde, mit feinen Sprüngen durchwebt.
+
+1\. Fragment mit Rinde undeeiner anpolirten Fläche von einem einzeln gefallenen Steine von 16 Pfund. — 20 Loth. — 1835. 25. 1. — Aus der ehemahls Heuland'schen, dann Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland in London erhielt das Stück von Professor Silliman aus Nord-Amerika.
+
+### 50\. Asco,
+
+auf der Insel Corsika.
+
+November 1805.
+
+Fast lichtgraue Grundmasse, mit Rostflecken und kleinen undeutlichen kugeligen Ausscheidungen; mit vielem theils fein, theils mittelfein eingesprengtem metallischen Eisen und schr fein eingesprengtem Magnetkies; undeutliche, sehr feine schwarze Adern; schwarze, metallisch glänzende Ablösungen. Rinde ist an dem Fragmente nicht vorhanden. (Dieser Stein ist von dem Meteorsteine von Nanjemoy kaum zu unterscheiden.)
+
+1\. Anpolirtes Fragment ohne Rinde. — 1 1/16 Loth. — 1838. 25. 4. — Aus der ehemahls Heuland'schen, dann Heath'schen Meteoriten - Sammlung durch Herrn Pötschke gekauft. Das Stück stammt aus der Mineralien-Sammlung des Herrn Marquis de Dree in Paris, die Herr Heuland kaufte.
+
+Ueber den Steinfall von Asco ist nichts öffentlich bekannt zemacht worden; dasser sich ereignet, wurde uns durch verlässliche Zeugnisse aus Corsika hekräftiget und dabei gemeldet, dass der gefallene Stein in einer Kircho aufbewahrt werde.
+
+### 51\. Toulouse.
+
+(Permejean, Pechmeja), Dept. der oberen Garonne, Frankreich.
+
+10\. April 1812, 8 1/4 Uhr Abends.
+
+Schwach dunkelgraue, rostbraun ecfleckte Grundmasse, mit kleinen und undeutlichen, mit der Grundmasse fest verwachsenen kugeligen Ausscheidungen; mit viel, ziemlich fein und gleichförmig eingesprengtem metallischen Eisen und höchst fein eingesprengtem Magnetkies; matte, mit kleinen runden Erhöhungen oder Narben besetzte Rinde.
+
+1\. Bruchstück von einem der mehreren allda gefallenen, aber meist nicht aufgefundenen Steine (das Aufgefundene soll nach Chladni höchstens 16 Loth wiegen), mit Rinde und einer polirten Fläche. — 15/16 Loth. — 1816. 31. 33. d. — Auf Verwendung des Directors von Schreibers im Jahre 1815 durch Tausch aus dem königl. Museum der Naturgeschichte in Paris von dem daselbst aufbewahrten 6 Loth schweren Steine erhalten.
+
+Das im kön. Mineralien-Kabinett zu Berlin befindliche, aus Chladnis Sammlung herrührende Stück von Toulouse ist dunkler als das in unserer Sammlung vorhandene, und ähnelt mehr den Steinen von Limerik und Tipperary. Chladni erhielt das Stück von Professor Laugier. — Man sehe auch das bei Nr. 3 im Auhange zur Localität Luce Bemerkte.
+
+### 52\. Blansko.
+
+Brünner Kreis, Mähren.
+
+25\. November 1833, 6 1/2 Uhr Abends.
+
+Dunkelgraue, rostbraun gefleckte Grundmasse, mit ziemlich vielen dunkleren, kleinkugeligen Ausscheidungen, viel fein eingesprengtem metallischen Eisen, und sehr fein eingesprengtem Magnetkies; matte Rinde. — Ist von den Steinen von Toulouse und Wessely kaum zu unterscheiden.
+
+1\. a. Ein ganzer, überrindeter Stein, mit ein Paar kleinen Bruchflächen. Einer von den 8 Steinen, die durch Dr. Reichenbach mit vielen Kosten und grosser Anstrengung aufgefunden wurden. Die von demselben abgeschnittene Ecke liegt unter:
+
+1\. b. Beide Schnittflächen sind polirt und lassen ein Paar feine Adern wahrnehmen; auch ist eine Ablösungsfläche sichtbar. — Beide Stücke wiegen zusammen 3 31/32 Loth. — 1834. 32. 1. — Von Herrn Dr. Reichenbach in Tausch erhalten.
+
+### 53\. Wessely.
+
+(Znorow), Hradischer Kreis, Mähren.
+
+9\. September 1831, 3 Uhr Nachmittags.
+
+Dunkel- fast blaulichgraue, schwach rostbraun gefleckte, mit sehr feinen schwarzen Adern durchzogene Grundmasse, mit undeutlichen, meist kleinen, kugeligen Ausscheidungen; viel fein eingesprengtem, gleichmässig vertheiltem metallischen Eisen und wenig höchst fein, fast mikroskopisch eingesprengtem Magnetkies; matte Rinde mit kleinen Erhöhungen oder Narben (wie am Steine von Toulouse). — Nahe verwandt mit den Meteorsteinen von Limerik und Tipperary; nur etwas heller.
+
+1\. Ein ganzer Stein, der einzige, welcher da fiel. An drei Stellen ist die Rinde beim Fallen in geringer Ausdehnung abgesprengt, an zwei anderen sind kleine Stückchen abgesägt worden; eine von den dadurch entstandenen Schnittflächen ist polirt.
+
+Ausführlich ist dieser Meteorstein beschrieben in dem Berichte des Directors von Schreibers über den Meteorstein-Fall von Wessely in Baumgariners Zeitschrift für Physik und verwandte Wissenschaften, Band 1. Seite 193. Auch ist am k. k. Hof-Mineralien-Kabinette eine schr genaue Lithographie dieses Steines vorhanden. — 6 Pfund, 17 1/2 Loth. — 1832. 7. 1. — Vom herrschaftlichen Wirthschaftsamte zu Wessely an das k.k. Kreisamt zu Hradisch abgeliefert, zclangte dieser Meteorstein an das Landes-Präsidium zu Brünn und von da an die k. k. Hofkanzlei nach Wien, welche ihn Seiner Majestät dem Kaiser Franz vorlegte, auf dessen Befehl er in dem k. k. Hof-Mineralien-Kabinette hinterlegt wurde.
+
+2\. a. und b. Zwei kleine anpolirte Fragmente, wovon eines mit Rinde. — Zusammen 15/32 Loth. — Abfälle, erhalten beim Absägen eines kleinen Stückes für das Franzens-Museum zu Brünn, für welches auch ein Gyps-Modell von diesem Steine angefertigt wurde.
+
+Wir haben schon bei dem Metcorstein von Agen Nr. 48 bemerkt, dass ausser diesem, unler allen Meteorsteinen die gediegenes Eisen einschliessen, nur noch der von Wessely die merk würdige Erscheinung darbiethet, keinen Nickel zu enthalten.
+
+### 54\. Limerik.
+
+(Adare, Patrikswood, Scagh, Brasky, Faha), Grafschaft Limerik, Irland.
+
+10\. September 1813, 9 Uhr Morgens.
+
 ...
