@@ -1643,7 +1643,7 @@ Ein Gemenge von gediegenem Eisen mit einem gleichen Verhältniss vou lichtgrüne
 
 2\. Bruchstück, durch das Entzweireissen der Masse an der Oberfläche kurzzähnig, mit anpolirter Fläche. — 1 Pfund, 1 Loth. — 1834. 5. 1. — Durch Doctor Bondi in Dresden von Herrn Heuland in London zu Kauf erhalten.
 
-3\. Ein dickes Plättchen von Nr. 2 abgeschnitten, mit polirter und dann geätzter Schuittfläche. — 6 Loth. — Von 1834. 5. 1.
+3\. Ein dickes Plättchen von Nr. 2 abgeschnitten, mit polirter und dann geätzter Schnittfläche. — 6 Loth. — Von 1834. 5. 1.
 
 Herr Hippolyte Jubin, königl. französischer Schiffslieutenant, brachte ein Meteoreisen aus Peru nach Frankreich (in das Museum von Angers), das bei Potosi in Bolivia gefunden worden seyn soll. (Siehe Chronique scientifique, eine Beilage zum Institut, Nr. 8, von 24. Fehruar 1839, dann Poggendorffs Annalen, Band 47. S. 470.) Es gleicht nach der Beschreibung ganz dem Meteoreisen von Atacama, und der Fundort Potosi ist wohl nur eine irrige Angabe von Seite des Mittheilers des Stückes an Herrn Jubin.
 
