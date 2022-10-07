@@ -1397,4 +1397,242 @@ Wir haben schon bei dem Metcorstein von Agen Nr. 48 bemerkt, dass ausser diesem,
 
 10\. September 1813, 9 Uhr Morgens.
 
+Dunkelasch- oder blaulichgraue, rostbraun gcfleckte Grundmasse, mit einzelnen deutlichen, meist aber undeutlichen kugeligen Ausscheidungen; viel fein eingesprengtesmetallischesEisen (auf polirtenFlächen zuweilen zuLinien vereinigt) und schr fein eingesprengter Magnetkies; schwarze, mehr oder weniger deutliche, zum Theil metallisch glänzende Ablösungsflächen; matte, zuweilen aderige Rinde. — (Von dem Meteorsteine von Tipperary nicht unterscheidbar.)
+
+Drei Bruchstücke von den mehreren daselbst gefallenen Steinen, deren Gesammtgewicht nicht bekannt ist.
+
+1\. Fragment mit anpolirter Fläche und stark aderiger, dicker Rinde. — 3 31/32 Loth. — 1818. 26. B. 194. — Geschenk von Professor Gieseke in Dublin.
+
+2\. Längliches Fragment mit brauner, glatter Rinde. — 3 1/8 Loth. — 1827. 27. 4054. — Aus der von der Nüll'schen Mineralien-Sammlung. Herr von der Nüll erhielt es von Professor Gieseke in Dublin.
+
+3\. Fragment mit metallisch glänzenden Ablösungen und ziemlich glatter Rinde. — 2 9/32 Loth. — 1821. 9. 12. — Von Herrn G. B. Sowerby in London gekauft.
+
+Mit der Angahe des Fallortes Limerik erhielt das kaiserl, Mineralien-Kabinett später ein Fragment, dasden hier aufgeführten drei Fragımenten nicht gleicht. (Siehe denAnhang zu Luce.) Wir überzeugten uns, dass unsere drei Fragmente den im hrittischen Museum vonder Localität Limerik aufbewahrten Stücken vollkonimen ähnlich sind, durch ein Fragment, das Herr Heuland nach Wicnschickte, und nun im Besitze von Baron Reichenbach ist. Sollten vielleicht bei Limerik, wie bei Weston, Steine von verschiedenem Aussehen gefallen seyn?
+
+### 55\. Grüneberg (Grünberg).
+
+(Heinrichau), Regierungsbezirk Liegnitz, Schlesien.
+
+22\. März 1841, Nachmittags 3 1/2 Uhr.
+
+Dunkelasch- oder blaulichgraue Grundmasse, mit sehr undeutlichen , kleinkugeligen Einmengungen undschwarzen, glänzenden Ablösungsflächen. Da das kleine Fragment nicht anpolirt ist, so lässt sich über die Menge des eingemengten metallischen Eisens und des Magnetkieses kein sicheres Urtheil fällen; ersteres scheint in ziemlicher Menge, aber fein eingesprengt vorhanden zu seyn. Das Fragment zeigt auch nur unvollkommene, dünne Rinde. — (Dieser Meteorstein ist aufBruchflächen von den Steinen von Tipperary und Lumerik nicht zu unterscheiden.)
+
+1\. Kleines Fragment mit unvollkommener Rindenbildung, von einem einzeln gefallenen Steine, welcher in mehrere Stücke zerbrach, von denen zwei, in einem Gesammtgewichte von 2 Pfund 20 1/2 Loth aufgefunden wurden. — 1/2 Loth. — 1842. 35. 1. — Von Herrn Professor von Glocker in Breslau in Tausch erhalten.
+
+### 56\. Tipperary.
+
+(Mooresfort), Grafschaft Tipperary, Irland.
+
+August 1810, Mittags.
+
+Dunkelasch-, fast blaulichgraue, mit einigen sehr feinen, schwarzen Adern durchzogene Grundmasse und wenigen schwachen Rostflecken; kleinkugelige, dunklere Ausscheidungen, die zuweilen auseinander laufend fascrige Structur zeigen; viel fein eingesprengtes gediegenes Eisen, und viel, sehr fein eingesprengter Magnetkies, von welch letzterem stellenweise auch einige grössere Körner sichtbar sind; manchmahl auch undeutliche, schwarze Ablösungsflächen; aderige, matte und dicke Rinde.
+
+Zwei Bruchstücke von einem einzeln gefallenen Steine von 7 3/4 Pfund.
+
+1\. Bruchstück mit Rinde und einer anpolirten Fläche. — 14 17/32 Loth. — 1816. 75. 1. — Ein Geschenk des Professors Gieseke in Dublin.
+
+2\. Kleines Bruchstück mit ganz frischem Bruche, grossen Rostflecken, einer Ablösungsfläche und etwas Rinde. — 1 3/8 Loth. — 1839. 4. 14. — Durch Herrn Dr. Baader von Herrn Heuland in London gekauft. Dieses Fragment rührt wahrscheinlich von dem jetzt im brittischen Museum befindlichen Stücke von Tipperary her, ist aber jedenfalls, wie Herr Sowerby durch Herrn Heuland verbürgen liess, damit vollkommen identisch.
+
+### 57\. Gouvernement Kursk.
+
+Russland.
+
+Ohne nähere Angabe des Fallortes, und ohne Angabe der Fallzeit erhalten.
+
+Dunkelaschgraue Grundmasse, mit {heils lichteren,
+theils dunkleren, zuweilen fast schwärzlichen, kugeligen
+Ausscheidungen; mit fein und mittelfein, wie es scheint,
+ungleichförmig eingesprengtem gediegenen Eisen und
+fein eingesprengtem Magnetkies; matte Rinde. (Wegen
+Kleinheit der vorhandenen Fragmente ist die Diagnose
+vielleicht nicht ganz vollständig.)
+
+1\. Drei sehr kleine Fragmente, sämmtlich mit Rinde, eines davon anpolirt. — Zusammen 3/16 Loth. — 1838. 28. 5. — Von der kaiserl. russischen Akademie der Wissenschaften zu Petersburg durch Professor Kupffer in Tausch erhalten.
+
+Ueber diesen Steinfall ist eben so wenig etwas öffentlich bekannt gemacht worden, wie über die aus den Gouvernements Simbirsk und Poltawa (nicht Kuleschofka); auch konnten wir darüber aus St. Petersburg, unserer Bemühungen ungeachtet, bisher keine nähere Notiz erhalten.
+
+### 58\. Lixna,
+
+bei Dunaburg, Gouv. Witepsk, Russland (ehemahls pohlnisch Liefland oder Lithauen).
+
+12\. Juli (oder 30. Juni alten Styls) 1820, zwischen 5 und 6 Uhr Abends.
+
+Fast dunkelaschgraue, mit kleinen Rostflecken durchsäeteund von schwarzen Linien durchzogene Grundmasse, mit zahlreichen, aber kleinen, dunkelgrauen, mit der Grundmasse fest verwachsenen und daher aus derselben auf Bruchflächen nicht hervortretenden kugeligen Ausscheidungen; viel fein und mittelfein eingesprengtes gediegenes Eisen und schr fein eingesprengter Magnetkies; zahlreiche schwarze und glänzende Ablösungsflächen, welche diesen Stein besonders auszeichnen; matte, etwas rauhe Rinde.
+
+1\. Fragment mit Rinde, zwei Absonderungs- und einer anpolirten Schnittfläche, von einem der mehreren allda gefallenen Steine. — 14 11/32 Loth. — 1838. 9. 1. — Von Herrn Doctor Estreicher, Professer der Naturgeschichte an der Universität zu Krakau, in Tausch erhalten.
+
+### 59\. Tabor.
+
+(Plan, Strkow u. s. w.) im Taborer (ehemahls Bechiner) Kreise, Böhmen.
+
+3\. Juli 1753, 8 Uhr Abends.
+
+Dunkel- fast blaulichgraue, rostbraungefleckte, dichte und stark zusammenhängende Grundmasse, mit meist kleinen und nicht schr deutlichen kugeligen Ausscheidungen; viel fein und grob eingemengies, zum Theil auch zu Adern und rundlichen Partien vereinigtes metallisches Eisen; schr fein eingesprengter Magnetkies; matte Rinde. — Einer der eisenreichsten Meteorsteine.
+
+Sieben Stücke, darunter ein grosser ganzer Stein, ein kleinerer fast ganzer und ein kleiner ganzer, von den ziemlich vielen der allda gefallenen Steine.
+
+1\. Grosser, ganzer Stein, fast 7 Zoll lang, 2 1/2 Zoll hoch, verschoben viereckig; die Rinde an zwei Stellen angebrochen; auch sonst noch kleine, vom Falle herrührende Beschädigungen an Ecken und Kanten. In einer Vertiefung steckt ein bohnengrosses Eisenkorn; Spuren von anderen sind an der Rinde vorhanden. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 10. Taf. 2. — 4 Pfund 31 Loth. — 1. 4. — Ist von dem damahligen Kreishauptmann zu Tabor, Grafen von Wratislaw, gleich nach der Begebenheit im Jahre 1753 mit einem umständlichen Berichte an das böhmische Gubernium, und von diesem an die k. k. Hofkanzlei eingesendet worden.
+
+2\. Fast ganzer Stein, von vierseitig prismatischer Form, oben mit einer frischen Bruchfläche; an einer der 4 Seitenflächen eine Ablösungsfläche. — 1 Pfund 3 1/2 Loth. — 1840. 11. 1. — Von Herrn Ludwig von Scala aus der Mineralien-Sammlung des verstorbenen Grafen Gregor Razoumovsky gekauft, wo der Stein ohne Bezeichnung des Fundortes lag. Stammt wahrscheinlich aus der Mineralien-Sammlung des Fürsten Sinzendorf, die Graf Razoumovsky kaufte.
+
+3\. Ein ganzer, aber entzweigebrochener kleiner Stein, von interessanter prismatischer Form, an dem einen Ende dicker. — 1 7/8 Loth. — 1832. 6. 7. — Stammt aus der Mineralien-Sammlung des verstorbenen Baron Thavonat, und wurde später durch Doctor Baader an das k. k. Mineralien-Kabinett verkauft.
+
+4\. Vierseitig pyramidales, stark umrindetes Bruchstück eines grossen Steines; die Bruchfläche, welche während des Falles entstanden und unvollkommen überrindet ist, zum Theil anpolirt. — 31 Loth. — 1841. 14. 2. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft. War irrthümlich als L'Aigle bezeichnet.
+
+5\. Dünner, plattenförmiger Abschnitt, mit polirter Fläche und viel Rinde. — 2 29/32 Loth. — 1838. 4. 1. — Von Herrn Grafen von Beroldingen, k. k. Kämmerer, eingetauscht. Lag früher in der Mineralien-Sammlung des Herrn Morgenbesser, ohne Angabe des Fallortes.
+
+6\. Ein kleines Bruchstück mit Rinde. — 2 19/32 Loth. — 1811. 16. 1. — Von Doctor Pohl in Prag zu Tausch erhalten.
+
+7\. Eine viereckige, von beiden Seiten polirte Platte, mit einer Eisenader, — 2 17/32 Loth. 1. 5. — Vom verstorbenen Kabinetts-Custos von Mühlfeld erhalten.
+
+Die Meteorsteine von Tahor (1753) sind die ersten, die in wissenschaftliche Sammlungen kamen, Der grosse Stein von Tabor (Nr. 1) inder Sammlung des k. k. Mineralien-Kabinettes und die ebenfalls darin befindliche berühmte Eisenmasse von Agram (1751), von der später die Rede seyn wird, waren die ersien in ihrer Integrität verbliebenen Meteoriten, die Chladni, der Meister in der Meteoritologie, Leopold v. Buch und andere Gelehrte zu sehen bekamen. Die Fragmente des älteren Meteorsteines von Ensisheim (1492) wurden, wie bei dieser Localität (Nr. 15) bemerkt worden ist, erst später in Circulation gesetzt und hatten als Fragmente, wie die Bruchstücke des Pallasischen Eisens weniger Interesse. — Frühere Gelehrte liessen sich durch den Anblick der erwähnten Massen von ihrer vorgefassten Meinung nicht abbringen. Born äussert in seinem Lithophylacium Bornianum, B. 1. S. 125, bei den Steinen von Tabor: quae 3 Julii anni 1753 inter tonitrua e Coelo pluisse creduliores quidam asserunt.
+
+### 60\. Charsonville.
+
+(Orleans, Beaugency, Mortelle, Villerai, Moulin-brule) Dept. du Loiret, Frankreich.
+
+23\. November 1810, 1 1/2 Uhr Nachmittags.
+
+Ins Dunkelasch- oder Blaulichgraue ziehende, dichte und feste, von vielen Rostflecken wie marmorirt aussehende Grundmasse; die kugeligen Ausscheidungen undeutlich und mit der Grundmasse innig verwachsen; sehr viel fein und gleichförmig eingesprengies gediegenes Eisen und höchst fein eingesprengter Magnetkies; dickere und dünnere, eiwas verzweigie Adern; matte, etwas schimmernde Rinde.
+
+Zwei Bruchstücke von einem der zwei aufgefundenen Steine, wovon einer 40, der andere 20 Pfund wog.
+
+1\. Grosses Bruchstück mit Rinde und einer grossen anpolirten Schnittfläche. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 65, Taf. 7. — 30 Loth. — 1816. 31. 33. f. — Von dem königl. Museum der Naturgeschichte zu Paris auf Vermittlung des Directors von Schreibers von dem daselbst aufbewahrten 11 Pfd. schweren Bruchstücke in Tausch erhalten.
+
+2\. Kleines Bruchstück ohne Rinde und mit polirter Fläche. — 4 Loth. — 1841. 14. 8. — Aus der Heuland'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft.
+
+Dem Meteorsteine von Charsonville oder Orleans verleihen die darin befindlichen schwarzen Adern oder Gänge, die in keinem anderen Meteorsteine so schön und in solcher Deutlichkeit zu finden sind, ein besonderes Interesse. Grosse polirte Schnittflächen, wie die bei dem Stücke Nr. 1, stellen die Beschaffenheit und Verzweigung dieser Gänge am schönsten dar.
+
+### 61\. Doroninsk.
+
+Gouv. Irkutsk, Sibirien.
+
+25\. März 1805, 5 Uhr Nachmittags.
+
+Dunkelaschgraue, durch eine Menge von Rostflecken fast braun erscheinende, sehr dichte Grundmasse, mit undeutlichen und kleinen lichteren kugeligen Ausscheidungen, welche, mit der Grundmasse fest verwachsen, als kleine Flecken erscheinen; vielfein eingesprengtes gediegenes Eisen undhöchst fein eingesprengter Magnetkies; schwarze Ablösungsflächen und undeutliche, sehr feine, die Masse durchzichende Adern; matte, schwarze Rinde. — (Ist von dem Meteorsteine von Seres in Macedonien kaum zu unterscheiden.)
+
+1\. Fragment mit Rinde und einer anpolirten Fläche, von einem der zwei allda aufgefundenen Steine, deren einer 7 und der andere 2 1/2 Pfund wog. — 1 3/4 Loth. — 1839. 22. 2. — Aus der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss eingetauscht. Befand sich früher in der Klaproth'schen Mineralien-Sammlung.
+
+### 62\. Seres.
+
+Macedonien, Turkey.
+
+Juni 1818.
+
+Dunkelasch- oder blaulichgraue,, rostbraun gefleckte, sehr dichte Grundmasse, mit rundlichen lichteren Stellen, welche von kugeligen, aber mit der Grundmasse innig verbundenen Ausscheidungen herrühren; viel, meist fein eingesprengtes metallisches Eisen und höchst fein eingesprengter Magnetkies; gestreifte Ablösungsflächen, matte Rinde.
+
+Zwei Bruchstücke von einem einzeln gefallenen Steine von 15 Pfund, welchen Iussuf-Pascha, Statthalter von Seres in Macedonien, seinem Leibarzte, Herrn Grohmann, schenkte. Letzterer brachte den Stein nach Wien und verehrte ihn seinem ehemaligen Lehrer, Hrn. Professor Andreas Ritter von Scherer, in dessen Besitz er sich noch befindet.
+
+1\. Bruchstück mit einer kleinen anpolirten Fläche. — 6 21/32 Loth. — 1832. 11. 1. — Geschenk von Herrn Ritter Pittoni von Dannenfeld in Grätz, der das Fragment von Doctor Grohmann erhielt.
+
+2\. Bruchstück mit frischem Bruche, ohne Rinde, mit einer verrosteten, schwach gefurchten Ablösungsfläche. — 3 3/32 Loth. — 1842. 26. 1. — In Tausch von Baron Lederer, k. k. österreichischen General-Consul zu New-York, erhalten. Baron Tiederer kaufte das Stück mit einer Mineralien-Sammlung in Wien mit der Etiquette: Syrmien, 1824, und schickte dasselbe zur näheren Bestimmung aus Nord-Amerika an das k. k. Mineralien-Kabinett, wo es sogleich für Seres erkannt wurde. Für die Richtigkeit der Bestimmung zeugte der später aufgefundene Umstand, dass eine Bruchfläche dieses Stückes an eine Bruchfläche des Stückes Nr. 1 anpasst. (Auch andere lange getrennt gewesene, an einander passende Stücke anderer Localitäten haben sich in der Metcoriten-Sammlung des k. k. Mineralien-Kabinettes wieder zusammen gefunden.)
+
+### 63\. Sigena.
+
+Dorf Sena, Bezirk Sigena, Aragonien, Spanien.
+
+17\. November 1773, Mittags.
+
+Fast dunkelgraue, rostbraun gefleckte Grundmasse; mit wenigen kugeligen Ausscheidungen, viel fein eingesprengtem metallischen Eisen und wenig sehr fein eingesprengtem Magnetkies. — (Ist nahe verwandt mit den Steinen von Barbotan.)
+
+1\. Ein sehr kleines Bruchstück ohne Rinde, von einem einzeln gefallenen Steine von 9 Pfund 2 Loth. — 7/32 Loth. — 1816. 31. 33. g. — Wurde auf Verwendung des Dircctors v. Schreibers im Jahre 1815 von dem kleinen Stücke von Sigena im königl. Museum der Naturgeschichte zu Paris abgeschnitten und in Tausch erhalten.
+
+### 64\. Barbotan.
+
+(Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), im Dept. des Landes, im Dept. du Lot et Garonne und im Dept. du Gers (Gascogne), Frankreich. (Werden zuweilen auch Meteorsteine von Bordeaux genannt.)
+
+24\. Juli 1790, 9 Uhr Abends.
+
+Fast dunkelgraue, stark rostbraun gefleckte, feste Grundmasse, mit schr wenig kugeligen Ausscheidungen; sehr viel, meist fein eingesprengfies metallisches Eisen, das hie und da in grösseren, zuweilen linsen- und bohnengrossen Körnern, und auch in unvollkommenen Hexaedern hervortritt; schr fein eingesprengter Magnetkies; schimmernde schwarze Ablösungsflächen; matte Rinde.
+
+Zwei Bruchstücke von zwei der vielen allda gefallenen Steine, wovon einige über 20 Pfund wogen.
+
+1\. Grosses Bruchstück mit Rinde und einer anschnlichen, polirten Fläche; an der Bruchfläche ragen zwei unvollkommene Hexaeder von gediegenem Eisen hervor. — 19 3/4 Loth. — 1841. 14. 4. — Aus der Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft.
+
+2\. Bruchstick ohne Rinde, mit lachen linsengrossen Eisenkörnern und zwei schwarzen Ablösungsflächen. — 15 21/32 Loth. — 1827. 27. 4052. Aus der von der Nüll'schen Mineralien-Sammlung.
+
+Der Meteorsteinfall von Barbotan ist einer der beirächtlichsten und ausgedehntesten gewesen, da er sich über mehrere Ortschaften verschiedener, jedoch benachbarter Departements erstreckte. Er fiel in die Zeit völligen Unglaubens und grösster Verstockung (1790). Die Acusserungen von Bertholon im Journal des sciences utiles vom Jahre 1790 über den Verbal-Prozess, den die Municipalität von Juillac über das Phänomen und den Steinfall ahgefasst hatte (d'un fait evidement faux, d'un phenomene physiquement impossible) und über die Erzählungen von Augenzeugen des Ereignisses (qui ne peuvent qu'exciter la pitie, nous ne dirons pas seulement des physiciens, mais de tous les gens raisonnables) verdienen, dass sie als Beiträge zur Geschichte der Meteoriten nicht in Vergessenheit gerathen.
+
+### 65\. Eichstädt.
+
+(Wittens), Franken, Königreich Baiern.
+
+19\. Februar 1785, Mittags.
+
+Dunkelgraue Grundmasse mit vielen Rostflecken; zahlreiche, auf Bruchflächen aus der Grundmasse hervorragende kleinkugelige Ausscheidungen; viel mittelfein eingesprengtes metallisches Eisen; weniger und sehr fein eingesprengter Magnetkies; dicke, matte Rinde.
+
+Zwei Bruchstücke von einem, so viel bekannt, einzeln gcfallenen Steine von 5 Pfund 22 Loth.
+
+1\. Bruchstück mit Rinde und einer anpolirten Fläche. — Beschrieben und abgebildet in von Schreibers Beiträgen, Seite 13, Taf. 2. — 6 31/32 Loth. — 1. 8. — Wurde durch den Domherrn von Hompesch in Eichstädt, um das Jahr 1789, dem damahligen Directors-Adjuncten am k. k. Naturalien-Kabinette, Abbe Stütz, mitgetheilt.
+
+2\. Kleines Bruchstück mit frischem Bruche und etwas Rinde. — 11/32 Loth. — 1840. 4. 6. — Aus der Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Stammt aus der de Dree'schen Mineralien-Sammlung (in welcher es beim Verkaufe durch Verwechslung die Etiquette mit dem Fallorte Mauerkirchen führte).
+
+### 66\. Gross-Divina,
+
+nachst Budetin, unweit Sillein, im Trentschiner-Comitate, Ungarn.
+
+24\. Juli, 1837, 1/2 12 Uhr Mittags.
+
+Zwischen dunkel- und lichtaschgrau schwankende, mit braunen Rostflecken erfüllte Grundmasse, mit einer grossen Anzahl von kleinen, dunkelgrauen kugligen Ausscheidungen, die auf Bruchflächen aus der Grundmasse zum Theil hervorragen; mit ziemlich viel fein eingesprengtem metallischen Eisen und höchst fein eingesprengtem Magnetkies; matte, theils ziemlich glatte, theils höchst rauhe Rinde. — (Steht den Meteorsteinen von Timochin, Zebrak und Eichstädt sehr nahe.)
+
+1\. Anpolirtes Fragment, mit Rinde von zweierlei Beschaffenheit, von einem einzeln gefallenen Steine von 19 Pfund Wiener Gewicht, der sich jetzt im k. National-Museum zu Pesth befindet. — 3 11/16 Loth. — 1838. 1. 1. — Geschenk von Herrn Johann Lottner, Pfarrer zu Gross-Divina.
+
+Ueber den Steinfall von Gross-Divina oder Budetin besitzen wir nur Zeitungsnachrichten (darunter eine in der allgemeinen Zeitung vom 27. August 1837) und eine kleine Notiz von H. Zipser in Leonhards und Bronns Jahrhuch für Mineralogie (Jahrgang 1840. S. 89.) Wir haben uns kurz nach dem Falle sowohl um den einzeln gefallenen Stein, der jedoch schon dem ungarischen National-Museum in Pesth zugesichert worden war, als um Nachrichten über das Freigniss beworben. Der Stein kam durch die Gefälligkeit der Gräfin Ludmilla von Csaky, Herrschaftsbesitzerin von Budetin, zur Ansicht in das k. Mineralien-Kabinett nach Wien, wo wir davon Zeichnungen und ein Gypsmodell anfertigen liessen. Er gehört durch seine Form und Ueberrindung und durch die Eindrücke au einem Theile seiner Oberfläche zu den merkwürdigsten Meteorsteinen. Herr Professor Sadler, Custos am National-Museum zu Pesth, ist beschäftiget, über diesen und den Meteorstein von Milena in Croatien (siehe Nr. 39) Notizen zu sammeln und diese, nebst dem lesultate der chemischen Untersuchung der zwei Steine, der wissenschaftlichen Welt bekannt zu geben.
+
+### 67\. Zebrak.
+
+(Horzowitz, Praskoles), Berauner Kreis, Böhmen.
+
+Mehr dunkel- als lichtgraue, aber ganz mit braunen Rostflecken erfüllte Grundmasse; viele kleine auf Bruchflächen aus der Grundmasse zum Theil heraustretende und daher mit ihr nicht fest verwachsene kuglige Ausscheidungen; viel ziemlich fein eingesprengtes gediegenes Eisen und viel sehr fein eingesprengter Magnetkies; dicke und matte Rinde. — (Ist den Steinen von Eichstädt und Smolensk nahe verwandt.)
+
+1\. Bruchstück mit viel Rinde und anvolirter Fläche, von einem in drei Stücke zerfallenen Steine, welche zusammen etwa 4 Pfund gewogen haben sollen. (Es fiel auch ein zweiter Stein, der aber nicht aufgefunden worden zu seyn scheint.) — 20 3/16 Loth. — 1832. 31. 1. — Vom vaterländischen Museum in Prag durch Tausch erhalten.
+
+### 68\. Timochin.
+
+Gouv. Smolensk, Russland.
+
+13\. März, 1807. Nachmittags.
+
+Zwischen licht- und dunkelaschgrau schwankende Grundmasse, mit vielen Rostflecken und dunkleren, aus der Grundmasse heraustretenden kugligen Ausscheidungen; viel fein eingesprengtes gediegenes Eisen und sehr fein eingesprengter Magnetkies; dicke und matte Rinde.
+
+Zwei Bruchstücke von einem einzeln gefallenen Steine von 140 Pfund.
+
+1\. Bruchstück mit Rinde und anpolirter Fläche. — Beschrieben und abgebildet in von Schreibers Beiträgen Seite 63. Taf. 7. — 4 3/4 Loth. — 1810. 2. 3. — Von dem verstorbenen Professor und Medicinalrath Klaproth in Berlin als Abschnitt von einem grösseren Bruchstücke gekauft.
+
+2\. Fragment mit etwas Rinde und ganz frischem Bruche. — 3 1/4 Loth. — 1838. 28. 3. — Von der kaiserl. russischen Akademie der Wissenschaften in Petersburg durch Herrn Professor Kupffer in Tausch erhalten.
+
+### 69\. Macao,
+
+Dorf am Flusse Açu (Assu), oder Amargoro, Provinz Rio grande do Norte (nicht Ceara), Brasilien.
+
+11\. November (nicht 11. December) 1836, 5 Uhr Morgens.
+
+Fast dunkel aschgraue, mit einer grossen Menge von Rostflecken durchsäcte, sehr feste Grundmasse, mit undeutlichen, kugligen Ausscheidungen; mit einer grossen Menge meist fein eingesprengten metallischen Eisens, das sich jedoch oft zu geraden, oder krummen dicken Linien zusammenhäuft, und viel sehr fein eingesprengtem Magnetkies; matte oder schwach schimmernde, meist stark verrostete, zuweilen verschlackte Rinde. — (Hat grosse Achnlichkeit mit dem Meteorstein von Timochin.)
+
+Drei kleine ganze Steine und vier Bruchstücke von der ungeheueren Menge der allda gefallenen Steine.
+
+1\. Rundlicher, vollkommen ganzer Stein, mit verrosteter Rinde. — 3 Loth. — 1839. 27. 5. — Auf Vermittlung des Herrn Johann Natterer, Custos-Adjuncten am k. k. Hof-Naturalien-Kabinette, durch gütige Bemühung des Herrn Tegetmeyer, österreichischen Vice-Consuls-Stellvertreter zu Pernambuco, und des H. Breisky, österreichischen Vice-Consuls zu Bahia, von dem ersteren mit den folgenden sechs Stücken als Geschenk erhalten.
+
+2\. Ganzer, rundlicher Stein, an einer Seite gewölbt, an der andern flach; an letzterer etwas angebrochen, verrostet und mit verschlackter Rinde. — (Erhielt nach seiner Einsendung Sprünge, die durch das fortgesetzte Rosten des Eisens entstanden.) — 7 7/16 Loth. — 1839. 27. 3. — Mit Nr. 1 erhalten.
+
+3\. Ganzer, länglicher Stein, an der Oberfläche stark verrostet, mit Rinde von zweierlei Beschaffenheit, ohne Bruchfläche. — 11 5/16 Loth. — 1839. 27. 2. — Mit Nr. 1 erhalten. —
+
+4\. Bruchstück eines grösseren Steines mit Rinde, alten verrosteten Bruchflächen und einer grossen anpolirten Schnittfläche, auf welcher sich Linien von gediegenem Eisen hinziehen. — 9 1/2 Loth. — Von: 1839. 27. 1. Mit Nr. 1 erhalten.
+
+5\. Längliches Fragment, ungefähr ein halber Stein, mit verrosteter Rinde und rostiger Bruchfläche. — 3 5/8 Lth. — Von: 1839. 27. 4. — Mit Nr. 1 erhalten.
+
+6\. Fragment mit anpolirter Fläche, dann veralteten und frischen Bruchflächen und etwas Rinde. — 2 13/32 Loth. — Von: 1839. 27. 1. — Mit Nr. 1 erhalten.
+
+7\. Fragment mit polirter Fläche, mit alten und neuen Bruchflächen und etwas Rinde. Die eisenreiche Schnittfläche ist zur Hälfte schwach, zur Hälfte stark geätzt, wodurch auf den, eine unterbrochene Linie bildenden Eisentheilchen feine Linien, die fast Widmannstättische Figuren bilden, zum Vorschein kamen. — 1 Loth. — Von: 1839. 27. 1. — Mit Nr. 1 erhalten.
+
+Ueber den Steinregen von Macao oder Rio Assu sind nur ungenügende Nachrichten bekannt gemacht worden. Sie rühren von einem Franzosen, H. F. Berthou, her, der damahls in Olinda, in der Provinz Ceara wohnte. Er hat die Gegend des Steinfalls nicht besucht und das Ereigniss nur nach Hörensagen beschrieben. Nach Nachrichten, die sich Herr Breisky in Bahia auf Ansuchen von Herrn Tegetmayer in Pernambuco aus der Stadt Ceara verschaffte, liegt das kleine Dorf Macao, das erst im J. 1828 zu entstehen anfing, und im J. 1839 31 Häuser zählte, am Ufer des Flusses Assı oder Amargoro, nicht weit von seinem Ausflusse in das Meer und gchört zur Provinz Rio grande do Norte. Der Steinregen hat sich nach unsern Nachrichten den 11. November, nach dem Briefe des H. Berthou in dem Gompte rendu der Pariser Akademie vom 14. August 1837, S. 211, den 11. December 1836 ereignet. Die Anzahl der zefallenen Steine muss ungeheuer gross gewesen seyn, da sich der Niederfall auf 3 Meilen, von dem Gute Cacimbas bis zur Mündung des Riv Assu erstreckte (nach dem Berichte von H. Berthou über einen Flächenraum von mehr als 10 Lieues); eigentlich scheint aber das Phänomen zwei grosse Explosionen, eine zu Cacimbas, die andere an der Flussmündung gemacht zu haben. Die gefallenen Steine sind nach den Nachrichten, die urs zukamen, klein gewesen, meist von der Grösse eines Taubeneies; der französische Bericht In dem Compte rendu spricht dagegen von Steinen von 1 bis 80 Pfund. Sie sollen nach demselben Berichte einige Ochsen zetödtet oder verwundet haben. Ein Muster dieser Meteorsteine ist an die Akademie der Wissenschaften in Paris geschickt worden, welche die Analyse (die jedoch bisher noch nicht erschienen ist) Herrn Berthier übertrug. Ausser diesem Muster und den Exemplaren, die das k. k. Mineralien-Kabinet durch die eifrige und gütige Bemühung der Herren Tegetmayer und Breisky erhielt, scheinen keine anderen von diesem Ereignisse nach Europa gekommen zu seyn, Aus England und auf andern Wegen auch von hier aus hat man sich fruchtlos darum bemühet. Da die Steine von Macao zu den eisenreichsten gehören, werden sie bei längerem Liegen in der Erde durch Oxydirung des Eisens zerbersten und endlich zerfallen, so dass man nach einigen Jahren, wenigstens von den kleineren, kaum mehr etwas wird finden können. Selbst ein paar Stücke unserer Sammlung, die mehr als zwei Jahre in der Erde gelegen haben mögen, zerbarsten seit sie sich darin befinden und dürften kaum zu retten seyn.
+
+## 1\. Meteoreisen.
+
+Nr\. 70 bis 94.
+
+### 70\. Atacama.
+
+Bei dem DOrfe San Pedro, 20 Leagues von dem Hafen Cobija entfernt, Provinz Atacama, Republik Bolivia (ehemals Peru), an der Gränze von Chili, Süd-Amerika.
+
 ...
