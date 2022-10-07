@@ -1633,6 +1633,18 @@ Nr\. 70 bis 94.
 
 ### 70\. Atacama.
 
-Bei dem DOrfe San Pedro, 20 Leagues von dem Hafen Cobija entfernt, Provinz Atacama, Republik Bolivia (ehemals Peru), an der Gränze von Chili, Süd-Amerika.
+Bei dem Dorfe San Pedro, 20 Leagues von dem Hafen Cobija entfernt, Provinz Atacama, Republik Bolivia (ehemals Peru), an der Gränze von Chili, Süd-Amerika.
+
+Der wissenschäftlichen Welt seit 1827 bekannt; die Fallzeit ist unbekannt. — An dem bezeichneten Fundorte soll eine Masse von 3 Centnern (Quintals) und viele kleinere Stücke zerstreut herum liegen.
+
+Ein Gemenge von gediegenem Eisen mit einem gleichen Verhältniss vou lichtgrünem, fast grünlich weissen (vom Eisen jedoch später theilweise rostbraun gefärbten) Olivin, in meist feinkörnigem Gefüge, und mit Magnetkies, der aber nur in sehr geringer Menge vorhanden und nur auf polirten Schnittflächen unterscheidbar ist. Das metallische Eisen bildet ein ästiges oder schwammförmiges, von dem Olivin ausgefülltes Gerippe. Auf Durchschnitten zeigt sich das Eisen in Feldern mit ausund einspringenden Winkeln, und die vom Olivin erfüllten Zellen daher ebenfalls eckig, selten rund. Durch Behandlung des Eisens mit Säuren entstehen in der Mitte der Eisenpartie eckige mit den Rändern derselben parallele, durch glänzende Leisten eingefasste und öfter von Linien durchzogene dunkle Felder, während der grössere Theil des den Rändern näher liegenden metallischen Eisens weniger oder gar nicht angegriffen wird, und daher den Metallglanz behält. Der Olivin ist in grösseren Körnern von dem Eisen nicht trennbar, sondern zerbröckelt, vermöge seiner kleinkörnigen Structur.
+
+1\. Ein grosses merkwürdiges Stück, rings von gestreiften, theilweise glänzenden natürlichen Ablösungsflächen umgeben; mit einer polirten Schnittfläche. — 5 Pfd. 5 1/2 Loth. — 1842. 1. 1. — Aus der ehemahls Heuland'schen, später Heath'schen Meteoriten-Sammlung, durch H. Carl Pötschke in Wien gekauft. Herr Heulaud kaufte das Stück durch Vermittlung des Herrn Brooke in London von dem Agenten einer südamerikanischen Bergwerksgesellschaft.
+
+2\. Bruchstück, durch das Entzweireissen der Masse an der Oberfläche kurzzähnig, mit anpolirter Fläche. — 1 Pfund, 1 Loth. — 1834. 5. 1. — Durch Doctor Bondi in Dresden von Herrn Heuland in London zu Kauf erhalten.
+
+3\. Ein dickes Plättchen von Nr. 2 abgeschnitten, mit polirter und dann geätzter Schuittfläche. — 6 Loth. — Von 1834. 5. 1.
+
+Herr Hippolyte Jubin, königl. französischer Schiffslieutenant, brachte ein Meteoreisen aus Peru nach Frankreich (in das Museum von Angers), das bei Potosi in Bolivia gefunden worden seyn soll. (Siehe Chronique scientifique, eine Beilage zum Institut, Nr. 8, von 24. Fehruar 1839, dann Poggendorffs Annalen, Band 47. S. 470.) Es gleicht nach der Beschreibung ganz dem Meteoreisen von Atacama, und der Fundort Potosi ist wohl nur eine irrige Angabe von Seite des Mittheilers des Stückes an Herrn Jubin.
 
 ...
