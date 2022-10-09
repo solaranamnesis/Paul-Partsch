@@ -1965,4 +1965,106 @@ Derbes und dichtes gediegenes Eisen, mit einer ganz ungewöhnlichen, durch die g
 
 nordöstlich von Santa Fe de Bogota, in der Nähe der Salinen von Zipaquira, Republik Columbia (jetzt Republik Neu-Granada), Süd-Amerika.
 
+Gefunden 1810; bekannt seit dem Jahre 1823 (?) durch einen zu Santa Fe de Bogota spanisch gedruckten Bericht der Herren Mariano de Rivero und Bousingault, der im 25. Bande der Annales de Chimie et de Physique v. Jahre 1824 übersetzt wurde. — Es scheinen da mehrere Stücke gefunden worden zu seyn. Die genannten Berichterstatter sprechen von zwei Massen von 41 Kilogrammen (73 Pfund, 1 Loth Wiener Gewicht) und von 22 Kilogrammen (39 Wiener Pfund und 6 Loth), die wohl die grössten gewesen seyn dürften.
+
+Derbes und dichtes gediegenes Eisen, zuweilen mit Schwefelkies (Magnetkies ?) gemengt, der jedoch, wie es scheint, nie in dem Eisen eingesprengt ist, sondern nur Höhlungen in demselben theilweise ausfüllt. Das Eisen ist von gebogenen oder zickzackförmigen Sprüngen durchzogen und es sind darin auch grössere und kleinere Höhlungen vorhanden, Durch Anlaufen oder Aetzen kommt wohl eine gewisse Zeichnung zum Vorschein, aber wahre Widmannstätten'sche Figuren zeigen sich nicht. Die Zeichnung besteht aus sehr feinen, meist geraden, seltener gekrümmten Linien, die nach mehreren Richtungen ziehen, sich aus der Masse etwas erheben und glänzen (weil sie durch Säuren nicht leicht angegriffen werden), sich zuweilen, aber selten berühren und folglich nur selten geschlossene Zwischenfelder oder Figuren darstellen; den übrigen Raum erfüllen feine kurze Strichelchen und Punkte, die sich ebenfalls schwach erheben und glänzen.
+
+1\. Ein grösstentheils von natürlichen Flächen umschlossenes Stück, dass eine hervorragende Ecke gebildet hat, mit einer polirten Schnittfläche, über die sich zickzackförmige Sprünge hinziehen. Das Stück zeigt sehr merkwürdige Oberflächen-Verhältnisse (Vertiefungen und Höhlungen) und eine schlackenartige Rinde mit sonderbaren Poren oder feinen Juöchern. — 1 Pfund 3 29/32 Loth. — 1840. 4. 7. — Aus der ehemahls Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke in Wien gekauft. Ist (wie die folgenden Stücke Nr. 2 bis Nr. 5) von einem grossen Stücke abgeschnitten, das bei seiner Ankunft in Wien 13 Pfund 2 Loth Wiener-Gewicht wog, und von Herrn Mariano de Rivero aus Columbien an Herrn Heuland in London gesendet wurde.
+
+2\. Eine 6 Linien dicke und 3 1/2 Zoll lange Platte, an den Rändern von natürlicher Oberfläche umgeben; die zwei grossen polirten Schnittflächen schr schwach geätzt; vorzüglich merkwürdig durch den Umstand, dass die eine Schnittfläche eine ovale Höhlung durchschnitt, die theilweise mit porösem Schwefelkies (die Farbe ist nicht die des Magnetkieses) ausgcekleidet ist. Sprünge durchziehen diese Platte ebenso, wie die Schnittfläche des Stückes Nr. 1. — 30 5/8 Loth. — 1842. 1. 3. — Wie Nr. 1 acquirirt.
+
+3\. Dicker Abschnitt, von zwei Seiten mit Rinde umgeben, mit zwei schmalen und einer breiten, polirten, dann einer grösseren schön geätzten Schnittfläche. Auf einer der polirten Flächen befindet sich eine sonderbare kleine längliche Höhlung. — 5 13/16 Loth. — 1838. 25. 8. Wie Nr. 1 acquirirt.
+
+4\. Kleines, an beiden Seiten schwach geätztes Plättchen. — 7/8 Loth. — 1838. 25. 9. Wie Nr. 1 acquirirt.
+
+5\. Kleines, blau und violet angelaufenes Plättchen mit Zeichnungen. — 5/8 Loth. — 1838. 25. 10. Wie Nr. 1 acquirirt.
+
+Die Herren Rivero und Bousingault haben sowohl in dem Meteoreisen von Santa Rosa in Columbien, das wir in der k. Berliner Mineralien-Sammlung zu sehen und hinsichtlich der heim Aetzen sich zeigenden Figuren zu untersuchen Gelegenheit hatten, wohei es sich wie Rasgata verhält, als auch in dieseu letzteren einen nicht unbeträchtlichen Antheil von Nickel gefunden. Wiederholte in Wien mit unserem Eisen von Rasgata, das doch von den Herrn Rivero und Bousingault herstammt, angestellte Versuche konnten darin keineu Nickel entdecken. Dieses merkwürdige Eisen verdiente wohl eine wiederholte genaue chemische Untersuchung.
+
+### 89\. Tucuman,
+
+15 Meilen von Otumpa (das nach einigen Angaben im Bezirke, jetzt Staate, St. Jago del Estero liegen soll) in einer wüsten Gegend des Staates Tucuman, einer der vereinigten Provinzen von Rio de la Plata (argentinische Republik), Süd-Amerika.
+
+Wurde von Don Miguel Rubin de Celis im Auftrage der spanischen Regierung im Jahre 1783 aufgesucht, und ist durch eine Uebersetzung seines Berichtes in den Londoner Philos. Transact. vom Jahre 1788. T. 1. der wissenschaftlichen Welt bekannt geworden. — Die Fallzeit ist unbekannt. — Rubin de Celis schätzte das Gewicht der Masse auf 300 Centner.
+
+Derbes und dichtes gediegenes Eisen, oft mit grösseren oder kleineren Höhlungen, die zuweilen ganz oder theilweise mit Schwefelkies ausgefüllt sind, der auch sonst noch in kleineren Partien in der Masse zerstreut ist. Auf Bruchflächen kommt eine krystallinische Structur, parallel den Flächen des Oktaeders zum Vorschein, auf polirten Flächen kurze, nach verschiedenen Richtungen gekehrte, linienförmige Einschnitte. Durch mässiges Aetzen erscheinen auf diesem, durch Salpetersäure schwer angreifbaren Meteoreisen keine Widmannstättenschen Figuren, sondern kurze, etwas erhöhte Linien, die nach mehreren Richtungen gekehrt sind, sich auch aerühren und gegenseitig schneiden, und dem Ganzen ein gestricktes oder federartiges Ansehen verleihen, je nachdem die Striche sich unter rechten oder schiefen Winkeln berühren oder schneiden. Die geätzten Flächen gleichen in dieser Beziehung, d. h. hinsichtlich ihrer Zeichnung, der langsam erkalteten krystallinischen Oberfläche mancher, Metallkuchen, z. B. von Antimon, Tellur, Wismuth, oder auch der Zeichnung, welche oft auf gefrorenen Fensterscheiben zum Vorschein kommt. Durch sehr starkes Aetzen biethet dieses Eisen eine körnige Oberfläche dar, von tiefen Einschnitten nach verschiedenen Richtungen durchkreuzt. — Ein Meteoreisen von merkwürdiger, nur mit dem Eisen von Senegal verwandter Beschaffenheit.
+
+1\. Ein Stück mit viel natürlicher Oberfläche, mit Bruchflächen, worauf sich oktaedrische Theilungsgestalten befinden, und einer polirten Schnittfläche, wodurch zwei Höhlungen durchschnitten wurden, wovon die grössere theilweise mit Schwefelkies ausgefüllt ist. — 19 23/32 Loth. — 1840. 4. 8. — Aus der Heuland'schen, später Heath'schen Meteoriten - Sammlung durch Herrn Pötschke gekauft. Kam durch einen in Chili ansässigen Eingländer nach London.
+
+2\. Platte, von der einen Seite schwach und von der anderen theilweise stark geätzt. — 3 1/16 Loth. — Von 1840. 4. 8. — Abschnitt von Nr. 1.
+
+3\. a. Kleines Stück, mit in Folge der Abmeisselung gekrümmten Blättern, mit einer kleinen geätzten und einer noch kleineren blau angelaufenen Fläche, die jedoch wegen Verquetschung des Eisens nichts Lehrreiches darbiethen. — 1 3/32 Loth. — 1807. 22. 16. — Durch den verstorbenen v. Fichtel aus Madrid zu Kauf erhalten.
+
+3\. b. Kleines Stück mit natürlicher Oberfläche und einer kleinen polirten Fläche. — 1 1/8 Loth. — 1827. 27. 4044. — Aus der von der Nüll'schen Mineralien-Sammlung, in die es ehenfalls durch den verstorbenen v. Fichtel gekommen ist.
+
+3\. c. Ganz kleines, schön angelaufenes Plättchen, mit kurzen feinen Strichelehen und kleinen Pünktchen; von der einen Seite geätzt. — 3/32 Loth. — Ein Abschnitt von Nr. 1.
+
+### 90\. Senegal.
+
+Mehrere Gegenden am oheren Senegal in Afrika, besonders im Lande Siratik und im Lande Bambuk, von wo einige Stücke über Galam nach Fort Louis und nach den englischen Pflanzörtern kamen.
+
+Ist durch den Reisenden Compagnon und durch die mineralogischen Lehrbücher von Baumer, Wallerius und anderen zwischen den Jahren 1760 und 1770 in Europa bekannt geworden. — Die Fallzeit ist unbekannt. — Es müssen da auf einer sehr grossen Strecke sehr viele grosse und kleine Eisenmassen zerstreut herum liegen, die von den Eingebornen schon lange zur Verfertigung von Töpfen u. s. w. benützt werden.
+
+Derbes und dichtes gediegenes Eisen, an welchem nur sehr selten eine geringe Einmengung von Schwefel- oder Magnetkies und (wenigstens an den uns zu Gebothe stehenden Stücken) auch keine Höhlungen wahrzunehmen sind. Durch Aetzen mit Säuren kommen keine Widmannstätten'schen Figuren, sondern nur kurze feine, nach mehreren Richtungen gekehrte Striche zum Vorschein, die sich zuweilen berühren und schneiden und gestrickte oder federartige Zeichnungen bilden. Die Masse erhält bei stärkerer Aetzung ein gekörntes Ansehen und nach verschiedenen Richtungen gekehrte Einschnitte, und ist daher dem Eisen von Tucuman hinsichtlich seines Verhaltens in Säuren nahe verwandt.
+
+1\. Dicke Platte mit natürlicher Oberfläche an den Rändern, dann mit einer rohen Schnitt- und mit einer fein polirten Fläche. — 12 23/32 Loth. — 1840. 13. 6. — Von dem französischen Naturalien-Händler, Herrn F. Marguier, gekauft, der dieses und die folgenden durch Zerschneiden erhaltenen Stücke Nr. 2, 3 und 4, von einem vom Senegal zurückgekehrten Naturforscher in Bordeaux erhielt.
+
+2\. Plättchen , von einer Seite schr schwach geätzt, von der anderen polirt; mit etwas Schwefelkies. — 2 17/32 Loth. — 1840. 13. 7. — Wie und mit Nr. 1 acquirirt.
+
+3\. Dickes Plättchen, von allen Seiten schr stark geätzt. — 3 15/16 Loth. — 1840. 21. 8. — Wie Nr. 1 acquirirt.
+
+4\. Dünnes Plättchen, polirt und dann blau angelaufen. — 31/32 Loth. — 1840. 13. 8. — Mit und wie Nr. 1 acquirirt.
+
+5\. a. und b. Ein Stück mit natürlicher Oberfläche und mit Bruchflächen, wovon ein dabei liegendes Plättchen abgeschnitten ist. Von den zwei Schnittflächen ist die Eine polirt, die andere schwach geätzt. — Zusammen 9 1/4 Loth. — 1843. 4. 67. — Durch Doctor Bondi in Dresden zu Kauf erhalten.
+
+### 91\. Vorgebirge der guten Hoffnung.
+
+Kapland (oder Kapcolonie). Zwischen dem Sonntags- und Boschesmanns-Flusse, Afrika.
+
+Gefunden 1793. Bekannt seit 1801 durch Barrows Reise in Süd-Afrika; besser seit 1804 durch eine Abhandlung von Van Marum in den Verhandlungen der Gesellschaft der Wissenschaften zu Harlem. — Die Fallzeit ist unbekannt. — Man fand da eine 300 Pfund schwere Masse, von der Mehreres verschmiedet wurde, und die später bei ihrer Ueberführung nach Europa (in das Naturalien -Kabinett zu Harlem) nur noch 171 Pfund wog.
+
+Neuerlich ist wieder Meteoreisen am grossen Fischflusse in der Kap-Colonie gefunden worden, (Siehe: Alexander Expedition of Discovery into the Interior of Afrika. London 1838. Vol. 2. Appendix S. 272.) Capitän Alexander hat Eisenmassen in grosser Menge über eine grosse Strecke Landes zerstreut angetroffen. Da der Sonntags- und Boschesmannsfluss, zwischen welchen die Barrow'sche Eisenmasse gefunden wurde, von dem grossen Fischflusse, nahmentlich in seiner oberen Strecke, nicht sehr entfernt sind, und die durch Capitän Alexander bekannt gewordenen Eisenmassen über eine grosse Landstrecke zerstreut liegen, so dürften wohl alle diese Eisenmassen von einem gemeinschaftlichen Ereignisse herrühren.
+
+Derbes und dichtes gediegenes Eisen mit wenig und meist fein eingesprengtem Magnetkies. Durch Aetzen von polirten Flächen mit Säuren entstehen keine Widmannstätten'schen Figuren; man sieht nur über die graue sehr fein gekörnte Fläche schmälere oder breitere, gerade und gekrümmte undeutliche Bänder hinziehen, die sich jedoch nur zeigen, wenn man die Fläche nüch gewissen Richtungen hält. Auf polirten Flächen bemerkt man, dass sich breite Streifen und verzweigte, fast dendritische Zeichnungen von der Oberfläche der Masse in das Innere ziehen, durch den Umstand, weil diese Stellen durch das Poliren weniger Glanz erlangen. Durch starkes Aetzen kommen manchmall vertiefte, etwas gekrümmte Streifen, an anderen Stellen auch kleine sternförmige Erhöhungen zum Vorschein. — Ein höchst sonderbares und eigenthümliches, durch seine Eigenschaften ganz isolirt stehendes Meteoreisen, etwa nur dem folgenden von Clairborne in Alabama verwandt.
+
+1\. Unregelmässiges Stück, zum Theil mit schwarzer, natürlicher Oberfläche und einer polirten Schnittfläche. Unterhalb der, wie es scheint, leicht absprengbaren Rinde sind kleine, runde, fast netzartige Vertiefungen wahrnehmbar. — 1 Pfund 2 5/16 Loth. — 1815. 33. 1. — Durch Professor Van Marum aus dem Naturalien-Kabinette der Gesellschaft der Wissenschaften zu Harlem in Tausch erhalten.
+
+2\. Platte, von einer Seite polirt, von der anderen geätzt, mit natürlicher Oberfläche an drei Rändern. — 8 1/2 Loth. — 1840. 23. 1. — Durch Vermittlung des Herrn Bondi in Dresden von Herrn Heuland in London zu Kauf erhalten. — Stammt aus der Mineralien-Sammlung des verstorbenen Sowerby Vater, (der von dem Cap'schen Eisen ein grösseres von Barrow nach England gebrachtes Stück besass, und davon einen Säbel für den Kaiser Alexander von Russland schmieden liess).
+
+3\. a. Ein kleines, dreieckiges Stück, ringsum stark geätzt, wodurch auf einer Seite die bei der Beschreibung erwähnten, vertieften Streifen und auf der anderen die erwähnten Sternchen zum Vorschein kamen. — 17/32 Lth. — Abschnitt von Nr. 1.
+
+3\. b. Ein kleines angelaufenes Blättchen, ohne Zeichnung oder Figuren. — 3/8 Loth. — Ebenfalls Abschnitt von Nr. 1.
+
+### 92\. Clairborne.
+
+Lime-Creek, Clarke-County, im Staate Albama, Nord-Amerika.
+
+Bekannt seit 1838 durch eine Abhandlung von Herrn Charles Jackson in Sillimans American-Journal, Vol. 34. — Es wurde da eine 10 Zoll lange und 1 bis 6 Zoll breite Masse gefunden, und man vermuthet, dass noch mehrere Massen in der Gegend vorhanden seyn mögen.
+
+Derbes und dichtes gediegenes Eisen, worin Magnet- oder Schwefelkies theils in Körnern und Linien, theils in unendlich feinen Pünktchen, die letzteren gleichförmig durch die ganze Masse vertheilt, eingemengt ist, Eine so feine und gleichmässige Vertheilung des Kieses findet bei keinem anderen Meteoreisen Statt. Das kleine uns zu Gebothe stehende Blättchen dieses Meteoreisens zeigte durch starkes Aetzen mit Säuren (verdünnte Salpetersäure griff es gar nicht an) weder Widmannstätten'sche Figuren, noch Linien, Striche oder Bänder; die Säure verwandelte die übrigens auch schwer polirbare und nur wenig Glanz erlangende Fläche nur in eine schwarzgraue Substanz, aus der die Kiespünktchen hervorglänzen, — Ein merkwürdiges, weitere Untersuchung verdienendes Eisen, das nach den Untersuchungen von Dr. Jackson Chlorine enthält.
+
+1\. Kleines, von einer Seite geätztes Plättchen (wegen schnellen Rostens mit Schellack-Firniss überzogen). — 13/32 Loth. — 1842. 46. 1. — Ein interessantes Geschenk von Herrn Charles Jackson zu Boston in Nord-Amerika.
+
+### 93\. Oaxaca.
+
+Aus einem indischen Dorfe in der Misteca, im Staate Oaxaca in Mexico.
+
+Die Existenz dieses Metcoreisens ist noch nicht durch öffentliche Nachrichten bekannt geworden. Herr Baron Karawinsky in München, der zu wiederhohlten Mahlen Mexico bereiste, brachte das Stück von da mit. Es wurde von einem Klumpen, wie er sich in einem Briefe ausdrückt, der an dem angegebenen Orte liegt, abgemeisselt.
+
+Da das kleine Stückchen unserer Sammlung beim Abmeisseln gehämmert worden ist, so lässt sich von dieser Localität keine Diagnose geben. Das Eisen ist derb und dicht und zeigt durch Aetzen feine gekrümmte Streifen.
+
+1\. Ein kleines längliches und gekrümmtes Stückchen, mit einer ebenfalls gekrümmten, anpolirten, und dann geätzten Fläche. Das Stückchen scheint gehämmert und dadurch gestreckt worden zu seyn. — 15/32 Loth. — 1834. 26. 8 — Von Baron Karawinsky in München als Geschenk erhalten.
+
+### 94\. Grönland.
+
+In einer Sowallik genannten Gegend, an der nördlichen Küste der Baffings-Bay, unter 76° 22' der Breite und 58° westlicher Länge von Greenwich.
+
+Bekannt seit 1819 durch die Reise des Capitäns Ross. — Nach der Aussage der Eskimos sollen allda, 30 englische Meilen von der Küste entfernt, zwei grosse Eisenmassen vorhanden seyn, von welchen sie Stücke abbrechen, um Geräthe daraus zu verfertigen.*
+
+*) Möge es dem jetzt regierenden König von Dänemark, einem grossen Gönner der Wissenschaften und der Mineralogie insbesondere, gefallen, die Sache ermitteln, und Stücke des unveränderten Eisens nach Europa bringen zu lassen.
+
+Die Verarbeitung des Eisens gestattet keine Diagnose; es lassen sich aber darin noch Schwefelkies und schwarze Einmengungen unterscheiden. Die geätzte Fläche bekam ein körniges Anschen, und man hat sich bei Gelegenheit des Aetzens von der Anwesenheit des Nickels in diesem Eisen überzeugt.
+
+1\. Als kurze, dreieckige Messerklinge zum Abhäuten der Seehunde von den Ekimos verarbeitet. Die eine Fläche verrostet,, die andere zum Theil anpolirt, und zum Theil geätzt. — 7/32 Loth. — 1838. 25. 13. — Aus der ehemahls Heuland'schen, dann Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland kaufte diese Messerklinge, die in ein Heft, aus dem Zahne eines Wallrosses angefertiget, befestigt war, in einer öffentlichen Versteigerung zu London. Das Stück stammt von der ersten englischen Expedition unter Capitän Ross, der dieses zur Fischerei benützte Messer von den Ekimos eintauschte.
+
 ...
