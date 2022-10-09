@@ -1821,4 +1821,148 @@ Derbes und dichtes gediegenes Eisen mit mehr oder weniger, in Körnern und Linie
 
 Am Red-River oder rothen Flusse im Staate Louisiana (New-Orleans) in den vereinigten Staaten von Nord-Amerika, über 100 englische Meilen oberhalb der Stadt Natchitoches.
 
+Seit dem Jahre 1814 bekannt durch zwei Aufsätze von Gibbs in Bruces American Mineralogical-Journal, Vol. 1. Seite 124 und S. 218.
+
+Am rothen Flusse, der aus Texas kömmt und sich in den Missisippi ergiesst, sollen mehrere Fisenmassen zerstreut herum liegen. Eine von da wexgehrachte, von ungefähr 3000 Pfund, war früher im Besitze des amerikanischen Obersten Gibbs, kam dann als Depositum auf das Lyceum zu New-York und von da endlich in die Mineralien-Sammlung des Yale Collegiums zu New-Haven im Staate Connecticut, Das in den letzteren Jahren aus Texas bekannt gewordene Meteoreisen wird wohl mit dem von Louisiana identisch sein, da der Red-River beiden Staaten angehört. Wir erhielten durch Herrn Professor Silliman aus der Sammlung des Yale-Collegiums ein schönes Stück Meteoreisen, dassnun inderk. Mineralien-Sammlung (Schrank 55, unter Nr. 83. a. liegt, mit der Localitäts-Bezeichnung: Louisiana oder Texas.
+
+Derbes und dichtes gediegenes Eisen mit Magnetkies gemengt; durch Anlaufen oder Aectzen sehr vollkommene, ziemlich feinstreifige Widmannstättische Figuren bildend; auf dem Bruche, (wie diess übrigens auch bei dem Eisen von Lienarto und anderen Mecteoreisenmassen von krystallinischem Gefüge der Fall ist) ausgezeichnet blättrige Struciur zeigend.
+
+1\. Fast viereckiges Stück mit mehreren vom Abmeisseln und Abhämmern herrührenden, etwas verrosteten Flächen, mit einer schwach geätzten Schnittfläche, einer Bruchfläche von ausgezeichnet blättrigem Gefüge und einer ziemlich grossen natürlichen Fläche. — 1 Pfund 5 Loth. — 1822. 49. 1. — Vom Obersten Gibbs in New-York durch den k. k. General-Consul Baron Lederer in Tausch erhalten.
+
+2\. Kleineres Stück mit einer polirten Fläche, mit zwei Bruchflächen von ausgezeichnet blättrigem Gefüge und etwas natürlicher Oberfläche. — 11 5/8 Loth. — 1822 25. 1. — Auf dieselbe Art in Tausch erhalten wie Nr. 1.
+
+3\. Unregelmässiges dickes Plättchen mit zwei schr stark geätzten Flächen. — 2 23/32 Loth. — Wurde von dem Stücke Nr. 1 abgeschnitten.
+
+4\. Ein kleines Plättchen, eine Fläche polirt, die andere schwach geätzt; beide blau angelaufen und schöne Figuren zeigend. — 9/16 Loth. — Abschnitt von Nr. 2.
+
+### 80\. Durango.
+
+Mexico.
+
+Seit 1811 durch Nachrichten von Herrn Alexander von Humboldt bekannt. (Siehe dessen Essai politique sur le royaume de la Nouvelle Espagne. Tome 1. S. 293.) — Herr von Humboldt erwähnet einer Eisenmasse von 300 bis 400 Zentnern; es mögen aber bei Durango noch andere kleinere Massen vorhanden seyn. — Die Fallzeit ist unbekannt.
+
+Man sehe was Chladni (Feuermeteore, S. 337) über diese Localität bemerkt. Er bezweifelt, ob die von Herrn von Humbuldt nach Europa mitgehrachten Stücke wirklich von Durango sind und äussert die irrige Vermuthung, dass sie von Zacatecas seyn dürften, Sie dürften eher von Toluca seyn. Ueber die Herstammung der in den Sammlungen vorhandenen Eisenmassen aus verschiedenen Theilen von Mexico herrscht übrigens noch maucher Zweifel.
+
+Derbes und dichtes gediegenes Eisen, mit wenig beigemengtem Magnetkies; von ausgezeichnet blättriger Structur; durch Anlaufen und Actzen schr vollkommene Widmannstätten'sche Figuren darstellend, die, wenigstens in unseren Stücken, das Eigenthümliche besitzen, dass stellenweise die Mittelfelder verschwinden und dafür nur aneinander stossende parallele Streifen mit ihren Einfassungsleisten vorhanden sind. Die grösseren Zwischenfelder zeigen auch eine eigenthümliche Art von Schraffirungsleisten, indem diese oft wellenförmig gekrümmt und unterbrochen sind.
+
+1\. Flaches, fast parallelepipedisches Stück, wovon eine der grösseren Flächen eine natürliche zuseyn scheint; eine der schmalen Flächen zeigt deutlichen blättrigen Bruch, eine geätzte Fläche Widmannstätten'sche Figuren und endlich eine grössere polirte, ausser der licht stahlgrauen Farbe (die allem Meteoreisen zukommt, nur bei einigen mehr ins Silberweisse und bei anderen mehr ins Bleigraue zieht), auch etwas eingemengten Magnetkies. — 1 Pfund, 1 1/16 Loth. — 1834. 26. 4. — Von dem Freiherrn von Karawinsky in München zu Kauf erhalten, welcher dieses Stück aus Mexico mitbrachte, wo es nach seiner Angabe von einem mehrere hundert Pfund wiegenden Klumpen, der in der Ebene nordöstlich von Durango liegt, abgetrennt wurde.
+
+2\. Ein kleineres, von Nr. 1 abgeschnittenes Stück. Die schön geätzte Schnittfläche dieses Stückes steht auf der geätzten Schnittfläche des Stückes Nr. 1 senkrecht und zeigt schmälere Streifen. — 11 1/32 Loth. — Von 1834. 26. 4.
+
+3\. Plättchen von dem Stücke Nr. 1 abgeschnitten; eine Fläche polirt, die andere stark geätzt mit scharfen und schönen Widmannstätten'schen Figuren. — 1 15/16 Loth. — Von 1834. 26. 4.
+
+4\. a. Unregelmässiges von Nr. 1 abgeschnittenes Plättchen, blau angelaufen. — 3/4 Loth. — Von 1834. 26. 4.
+
+4\. b. Kleines viereckiges Plättchen, von dem Stücke Nr. 1 nach einer anderen Richtung abgeschnitten; ebenfalls blau angelaufen. — 11/32 Loth. — Von 1834. 26. 4.
+
+### 81\. Guilford.
+
+Nord-Carolina, in den vereinigten Staaten von Nordamerika.
+
+Istim Jahre 1830 durch Professor Shepard in Sillimans American Journal bekannt gemacht worden, der es jedoch anfänglich (auch noch in seinem Treatise on Mineralogy, Vol. 2. 1835. S. 70.) als terrestrisches oder tellurisches Eisen beschrieb, und erst später (1841) dessen meteorische Natur erkannte.
+
+Die bei Guilford befindlich gewesene Eisenmasse, deren ursprüngliches Gewicht unbekannt ist, wurde von den Schmieden der Umgegend lange zur Verfertigung von Nägeln, Hufeisen u. dgl. benützt. Den Rest der Masse, die nur noch 200 Grammen wog, brachte Professor Denison Olmstedt naeh dem Yale-Collegium zu Newhaven in Connecticut.
+
+Derbes und dichtes gediegenesEisen (wie fast nicht zu bezweifeln mit etwas Magnetkies gemengt); auf polirten, und dann durch Hitze oder mit Säuren behandelten Flächen, sehr vollkommene Widmannstätten'sche Figuren zeigend. (Eine weitere Beschreibung erlaubt die Kleinheit des uns zu Gebothe stehenden Stückes nicht.)
+
+1\. Kleines unregelmässiges dreieckiges Plätichen, von einer Seite polirt und geätzt, von der anderen angefeilt. — 15/32 Loth. — 1842. 34. 3. — Vom Yale-College zu New-Haven in Nord-Amerika durch den Curator Herrn Silliman in Tausch erhalten.
+
+### 82\. Caille,
+
+bei Grasse, Dept. du Var, im südlichen Frankreich.
+
+Für die wissenschaftliche Welt entdeckt durch Herrn Brard im J. 1828; lag aber schon 200 Jahre lang vor der Kirche von Caille, wo die Masse als Bank diente.
+
+Derbes und dichtes gediegenes Eisen, dem wenig Magnetkies beigemengt zu seyn scheint. Die durch Aetzen zum Vorschein kommenden Widmannstätten'schen Figuren zeichnen sich durch geschlängelte hervorragende Linien aus, die mit den geraden Linien der Dreiecke nicht parallel gehen. (Es steht uns nur eine kleine Fläche zu Geboth, die keine sichere Diagnose erlaubt.) Dieses Eisen scheint eine leichtere Spalibarkeit zu besizen, als (mit Ausnahme von Durango) die meisten der bisher beschriebenen Localitäten.
+
+1\. Ein Fragment mit deutlich blättrigem Gefüge und etwas natürlicher Oberfläche, dann einer polirten Fläche, welche zum Theil, aber unvollkommen geätzt ist. — 8 3/8 Loth. — 1838. 32. 1. — Vom königl. Museum der Naturgeschichte zu Paris durch gütige Vermittlung der Herren Regierungsrath Baumgartner und Professor Alexander Brongniart in Tausch erhalten.
+
+2\. Fragment mit geätzter Fläche. — 4 7/8 Loth. — 1840. 29. 3. — Vom königl. Museum der Naturgeschichte in Paris durch Herrn Cordier auf Vermittlung des Herausgebers während seiner Anwesenheit zu Paris in Tausch erhalten.
+
+### 83\. Ashville.
+
+Buncombe-County, Nord-Carolina, in den vereinigten Staaten von Nord-Amerika.
+
+Bekannt seit 1839, durch einen Aufsatz von Herrn Charles Upham Shepard, Professor der Chemie am medieinischen Collegium des Staates von Süd-Carolina, in Sillimans American Journal. — Es wurde da nur eine runde Masse von der Grösse eines Menschenkopfes lose auf demErdboden und, ungeachtet vielen Suchens, weiter nichts gefunden.
+
+Derbes und dichtes, mit etwas Magnetkies gemengtes gediegenes Eisen, auf polirten Flächen durch Aetzen sehr ausgezeichnete, feinstreifige Widmannstättische Figuren darstellend. Keines von allen bisher betrachteten Meteoreisen zeigt eine so ausgezeichnet blätterige Structur und eine so grosse Tendenz, durch Oxydirung, parallel den oktaedrischen Theilungsflächen, in Oktaeder, Tetraeder und in rhomboederähnlichen Gestalten (wenn zwei parallele Theilungsflächen fehlen) zu zerklüften und endlich zu zerfallen, wie das Ashviller Eisen; eine Erscheinung, die leider das allmählige zu Grundegehen der Masse nach sich zicht.
+
+1\. Ein an der Oberfläche ganz zerklüftetes Stück, mit einer polirten Schnittfläche und vielen dabei liegenden abgebröckelten Abfällen. — 19 5/16 Loth — (sammt den Abfällen). — 1840. 19. 1. — Wurde von Herrn Shepard an Herrn Heuland in London gesendet, und von diesem durch Herrn Doctor Bondi in Dresden zu Kauf erhalten.
+
+2\. An beiden Seiten schön geätztes Plättchen. — 15/16 Loth. — 1840. 19. 3. — Abschnitt von Nr. 1.
+
+### 84\. Tennessee.
+
+Cosbys-Creek, Cocke-County, im östlichen Tennessee, in den vereinigten Staaten von Nord-Amerika.
+
+Bekannt seit 1840 durch einen Aufsatz von Professor Troost zu Nashville in Sillimans American-Journal. — Es soll da eine Masse von 2000 Pfund liegen.
+
+Derbes und dichtes gediegenes Eisen, mit wenig Magnetkies (und nach der Angabe von Professor Troost mit viel Graphit) gemengt. Uns stehen nur kleine durch Verwitterung von Brauneisenstein umgebene, krystallinische Bröckchen zu Gebothe, in welche die Masse, gleich der Ashviller, sehr leicht zu zerfallen scheint. Die krystallinische Structur lässt vermuthen, dass sich auf geätzten Flächen deutliche Widmannstättische Figuren darstellen würden.
+
+1\. Meist schr kleine und einige grössere braune, verrostete Bröckchen, durch das Zerfallen des Eisens parallel den Zusammensetzungs- oder Theilungsflächen entstanden. — 1 5/16 Loth. — 1843. 4. 68. — Von Herrn Doctor Bondi in Dresden zu Kauf erhalten. (Durch Professer Shepard kamen diese Fragmente aus Nord-Amerika an Herrn Heinrich Heuland in London.)
+
+### 85\. Bohumilitz.
+
+Prachiner Kreis, Böhmen.
+
+Gefunden im Monathe September 1829. Die Fallzeit ist unbekannt; die Masse mag aber, da sie mit einer dicken Rinde von Eisenoxyd überzogen war, mehrere Jahrhunderte ın der Erde gelegen seyn. Sie wog bei ihrer nach heftigem Regenwetier, das sie bloss legte, erfolgten Auffindung 103 Pfund und befindet sich jetzt, nach Abtrennung einiger Stücke, im vaterländischen Museum zu Prag.
+
+Derbes und dichtes metallisches Eisen, stellenweise mit viel Magnetkies und einem schwarzen, nicht sehr harten, problematischen Minerale gemengt, das nicht Graphit seyn kann, den chemische Analysen in diesem Eisen gefunden haben. In diese schwarze Substanz, die sowohl in der Mitte der Masse als an der Oberfläche derselben zuweilen in fast zolllangen Partien auftritt, ist wieder gediegenes Eisen und auch Magnctkies fein eingesprengt. Diese schwarzen Partien sind ringsum von einer Rinde von Magnctkies umschlossen, von dessen äusserem Rande höchst sonderbare kurze und feine Streifen auslaufen und sich zuweilen in die Eisenmasse noch weiter verzweigen, Der Magnetkies ist an manchen Stellen in Nieren von der Grösse einer Mandel ausgeschieden und zeigt sich auch in sonderbaren eckigen Ausscheidungen mit aus- und einspringenden Winkeln. — Durch Anlaufen und Aetzen dieses Eisens erscheinen die Widmannstätten'schen Figuren in der Beziehung nicht ganz vollkommen, als die Mittel- oder Zwischenfelder mit den feinen Schraffirungsleisten, welche die eigentlichen Figuren (Dreiecke, Vierecke u. s. w.) bilden, nur in sehr geringer Anzahl vorhanden, dagegen die Streifen sehr ausgezeichnet und breit sind, und fast die ganze Masse erfüllen. Diese dickeren Streifen sind partienweise (d. h. mehrere neben einander liegende immer zusammen genommen) bald nach dieser, bald nach jener Richtung mit ganz feinen und parallelen Linien, meist auch mit Linien, die nach einer, oder nach zwei anderen Richtungen laufen unddie ersteren durchschneiden, schraffirt, wodurch, wenn man die geätzte Fläche nach verschiedenen Richtungen wendet, jener abwechselnde Glanz erscheint, den man metallischen Schimmer (moire metallique) nennt. Die Einfassungsleisten treten zwischen den Streifen nicht deutlich hervor,und sind auf angelaufenenPlatten deutlicher zu sehen, als auf geätzten. — Ein höchst merkwürdiges Meteoreisen, das noch andere interessante Eigenthümlichkeiten zeigt, die hier nicht weiter beschrieben werden können, und noch genauere mineralogische und chemische Untersuchung verdient.
+
+1\. Grosses Stück von dreieckiger Form; eine der zwei grösseren Flächen ist ein Theil der natürlichen Oberflächen der Masse und mit Eindrücken verschen; die andere grosse, 5 Zoll 2 Linien lange Fläche ist eine schön geätzte Schnittfläche mit unvollkommenen Widmannstätten'schen Figuren bedeckt; an einer schmalen, 5 1/2 Zoll langen, fein polirten Seitenfläche zeigt sich, ausser kleineren Partien von Magnetkies, ein sich auf die geätzte Fläche hinüberziehender Flecken von der erwähnten schwarzen problematischen Substanz, die auch noch an zwei anderen Stellen der geätzten Fläche auftritt, An einer anderen Stelle der polirten Schnittfläche ist, und zwar an der Oberfläche der Masse, eine sonderbare, breccienartige Bildung zu unterscheiden, von welcher noch Erwähnung gemacht werden wird, — 4 Pfund 19 5/8 Loth. — 1831. 34. 1. — Durch Vermittlung des k. k. geheimen Rathes, Grafen Caspar von Sternberg, vom vaterländischen Museum zu Prag als werthvolles Geschenk erhalten.
+
+2\. Ein dünnes, längliches Plättchen, schwach, aber vortrefflich geätzt, auf welchem vorzüglich die erwähnten feinen Linien auf den breiten Streifen ungemein schön erscheinen; mit Magnetkies und Körnern des schwarzen Minerals. — 23/32 Loth. — Abschnitt von Nr. 1.
+
+3\. Dickes, polirtes Plättchen. An dem äusseren, der Rinde der Masse angehörigen Rande des Plättchens befindet sich der Durchschnitt einer 5/4 Zolllangen, schon bei dem Stücke Nr. 1. erwähnten breccienartigen Bildung, die mit dem Eisen innig zusammen hängt und kaum von einer späteren Entstehung (während des Liegens der Eisenmasse in der Erde) seyn dürfte. Sie scheint aus einer Grundmasse von Brauneisenstein zu bestehen, in welche braune und grünliche Körner von harten Mineralien und auch zwei kleine Parzellen von gediegenem Eisen eingewachsen sind. — 2 21/32 Loth. — Abschnitt von Nr. 1.
+
+4\. a. Längliches dickes Plättchen, von beiden Seiten polirt; von hohem Interesse durch die schon bei der allgemeinen Beschreibung der Bohumilitzer Masse erwähnten Beimengungen, die auf diesem Plättchen, nebst anderen merkwürdigen Verhältnissen, ungemein schön zu beobachten sind. Nebst einem Flecken, aus dem schwarzen, problematischen Mineral bestehend, in welches gediegenes Eisen und Magnetkies fein eingesprengt sind, ist auch, und zwar an das schwarze Mineral anstossend, eine Partie Magnetkies von 3/4 Zoll im Durchmesser eingewachsen, aber theilweise Behufs einer damit vorzunehmenden chemischen Analyse herausgebrochen. Das schwarze Mineral zicht sich an ein Paar Stellen auch in Zickzacklinien durch das Eisen. — 2 19/32 Loth. — Abschnitt von Nr. 1.
+
+4\. b. Ein kleines keilförmiges, polirtes Stück, eine Mandel von Magnetkies einschliessend. — 1 1/4 Loth. — Abschnitt von Nr. 1.
+
+5\. Dickes, blau angelaufenes Blättchen. Das schwarze Mineral erhielt durch das Anlaufen eine dunkel bleigraue Farbe. — 2 13/16 Loth. — Abschnitt von Nr. 1.
+
+### 86\. Bahia.
+
+Am Bache (Riacho) Bemdego, der in den Rio San Francisco fällt, nördlich von Monte Santo, Capitanie Bahia, Brasilien.
+
+Gefunden 1784; bekannt seit 1816, durch einen Bericht von A. F. Mornay in den Philosophical-Transactions of the Roy. Soc. of London for 1816. P. 2. — Die Fallzeit ist unbekannt. Die daselbst noch im Freien liegende, nicht transportable Masse wiegt, nach der Berechnung des Professors Martius in München, der in seiner Reise in Brasilien über dieselbe interessante Nachrichten mittheilt (2. Band Seite 736, u. f.) 17300 Pfund.
+
+Derbes und dichtes gediegenes Eisen, stellenweise, obwohl wie es scheint nicht häufig, mit Magnetkies und wahrscheinlich auch, jedoch wohl selten, mit jenem schwarzen, problematischen Mineral gemengt, dessen bei dem Eisen von Bohumilitz Erwähnung geschah. Die durch Aetzen oder Anlaufen zum Vorschein kommenden unvollkommenen Widmannstätten'schen Figuren haben im Allgemeinen grosse Aehnlichkeit mit der Zeichnung des Meteoreisens von Bohumilitz; die Zwischenfelder sind aber bei Bahia noch seltener vorhanden, die feinen Linien auf den breiten Streifen weniger regelmässig und auch die Einfassungsleisten weniger deutlich. Die Felder, welche abwechselnd den metallischen Schimmer (moire metallique), zeigen, sind bei dem Eisen von Bahia ausgedehnter als bei jenem von Bohumilitz.
+
+1\. Ein grosses dreieckiges Stück mit viel natürlicher Oberfläche, über welche eine scharfe Kante hinwegläuft, einer grossen geätzten und einer kleinen polirten Fläche. — 3 Pfund, 14 1/2 Loth. — 1842. 1. 2. — Aus der Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland erhielt das 10englische Pfund schwer gewesene Stück, von welchem das unserige abgeschnitten wurde, als Geschenk von dem gewesenen englischen Gesandten in Brasilien, Sir Eduard Thorton.
+
+2\. Liängliches, gekrümmtes Stück, mit schwarzer natürlicher Oberfläche, einer veralteten Bruchfläche und einer fein polirten Schnittfläche, worauf wie dieses auf gut polirten Flächen der Eisenmassen von Bahia und Bohumilitz nicht selten ist, die Begränzung der breiten Streifen durch vertiefte Linien angedeutet erscheint. — 15 3/16 Loth. — 1822. 54. 1. — Wurde durch die Herren Spix und Martius aus Brasilien nach München gebracht, und von der königl. baierischen Akademie der Wissenschaften dem k. k. Mineralien-Kabinette als Geschenk mitgetheilt.
+
+3\. Abschnitt von dem Stücke Nr. 2, mit einer geätzten und einer alten Bruchfläche, die deutliches blättriges Gefüge wahrnehmen lässt. — 1/4 Loth. — Abschnitt von Nr. 2.
+
+4\. Auf beiden Seiten geätztes Plättchen. — 1 23/32 Loth. — 1841. 14. 12. — Wie das Stück Nr. 1 erhalten, von dem es abgeschnitten ist.
+
+5\. Kleines, angelaufenes Plättichen. — 13/32 Lth. — Abschnitt von Nr. 1.
+
+6\. Kleines Plättchen, geätzt und dann angelaufen. — 1/2 Loth. — Abschnitt von Nr. 1.
+
+### 87\. Zacatecas.
+
+Mexico.
+
+Den Eingebornen seit undenklichen Zeiten bekannt, einem grösseren Publicum in Amerika durch die Gazeta de Mexico von 3. April 1792, den europäischen Gelehrten aber erst seit 1804 durch das schon früher bei Toluca erwähnte Werk von Sonneschmidt, der die Masse auf 20 Zentner schätzte.
+
+Neuere Nachrichten über dieses Eisen verdanken wir Herrn Burkart (Aufenthalt und Reisen in Mexico in den Jahren 1825 bis 1834. Band 1. S. 389.) Man erzählte Herrn Burkart in Zacatecas, dass diese in einem Hause der Tacuba-Strasse liegende Eisenmasse (die er für schwerer hält, als sie Sonneschmidt schätzte), aus dem Norden nach der Stadt Zacalecas gebracht worden sey, Dass sie nicht immer da lag, scheint auch aus einer Erzählung in den angeführten Blatte der Gazeta de Mexico, das wir der gültigen Mittheilung des Herrn Alexander v. Humboldt verdanken, hervorzugehen.* Sollte sie nicht, wie die Meteoreisenmasse von Charcas, von der Meierei San Jose del Sitio dahin gebracht worden seyn? da Herr Burkart die Eisenmasse, welche jetzt zu Charcas an der Ecke der Kirche als Radahweiser dient, jener in der Stadt Zacatecas liegenden in ihrem äusseren Ansehen, in Bruch, Farbe, u. s. w. ganz ähnlich fand, Eine Entscheidung darüber lässt sich nur durch Untersuchung polirter und geätzter Schnittflächen von beiden Eisenmassen erlangen. Leider ist es Herrn Burkart aller Anstrengung ungeachtet nicht gelungen, von der etwa 8 bis 9 Centner schweren Eisenmasse von Charcas ein Stückchen ahzutrennen. (Siehe das angeführte Werk B. 2. S. 127.)
+
+*) Die Volkssage von der Eisenmasse von Zacatecas lautet nämlich: die Masse war ursprünglich Silber und wurde aus dem berühmten Bergwerk la Quehradilla nach der Hausthür des Bergwerks-Eigenthümers in Zacatecas gebracht, weil dieser die Absicht hatte, sie in der Gestalt eines Heiligen der Ehre Gottes zu widmen, Später änderte er jedoch seinen Entschluss und als er die Masse mit Keilen auseinanderschlagen wollte, war sie nicht mehr Silber, sondern Eisen.
+
+Derbes und dichtes gediegenes Eisen, mit einer ganz ungewöhnlichen, durch die ganze Masse zerstreuten Menge von Magnetkies (und auch gemeinem Schwefelkies?) der darin in meist runden oder linsenförmigen Partien eingewachsen ist. Wenn man grössere polirte Platten dieses merkwürdigen Eisens zu sehen Gelegenheit hat (wie die im Besitze des Herrn Baron Reichenbach in Wien befindliche, mehr als spannenlange, die von cinem grossen, durch Herrn Burkart nach Europa gebrachten Stücke abgeschnitten wurde), so zeigt sich der Kies in dem gediegenen Eisen so vertheilt, dass er darin gleichsam ein unvollkommenes, netzförmiges Geflechte bildet. Die oben angedeutete Vermuthung, dass der Kies von zweierlei Beschaffenheit sey, rechtfertigt sich durch den Umstand, dass man an grösseren polirten Kiesflecken eine doppelte Farben-Nüance und Dichtigkeit zu unterscheiden vermag, unddiese auch mit verschiedenen Farben anlaufen. Das Eisen durchziehen ziekzackförmige Sprünge, und auf gut polirten Flächen werden in dem Eisen feine, etwas vertiefte Linien sichtbar, die nach verschiedenen Richtungen ziehend, sich oft berühren und schneiden. Durch mässiges und vorsichtiges Aetzen dieses schr schwer angreifbaren und wegen des vielen Kieses in Säuren überhauptschwer zu behandelnden Eisens bilden sich keine wahren Widmannstätten'schen Figuren, sondern die schon auf polirten Flächen zum Vorschein kommenden geraden und langen vertieften Linien, wovon gewöhnlich zwei nahe an einander liegende parallel laufen, werden schärfer und deutlicher, und die zwischen den Linienpaaren liegenden, meist viereckigen Felder sind mit Puncten und feinen Strichelchen erfüllt, die, unter sich selten parallel, meist nach allen Richtungen und oft fast strahlenförmig aus einander laufen. — Ein höchst charakteristisches und merkwürdiges, nach seiner Zeichnung schwer zu beschreibendes Meteoreisen.
+
+1\. Ein Stück mit natürlicher Oberfläche, zwei Bruch- und einer anpolirten Schnittlläche. — 24 1/2 Loth. — 1839. 2. 1. — Von dem königl. preussischen Oberbergamts-Secretär Herrn Burkart in Bonn, der dieses Stück von der Masse in Zacatecas abhämmerte, gefälligst zu Kauf erhalten.
+
+2\. Schwach geätztes Plättchen. — 2 1/16 Loth. — Von 1839. 2. 1. — Abschnitt von Nr. 1.
+
+3\. Blau und violett angelaufenes Plättchen, wodurch jedoch keine Zeichnung zum Vorschein kam. — 1 1/2 Loth. — Von 1839. 2. 1. — Abschnitt von Nr. 1.
+
+4\. Ein länglicher Abschnitt mit einer Schnittfläche, die zum Theil polirt, zum Theil schr schwach und zum Theil sehr stark geätzt ist (auf letzterem ist die charakteristische Zeichnung zum Theil verschwunden, und nur ein körniges Gefüge, mit linienförmigen Einschnitten zu sehen). — 4 29/32 Loth. — 1838. 25. 12. — Aus der ehemahls Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland überkam das Stück mit dem Mineralien-Vorrathe seines im Jahre 1806 zu St. Petersburg gestorbenen Oheims Jakob Forster.
+
+### 88\. Rasgata,
+
+nordöstlich von Santa Fe de Bogota, in der Nähe der Salinen von Zipaquira, Republik Columbia (jetzt Republik Neu-Granada), Süd-Amerika.
+
 ...
