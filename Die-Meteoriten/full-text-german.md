@@ -2067,4 +2067,92 @@ Die Verarbeitung des Eisens gestattet keine Diagnose; es lassen sich aber darin 
 
 1\. Als kurze, dreieckige Messerklinge zum Abhäuten der Seehunde von den Ekimos verarbeitet. Die eine Fläche verrostet,, die andere zum Theil anpolirt, und zum Theil geätzt. — 7/32 Loth. — 1838. 25. 13. — Aus der ehemahls Heuland'schen, dann Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland kaufte diese Messerklinge, die in ein Heft, aus dem Zahne eines Wallrosses angefertiget, befestigt war, in einer öffentlichen Versteigerung zu London. Das Stück stammt von der ersten englischen Expedition unter Capitän Ross, der dieses zur Fischerei benützte Messer von den Ekimos eintauschte.
 
+## Zusätze.
+
+1\. Die im Wiener k. k. Mineralien-Kabinette aufgestellten 258 Nummern von Meteoriten (von kleineren Stücken machen in mehreren Fällen zwei oder mehrere zusammen Eine Nummer) repräsentiren nach dem im Kabinetts-Kataloge jedem einzelnen Stücke beigefügten Werthe oder Ankaufspreise eine Gesammtisumme von 33,196 1/2 Gulden in Conventions-Münze.* Sie wiegen zusammen 330 Pfund und 14 29/32 Loth Wiener Gewicht. (Ein Wiener Pfund von 32 Wiener Lothen ist gleich 38,314 preussischen Lothen, oder 19,754 englischen Avoir du poids Unzen, oder 560,012 französischen Grammen. Ein Kilogramm ist gleich 1 Pfund 25 9/64 Loth Wiener Gewicht.)
+
+*) Wir liefern im einem Anhange, um einem mehrseitigen Wunsche zu entsprechen, die Schätzung der einzelnen Stücke.
+
+2\. Ausser der unter Glas zur Schau gestellten Meteoriten-Sammlung des k. k. Mineralien-Kabinettes befinden sich daselbst in einem Schranke des vierten Saales in Schiebfächern (Schubladen) noch zwei kleinere Sammlungen von Meteoriten zur näheren naturhistorischen oder chemischen Untersuchung derselben und beinahe von allen Localitäten der grossen Sammlung. Die erste, in 12 Kartons, besteht aus kleinen Stücken, von welchen die specifischen Gewichte der angefügten Tabelle genommen wurden, aus Fragmenten, die zu anderen wissenschaftlichen Untersuchungen, z. B. mechanischer Sonderung ihrer Gemenstheile u. s. w. dienten, und endlich auch aus manchem kleinen Stückchen, an dem sich ein interessantes Verhältniss darstellt, das die Stücke der grösseren Sammlung nicht darbiethen. Die zweite der angeführten kleineren Sammlungen ist eine zum Behufe von mikroskopischen Untersuchungen hergerichtete, in welcher die Meteorsteine in grob gepulvertem Zustande in Schiebern unter zwei runden Glasplättchen; die Meteoreisen in eben solchen Schiebern in ganz dünn geschnittenen und dann mit Säuren geätztien kleinen Plättchen aufbewahrt werden.
+
+3\. Als Anhänge zu der Meteoriten-Sammlung werden ferners allda noch aufbewahrt:
+
+a\. Alle Körper, die man fälschlich für Meteoriten angesehen hat, und wovon ein grosser Theil die meisten der öffentlichen Meteoriten-Sammlungen (nahmentlich jene in Berlin und London) verunziert; so erstens künstliche Eisenmassen, die man für Meteoreisen hielt, wie die von Gross-Kammsdorf‚ Magdeburg, Aachen, Cilly, Collina di Brianza, Florac, Oswego u. s. w. Zweitens verschiedene Naturkörper, die aus der Atmosphäre gefallen sind oder gefallen seyn sollen, z. B. die in Brauncisenstein umgewandelten Schwefelkieslinsen von Sterlitamak im Gouvernement Orenburg, die den Kern von Hagelkörnern gebildet haben sollen; Stückchen von porösem Braun- oder Rascneisenstein, die man für das Residuum einer bei Löbau in der Oberlausitz niedergefallenen Sternschnuppe hält*; Fragmente von Kalkspath, die auf ein Schiff in den amerikanischen Gewässern niedergefallen seyn sollen; das sogenannte Meteorpapier von Rauden in Kurland; die Rückstände des rothen Schnees aus den Schweizer Alpen; Staub von dem Schlammregen von Udine; die vielbesprochenen Raseneisensteinkörner von Iwan in Ungarn u. s. w.
+
+*) Ueber diese jedenfalls merkwürdige Substanz siehe: Ficinus Beohachtung des Falles cines Meteorsteines bei Löbau in der k. sächs, Oberlausitz, am 18. Januar 1835, in Erdmanns und Schweiggers Journal für practische Chemie. B. 5. S. 41.
+
+b\. Mehrere rohe, durchschnittene, polirte und zum Theil auch geätzte Stücke des, durch leidige Unkenntniss, im Frischfeuer veränderten höchst merkwürdigen Meteoreisens von Bitburg bei Trier.
+
+c\. Das vorgebliche tellurische Eisen von Canaan im Staate Connecticut, und ein damit scheinbar identisches schwarzes graphithältiges Eisen, angeblich aus Kamtschatka.
+
+d\. Stücke von Roheisen, Eisenschlacken und andere Schmelzproducte; auch Blitzröhren und vom Blitz getroffene Felssteine zum Vergleiche.
+
+e\. Einige Mineralien, die Aehnlichkeit mit Meteorsteinen besitzen (Dolerit, Basalt, Lava, Obsidianporphyr, Trachyt), oder an Widmannstättische Figuren erinnernde Streifen nach drei Richtungen wahrnehmen lassen. (Magneteisenstein, Eisenglanz, Corund, Kalkspath.)
+
+f\. Einige Meteorsteine, namentlich von Stannern, mit welchen durch Herrn Hofrath und Director von Schreibers verschiedenartige Schmelzversuche im Porzellanfeuer, mit Brennspiegeln und mit elektrischen Strömungen angestellt worden sind, dann andere Meteorsteine, die längere Zeit in der Erde vergraben waren, um die Verwitterbarkeit derselben zu untersuchen (da es sonderbar ist, dass man noch nie Meteorsteine fand, deren Niederfallen nicht beobachtet worden wäre.)
+
+g\. Verarbeitetes (geschmiedetes, geschweisstes, in Bleche ausgezogenes....) Meteoreisen, namentlich von Agram, Elbogen und vom Cap der guten Hoffnung; technische Versuche, von Herrn v. Widmannstätten ausgeführt.
+
+h\. Die Original-Urkunde in lateinischer Sprache, ddo. 6. Juli 1751 mit Siegel und einer gleichzeitigen deutschen Uebersetzung über das Niederfallen der zwei Meteoreisenmassen von Agram.
+
+i\. Eine Anzahl Gypsabgüsse von antiken Münzen, worauf Meteoriten oder geheiligte Steine (Bätylien, Cerauniten) abgebildet sind.
+
+k\. Einzelne Gypsabdrücke von Meteoriten, namentlich von dem durch seine Gestalt und die Eindrücke an der Oberfläche sehr merkwürdigen Meteorstein, gefallen im Jahre 1837 zu Gross-Divina bei Budetin in Ungarn, nun im National-Museum zu Pesth; eine Ergänzung in Gyps von unserer Elbogner Eisenmasse, und Modelle von den Meteorsteinen von Tipperary und Wessely.
+
+l\. Eine grosse Anzahl von ausgezeichnet schönen in Farben ausgeführten Zeichnungen, dann viele höchst getreue Bleistift-Zeichnungen von Meteoriten, vorzüglich von Widmannstättischen Figuren der Mcteoreisenmassen; ferners Autographen von geätztem Meteoreisen; Lithographien und Kupferstiche, Meteorsteine darstellend, endlich zwei Situationspläne der Gegenden von Stannern und Lissa, mit Bezeichnung der Puncte, auf welchen die daselbst aus der Luft gefallenen Steine aufgefunden worden sind.
+
+(Eine fast vollständige kleine Sammlung von allen über Meteoriten erschienenen Werken und Abhandlungen befindet: sich unter den Büchern des k. k. Mineralien-Kabinetts.)
+
+4\. Von Meteoriten, deren Vorhandenseyn im Besitz von öffentlichen Sammlungen und Anstalten oder von Privaten bekannt ist, fehlen dem k. k. Mineralien-Kabinette (zum Theilungeachtet vieler Bemühungen) noch folgende Localitäten:
+
+### 1\. Meteorsteine.
+
+a\. (Fallzeit) 1668. Verona (Vago). Obwohl das Gewicht der allda gefallenen 2 oder 3 grossen Steine 500 Pfund betrug, ist jetzt von denselben doch nur noch ein ganz kleines Stückchen bekannt, dass sich in der Sammlung des verstorbenen Chemikers Laugier in Paris befand. Chladni, der es im Jahre 1818 sah, fand es den Steinen von Tabor und Barbotan ähnlich. (Es ist uns Hoffnung gemacht worden, dass in Verona doch noch ein Stück ausgemittelt werden dürfte.)
+
+b\. 1715. Garz (Schellin) bei Stargard in Pommern. Von diesem erst im Jahre 1822 (in Gilberts Annalen B. 71. S. 213) bekannt gemachten Steinfall sind gegenwärtig nur noch 2 oder 3 Stücke vorhanden; eines bei eineın Gutsbesitzer in Pommern, ein anderes sehr kleines von 91 Gran in der k. Mineralien-Sammlung zu Berlin. (Wir sahen es da und fanden es den Steinen von Apt, Berlanguillas u. s. w. ähnlich.) Das kleine Fragment, das der verstorbene Prof. Gilbert in Leipzig besass, scheint verloren gegangen zu seyn.
+
+c\. 1815. Duralla bei Liodiana in Ostindien. Der allda gefallene Stein von 25 Pfunden, dem die Braminen grosse Verehrung bezeugten und einen eigenen Tempel bauen lassen wollten, wird im Hause der ostindischen Compagnie in London aufbewahrt, und davon auch nicht die Abtreunung eines winzigen Fragmentchens gestattet. Wir haben desshalb fruchtlose Schritte gemacht. Er soll zu der Abtheilung der eisenhältigen Meteorsteine gehören.
+
+d\. 1822. Angers, Dept. Maine et Loire, Frankreich. Wir sahen von diesem, hinsichtlich seiner Masse unbeträchtlichen Steinfallein Stück im k. Museum der Naturgeschichte zu Paris. Der Stein gleicht dem von Vouille.
+
+e\. 1822. Rourpoor bei Futichpore in Doab, Ostindien. Von dem unergiebigen Steinfall (die Steine wogen zusammen nur einige Pfunde) scheint nichts nach Europa gekommen zu seyn.
+
+f\. 1824. Tounkin, Gouv. Irkutzk, Sibirien. Der 5 Pfund schwere Stein befand sich vor mehreren Jahren bei einem Gouverneur in Sibirien. Ein ganz kleiner Splitter, den Doctor Fiedler in Dresden auf seiner Reise durch Sibirien davon erhielt, befindet sich jetzt in der Sammlung des Freiherrn von Reichenbach in Wien.
+
+g\. 1825. Oriang in Malwate, Ostindien. Der Stein, der durch seinen Fall einen Mann tödtete und eine Frau stark beschädigte, ist wohl nicht nach Europa gebracht worden.
+
+h\. 1827. Mhow im District Azim-Gesh; Ostindien. Es fielen einige Steine, wovon ein abgesprungenes Bruchstück ebenfalls einen Menschen tödtete; sie sind wohl ebenfalls nicht nach Europa gekomnen.
+
+i\. 1829. Deal im Staate New-Jersey, Nordamerika. Es fielen mehrere Steine, von denen wir durch die Gefälligkeit der Herren Silliman und Shepard etwas zu erhalten hoffen.
+
+k\. 1830. Launton bei Bicester, Oxfordshire, England. Es fiel nur Ein Stein von 2 Pfund 5 Loth, jetzt im Besitz eines Geistlichen in England.
+
+l\. 1834. Charwallas bei Hissar, Ostindien. Es fiel ebenfalls nur Ein, wenige Pfunde schwerer Stein, von dem wohl gleichfalls keine Fragmente nach Europa gekommen seyn mögen.
+
+m\. 1837. Esnaude, Dept. Charente inferieure. Von dem einzeln gefallenen Steine von 3 Pfunden sind Stücke an das naturhistorische Museum zu Bordeaux geschickt worden.*
+
+*) Ein drei Loth schweres Fragment des Meteorsteines von Esnaude hat das k. k. Mineralien-Kabinett während des Druckes des vorliegenden Cataloges durch H. Marguier erhalten.
+
+n\. 1839. Little-Piney, im Staate Missouri, Nordamerika. Es wurde nur Ein faustgrosser Stein gefunden, den man zertrümmerte, Ein Fragment davon ist im brittischen Museum zu London, andere in ein paar amerikanischen Sammlungen. Auch unsere Sammlung hat Hoffnung, davon ein Fragment zu erhalten.
+
+o\. 1840. Kirgisen-Steppe, am Flusse Karokol, Asien. Der einzeln gefallene Stein von fast 6 Zoll Länge befindet sich im Museum der naturforschenden Gesellschaft zu Moskau.
+
+### 2\. Meteoreisen.
+
+(Die Zeit des Niederfallens unbekannt.)
+
+r\. Auf dem Alasej'schen Bergrücken in Sibirien, der das Flusssystem des Alasej von dem des Indigirka trennt, findet man in Menge gediegenes Eisen von vorzüglicher Güte, das nur Meteoreisen seyn kann, und von den Jakuten zu Messern, Beilen u.dgl. verarbeitet wird, (Siehe Wrangels Reise längs der Nordküste von Sibirien und auf dem Eismeere. 1. Band. Seite 175. Berlin. 1839.) Es scheint davon noch nichts nach Europa gekommen zu Seyn.
+
+s\. In der Petropawlowsker Goldseife, Gouv. Omsk, Sibirien, hat man früher kleinere Stücke gediegenen nickelhaltigen Eisens, die man nicht beachtete, und erst kürzlich ein grösseres 17 1/2 Pfund schweres Stück gefunden. (Siehe Erdmann Archiv für wissenschaftliche Kunde von Russland. 1841. 1. S. 314-320.) Wir hoffen, durch gütige Vermittlung des Ilerrn Generals von Tscheffkin, Chef des Stabes des k. russischen Bergingenicur-Corps, an den wir uns gewendet haben, davon etwas zu erhalten.
+
+t\. Wie wir bereits bei dem Meteoreisen vom Cap der guten Hoffnung (Nr. 91 des gegenwärtigen Verzeichnisses) bemerkten, ist es noch ungewiss, ob das früher zwischen dem Sonntags- und Boschesmanns-Flusse gefundene Meteoreisen mit den am grossen Fischflusse weit umher gestreuten Eisenmassen, die durch Capitän Alexander bekannt wurden, von ein und demselben Ereigniss herrühren. Es wäre wünschenswerth, das von C. Alexander entdeckte Eisen untersuchen zu können, Ob esschon nach Europa gebracht worden, ist uns nicht bekannt.
+
+u\. Das Meteoreisen von Santa Rosa oder Tocavita in Neu-Granada sahen wir in der k. Mineralien-Sammlung zu Berlin, wohin es durch Herrn Alexander von Humboldt kam, und fanden es dem bei Rasgata aufgefundenen ganz ähnlich. Es ist nicht unwahrscheinlich, dass die Eisenmassen dieser zwei Localitäten, die von einander nicht sehr entfernt sind, von Einem Meteore herrühren, das verschiedene Entladungen machte.
+
+v\. Ob das Meteoreisen aus der Sierra blanca unweit Villa nueva de Huaxuquilla in Mexiko (siehe Chladni S. 339.) und
+
+w\. das von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanischen Localitäten (das erstere etwa mit Toluca, das andere mit Zacatecas oder eigentlich San Jose del Sitio) zusammenfallen dürften, ist noch ungewiss, und wird erst durch mineralogische und chemische Untersuchungen ermittelt werden können. Ein Stück Eisen mit dem angeblichen Fundorte Sierra blanca, in der, für die k. Mineralien-Sammlung in Berlin angekauften Bergemann'schen Mincralien-Sammlung fanden wir rücksichtlich der Widmannstätti'schen Figuren dem Eisen von Durango im Wiener kais. Mineralien-Kabinette ähnlich.
+
+## Die specifischen Gewichte der im k. k. Mineralien-Kabinette vorhandenen Meteoriten.
+
 ...
