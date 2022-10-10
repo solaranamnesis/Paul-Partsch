@@ -2603,5 +2603,5 @@ Gediegenes Eisen und Schwefeleisen sind darin entweder gar nicht vorhanden, oder
 
 4\. Chassigny. Zusammenhängende, körnige, gelblichgrüne Grundmasse ohne metallischen Eisen und ohne Schwefeleisen, aber mit kleinen schwarzen Körnern von Chromeisen gemengt. (Die Grundmasse besteht nur aus Einem, und zwar einem olivinartigen, in Säuren löslichen Mineral.) Matte schwarze Rinde.
 
-### 2\. Normale Meteorsteine.
+#### 2\. Normale Meteorsteine.
 
