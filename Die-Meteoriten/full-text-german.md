@@ -2588,3 +2588,12 @@ Die auf der Abbildung dargestellten Widmannstättischen Figuren (siehe die Anmer
 ## Verwandtschafts-Tabelle der Meteoriten.
 
 ### 1\. Meteorsteine.
+
+Erdige Meteoriten entweder ohne metallischen Eisen, oder, wenn dieses eingemengt ist, bestehen wenigstens 3/4 der Masse nicht aus metallischem Eisen.
+
+#### 1\. Anomale Meteorsteine.
+
+Gediegenes Eisen und Schwefeleisen sind darin entweder gar nicht vorhanden, oder in so geringer Menge, dass man sie in der gepulverten Substanz nur mittelst des Mikroscopes zu entdecken vermag.
+
+1\. Alais. Bröcklige, leicht zu Pulver zerreibliche schwarze Masse, efflorescirend, im Wasser zu einem Brei zerfallend. Gediegenes Eisen und Schwefeleisen nur durch das Mikroscop erkennbar.
+
