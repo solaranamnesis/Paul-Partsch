@@ -2633,3 +2633,33 @@ grüne Kügelchen auf.
 #### 2\. Mit Schwefeleisen (Magnetkies?) und mit gediegenem Eisen. Die schwarze Rinde matt oder schwach schimmernd.
 
 (Von erdigen Mineralien sind in Folge chemischer Untersuchung darin vorhanden: a. Ein olivinartiges in Säuren lösliches, aber unschmelzbares Mineral. b. Ein oder vielleicht zwei, ein augit- und ein leucit- oder feldspathartiges Mineral, in Säuren unlöslich, aber schmelzbar Silicate von Talkerde, Kalkerde, Eisenoxydul, Manganoxydul, Tonerde, Kali und Natron). In der chemischen Zusammensetzung dieser Mineralien herrscht die Talkerde vor.)
+
+13\. Parma. Mehr Kies als Eisen. Lichtgraue Grundmasse. Breccienartig, oder doch breccienartige Zeichng.
+
+14\. Siena. Mehr Kies als Eisen. Lichtgraue Grundmasse. Breccienartig, oder doch breccienartige Zeichng.
+
+15\. Ensisheim. Mehr Kies als Eisen. Dunkelgraue Grundmasse. Breccienartig, oder doch breccienartige Zeichng.
+
+16\. L'Aigle. Mehr Eisen als Kies. Dunkelgraue Grundmasse. Breccienartig, oder doch breccienartige Zeichng.
+
+17\. Liponas. Mehr Eisen als Kies. Dunkelgraue Grundmasse. Breccienartig, oder doch breccienartige Zeichng.
+
+18\. Chantonnay. Vorherrschend schwarze, basaltartige Grundmasse, ohne porphyrartige Einmengungen; stellenweise graue Grundmasse.
+
+19\. Renazzo. Durchaus schwarze dichte Grundmasse, mit einem porphyrartig eingewachsenen weissen Mineral.
+
+20\. Richmond. Schwarzgraue, poröse Grundmasse, mit schwarzgrauen kugligen Ausscheidungen.
+
+21\. Weston. Die Grundmasse fleckig zum Teil lichtgrau, zum Teil dunkelgrau.
+
+22\. La Baffe. Lichtgraue Grundmasse. Aus der Grundmasse hervorragende, deutliche kuglige Ausscheidung.
+
+23\. Benares. Lichtgraue Grundmasse. Aus der Grundmasse hervorragende, deutliche kuglige Ausscheidung.
+
+24\. Gouv. Poltawa. Dunkelgraue Grundmasse. Aus der Grundmasse hervorragende, deutliche kuglige Ausscheidung. 
+
+25\. Krasno-Ugol. Dunkelgraue Grundmasse. Aus der Grundmasse hervorragende, deutliche kuglige Ausscheidung.
+
+26\. Erxleben. Dichte, fast homogen aussehende, dunkelgraue Grundmasse, ohne, oder nur mit einzelnen und undeutlichen kugligen Ausscheidungen.
+
+27\. Gouv. Simbirsk. Dichte, fast homogen aussehende, dunkelgraue Grundmasse, ohne, oder nur mit einzelnen und undeutlichen kugligen Ausscheidungen.
