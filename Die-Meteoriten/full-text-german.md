@@ -2290,4 +2290,6 @@ w\. das von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisch
  93       | Oaxaca \(etwas gehammert\)                         | 7,38\.                                                                | &nbsp;                                                                                                                                                                               
  94       | Gronland \(stark gehammert\)                       | 7,23\.                                                                | &nbsp;                                                                                                                                                                               
 
+## Schätzung der Meteoriten im k. k. Mineralien-Kabinette.
+
 ...
