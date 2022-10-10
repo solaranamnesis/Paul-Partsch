@@ -2607,9 +2607,9 @@ Gediegenes Eisen und Schwefeleisen sind darin entweder gar nicht vorhanden, oder
 
 Stets ist darin Schwefeleisen, in den meisten Fällen, nebst dem Schwefeleisen auch gediegenes Eisen als Gemengteil leicht zu unterscheiden (sicherer auf polirten Flächen und mittelst der Loupe)
 
-1\. Mit Schwefeleisen, aber ohne metallischen Eisen. Die schwarze Rinde pech- oder firnissartig glänzend. (In der chemischen Zusammensetzung herrscht die Talkerde nicht vor.)
+#### 1\. Mit Schwefeleisen, aber ohne metallischen Eisen. Die schwarze Rinde pech- oder firnissartig glänzend. (In der chemischen Zusammensetzung herrscht die Talkerde nicht vor.)
 
-a\. Von erdigen Gemengteilen sind 2 Mineralien, ein augit- und ein labradorartiges, in körnigem Gemenge zu unterscheiden.
+##### a\. Von erdigen Gemengteilen sind 2 Mineralien, ein augit- und ein labradorartiges, in körnigem Gemenge zu unterscheiden.
 
 5\. Juvenas. Die Masse enthält kleine Höhlungen; die beiden erdigen Mineralien stets in frischem Zustande.
 
