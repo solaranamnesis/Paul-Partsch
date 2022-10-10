@@ -2769,3 +2769,75 @@ grüne Kügelchen auf.
 68\. Timochin. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
 
 69\. Macao. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+## 2\. Meteoreisen.
+
+Metallische Meteoriten, die wenigstens zur Halfte aus metallischem Eisen, meist aber vorwaltend aus derbem Eisen bestehen, dem einige andere, gleichfalls meist metallische Mineralien nur in geringer Menge beigemengt sind.
+
+### 1\. Aestiges Meteoreisen,
+
+mit einer ungefähr gleichen Menge von Olivin oder einem olivinartigen Mineral in den Höhlungen oder Zwischenräumen, dessen Vorhandenseyn die ästige oder schwammförmige Gestalt des Eisens, das gleichsam das Skelett des Ganzen bildet, bestimmt.
+
+#### 1\. Mit Olivin (Talkerde-Silicat).
+
+70\. Atacama. Der Olivin feinkörnig, zerreiblich. Durch Aetzen von polirten Flachen mit Sauren entstehen dem breiten nicht angreifbaren und daher Glanz behaltenden Rande der durchschnittenen Eisenpartien parallel gehende graue matte Felder, zuweilen von einzelnen Linien durchzogen.
+
+71\. Krasnojarsk. Der Olivin grosskörnig, nicht zerreiblich. Durch Aetzen von polirten Flachen mit Sauren entstehen dem breiten nicht angreifbaren und daher Glanz behaltenden Rande der durchschnittenen Eisenpartien parallel gehende graue matte Felder, zuweilen von einzelnen Linien durchzogen.
+
+72\. Brahin. Der Olivin grosskörnig, nicht zerreiblich. Durch Aetzen von polirten Flachen mit Sauren entstehen dem breiten nicht angreifbaren und daher Glanz behaltenden Rande der durchschnittenen Eisenpartien parallel gehende graue matte Felder, zuweilen von einzelnen Linien durchzogen.
+
+#### 2\. Mit einem olivinähnlichen Mineral (einem Talkerde-Trisilicat).
+
+73\. Sachsen. Durch Aetzen entstehen auf den durchschnittenen Eisenpartien Widmannstattische Figuren.
+
+### 2\. Derbes Meteoreisen,
+
+von unbestimmter Form, mit Einmengungen, die auf die Gestalt des Eisens keinen Einfluss ausüben, und demselben nur in geringer Menge beigemengt sind. (Sie machen, etwa mit Ausnahme von Nr. 74, wohl nie mehr als den zwölften Theil des Ganzen aus.)
+
+#### 1\. Die Einmengnng besteht aus einem erdigen, grünlichen oder branuen olivinartigen Mineral (und wohl auch aus Magnetkies).
+
+74\. Bitburg.
+
+#### 2\. Die Einmengung besteht aus Magnetkies (zuweilen wohl auch aus einer zweiten, noch nicht hinreichend untersuchten Schwefeleisen-Verbindung) und in seltneren Fällen aus einigen anderen Mineralien (Magneteisen, Chromeisen, Graphit, Verbindungen von Phosphoreisen mit Phosphornickel und Phosphormagnesium u. s. w.).
+
+75\. Toluca. Durch Aetzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmannstattische Figuren, d. h. mit der krystallinischen Structur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legirt ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffirt und wiederhohlen in Kleinen die Beschaffenheit der Masse in Grossen.
+
+76\. Elbogen. Durch Aetzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmannstattische Figuren, d. h. mit der krystallinischen Structur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legirt ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffirt und wiederhohlen in Kleinen die Beschaffenheit der Masse in Grossen.
+
+77\. Agram. Durch Aetzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmannstattische Figuren, d. h. mit der krystallinischen Structur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legirt ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffirt und wiederhohlen in Kleinen die Beschaffenheit der Masse in Grossen.
+
+78\. Lenarto. Durch Aetzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmannstattische Figuren, d. h. mit der krystallinischen Structur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legirt ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffirt und wiederhohlen in Kleinen die Beschaffenheit der Masse in Grossen.
+
+79\. Red-River. Durch Aetzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmannstattische Figuren, d. h. mit der krystallinischen Structur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legirt ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffirt und wiederhohlen in Kleinen die Beschaffenheit der Masse in Grossen.
+
+80\. Durango. Durch Aetzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmannstattische Figuren, d. h. mit der krystallinischen Structur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legirt ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffirt und wiederhohlen in Kleinen die Beschaffenheit der Masse in Grossen.
+
+81\. Guilford. Durch Aetzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmannstattische Figuren, d. h. mit der krystallinischen Structur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legirt ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffirt und wiederhohlen in Kleinen die Beschaffenheit der Masse in Grossen.
+
+82\. Caille. Durch Aetzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmannstattische Figuren, d. h. mit der krystallinischen Structur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legirt ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffirt und wiederhohlen in Kleinen die Beschaffenheit der Masse in Grossen.
+
+83\. Ashville. Durch Aetzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmannstattische Figuren, d. h. mit der krystallinischen Structur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legirt ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffirt und wiederhohlen in Kleinen die Beschaffenheit der Masse in Grossen.
+
+84\. Tennessee. Durch Aetzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmannstattische Figuren, d. h. mit der krystallinischen Structur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legirt ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffirt und wiederhohlen in Kleinen die Beschaffenheit der Masse in Grossen.
+
+85\. Bohumilitz. Durch Aetzen oder Anlaufen entstehen unvollkommene Widmannstättische Figuren, d. h. die Einfassungsleisten sind wenig deutlich, die Zwischenfelder verschwinden fast ganz, die Streifen sind dagegen sehr breit und schimmern fleckenweise und abwechselnd wie moire metallique.
+
+86\. Bahia. Durch Aetzen oder Anlaufen entstehen unvollkommene Widmannstättische Figuren, d. h. die Einfassungsleisten sind wenig deutlich, die Zwischenfelder verschwinden fast ganz, die Streifen sind dagegen sehr breit und schimmern fleckenweise und abwechselnd wie moire metallique.
+
+87\. Zacatecas. Durch Aetzen entstehen keine Widmannstättischen Figuren, sondern läugere feine Linien, die sich zwar öfter berühren und schneiden, und dadurch unvollkommene Zwischenfelder bilden; diese werden aber nur von diesen Linien (nicht von Streifen mit Begrenzungsleisten) umgeben, und sind zum Theil mit unterbrochenen kurzen Linien der Strichelchen ausgefüllt.
+
+88\. Rasgata. Durch Aetzen entstehen keine Widmannstättischen Figuren, sondern läugere feine Linien, die sich zwar öfter berühren und schneiden, und dadurch unvollkommene Zwischenfelder bilden; diese werden aber nur von diesen Linien (nicht von Streifen mit Begrenzungsleisten) umgeben, und sind zum Theil mit unterbrochenen kurzen Linien der Strichelchen ausgefüllt.
+
+89\. Tucumann. Durch Aetzen entstehen keine Widmannstättischen Figuren, sondern kurze feine Linien, die sich oft berühren und schneiden, ohne Mittelfelder zu bilden, und dem Ganzen eine gestrickte oder federartige Zeichnung verleihen.
+
+90\. Senegal. Durch Aetzen entstehen keine Widmannstättischen Figuren, sondern kurze feine Linien, die sich oft berühren und schneiden, ohne Mittelfelder zu bilden, und dem Ganzen eine gestrickte oder federartige Zeichnung verleihen.
+
+91\. Cap der guten Hoffnung. Durch Aetzen entstehen entweder gar keine Figuren, oder es ziehen sich über die geätzte graue und feinkörnige Fläche einzelne, zuweilen mehrere parallele Bänder hin, die jedoch nur sichtbar sind, wenn die Fläche nach gewissen Richtungen gehalten wird.
+
+92\. Clairborne. Durch Aetzen entstehen entweder gar keine Figuren, oder es ziehen sich über die geätzte graue und feinkörnige Fläche einzelne, zuweilen mehrere parallele Bänder hin, die jedoch nur sichtbar sind, wenn die Fläche nach gewissen Richtungen gehalten wird.
+
+### Anhang. Wegen Hammerung nicht untersuchbar.
+
+93\. Oaxaca.
+
+94\. Gronland.
