@@ -2597,3 +2597,11 @@ Gediegenes Eisen und Schwefeleisen sind darin entweder gar nicht vorhanden, oder
 
 1\. Alais. Bröcklige, leicht zu Pulver zerreibliche schwarze Masse, efflorescirend, im Wasser zu einem Brei zerfallend. Gediegenes Eisen und Schwefeleisen nur durch das Mikroscop erkennbar.
 
+2\. Simonod. Bröcklige und scharfkantige nicht leicht zerreibliche schwarze Masse, ohne gediegenen Eisen und ohne Magnetkies.
+
+3\. Capland. Zusammenhängende aber weiche, schwarze Masse, durch den Strich Glanz erlangend, ohne sichtbares Schwefeleisen (obwohl der Stein nach der chemischen Untersuchung 4 p. c. Schwefel enthält) und ohne metall. Eisen. (Die chem. Analyse hat darin weder metall. Eisen noch Nickel gefunden.) Matte schwarze Rinde.
+
+4\. Chassigny. Zusammenhängende, körnige, gelblichgrüne Grundmasse ohne metallischen Eisen und ohne Schwefeleisen, aber mit kleinen schwarzen Körnern von Chromeisen gemengt. (Die Grundmasse besteht nur aus Einem, und zwar einem olivinartigen, in Säuren löslichen Mineral.) Matte schwarze Rinde.
+
+### 2\. Normale Meteorsteine.
+
