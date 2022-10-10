@@ -2663,3 +2663,109 @@ grüne Kügelchen auf.
 26\. Erxleben. Dichte, fast homogen aussehende, dunkelgraue Grundmasse, ohne, oder nur mit einzelnen und undeutlichen kugligen Ausscheidungen.
 
 27\. Gouv. Simbirsk. Dichte, fast homogen aussehende, dunkelgraue Grundmasse, ohne, oder nur mit einzelnen und undeutlichen kugligen Ausscheidungen.
+
+(28-69.): Die kugligen Ausscheidungen meist wenig deutlich, zuweilen auch, wenn sie mit der Grundmasse fest verwachsen sind, nur durch ein fleckiges Aussehen der Masse wahrzunehmen.
+
+(28., 29.)
+
+28\. Mauerkirchen. Lichtgraue Grundmasse. Die kugligen Ausscheidungen meist wenig deutlich, zuweilen auch, wenn sie mit der Grundmasse fest verwachsen sind, nur durch ein fleckiges Aussehen der Masse wahrzunehmen.
+
+29\. Nashville. Lichtgraue Grundmasse.
+
+30\. Luce. Lichtgraue Grundmasse.
+
+(31., 32.)
+
+31\. Lissa. Lichtgraue Grundmasse.
+
+32\. Owahu. Lichtgraue Grundmasse.
+
+(33., 34., 35., 36., 37., 38., 39., 40., 41., 42.)
+
+33\. Charkow. Lichtgraue Grundmasse.
+
+34\. Zaborzika. Lichtgraue Grundmasse.
+
+35\. Bachmut. Lichtgraue Grundmasse.
+
+36\. Politz. Lichtgraue Grundmasse.
+
+37\. Kuleschofka. Lichtgraue Grundmasse.
+
+38\. Slobodka. Lichtgraue Grundmasse.
+
+39\. Milena. Lichtgraue Grundmasse.
+
+40\. Forsyth. Lichtgraue Grundmasse.
+
+41\. Yorkshire. Lichtgraue Grundmasse.
+
+42\. Glasgow. Lichtgraue Grundmasse.
+
+(43., 44.)
+
+43\. Berlanguillas. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+
+44\. Apt. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+
+45\. Vouille. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+
+46\. Chateau-Renard. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+
+47\. Sales. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+
+48\. Agen. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+
+(49., 50.)
+
+49\. Nanjemoy. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+
+50\. Asco. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+
+51\. Toulouse. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+
+(52., 53.)
+
+52\. Blansko. Dunkelgraue (blaulichgraue) Grundmasse.
+
+53\. Wessely. Dunkelgraue (blaulichgraue) Grundmasse.
+
+(54., 55., 56.)
+
+54\. Limerik. Dunkelgraue (blaulichgraue) Grundmasse.
+
+55\. Gruneberg. Dunkelgraue (blaulichgraue) Grundmasse.
+
+56\. Tipperary. Dunkelgraue (blaulichgraue) Grundmasse.
+
+57\. Gouv. Kursk. Dunkelgraue (blaulichgraue) Grundmasse.
+
+58\. Lixna. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+59\. Tabor. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+60\. Charsonville. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+(61., 62.)
+
+61\. Doroninsk. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+62\. Seres. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+(63., 64.)
+
+63\. Sigena. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+64\. Barbotan. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+(65., 66., 67., 68.)
+
+65\. Eichstadt. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+66\. Gross-Divina. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+67\. Zebrak. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+68\. Timochin. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+
+69\. Macao. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesaeten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
