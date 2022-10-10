@@ -2580,3 +2580,11 @@ w\. das von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisch
  80       | Nummern Meteoreisen\.                | 25611                          
  &nbsp;   | Hiezu die 178 Meteorsteine\.         | 7585 ½                         
  &nbsp;   | Also die gesammten 258 Meteoriten\.  | 33196 ½                        
+
+## Erklärung der Abbildung.
+
+Die auf der Abbildung dargestellten Widmannstättischen Figuren (siehe die Anmerkung auf Seite 100 des vorliegenden Werkes) sind durch Aetzen der polirten Schnittfläche eines Stückes Meteoreisen von Lenarto in Ungarn erhalten worden. Es ist diess das grösste Stück von dieser Localität in der Meteoriten-Sammlung des k. k. Mineralien-Kabinettes und in dem vorliegenden beschreibenden Verzeichnisse Seite 108 unter Nummer 1 angezeigt, Um die Zeichnung des Originals zu vervielfältigen, ist von der mit Salpetersäure geätzten Fläche desselben ein Gypsabguss gemacht und in diesen die Metall-Legirung (Blei, Zinn und Antimon) ausgegossen worden. Dadurch wurde eine dem Originale vollkommen ähnliche Platte gewonnen, und von dieser sodaun die Abdrücke auf Papier abgezogen.
+
+## Verwandtschafts-Tabelle der Meteoriten.
+
+### 1\. Meteorsteine.
