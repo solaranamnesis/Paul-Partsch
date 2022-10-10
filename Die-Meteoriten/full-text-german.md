@@ -2612,3 +2612,24 @@ Stets ist darin Schwefeleisen, in den meisten Fällen, nebst dem Schwefeleisen a
 a\. Von erdigen Gemengteilen sind 2 Mineralien, ein augit- und ein labradorartiges, in körnigem Gemenge zu unterscheiden.
 
 5\. Juvenas. Die Masse enthält kleine Höhlungen; die beiden erdigen Mineralien stets in frischem Zustande.
+
+6\. Stannern. Die Masse ist ohne Hohlungen; von den beiden erdigen Gemengteilen ist der weisse meist nicht ganz frisch.
+
+7\. Constantinopel. Die Masse ist ohne Hohlungen; von den beiden erdigen Gemengteilen ist der weisse meist nicht ganz frisch.
+
+8\. Jonzac. Die Masse ist ohne Hohlungen; von den beiden erdigen Gemengteilen ist der weisse meist nicht ganz frisch.
+
+##### b\. Von erdigen Gemengteilen ist ausser den zwei bei a. erwähnten noch wenigstens ein dritter olivengrüner vorhanden; breccienartiges Aussehen.
+
+9\. Bialistock. leicht zerreiblich.
+
+10\. Lontalax. leicht zerreiblich.
+
+11\. Nobleborough. leicht zerreiblich.
+
+12\. Mässing. En treten in der Masse auch graulich-
+grüne Kügelchen auf.
+
+#### 2\. Mit Schwefeleisen (Magnetkies?) und mit gediegenem Eisen. Die schwarze Rinde matt oder schwach schimmernd.
+
+(Von erdigen Mineralien sind in Folge chemischer Untersuchung darin vorhanden: a. Ein olivinartiges in Säuren lösliches, aber unschmelzbares Mineral. b. Ein oder vielleicht zwei, ein augit- und ein leucit- oder feldspathartiges Mineral, in Säuren unlöslich, aber schmelzbar Silicate von Talkerde, Kalkerde, Eisenoxydul, Manganoxydul, Tonerde, Kali und Natron). In der chemischen Zusammensetzung dieser Mineralien herrscht die Talkerde vor.)
