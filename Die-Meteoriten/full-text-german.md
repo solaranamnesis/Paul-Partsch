@@ -26,9 +26,9 @@ Wien, den 23. Februar 1843.
 
 *) Münter: Über die vom Himmel gefallenen Steine, Bätylien genannt, Kopenhagen und Leipzig 1805. 8, (auch in Gilberts Annalen der Physik, B. 21, S. 51-84, unter dem Titel: Vergleichung der Bätylien der Alten mit den Steinen, welche in neueren Zeiten vom Himmel gefallen sind,) - Von Dalberg: Über Meteor -Cultus der Alten, vorzüglich in Bezug auf Steine, die vom Himmel gefallen. Heidelberg 1811. 8.
 
-*) Des pierres tombées du ciel ou Lithologie atmospherique. Paris 1803. 8.
+*) Des pierres tombées du ciel ou Lithologie atmosphérique. Paris 1803. 8.
 
-*) Memoire historique et physique sur les chutes des pierres tombées sur la surface de la terre a diverses epoques. Orleans 1812. 8.
+*) Mémoire historique et physique sur les chutes des pierres tombées sur la surface de la terre a diverses époques. Orléans 1812. 8.
 
 *) Experiments and Observations on certain stony and metalline Substances, wich at different Times are said to have fallen on the Earth, also on various Kinds of native Iron, in den Philos. Transact. of the Roy. Soc. of London for 1802. Part I. S. 168; deutsch in Gilberts Annalen der Physik, B. 13, S. 291, unter dem Titel: Versuche und Bemerkungen über Stein- und Metallmassen, die zu verschiedenen Zeiten auf die Erde gefallen sein sollen, und über die gediegenen Eisenmassen.
 
