@@ -883,7 +883,7 @@ Dreizehn Stücke von den sehr vielen (2000 bis 3000) der allda gefallenen Steine
 
 1\. Großer, ganzer, ringsum überrundeter Stein. — 2 Pfd. 22 Lth. — 1841. 14. 1. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft. Herr Heuland kaufte den Stein von Herrn Lambotin in Paris.
 
-2\. Großer, ganzer, überrundeter Stein, von dem ein dabei befindliches und anpassendes Eck abgebrochen ist (auch die Kanten sind hie und da, wie gewöhnlich, etwas abgestoßen); an ein Paar Seiten mit Eindrücken. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 12, Taf. 2. — 1 Pfund 30 3/8 Loth — 1. 6. — Wurde durch den verstorbenen k. k. Naturalien-Kabinetts-Direktor Stütz, im Jahre 1803 von einem Franzosen gekauft.
+2\. Großer, ganzer, überrundeter Stein, von dem ein dabei befindliches und anpassendes Eck abgebrochen ist (auch die Kanten sind hie und da, wie gewöhnlich, etwas abgestoßen); an ein Paar Seiten mit Eindrücken. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 12, Taf. 2. — 1 Pfund 30 3/8 Loth — ♂ 1. 6. — Wurde durch den verstorbenen k. k. Naturalien-Kabinetts-Direktor Stütz, im Jahre 1803 von einem Franzosen gekauft.
 
 3\. Fast ganzer Stein, mit einer anpolierten Fläche. — 22 1/8 Loth. — 1840. 11. 2. — Von Herrn von Scala gekauft, Stammt aus der gräflich Razoumovsky'schen Mineralien-Sammlung.
 
