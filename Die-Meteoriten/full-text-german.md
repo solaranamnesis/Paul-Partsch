@@ -138,7 +138,7 @@ Wien, den 23. Februar 1843.
 
 45\. Vouillé (Poitiers).
 
-46\. Château-Renard (Trigueres).
+46\. Château-Renard (Triguères).
 
 47\. Salés (Villefranche).
 
