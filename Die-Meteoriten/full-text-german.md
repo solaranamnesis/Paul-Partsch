@@ -10,7 +10,7 @@
 
 ### Wien, 1843.
 
-#### Verlag von Kaulfuss Witwe, Prandel & Comp.
+#### Verlag von Kaulfuss Witwe, Prandel & Komp.
 
 Es lässt sich als ausgemacht ansehen, dass sie nicht von der Erde, sondern von einem anderen Weltkörper herstammen, und folglich die Beschaffenheit der außerhalb der Erde vorkommenden wägbaren Stoffe verkünden. In dieser Beziehung haben die Meteorsteine ein außerordentliches Interesse.
 
