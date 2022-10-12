@@ -12,6 +12,8 @@
 
 #### Verlag von Kaulfuss Witwe, Prandel & Komp.
 
+![Fig](https://cdn.solaranamnesis.com/PaulPartsch/Fig1-opt.png)
+
 Es lässt sich als ausgemacht ansehen, dass sie nicht von der Erde, sondern von einem anderen Weltkörper herstammen, und folglich die Beschaffenheit der außerhalb der Erde vorkommenden wägbaren Stoffe verkünden. In dieser Beziehung haben die Meteorsteine ein außerordentliches Interesse.
 
 Berzelius
