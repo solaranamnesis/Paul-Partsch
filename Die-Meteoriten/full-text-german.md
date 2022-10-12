@@ -250,45 +250,45 @@ Wien, den 23. Februar 1843.
 
 ##### Frankreich.
 
-48\. Agen, Dept. Lot et Garonne.
+48\. Agen, Dépt. Lot et Garonne.
 
-1\. Alais, Dept. du Gard.
+1\. Alais, Dépt. du Gard.
 
-44\. Apt, Dept. de Vaucluse.
+44\. Apt, Dépt. de Vaucluse.
 
 50\. Asco, Insel Korsika.
 
-64\. Barbotan (und Roquefort) ehemals Gascogne, Dept. du Gers (und Dept. des Landes).
+64\. Barbotan (und Roquefort) ehemals Gascogne, Dépt. du Gers (und Dépt. des Landes).
 
-18\. Chantonnay, Dept. de la Vendee.
+18\. Chantonnay, Dépt. de la Vendee.
 
-60\. Charsonville, Dept. du Loiret.
+60\. Charsonville, Dépt. du Loiret.
 
-4\. Chassigny, Dept. de la haute Marne.
+4\. Chassigny, Dépt. de la haute Marne.
 
-46\. Château-Renard, Dept. du Loiret.
+46\. Château-Renard, Dépt. du Loiret.
 
-15\. Ensisheim, ehemals Elsass, jetzt Dept. du Haut-Rhin.
+15\. Ensisheim, ehemals Elsass, jetzt Dépt. du Haut-Rhin.
 
-8\. Jonzac, Dept. de la Charente inferieure.
+8\. Jonzac, Dépt. de la Charente inferieure.
 
-5\. Juvenas, Dept. de l'Ardeche.
+5\. Juvenas, Dépt. de l'Ardeche.
 
-22\. La Baffe, Dept. des Vosges.
+22\. La Baffe, Dépt. des Vosges.
 
-16\. L'Aigle, ehemals Normandie, Dept. de l'Orne.
+16\. L'Aigle, ehemals Normandie, Dépt. de l'Orne.
 
-17\. Liponas, Dept. de l'Ain.
+17\. Liponas, Dépt. de l'Ain.
 
-30\. Lucé, Dept. de la Sarthe.
+30\. Lucé, Dépt. de la Sarthe.
 
-47\. Salés, Dept. du Rhone.
+47\. Salés, Dépt. du Rhone.
 
-2\. Simonod, Dept. de l'Ain.
+2\. Simonod, Dépt. de l'Ain.
 
-51\. Toulouse, Dept. de la Haute-Garonne.
+51\. Toulouse, Dépt. de la Haute-Garonne.
 
-45\. Vouillé, Dept. de la Vienne.
+45\. Vouillé, Dépt. de la Vienne.
 
 ##### England.
 
@@ -422,7 +422,7 @@ Wien, den 23. Februar 1843.
 
 ##### Frankreich.
 
-82\. Caille, Dept. du Var.
+82\. Caille, Dépt. du Var.
 
 ##### Deutschland.
 
@@ -593,7 +593,7 @@ Nr\. 1 bis 69.
 
 ### 1\. Alais.
 
-St. Etienne de Lolm und Valence, Dept. du Gard, Frankreich.
+St. Etienne de Lolm und Valence, Dépt. du Gard, Frankreich.
 
 15\. Mai 1806, 5 Uhr Abends.
 
@@ -605,11 +605,11 @@ Bräunlich schwarze, teils bröckliche und zerreibliche, teils (durch Zerreibung
 
 ### 2\. Simonod.
 
-Gemeinde Belmont, Arrondissement Belley, Dep. de l’Ain, Frankreich.
+Gemeinde Belmont, Arrondissement Belley, Dép. de l’Ain, Frankreich.
 
 13\. November 1835, 9 Uhr Abends.
 
-1\. Kleine, eckige und scharfkantige Fragmentchen, samtschwarz, schwach glänzend, von Fettglanz, spröde, schwer zerreiblich, vollkommen homogen aussehend; von einem der zwei allda gefallenen etwa eigroßen Steine, die wohl bald in kleine Fragmente zerfallen sind. — 3/32 Loth und 4 Gran. — 1840. 28. 1. — Von Herrn Marquis de Drée in Paris in Tausch erhalten. Marquis de Drée erhielt die Substanz durch einen Gendarmerie-Beamten des Dep. de l'Ain.
+1\. Kleine, eckige und scharfkantige Fragmentchen, samtschwarz, schwach glänzend, von Fettglanz, spröde, schwer zerreiblich, vollkommen homogen aussehend; von einem der zwei allda gefallenen etwa eigroßen Steine, die wohl bald in kleine Fragmente zerfallen sind. — 3/32 Loth und 4 Gran. — 1840. 28. 1. — Von Herrn Marquis de Drée in Paris in Tausch erhalten. Marquis de Drée erhielt die Substanz durch einen Gendarmerie-Beamten des Dép. de l'Ain.
 
 Ob die Fragmentchen von Simonod oder Belley wirklich einer mit Detonation zersprungenen Feuerkugel, die einen wahren, überrindeten Meteorstein gab, angehören, oder Produkt einer Sternschnuppe sind, ist noch zweifelhaft. Die Nacht des Falles war eine der Sternschnuppen-Nächte. Herr Millet d’Aubenton berichtete Herrn Arago, dass er zu der oben angegebenen Zeit ein Feuermeteor beobachtete, welches in der Gemeinde Belmont zersprang, und zwar über Häusern und Strohdächern, die es entzündete. Derselbe will auch zwei eigroße Stücke gefunden haben, die ganz die Beschaffenheit eines Aerolithen besaßen. — Später hat Herr Millet Stücke davon der Pariser Akademie übersendet. Er schrieb dabei, dass sie im Allgemeinen das Ansehen von Obsidian haben (was ganz richtig ist), dass der Magnet kleine Metallkügelchen davon ausziehe, bestehend aus Eisen, Schwefel, Kupfer, Arsenik und vielleicht Silber?! (was wir in unseren Fragmentchen nicht finden konnten). Er glaubte auch Spuren von Nickel und Chrom darin gefunden zu haben, Die eingesendeten Stücke sind von der Pariser Akademie Hrn. Dumas zur Analyse übergeben worden. (Siehe Poggendorffs Annalen B. 36. S. 562 und Bd. 37. S. 460.) — Nach einer Mittheilung, die wir Herrn Marquis de Drée verdanken, fand Herr Damour darin Kieselerde, Eisenoxyd, Kupferoxyd, Schwefel, Kohle und Kalk. — Merkwürdig ist das spezifische Gewicht dieser Fragmente‚ nämlich 1,35. (nach einer Wiegung von Herren Rumler) das geringste von allen bekannten Meteorsteinen.
 
@@ -625,7 +625,7 @@ Fragment mit etwas Rinde; von einem großen, einzeln gefallenen Steine von einig
 
 ### 4\. Chassigny,
 
-unweit Langres, Dep. de la Haute-Marne, Frankreich.
+unweit Langres, Dép. de la Haute-Marne, Frankreich.
 
 3\. Oktober 1815, 8 Uhr Vormittags.
 
@@ -639,7 +639,7 @@ Zwei Bruchstücke von einem einzeln (?) gefallenen Steine, dessen Bruchstücke z
 
 ### 5\. Juvenas (Juvinas).
 
-(Libonez), Dep. de l'Ardeche, Languadoc, Frankreich.
+(Libonez), Dép. de l'Ardeche, Languadoc, Frankreich.
 
 15\. Juni 1821, zwischen 3 und 4 Uhr Nachmittags.
 
@@ -752,7 +752,7 @@ Wir haben uns in Konstantinopel durch Reisende wiederholt, aber immer erfolglos 
 
 ### 8\. Jonzac.
 
-(Barbezieux) Dep. de la basse Charente, Frankreich.
+(Barbezieux) Dép. de la basse Charente, Frankreich.
 
 13\. Juni 1819, 6 Uhr Morgens.
 
@@ -848,7 +848,7 @@ Drei vollkommen ganze, aber sehr kleine, dann drei ganze, aber angebrochene oder
 
 ### 15\. Ensisheim,
 
-im ehemaligen Elsass, jetzt Dep. du Haut-Rhin, Frankreich.
+im ehemaligen Elsass, jetzt Dép. du Haut-Rhin, Frankreich.
 
 7\. November 1492, zwischen 11 und 12 Uhr Mittags.
 
@@ -871,7 +871,7 @@ Der Meteorstein von Ensisheim ist der älteste von allen, die sich bis an unsere
 
 ### 16\. L'Aigle.
 
-(La Vassolerie, Fontenil, St. Michel, St. Nicolas, Bas-Vernet etc.*) Normandie. Dept. de l'Orne, Frankreich.
+(La Vassolerie, Fontenil, St. Michel, St. Nicolas, Bas-Vernet etc.*) Normandie. Dépt. de l'Orne, Frankreich.
 
 26\. April 1803, 1 Uhr Nachmittags.
 
@@ -907,7 +907,7 @@ Die Meteorsteine von L’Aigle sind die verbreitetsten und gemeinsten in Mineral
 
 ### 17\. Liponas,
 
-(in Chladni, vielleicht durch einen Druckfehler, unrichtig Laponas) bei Pont de Vesle und Bourg en Bresse, Dept. de l'Ain, Frankreich.
+(in Chladni, vielleicht durch einen Druckfehler, unrichtig Laponas) bei Pont de Vesle und Bourg en Bresse, Dépt. de l'Ain, Frankreich.
 
 7\. September 1753, 2 Uhr Nachmittags.
 
@@ -923,7 +923,7 @@ Nach dem, was Bigot de Morogues in dem Werke: Memoire sur les chutes des pierres
 
 ### 18\. Chantonnay.
 
-Zwischen Nantes und La Rochelle, Dept. de la Vendee, Frankreich.
+Zwischen Nantes und La Rochelle, Dépt. de la Vendee, Frankreich.
 
 5\. August 1812, Nachts 2 Uhr.
 
@@ -991,7 +991,7 @@ Fünf Fragmente von ungleicher Beschaffenheit von den sehr vielen und mitunter s
 
 ### 22\. La Baffe,
 
-2 Lieues südlich von Épinal, Dept. des Vosges, Frankreich.
+2 Lieues südlich von Épinal, Dépt. des Vosges, Frankreich.
 
 13\. September 1822. 7 Uhr Morgens.
 
@@ -1081,7 +1081,7 @@ Lichtgrane, durch undeutliche, kugelige Ausscheidungen schwach gefleckte, nicht 
 
 ### 30\. Lucé,
 
-en Maine, jetzt Dep. de la Sarthe, Frankreich.
+en Maine, jetzt Dép. de la Sarthe, Frankreich.
 
 13\. September 1768, 4 1/2 Uhr Nachmittags.
 
@@ -1261,7 +1261,7 @@ Fast lichtgraue, auf polierten Flächen dunkelgraue, rostbraun gelleckte Grundma
 
 ### 44\. Apt.
 
-(Saurette), Dep. de Vaucluse, Provence, Frankreich.
+(Saurette), Dép. de Vaucluse, Provence, Frankreich.
 
 8\. Oktober 1803. 10 Uhr Vormittags.
 
@@ -1275,7 +1275,7 @@ Zwei Bruchstücke von einem einzeln gefallenen Steine von 7 Pfund 12 Loth.
 
 ### 45\. Vouillé,
 
-bei Poitiers, Dept. de la Vienne, Frankreich.
+bei Poitiers, Dépt. de la Vienne, Frankreich.
 
 18\. Juli (nach dem Kataloge des Pariser Museums), nach andern Angaben 13\. Mai 1831.
 
@@ -1285,7 +1285,7 @@ Lichtaschgraue, doch schon stark ins Dunkelbläulichgraue geneigte Grundmasse, d
 
 ### 46\. Château-Renard.
 
-Gemeinde Triguères, Dept. du Loiret, Frankreich.
+Gemeinde Triguères, Dépt. du Loiret, Frankreich.
 
 12\. Juni 1841.
 
@@ -1301,7 +1301,7 @@ Drei Bruchstücke von einem einzeln gefallenen, in zwei große und viele kleine 
 
 ### 47\. Salés.
 
-Villefranche, Dept. du Rhône, Frankreich.
+Villefranche, Dépt. du Rhône, Frankreich.
 
 8\. oder 12. März 1798. 6 Uhr Abends.
 
@@ -1315,7 +1315,7 @@ Zwei Bruchstücke von einem einzeln gefallenen Steine von 20 Pfund.
 
 ### 48\. Agen.
 
-Dept. Lot et Garonne, Frankreich.
+Dépt. Lot et Garonne, Frankreich.
 
 5\. September 1814, Mittags.
 
@@ -1353,7 +1353,7 @@ Fast lichtgraue Grundmasse, mit Rostflecken und kleinen undeutlichen kugeligen A
 
 ### 51\. Toulouse.
 
-(Permejean, Pechmeja), Dept. der oberen Garonne, Frankreich.
+(Permejean, Pechmeja), Dépt. der oberen Garonne, Frankreich.
 
 10\. April 1812, 8 1/4 Uhr Abends.
 
@@ -1483,7 +1483,7 @@ Die Meteorsteine von Tabor (1753) sind die ersten, die in wissenschaftliche Samm
 
 ### 60\. Charsonville.
 
-(Orleans, Beaugency, Mortelle, Villerai, Moulin-brule) Dept. du Loiret, Frankreich.
+(Orleans, Beaugency, Mortelle, Villerai, Moulin-brule) Dépt. du Loiret, Frankreich.
 
 23\. November 1810, 1 1/2 Uhr Nachmittags.
 
@@ -1533,7 +1533,7 @@ Fast dunkelgraue, rostbraun gefleckte Grundmasse; mit wenigen kugeligen Ausschei
 
 ### 64\. Barbotan.
 
-(Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), im Dept. des Landes, im Dept. du Lot et Garonne und im Dept. du Gers (Gascogne), Frankreich. (Werden zuweilen auch Meteorsteine von Bordeaux genannt.)
+(Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), im Dépt. des Landes, im Dépt. du Lot et Garonne und im Dépt. du Gers (Gascogne), Frankreich. (Werden zuweilen auch Meteorsteine von Bordeaux genannt.)
 
 24\. Juli 1790, 9 Uhr Abends.
 
@@ -1863,7 +1863,7 @@ Derbes und dichtes gediegenes Eisen (wie fast nicht zu bezweifeln mit etwas Magn
 
 ### 82\. Caille,
 
-bei Grasse, Dept. du Var, im südlichen Frankreich.
+bei Grasse, Dépt. du Var, im südlichen Frankreich.
 
 Für die wissenschaftliche Welt entdeckt durch Herrn Brard im J. 1828; lag aber schon 200 Jahre lang vor der Kirche von Caille, wo die Masse als Bank diente.
 
@@ -2107,7 +2107,7 @@ b\. 1715. Garz (Schellin) bei Stargard in Pommern. Von diesem erst im Jahre 1822
 
 c\. 1815. Duralla bei Lodiana in Ostindien. Der allda gefallene Stein von 25 Pfunden, dem die Braminen große Verehrung bezeugten und einen eigenen Tempel bauen lassen wollten, wird im Hause der ostindischen Compagnie in London aufbewahrt, und davon auch nicht die Abtrennung eines winzigen Fragmentchens gestattet. Wir haben deshalb fruchtlose Schritte gemacht. Er soll zu der Abtheilung der eisenhältigen Meteorsteine gehören.
 
-d\. 1822. Angers, Dept. Maine et Loire, Frankreich. Wir sahen von diesem, hinsichtlich seiner Masse unbeträchtlichen Steinfall ein Stück im k. Museum der Naturgeschichte zu Paris. Der Stein gleicht dem von Vouillé.
+d\. 1822. Angers, Dépt. Maine et Loire, Frankreich. Wir sahen von diesem, hinsichtlich seiner Masse unbeträchtlichen Steinfall ein Stück im k. Museum der Naturgeschichte zu Paris. Der Stein gleicht dem von Vouillé.
 
 e\. 1822. Rourpoor bei Futichpore in Doab, Ostindien. Von dem unergiebigen Steinfall (die Steine wogen zusammen nur einige Pfunde) scheint nichts nach Europa gekommen zu sein.
 
@@ -2123,7 +2123,7 @@ k\. 1830. Launton bei Bicester, Oxfordshire, England. Es fiel nur Ein Stein von 
 
 l\. 1834. Charwallas bei Hissar, Ostindien. Es fiel ebenfalls nur Ein, wenige Pfunde schwerer Stein, von dem wohl gleichfalls keine Fragmente nach Europa gekommen sein mögen.
 
-m\. 1837. Esnaude, Dept. Charente inferieure. Von dem einzeln gefallenen Steine von 3 Pfunden sind Stücke an das naturhistorische Museum zu Bordeaux geschickt worden.*
+m\. 1837. Esnaude, Dépt. Charente inferieure. Von dem einzeln gefallenen Steine von 3 Pfunden sind Stücke an das naturhistorische Museum zu Bordeaux geschickt worden.*
 
 *) Ein drei Loth schweres Fragment des Meteorsteines von Esnaude hat das k. k. Mineralien-Kabinett während des Druckes des vorliegenden Kataloges durch H. Marguier erhalten.
 
