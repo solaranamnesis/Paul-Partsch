@@ -174,7 +174,7 @@ Wien, den 23. Februar 1843.
 
 63\. Sigena (Sena).
 
-64\. Barbotan (Roquefort, Creon Juillac).
+64\. Barbotan (Roquefort, Créon Juillac).
 
 65\. Eichstädt (Wittens).
 
@@ -1533,7 +1533,7 @@ Fast dunkelgraue, rostbraun gefleckte Grundmasse; mit wenigen kugeligen Ausschei
 
 ### 64\. Barbotan.
 
-(Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), im Dépt. des Landes, im Dépt. du Lot et Garonne und im Dépt. du Gers (Gascogne), Frankreich. (Werden zuweilen auch Meteorsteine von Bordeaux genannt.)
+(Roquefort, Créon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), im Dépt. des Landes, im Dépt. du Lot et Garonne und im Dépt. du Gers (Gascogne), Frankreich. (Werden zuweilen auch Meteorsteine von Bordeaux genannt.)
 
 24\. Juli 1790, 9 Uhr Abends.
 
