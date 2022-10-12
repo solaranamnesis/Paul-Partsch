@@ -1465,7 +1465,7 @@ Dunkel- fast bläulichgraue, rostbraungefleckte, dichte und stark zusammenhänge
 
 Sieben Stücke, darunter ein großer ganzer Stein, ein kleinerer fast ganzer und ein kleiner ganzer, von den ziemlich vielen der allda gefallenen Steine.
 
-1\. Großer, ganzer Stein, fast 7 Zoll lang, 2 1/2 Zoll hoch, verschoben viereckig; die Rinde an zwei Stellen angebrochen; auch sonst noch kleine, vom Falle herrührende Beschädigungen an Ecken und Kanten. In einer Vertiefung steckt ein bohnengroßes Eisenkorn; Spuren von anderen sind an der Rinde vorhanden. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 10. Taf. 2. — 4 Pfund 31 Loth. — 1. 4. — Ist von dem damaligen Kreishauptmann zu Tabor, Grafen von Wratislaw, gleich nach der Begebenheit im Jahre 1753 mit einem umständlichen Berichte an das böhmische Gubernium, und von diesem an die k. k. Hofkanzlei eingesendet worden.
+1\. Großer, ganzer Stein, fast 7 Zoll lang, 2 1/2 Zoll hoch, verschoben viereckig; die Rinde an zwei Stellen angebrochen; auch sonst noch kleine, vom Falle herrührende Beschädigungen an Ecken und Kanten. In einer Vertiefung steckt ein bohnengroßes Eisenkorn; Spuren von anderen sind an der Rinde vorhanden. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 10. Taf. 2. — 4 Pfund 31 Loth. — ♂ 1. 4. — Ist von dem damaligen Kreishauptmann zu Tabor, Grafen von Wratislaw, gleich nach der Begebenheit im Jahre 1753 mit einem umständlichen Berichte an das böhmische Gubernium, und von diesem an die k. k. Hofkanzlei eingesendet worden.
 
 2\. Fast ganzer Stein, von vierseitig prismatischer Form, oben mit einer frischen Bruchfläche; an einer der 4 Seitenflächen eine Ablösungsfläche. — 1 Pfund 3 1/2 Loth. — 1840. 11. 1. — Von Herrn Ludwig von Scala aus der Mineralien-Sammlung des verstorbenen Grafen Gregor Razoumovsky gekauft, wo der Stein ohne Bezeichnung des Fundortes lag. Stammt wahrscheinlich aus der Mineralien-Sammlung des Fürsten Sinzendorf, die Graf Razoumovsky kaufte.
 
@@ -1477,7 +1477,7 @@ Sieben Stücke, darunter ein großer ganzer Stein, ein kleinerer fast ganzer und
 
 6\. Ein kleines Bruchstück mit Rinde. — 2 19/32 Loth. — 1811. 16. 1. — Von Doktor Pohl in Prag zu Tausch erhalten.
 
-7\. Eine viereckige, von beiden Seiten polierte Platte, mit einer Eisenader, — 2 17/32 Loth. 1. 5. — Vom verstorbenen Kabinetts-Kustos von Mühlfeld erhalten.
+7\. Eine viereckige, von beiden Seiten polierte Platte, mit einer Eisenader, — 2 17/32 Loth. ♂ 1. 5. — Vom verstorbenen Kabinetts-Kustos von Mühlfeld erhalten.
 
 Die Meteorsteine von Tabor (1753) sind die ersten, die in wissenschaftliche Sammlungen kamen, Der große Stein von Tabor (Nr. 1) in der Sammlung des k. k. Mineralien-Kabinettes und die ebenfalls darin befindliche berühmte Eisenmasse von Agram (1751), von der später die Rede sein wird, waren die ersten in ihrer Integrität verbliebenen Meteoriten, die Chladni, der Meister in der Meteoritologie, Leopold v. Buch und andere Gelehrte zu sehen bekamen. Die Fragmente des älteren Meteorsteines von Ensisheim (1492) wurden, wie bei dieser Lokalität (Nr. 15) bemerkt worden ist, erst später in Zirkulation gesetzt und hatten als Fragmente, wie die Bruchstücke des Pallasischen Eisens weniger Interesse. — Frühere Gelehrte ließen sich durch den Anblick der erwähnten Massen von ihrer vorgefassten Meinung nicht abbringen. Born äußert in seinem Lithophylacium Bornianum, B. 1. S. 125, bei den Steinen von Tabor: quae 3 Julii anni 1753 inter tonitrua e Coelo pluisse creduliores quidam asserunt.
 
