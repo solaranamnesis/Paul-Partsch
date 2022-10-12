@@ -224,7 +224,7 @@ Wien, den 23. Februar 1843.
 
 87\. Zacatecas.
 
-88\. Rasgata.
+88\. Rasgatà.
 
 89\. Tucuman (Otumpa).
 
@@ -486,7 +486,7 @@ Wien, den 23. Februar 1843.
 
 ##### Columbien. (Neu-Granada.)
 
-88\. Rasgata, nordöstlich von Santa Fe de Bogota.
+88\. Rasgatà, nordöstlich von Santa Fe de Bogota.
 
 ##### Bolivia. (ehemals Peru.)
 
@@ -1955,7 +1955,7 @@ Derbes und dichtes gediegenes Eisen, mit einer ganz ungewöhnlichen, durch die g
 
 4\. Ein länglicher Abschnitt mit einer Schnittfläche, die zum Teil poliert, zum Teil sehr schwach und zum Teil sehr stark geätzt ist (auf letzterem ist die charakteristische Zeichnung zum Teil verschwunden, und nur ein körniges Gefüge, mit linienförmigen Einschnitten zu sehen). — 4 29/32 Loth. — 1838. 25. 12. — Aus der ehemals Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland überkam das Stück mit dem Mineralien-Vorrate seines im Jahre 1806 zu St. Petersburg gestorbenen Oheims Jakob Forster.
 
-### 88\. Rasgata,
+### 88\. Rasgatà,
 
 nordöstlich von Santa Fe de Bogota, in der Nähe der Salinen von Zipaquira, Republik Columbia (jetzt Republik Neu-Granada), Süd-Amerika.
 
@@ -1973,7 +1973,7 @@ Derbes und dichtes gediegenes Eisen, zuweilen mit Schwefelkies (Magnetkies ?) ge
 
 5\. Kleines, blau und violett angelaufenes Plättchen mit Zeichnungen. — 5/8 Loth. — 1838. 25. 10. Wie Nr. 1 akquiriert.
 
-Die Herren Rivero und Bousingault haben sowohl in dem Meteoreisen von Santa Rosa in Columbien, das wir in der k. Berliner Mineralien-Sammlung zu sehen und hinsichtlich der heim Ätzen sich zeigenden Figuren zu untersuchen Gelegenheit hatten, wobei es sich wie Rasgata verhält, als auch in diesen letzteren einen nicht unbeträchtlichen Antheil von Nickel gefunden. Wiederholte in Wien mit unserem Eisen von Rasgata, das doch von den Herrn Rivero und Bousingault herstammt, angestellte Versuche konnten darin keinen Nickel entdecken. Dieses merkwürdige Eisen verdiente wohl eine wiederholte genaue chemische Untersuchung.
+Die Herren Rivero und Bousingault haben sowohl in dem Meteoreisen von Santa Rosa in Columbien, das wir in der k. Berliner Mineralien-Sammlung zu sehen und hinsichtlich der heim Ätzen sich zeigenden Figuren zu untersuchen Gelegenheit hatten, wobei es sich wie Rasgatà verhält, als auch in diesen letzteren einen nicht unbeträchtlichen Antheil von Nickel gefunden. Wiederholte in Wien mit unserem Eisen von Rasgatà, das doch von den Herrn Rivero und Bousingault herstammt, angestellte Versuche konnten darin keinen Nickel entdecken. Dieses merkwürdige Eisen verdiente wohl eine wiederholte genaue chemische Untersuchung.
 
 ### 89\. Tucuman,
 
@@ -2141,7 +2141,7 @@ s\. In der Petropawlowsker Goldseife, Gouv. Omsk, Sibirien, hat man früher klei
 
 t\. Wie wir bereits bei dem Meteoreisen vom Cap der guten Hoffnung (Nr. 91 des gegenwärtigen Verzeichnisses) bemerkten, ist es noch ungewiss, ob das früher zwischen dem Sonntags- und Boschmanns-Flüsse gefundene Meteoreisen mit den am großen Fischflüsse weit umher gestreuten Eisenmassen, die durch Capitan Alexander bekannt wurden, von ein und demselben Ereignis herrühren. Es wäre wünschenswert, das von C. Alexander entdeckte Eisen untersuchen zu können. Ob es schon nach Europa gebracht worden, ist uns nicht bekannt.
 
-u\. Das Meteoreisen von Santa Rosa oder Tocavita in Neu-Granada sahen wir in der k. Mineralien-Sammlung zu Berlin, wohin es durch Herrn Alexander von Humboldt kam, und fanden es dem bei Rasgata aufgefundenen ganz ähnlich. Es ist nicht unwahrscheinlich, dass die Eisenmassen dieser zwei Lokalitäten, die voneinander nicht sehr entfernt sind, von Einem Meteore herrühren, das verschiedene Entladungen machte.
+u\. Das Meteoreisen von Santa Rosa oder Tocavita in Neu-Granada sahen wir in der k. Mineralien-Sammlung zu Berlin, wohin es durch Herrn Alexander von Humboldt kam, und fanden es dem bei Rasgatà aufgefundenen ganz ähnlich. Es ist nicht unwahrscheinlich, dass die Eisenmassen dieser zwei Lokalitäten, die voneinander nicht sehr entfernt sind, von Einem Meteore herrühren, das verschiedene Entladungen machte.
 
 v\. Ob das Meteoreisen aus der Sierra blanca unweit Villa nueva de Huaxuquilla in Mexiko (siehe Chladni S. 339.) und
 
@@ -2264,7 +2264,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  &nbsp;   | Magnetkies daraus                                  | 4,62\.                                                                | &nbsp;                                                                                                                                                                               
  86       | Bahia                                              | 7,48\.                                                                | 7,73\. Spix und Martius\.                                                                                                                                                            
  87       | Zacatecas                                          | 7,55\.                                                                | 7,5\. Burkart\. \- 7,2\. bis 7,6\. Sonneschmidt bei Chladni\.                                                                                                                        
- 88       | Rasgata                                            | 7,33 bis 7,77\.                                                       | 7,6\. Rivero und Bousingault\.                                                                                                                                                       
+ 88       | Rasgatà                                            | 7,33 bis 7,77\.                                                       | 7,6\. Rivero und Bousingault\.                                                                                                                                                       
  89       | Tucuman                                            | &nbsp;                                                                | 7,60\. bis 7,65\. Schreibers\. \- 7,64\. Widmannstatten\.                                                                                                                            
  &nbsp;   | &nbsp;                                             | 7,54\.                                                                | &nbsp;                                                                                                                                                                               
  &nbsp;   | &nbsp;                                             | 7,56\.                                                                | &nbsp;                                                                                                                                                                               
@@ -2548,11 +2548,11 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  &nbsp;   | Zacatecas Nr\. 2                     | 8                              
  &nbsp;   | Zacatecas Nr\. 3                     | 6                              
  &nbsp;   | Zacatecas Nr\. 4                     | 20                             
- 88       | Rasgata Nr\. 1                       | 216                            
- &nbsp;   | Rasgata Nr\. 2                       | 186                            
- &nbsp;   | Rasgata Nr\. 3                       | 47                             
- &nbsp;   | Rasgata Nr\. 4                       | 7                              
- &nbsp;   | Rasgata Nr\. 5                       | 5                              
+ 88       | Rasgatà Nr\. 1                       | 216                            
+ &nbsp;   | Rasgatà Nr\. 2                       | 186                            
+ &nbsp;   | Rasgatà Nr\. 3                       | 47                             
+ &nbsp;   | Rasgatà Nr\. 4                       | 7                              
+ &nbsp;   | Rasgatà Nr\. 5                       | 5                              
  89       | Tucuman Nr\. 1                       | 83                             
  &nbsp;   | Tucuman Nr\. 2                       | 15                             
  &nbsp;   | Tucuman Nr\. 3a                      | 6                              
@@ -2820,7 +2820,7 @@ von unbestimmter Form, mit Einmengungen, die auf die Gestalt des Eisens keinen E
 
 87\. Zacatecas. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern längere feine Linien, die sich zwar öfter berühren und schneiden, und dadurch unvollkommene Zwischenfelder bilden; diese werden aber nur von diesen Linien (nicht von Streifen mit Begrenzungsleisten) umgeben, und sind zum Teil mit unterbrochenen kurzen Linien der Strichelchen ausgefüllt.
 
-88\. Rasgata. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern längere feine Linien, die sich zwar öfter berühren und schneiden, und dadurch unvollkommene Zwischenfelder bilden; diese werden aber nur von diesen Linien (nicht von Streifen mit Begrenzungsleisten) umgeben, und sind zum Teil mit unterbrochenen kurzen Linien der Strichelchen ausgefüllt.
+88\. Rasgatà. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern längere feine Linien, die sich zwar öfter berühren und schneiden, und dadurch unvollkommene Zwischenfelder bilden; diese werden aber nur von diesen Linien (nicht von Streifen mit Begrenzungsleisten) umgeben, und sind zum Teil mit unterbrochenen kurzen Linien der Strichelchen ausgefüllt.
 
 89\. Tucuman. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern kurze feine Linien, die sich oft berühren und schneiden, ohne Mittelfelder zu bilden, und dem Ganzen eine gestrickte oder federartige Zeichnung verleihen.
 
