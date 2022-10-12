@@ -140,7 +140,7 @@ Wien, den 23. Februar 1843.
 
 46\. Chateau-Renard (Trigueres).
 
-47\. Sales (Villefranche).
+47\. Salés (Villefranche).
 
 48\. Agen.
 
@@ -282,7 +282,7 @@ Wien, den 23. Februar 1843.
 
 30\. Lucé, Dept. de la Sarthe.
 
-47\. Sales, Dept. du Rhone.
+47\. Salés, Dept. du Rhone.
 
 2\. Simonod, Dept. de l'Ain.
 
@@ -518,7 +518,7 @@ Wien, den 23. Februar 1843.
  64         | 1790     | 24\. Juli                                          | Barbotan\.                
  14         | 1794     | 16\. Juni                                          | Siena\.                   
  41         | 1795     | 13\. Dezember                                      | Yorkshire\.               
- 47         | 1798     | 8\. oder 12\. Marz                                 | Sales\.                   
+ 47         | 1798     | 8\. oder 12\. Marz                                 | Salés\.                   
  23         | 1798     | 13\. Dezember                                      | Benares\.                 
  16         | 1803     | 6\. April                                          | L’Aigle                   
  44         | 1803     | 8\. Oktober                                        | Apt\.                     
@@ -2209,7 +2209,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  45       | Vouille                                            | 3,55\.                                                                | &nbsp;                                                                                                                                                                               
  46       | Chateau\-Renard                                    | 3,54\.                                                                | 3,56\. Dufrenoy\.                                                                                                                                                                    
  &nbsp;   | Eisenkorner daraus                                 | …\.                                                                   | 6,48\. Dufrenoy\.                                                                                                                                                                    
- 47       | Sales                                              | 3,47\.                                                                | &nbsp;                                                                                                                                                                               
+ 47       | Salés                                              | 3,47\.                                                                | &nbsp;                                                                                                                                                                               
  48       | Agen                                               | 3,59 bis 3,62\.                                                       | &nbsp;                                                                                                                                                                               
  49       | Nanjemoy                                           | 3,66\.                                                                | 3,66\. Chilton\.                                                                                                                                                                     
  50       | Asco                                               | 3,66\.                                                                | &nbsp;                                                                                                                                                                               
@@ -2423,8 +2423,8 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  46       | Chateau\-Renard Nr\. 1               | 74                             
  &nbsp;   | Chateau\-Renard Nr\. 2               | 21                             
  &nbsp;   | Chateau\-Renard Nr\. 3               | 10                             
- 47       | Sales Nr\. 1                         | 84                             
- &nbsp;   | Sales Nr\. 2                         | 15                             
+ 47       | Salés Nr\. 1                         | 84                             
+ &nbsp;   | Salés Nr\. 2                         | 15                             
  48       | Agen Nr\. 1                          | 22                             
  &nbsp;   | Agen Nr\. 2                          | 35                             
  49       | Nanjemoy Nr\. 1                      | 126                            
@@ -2706,7 +2706,7 @@ grüne Kügelchen auf.
 
 46\. Chateau-Renard. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
-47\. Sales. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
+47\. Salés. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
 48\. Agen. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
