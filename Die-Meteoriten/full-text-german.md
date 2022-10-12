@@ -486,7 +486,7 @@ Wien, den 23. Februar 1843.
 
 ##### Columbien. (Neu-Granada.)
 
-88\. Rasgatà, nordöstlich von Santa Fe de Bogota.
+88\. Rasgatà, nordöstlich von Santa Fe de Bogotá.
 
 ##### Bolivia. (ehemals Peru.)
 
@@ -1957,9 +1957,9 @@ Derbes und dichtes gediegenes Eisen, mit einer ganz ungewöhnlichen, durch die g
 
 ### 88\. Rasgatà,
 
-nordöstlich von Santa Fe de Bogota, in der Nähe der Salinen von Zipaquira, Republik Columbia (jetzt Republik Neu-Granada), Süd-Amerika.
+nordöstlich von Santa Fe de Bogotá, in der Nähe der Salinen von Zipaquira, Republik Columbia (jetzt Republik Neu-Granada), Süd-Amerika.
 
-Gefunden 1810; bekannt seit dem Jahre 1823 (?) durch einen zu Santa Fe de Bogota spanisch gedruckten Bericht der Herren Mariano de Rivero und Bousingault, der im 25. Bande der Annales de Chimie et de Physique v. Jahre 1824 übersetzt wurde. — Es scheinen da mehrere Stücke gefunden worden zu sein. Die genannten Berichterstatter sprechen von zwei Massen von 41 Kilogrammen (73 Pfund, 1 Loth Wiener Gewicht) und von 22 Kilogrammen (39 Wiener Pfund und 6 Loth), die wohl die größten gewesen sein dürften.
+Gefunden 1810; bekannt seit dem Jahre 1823 (?) durch einen zu Santa Fe de Bogotá spanisch gedruckten Bericht der Herren Mariano de Rivero und Bousingault, der im 25. Bande der Annales de Chimie et de Physique v. Jahre 1824 übersetzt wurde. — Es scheinen da mehrere Stücke gefunden worden zu sein. Die genannten Berichterstatter sprechen von zwei Massen von 41 Kilogrammen (73 Pfund, 1 Loth Wiener Gewicht) und von 22 Kilogrammen (39 Wiener Pfund und 6 Loth), die wohl die größten gewesen sein dürften.
 
 Derbes und dichtes gediegenes Eisen, zuweilen mit Schwefelkies (Magnetkies ?) gemengt, der jedoch, wie es scheint, nie in dem Eisen eingesprengt ist, sondern nur Höhlungen in demselben teilweise ausfüllt. Das Eisen ist von gebogenen oder zickzackförmigen Sprüngen durchzogen und es sind darin auch größere und kleinere Höhlungen vorhanden, Durch Anlaufen oder Ätzen kommt wohl eine gewisse Zeichnung zum Vorschein, aber wahre Widmannstätten'sche Figuren zeigen sich nicht. Die Zeichnung besteht aus sehr feinen, meist geraden, seltener gekrümmten Linien, die nach mehreren Richtungen ziehen, sich aus der Masse etwas erheben und glänzen (weil sie durch Säuren nicht leicht angegriffen werden), sich zuweilen, aber selten berühren und folglich nur selten geschlossene Zwischenfelder oder Figuren darstellen; den übrigen Raum erfüllen feine kurze Strichelchen und Punkte, die sich ebenfalls schwach erheben und glänzen.
 
