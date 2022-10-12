@@ -106,7 +106,7 @@ Wien, den 23. Februar 1843.
 
 29\. Nashville (Tennessee).
 
-30\. Luce.
+30\. Lucé.
 
 31\. Lissa.
 
@@ -280,7 +280,7 @@ Wien, den 23. Februar 1843.
 
 17\. Liponas, Dept. de l'Ain.
 
-30\. Luce, Dept. de la Sarthe.
+30\. Lucé, Dept. de la Sarthe.
 
 47\. Sales, Dept. du Rhone.
 
@@ -510,7 +510,7 @@ Wien, den 23. Februar 1843.
  15         | 1492     | 7\. November                                       | Ensisheim\.               
  59         | 1753     | 3\. Juli                                           | Tabor\.                   
  17         | 1753     | September                                          | Liponas\.                 
- 30         | 1768     | 13\. September                                     | Luce\.                    
+ 30         | 1768     | 13\. September                                     | Lucé\.                    
  28         | 1768     | 20\. November                                      | Mauerkirchen\.            
  63         | 1773     | 17\. November                                      | Sigena\.                  
  65         | 1785     | 19\. Februar                                       | Eichstadt\.               
@@ -1361,7 +1361,7 @@ Schwach dunkelgraue, rostbraun gefleckte Grundmasse, mit kleinen und undeutliche
 
 1\. Bruchstück von einem der mehreren allda gefallenen, aber meist nicht aufgefundenen Steine (das Aufgefundene soll nach Chladni höchstens 16 Loth wiegen), mit Rinde und einer polierten Fläche. — 15/16 Loth. — 1816. 31. 33. d. — Auf Verwendung des Direktors von Schreibers im Jahre 1815 durch Tausch aus dem königl. Museum der Naturgeschichte in Paris von dem daselbst aufbewahrten 6 Loth schweren Steine erhalten.
 
-Das im kön. Mineralien-Kabinett zu Berlin befindliche, aus Chladnis Sammlung herrührende Stück von Toulouse ist dunkler als das in unserer Sammlung vorhandene, und ähnelt mehr den Steinen von Limerick und Tipperary. Chladni erhielt das Stück von Professor Laugier. — Man sehe auch das bei Nr. 3 im Anhange zur Lokalität Luce Bemerkte.
+Das im kön. Mineralien-Kabinett zu Berlin befindliche, aus Chladnis Sammlung herrührende Stück von Toulouse ist dunkler als das in unserer Sammlung vorhandene, und ähnelt mehr den Steinen von Limerick und Tipperary. Chladni erhielt das Stück von Professor Laugier. — Man sehe auch das bei Nr. 3 im Anhange zur Lokalität Lucé Bemerkte.
 
 ### 52\. Blansko.
 
@@ -1407,7 +1407,7 @@ Drei Bruchstücke von den mehreren daselbst gefallenen Steinen, deren Gesamtgewi
 
 3\. Fragment mit metallisch glänzenden Ablösungen und ziemlich glatter Rinde. — 2 9/32 Loth. — 1821. 9. 12. — Von Herrn G. B. Sowerby in London gekauft.
 
-Mit der Angabe des Fallortes Limerick erhielt das kaiserl, Mineralien-Kabinett später ein Fragment, das den hier aufgeführten drei Fragmenten nicht gleicht. (Siehe den Anhang zu Luce.) Wir überzeugten uns, dass unsere drei Fragmente den im britischen Museum von der Lokalität Limerick aufbewahrten Stücken vollkommen ähnlich sind, durch ein Fragment, das Herr Heuland nach Wien schickte, und nun im Besitze von Baron Reichenbach ist. Sollten vielleicht bei Limerick, wie bei Weston, Steine von verschiedenem Aussehen gefallen sein?
+Mit der Angabe des Fallortes Limerick erhielt das kaiserl, Mineralien-Kabinett später ein Fragment, das den hier aufgeführten drei Fragmenten nicht gleicht. (Siehe den Anhang zu Lucé.) Wir überzeugten uns, dass unsere drei Fragmente den im britischen Museum von der Lokalität Limerick aufbewahrten Stücken vollkommen ähnlich sind, durch ein Fragment, das Herr Heuland nach Wien schickte, und nun im Besitze von Baron Reichenbach ist. Sollten vielleicht bei Limerick, wie bei Weston, Steine von verschiedenem Aussehen gefallen sein?
 
 ### 55\. Grüneberg (Grünberg).
 
@@ -2187,7 +2187,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  27       | Gouv\. Simbirsk                                    | 3,51 bis 3,55\.                                                       | &nbsp;                                                                                                                                                                               
  28       | Mauerkirchen                                       | 3,45\.                                                                | 3,45\. Imhof\. \- 3,5\. Schreibers\.                                                                                                                                                 
  29       | Nashville                                          | 3,58\.                                                                | 3,4\. Seybert\.                                                                                                                                                                      
- 30       | Luce                                               | 3,47\.                                                                | 3,53\. Lavoisier u\. Cadet\.                                                                                                                                                         
+ 30       | Lucé                                               | 3,47\.                                                                | 3,53\. Lavoisier u\. Cadet\.                                                                                                                                                         
  31       | Lissa                                              | 3,50\.                                                                | 3,56\. Reuß\.                                                                                                                                                                       
  32       | Owahu                                              | 3,39\.                                                                | &nbsp;                                                                                                                                                                               
  33       | Charkow                                            | 3,49\.                                                                | &nbsp;                                                                                                                                                                               
@@ -2392,9 +2392,9 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  28       | Mauerkirchen Nr\. 1                  | 120                            
  &nbsp;   | Mauerkirchen Nr\. 2                  | 50                             
  29       | Nashville Nr\. 1                     | 20                             
- 30       | Luce Nr\. 1                          | 8                              
- &nbsp;   | Luce Nr\. 2                          | 48                             
- &nbsp;   | Luce Nr\. 3                          | 4                              
+ 30       | Lucé Nr\. 1                          | 8                              
+ &nbsp;   | Lucé Nr\. 2                          | 48                             
+ &nbsp;   | Lucé Nr\. 3                          | 4                              
  31       | Lissa Nr\. 1                         | 500                            
  &nbsp;   | Lissa Nr\. 2                         | 15                             
  &nbsp;   | Lissa Nr\. 3                         | 13                             
@@ -2666,7 +2666,7 @@ grüne Kügelchen auf.
 
 29\. Nashville. Lichtgraue Grundmasse.
 
-30\. Luce. Lichtgraue Grundmasse.
+30\. Lucé. Lichtgraue Grundmasse.
 
 (31., 32.)
 
