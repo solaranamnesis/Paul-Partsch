@@ -220,7 +220,7 @@ Wien, den 23. Februar 1843.
 
 85\. Bohumilitz.
 
-86\. Bahia (Bemdego).
+86\. Bahia (Bemdegò).
 
 87\. Zacatecas.
 
@@ -494,7 +494,7 @@ Wien, den 23. Februar 1843.
 
 ##### Brasilien.
 
-86\. Bahia, am Bache Bemdego bei Monte Santo, Capitanie Bahia.
+86\. Bahia, am Bache Bemdegò bei Monte Santo, Capitanie Bahia.
 
 ##### Vereinigte Staaten am Rio de la Plata.
 
@@ -1917,7 +1917,7 @@ Derbes und dichtes metallisches Eisen, stellenweise mit viel Magnetkies und eine
 
 ### 86\. Bahia.
 
-Am Bache (Riacho) Bemdego, der in den Rio San Francisco fällt, nördlich von Monte Santo, Capitanie Bahia, Brasilien.
+Am Bache (Riacho) Bemdegò, der in den Rio San Francisco fällt, nördlich von Monte Santo, Capitanie Bahia, Brasilien.
 
 Gefunden 1784; bekannt seit 1816, durch einen Bericht von A. F. Mornay in den Philosophical-Transactions of the Roy. Soc. of London for 1816. P. 2. — Die Fallzeit ist unbekannt. Die daselbst noch im Freien liegende, nicht transportable Masse wiegt, nach der Berechnung des Professors Martius in München, der in seiner Reise in Brasilien über dieselbe interessante Nachrichten mittheilt (2. Band Seite 736, u. f.) 17300 Pfund.
 
