@@ -1533,7 +1533,7 @@ Fast dunkelgraue, rostbraun gefleckte Grundmasse; mit wenigen kugeligen Ausschei
 
 ### 64\. Barbotan.
 
-(Roquefort, Créon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), im Dépt. des Landes, im Dépt. du Lot et Garonne und im Dépt. du Gers (Gascogne), Frankreich. (Werden zuweilen auch Meteorsteine von Bordeaux genannt.)
+(Roquefort, Créon, Juillác, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), im Dépt. des Landes, im Dépt. du Lot et Garonne und im Dépt. du Gers (Gascogne), Frankreich. (Werden zuweilen auch Meteorsteine von Bordeaux genannt.)
 
 24\. Juli 1790, 9 Uhr Abends.
 
@@ -1545,7 +1545,7 @@ Zwei Bruchstücke von zwei der vielen allda gefallenen Steine, wovon einige übe
 
 2\. Bruchstück ohne Rinde, mit lachen linsengroßen Eisenkörnern und zwei schwarzen Ablösungsflächen. — 15 21/32 Loth. — 1827. 27. 4052. Aus der von der Nüll'schen Mineralien-Sammlung.
 
-Der Meteorsteinfall von Barbotan ist einer der beträchtlichsten und ausgedehntesten gewesen, da er sich über mehrere Ortschaften verschiedener, jedoch benachbarter Departements erstreckte. Er fiel in die Zeit völligen Unglaubens und größter Verstockung (1790). Die Äußerungen von Bertholon im Journal des sciences utiles vom Jahre 1790 über den Verbal-Prozess, den die Munizipalität von Juillac über das Phänomen und den Steinfall abgefasst hatte (d'un fait evidement faux, d'un phenomene physiquement impossible) und über die Erzählungen von Augenzeugen des Ereignisses (qui ne peuvent qu'exciter la pitie, nous ne dirons pas seulement des physiciens, mais de tous les gens raisonnables) verdienen, dass sie als Beiträge zur Geschichte der Meteoriten nicht in Vergessenheit geraten.
+Der Meteorsteinfall von Barbotan ist einer der beträchtlichsten und ausgedehntesten gewesen, da er sich über mehrere Ortschaften verschiedener, jedoch benachbarter Departements erstreckte. Er fiel in die Zeit völligen Unglaubens und größter Verstockung (1790). Die Äußerungen von Bertholon im Journal des sciences utiles vom Jahre 1790 über den Verbal-Prozess, den die Munizipalität von Juillac über das Phänomen und den Steinfall abgefasst hatte (d'un fait évidement faux, d'un phénomène physiquement impossible) und über die Erzählungen von Augenzeugen des Ereignisses (qui ne peuvent qu'exciter la pitié, nous ne dirons pas seulement des physiciens, mais de tous les gens raisonnables) verdienen, dass sie als Beiträge zur Geschichte der Meteoriten nicht in Vergessenheit geraten.
 
 ### 65\. Eichstädt.
 
