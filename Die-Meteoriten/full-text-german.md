@@ -1065,7 +1065,7 @@ Sehr hellgraue, fast weiße, wenig zusammenhängende, nicht schwer zerreibliche 
 
 Zwei Bruchstücke von einem einzeln gefallenen Steine von 38 Pfund; beide mit Rinde.
 
-1\. Ein größeres Bruchstück mit nicht ganz frischen Bruchflächen, und einer kleinen polierten Fläche. — 23 27/32 Loth. — 1. 7. Durch Professor Chladni im Jahre 1805 in Tausch erhalten.
+1\. Ein größeres Bruchstück mit nicht ganz frischen Bruchflächen, und einer kleinen polierten Fläche. — 23 27/32 Loth. — ♂ 1. 7. Durch Professor Chladni im Jahre 1805 in Tausch erhalten.
 
 2\. Ein kleines, aber ganz frisches Bruchstück. — 9 13/32 Loth. — 1825. 42. 8. — Aus der Mineralien-Sammlung des Grafen Fries gekauft.
 
