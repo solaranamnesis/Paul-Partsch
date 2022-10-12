@@ -378,7 +378,7 @@ Wien, den 23. Februar 1843.
 
 68\. Timochin, Gouv. Smolensk.
 
-34\. Zaborzika, Gouv. Volhynien.
+34\. Zaborzika, Gouv. Wolhynien.
 
 ##### Türkei.
 
@@ -444,7 +444,7 @@ Wien, den 23. Februar 1843.
 
 ##### Russland.
 
-72\. Brahin, Gouv. Minsk, ehemals Lithauen.
+72\. Brahin, Gouv. Minsk, ehemals Litauen.
 
 #### B\. Asien.
 
@@ -480,7 +480,7 @@ Wien, den 23. Februar 1843.
 
 87\. Zacatecas, im gleichnamigen Staate.
 
-75\. Toulca, (Xiquipilio, im Staate Mexiko).
+75\. Toluca, (Xiquipilio, im Staate Mexiko).
 
 93\. Oaxaca, (in der Misteca, im Staate Oaxaca).
 
@@ -597,7 +597,7 @@ St. Etienne de Lolm und Valence, Dept. du Gard, Frankreich.
 
 15\. Mai 1806, 5 Uhr Abends.
 
-Bräunlich schwarze, teils bröckliche und zerreibliche, teils (durch Zerreibung entstandene) pulverige Substanz, hie und da mit weißen Salz-Efflorescirungen (nach Berzelius: Bittersalz mit Nickelvitriol), in welcher selbst mittelst der Lupe weder kugelige Ausscheidungen, noch gediegenes Eisen und Magnetkies (die jedoch den Analysen zufolge in sehr kleiner Menge vorhanden sind), unterschieden werden können.
+Bräunlich schwarze, teils bröckliche und zerreibliche, teils (durch Zerreibung entstandene) pulverige Substanz, hie und da mit weißen Salz-Effloreszierungen (nach Berzelius: Bittersalz mit Nickelvitriol), in welcher selbst mittelst der Lupe weder kugelige Ausscheidungen, noch gediegenes Eisen und Magnetkies (die jedoch den Analysen zufolge in sehr kleiner Menge vorhanden sind), unterschieden werden können.
 
 1\. Größere und kleinere Bröckchen, mit Pulver vermischt und, bis auf zwei, ohne Rindensubstanz; von einem der zwei allda gefallenen, und alsbald zerbröckelten Steine, die zusammen 12 Pfund wogen. — Etwas über 3/32 Loth oder 25 1/2 Gran — 1816. 35. 44, und 1838. 27. 2.* — Teils aus der Mineralien-Sammlung des Marquis de Dree in Paris durch den Direktor der vereinigten k. k. Hof-Naturalien-Kabinette, Carl von Schreibers, in Tausch erhalten, teils von Herrn Gubernialrat Neumann in Prag eingetauscht.
 
@@ -671,7 +671,7 @@ A. Ganze und fast ganze Steine, oder doch in dem Zustande, wie sie auf die Erde 
 
 1\. Der größte bekannte von den bei Stannern gefallenen und nicht zertrümmerten Steinen, wahrscheinlich überhaupt der größte aller da gefallenen. — Beschrieben und abgebildet in des Direktors v. Schreibers Beiträgen zur Geschichte und Kenntnis meteorischer Stein- und Metallmassen, Seite 20, Taf. 4. — 11 Pfund 10 3/4 Loth. — 1809. 8. 1. — Von Herrn Professor Mikan in Prag gekauft. Wurde von Herrn Apotheker Heller in Iglau in einem deshalb abgelassenen Teiche aufgefunden.
 
-2\. Einer der größten von den bei Stanuern gefallenen Steinen; besonders frisch, schön überrindet, auch merkwürdig wegen verschiedenartiger Beschaffenheit der Rinde. — Beschrieben und abgebildet in v. Schreibers Beiträgen, S. 27, Taf. 5. Fig. 5. — 3 Pfund 21 Loth. — 1808. 24. 1. — Wurde während des Aufenthaltes der Untersuchungs-Kommission zu Stannern, im Monate Mai 1808, bei angeordneter Aufsuchung der gefallenen Steine aufgefunden.
+2\. Einer der größten von den bei Stannern gefallenen Steinen; besonders frisch, schön überrindet, auch merkwürdig wegen verschiedenartiger Beschaffenheit der Rinde. — Beschrieben und abgebildet in v. Schreibers Beiträgen, S. 27, Taf. 5. Fig. 5. — 3 Pfund 21 Loth. — 1808. 24. 1. — Wurde während des Aufenthaltes der Untersuchungs-Kommission zu Stannern, im Monate Mai 1808, bei angeordneter Aufsuchung der gefallenen Steine aufgefunden.
 
 3\. Einer von den großen Steinen von Stannern; höchst ausgezeichnet und vortrefflich erhalten; merkwürdig wegen seiner keilförmigen Gestalt und der Beschaffenheit der Rinde. — Beschrieben und abgebildet in v. Schreibers Beiträgen, Seite 30, Taf. 6. Fig. 1. — 2 Pfund 12 1/2 Loth. — 1808. 24, 2. — Wie bei 2) erwähnt, während des Aufenthaltes der Kommission aufgefunden.
 
@@ -681,32 +681,32 @@ A. Ganze und fast ganze Steine, oder doch in dem Zustande, wie sie auf die Erde 
 
 6\. Ein mittelgroßer Stein, anscheinend ein Bruchstück, oder die Hälfte eines Steines, aber im Herabfallen zerbrochen; die natürliche Bruchfläche teilweise verändert (etwas braun gefärbt und mit einzelnen kleinen Rindetröpfchen besetzt), also in dem Zustande wie er auf die Erde kam. Ein sehr belehrendes Stück. — Beschrieben und abgebildet im angeführten Werke, S. 36, Taf. VI. Fig. 4. — 1 Pfund 7/8 Loth. — 1808. 24. 5. — Wurde am Tage des Ereignisses aufgefunden und später der Kommission übergeben.
 
-7\. Ganzer, mittelgroßer Stein, mit stark glänzender Rinde, an einigen Stellen etwas entblösst. — 1 Pfd. 1/4 Loth. — 1808. 24. 6. — Durch die Kommission überbracht.
+7\. Ganzer, mittelgroßer Stein, mit stark glänzender Rinde, an einigen Stellen etwas entblößt. — 1 Pfd. 1/4 Loth. — 1808. 24. 6. — Durch die Kommission überbracht.
 
 8\. Ein mittelgroßer ganzer Stein, wenig verletzt, einige Kanten mit hervorragenden, scharfen Linien von Rindensubstanz. - 23 3/16 Loth. — 1809. 4. 2. — Von Herrn von Well gekauft.
 
-9\. Mittelgroßer ganzer Stein. An einer Stelle ist ein Stückchen weggeschnitten und die Fläche anpolirt. — 19 7/8 Loth. — 1827. 27. 4048. — Aus der im Jahre 1827 angekauften von der Nüll’schen Mineralien-Sammlung.
+9\. Mittelgroßer ganzer Stein. An einer Stelle ist ein Stückchen weggeschnitten und die Fläche anpoliert. — 19 7/8 Loth. — 1827. 27. 4048. — Aus der im Jahre 1827 angekauften von der Nüll’schen Mineralien-Sammlung.
 
-10\. Mittelgroßer ganzer Stein (oder doch in dem Zustande, wie er herabkam), nur mit einer kleinen frischen Bruchfläche, dann einer größeren Fläche, die während des Herabfallens entstand, braun gefärbt und mit hervorgequollenen Tröpfchen von Rindensubstanz übersäet ist. Iichrreiches, sehr interessantes Stück. — 15 Loth. — 1809. 4. 4. — Von Herrn von \WVell gekauft.
+10\. Mittelgroßer ganzer Stein (oder doch in dem Zustande, wie er herabkam), nur mit einer kleinen frischen Bruchfläche, dann einer größeren Fläche, die während des Herabfallens entstand, braun gefärbt und mit hervorgequollenen Tröpfchen von Rindensubstanz übersäet ist. Lehrreiches, sehr interessantes Stück. — 15 Loth. — 1809. 4. 4. — Von Herrn von Well gekauft.
 
-11\. Ein kleiner Stein, fast ganz, nur an dem einen Ende, wahrscheinlich beim Fallen abgebrochen, von zungenförmiger Gestalt; von der Rinde glänzt, wahrscheinlich in Folge von Verwitterung während derselbe in der Erde lag, nur das hervorragende Aderngeflechte. — 10 7/8 Loth. — 1809. 7. 1. — Von Herrn Sonsluk gekauft.
+11\. Ein kleiner Stein, fast ganz, nur an dem einen Ende, wahrscheinlich beim Fallen abgebrochen, von zungenförmiger Gestalt; von der Rinde glänzt, wahrscheinlich in Folge von Verwitterung während derselbe in der Erde lag, nur das hervorragende Adergeflechte. — 10 7/8 Loth. — 1809. 7. 1. — Von Herrn Sonsluk gekauft.
 
 12\. Ein kleiner Stein, wenig verletzt, unvollkommen prismatisch. — 10 1/2 Loth. — 1809. 4. 1. — Von Herrn von Well gekauft.
 
-13\. Ein kleiner, vollkommen ganzer, nicht im geringsten verletzter Stein; verschoben viereckig, — 6 1/2 Loth. — 1827. 27. 4045. — Aus der von der Nüllschen Mineralien - Sammlung.
+13\. Ein kleiner, vollkommen ganzer, nicht im geringsten verletzter Stein; verschoben viereckig, — 6 1/2 Loth. — 1827. 27. 4045. — Aus der von der Nüll’schen Mineralien - Sammlung.
 
-14\. Ein kleiner, ganzer, fast prismatischer Stein, mit einer im Falle entstandenen, mehr oder weniger, meist jedoch sehr unvollkommen überrindeten Bruchfläche; ausgezeichnet starke Überrundung der Bruchkanten. — 6 1/2 Loth. — 1827. 27. 4046. — Aus der von der Nüllschen Mineralien-Sammlung.
+14\. Ein kleiner, ganzer, fast prismatischer Stein, mit einer im Falle entstandenen, mehr oder weniger, meist jedoch sehr unvollkommen überrindeten Bruchfläche; ausgezeichnet starke Überrundung der Bruchkanten. — 6 1/2 Loth. — 1827. 27. 4046. — Aus der von der Nüll’schen Mineralien-Sammlung.
 
 15\. Kleiner Stein, vollkommen ganz (nur eine etwas gekrümmte Ecke ist abgebrochen und schwach angeklebt), die Form dreiseitigpyramidal; die Rinde schwach glänzend. — Beschrieben und abgebildet im angeführten Werke, Seite 23, Tafel 5. Fig. 1. — 5 7/10 Loth. — 1808. 24. 7. — Wie bei Nr. 2. bemerkt aufgefunden, und durch die Kommission überbracht.
 
-16a\. Ganzer, sehr merkwürdiger Stein, von einer Scite zugerundet, von der anderen kantig; auch von verschiedener Beschaffenheit der Rinde, welche, wo sie dicker ist, an den Kanten llervorragungen bildet, die beim Kestwerden der Rinde durch den Widerstand der Luft beim Herabfallen, und durch Verschiebungen an der damahls zähflüssigen Oberfläche entstanden sein müssen. — 4 13/16 Lth. — 1840. 4. 5. — Von Herrn Pötschke gekauft. 
-16b\. Kleiner, ganzer Stein, nur eine Ecke etwas abgestossen, und die Spitze teilweise abgeschlagen; von vierseitig pyramidaler Form mit schiefer Grundfläche; zwei Seiten dick überrindet, stark glänzend, ziemlich glatt, die anderen matter undaderiger. — Beschrieben und abgebildet im angeführten Werke, S. 24, Taf. 5. Fig. 2 a et b. — 4 1/2 Loth. — 1808. 24. 8. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
+16a\. Ganzer, sehr merkwürdiger Stein, von einer Seite zugerundet, von der anderen kantig; auch von verschiedener Beschaffenheit der Rinde, welche, wo sie dicker ist, an den Kanten Hervorragenden bildet, die beim Festwerden der Rinde durch den Widerstand der Luft beim Herabfallen, und durch Verschiebungen an der damals zähflüssigen Oberfläche entstanden sein müssen. — 4 13/16 Lth. — 1840. 4. 5. — Von Herrn Pötschke gekauft. 
+16b\. Kleiner, ganzer Stein, nur eine Ecke etwas abgestoßen, und die Spitze teilweise abgeschlagen; von vierseitig pyramidaler Form mit schiefer Grundfläche; zwei Seiten dick überrindet, stark glänzend, ziemlich glatt, die anderen matter und aderiger. — Beschrieben und abgebildet im angeführten Werke, S. 24, Taf. 5. Fig. 2 a et b. — 4 1/2 Loth. — 1808. 24. 8. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
 
 17\. Kleiner, ganzer, an einer Kante der Länge nach entblößter Stein, von ungewöhnlicher Form, wie ein flaches Geschiebe. — 4 7/16 Loth. — 1832. 17. 1. — Von dem k. k. Kämmerer, Grafen Eugen von Czernin, eingetauscht.
 
 18\. Kleiner, unregelmäßiger Stein, an einer Kante der Länge nach angebrochen, wodurch eine feinkörnige, fast homogen erscheinende, bläulichgraue Grundmasse, mit ein Paar sehr feinen schwarzen Adern zum Vorschein kam; ziemlich stark glänzende Rinde, mit scharfen Erhöhungen. Der ungewöhnlichen Grundmasse wegen merkwürdig. — 4 3/16 Loth. — 1808. 24. 9. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
 
-19\. Schr kleiner, ganzer, nur an einer Kante etwas angebrochener Stein, einer der kleinsten von diesem Steinfalle. — Beschrieben und abgebildet im angeführten Werke, S. 25, Taf. 5. Fig. 3. — Kaum 5/8 Loth. — 1808. 25. 1. — Durch das Kreisamt zu Iglau eingesendet.
+19\. Sehr kleiner, ganzer, nur an einer Kante etwas angebrochener Stein, einer der kleinsten von diesem Steinfalle. — Beschrieben und abgebildet im angeführten Werke, S. 25, Taf. 5. Fig. 3. — Kaum 5/8 Loth. — 1808. 25. 1. — Durch das Kreisamt zu Iglau eingesendet.
 
 20\. Ein sehr kleiner, und, so viel bekannt, der kleinste, der bei Stannern gefallenen. Steine, vollkommen ganz, flach, fast linsenförmig. — Beschrieben und abgebildet im angeführten Werke, S. 27, Taf. 5. Fig. 4. — 7/32 Loth. — 1808. 25. 2. — Durch das Kreisamt zu Iglau eingesendet.
 
@@ -716,19 +716,19 @@ B\. Bruchstücke.
 
 22\. Größeres Bruchstück mit Rinde und einer unvollkommen überrindeten Bruchfläche; die Grundmasse teils grob-, teils feinkörnig, grau. — 11 1/16 Lth. — 1809. 4. 3. — Von Herrn von Well gekauft.
 
-23\. Fast rundes Bruchstück, mit ganz frischen Bruchflächen und etwas Rinde; die Gemengteile von dem gewöhnlichen mittelfeinen Korne, und vorzüglich auf einer der Flächen sehr deutlich erkennbar; auch Magnetkies ist deutlich, aber sparsam eingesprengt. — 7 9/16 Loth. — 1827. 27. 4049. — Aus der von der Nüllschen Mineralien-Sammlung.
+23\. Fast rundes Bruchstück, mit ganz frischen Bruchflächen und etwas Rinde; die Gemengteile von dem gewöhnlichen mittelfeinen Korne, und vorzüglich auf einer der Flächen sehr deutlich erkennbar; auch Magnetkies ist deutlich, aber sparsam eingesprengt. — 7 9/16 Loth. — 1827. 27. 4049. — Aus der von der Nüll’schen Mineralien-Sammlung.
 
-24\. Längliches Bruchstück, mit etwas Rinde und einer anpolierten Fläche; merkwürdig wegen der Rinde, die teils glänzend, teils durch Verwitterung matt, und mit Tropfen und Perlen von Rindensubstanz besetzt ist. Ein Teil der Rinde ist auch, was höchst selten vorkommt, buntfärbig angelaufen. Die polierte Kläche zeigt Ausscheidungen des schwärzlichen Bestandteiles, daher eine unvollkommen porphyrartige Struktur. — 6 1/2 Lth. — 1808. 24. 11. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
+24\. Längliches Bruchstück, mit etwas Rinde und einer anpolierten Fläche; merkwürdig wegen der Rinde, die teils glänzend, teils durch Verwitterung matt, und mit Tropfen und Perlen von Rindensubstanz besetzt ist. Ein Teil der Rinde ist auch, was höchst selten vorkommt, buntfärbig angelaufen. Die polierte Fläche zeigt Ausscheidungen des schwärzlichen Bestandteiles, daher eine unvollkommen porphyrartige Struktur. — 6 1/2 Lth. — 1808. 24. 11. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
 
 25\. Bruchstück, allerseits mit sehr frischen Bruchflächen, ohne Rinde; das Gemenge ist ziemlich feinkörnig und an einigen Stellen von dunklerem Grau; der Magnetkies ist darin nicht zu unterscheiden. — 6 5/16 Lth. — 1809. 24. 12. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
 
-26\. Längliches Bruchstück, mit ziemlich viel Rinde. Man sicht beinahe noch die ganze Kontur des ursprünglichen Steines. Das Stück ist deshalb merkwürdig, weil an den oberen Bruchflächen Spuren von neuer Rindenbildung sichtbar sind, und der Magnetkies daselbst bunt angelaufen ist. — 4 5/16 Loth. — 1808. 24. 13. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
+26\. Längliches Bruchstück, mit ziemlich viel Rinde. Man sieht beinahe noch die ganze Kontur des ursprünglichen Steines. Das Stück ist deshalb merkwürdig, weil an den oberen Bruchflächen Spuren von neuer Rindenbildung sichtbar sind, und der Magnetkies daselbst bunt angelaufen ist. — 4 5/16 Loth. — 1808. 24. 13. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
 
 27\. Viereckiges Bruchstück, mit abgenützter Bruchfläche und mit Rinde; in der Grundmasse sind dunkelgraue, dichte Ausscheidungen vorhanden. — Beschrieben und (nicht gut) abgebildet in dem angeführten Werke. S. 59, Taf. 7. 1 Fig, der oberen Reihe. — 3 11/16 Loth. — 1808. 24. 14. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
 
-28\. Kleines Bruchstück mit poröser Rinde, von welcher ein Teil schuppig abgesprungen ist, und eine zweite matte und raue Rinden lage zum Vorscheine brachte, Merkwürdig ist dieses Fragment noch durch die Erscheinung, dass, wahrscheinlich auf einer während des Falles entstandenen Kluft, Rindensubstanz in das Innere des Steines einzudringen begann, und nun, innerhalb des Randes, der Bruchfläche aufsitzt. — Beschrieben und abgebildet im angeführten Werke, S. 38, Taf. 6. Fig. 5. — 3 1/4 Loth. — 1808. 24. 15. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
+28\. Kleines Bruchstück mit poröser Rinde, von welcher ein Teil schuppig abgesprungen ist, und eine zweite matte und raue Rindenlage zum Vorscheine brachte, Merkwürdig ist dieses Fragment noch durch die Erscheinung, dass, wahrscheinlich auf einer während des Falles entstandenen Kluft, Rindensubstanz in das Innere des Steines einzudringen begann, und nun, innerhalb des Randes, der Bruchfläche aufsitzt. — Beschrieben und abgebildet im angeführten Werke, S. 38, Taf. 6. Fig. 5. — 3 1/4 Loth. — 1808. 24. 15. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
 
-29\. Kleines Bruchstück mit Rinde und einer anpolierten Fläche von marmorirtem Ansehen, welche, wie die ganze Masse des Stückes (eine Seltenheit bei den Steinen von Stan nern), ein Paar dünne schwarze Adern durchziehen. — 3 1/8 Loth. — 1808. 24. 16. — Durch die bei Nr. 2 erwähnten Kommission überbracht.
+29\. Kleines Bruchstück mit Rinde und einer anpolierten Fläche von marmoriertem Ansehen, welche, wie die ganze Masse des Stückes (eine Seltenheit bei den Steinen von Stannern), ein Paar dünne schwarze Adern durchziehen. — 3 1/8 Loth. — 1808. 24. 16. — Durch die bei Nr. 2 erwähnten Kommission überbracht.
 
 30\. Kleines Bruchstück mit Rinde, von welcher die obere, glänzende Lage teilweise abgesprungen ist. Die Grundmasse ist dicht, dunkelgrau, hie und da sind undeutliche, kugeliche Ausscheidungen von derselben Substanz wahrnehmbar. — 2 1/2 Loth. — 1808. 24. 17. — Durch die bei Nr. 2 erwähnte Kommission überbracht.
 
@@ -742,13 +742,13 @@ B\. Bruchstücke.
 
 Auf dem Fleischplatze, im Inneren dieser Stadt.
 
-Juni 1805, an heltem Tage.
+Juni 1805, an hellem Tage.
 
 Graue, durch innige Mengung der zwei erdigen Gemengteile homogen erscheinende Grundmasse, ganz wie bei der zweiten, selteneren Varietät der Steine von Stannern; schwach glänzende Rinde.
 
 1\. Fragment mit etwas Rinde, von einer dünnen schwarzen Ader durchzogen; von einem der mehreren allda gefallenen Steine. — 7/16 Loth. — 1832. 28. 1. — Wurde vor mehreren Jahren (zwischen 1818-1820) durch Herrn Leopold Fitzingers Vermittlung von Freiherrn Nell von Nellenburg, jetzt Hofrat der k. k. Hofkammer in Wien, der den Stein durch den verstorbenen Sohn des damaligen k. k. Internuntius in Konstantinopel, Baron von Stürmer, bekam, als Geschenk erhalten.
 
-Wir haben uns in Konstantinopel durch Reisende wiederhohlt, aber immer erfolglos bemüht, uns von diesem, mitten in einer großen Stadt erfolgten Meteorstein-Fall, der allda nun schon ganz vergessen ist, weitere Musterstücke za verschaffen.
+Wir haben uns in Konstantinopel durch Reisende wiederholt, aber immer erfolglos bemüht, uns von diesem, mitten in einer großen Stadt erfolgten Meteorstein-Fall, der allda nun schon ganz vergessen ist, weitere Musterstücke zu verschaffen.
 
 ### 8\. Jonzac.
 
@@ -760,13 +760,13 @@ Lichtaschgraue Grundmasse, aus zwei ziemlich gleichförmig gemengten Substanzen,
 
 Ein fast ganzer Stein und Ein Bruchstück von den mehreren allda gefallenen Steinen, deren Anzahl und Gesamtgewicht nicht bekannt geworden ist.
 
-1\. Ein fast ganzer Stein; eine Ecke abgeschnitten, die Schnittfläche unvollkommen poliert; außerdem auch noch andere kleine Entblössungen des Innern. — 31 11/16 Loth. — 1829. 34. 1. — Aus der Verlassenschaft des Herrn Leman in Paris, durch Professor Desmarest eingetauscht.
+1\. Ein fast ganzer Stein; eine Ecke abgeschnitten, die Schnittfläche unvollkommen poliert; außerdem auch noch andere kleine Entblößungen des Innern. — 31 11/16 Loth. — 1829. 34. 1. — Aus der Verlassenschaft des Herrn Leman in Paris, durch Professor Desmarest eingetauscht.
 
 2\. Fragment mit Rinde und ganz frischem Bruche. — 4 1/4 Loth. — 1840. 4. 3. — Aus der Heuland'schen, später Heath'schen Meteoriten - Sammlung durch Herrn Pötschke gekauft. Stammt aus der de Dree'schen Mineralien-Sammlung.
 
 ### 9\. Bialistock.
 
-(Belostock), Dorf Knasti-Knasti, im gleichnahmigen Gouv., Russland.
+(Belostock), Dorf Knasti-Knasti, im gleichnamigen Gouv., Russland.
 
 5\. Oktober alten Styls, 1827, zwischen 9 und 10 Uhr Morgens.
 
@@ -782,7 +782,7 @@ Friederichshamm, Switaipola (nach Chladni Sawotaipola), Gouv. Wiburg, Finnland.
 
 Lichtgraue, körnige, wenig zusammenhängende Grundmasse, angefüllt mit Einmengungen von kleinen, olivengrünen, dann schwärzlichen, eckigen, selten rundlichen Körnern, die vorwaltend sind und dem Ganzen ein porphyr- oder breccienartiges Aussehen geben, endlich weißen feldspatartigen Körnern. Ein Korn von Magnetkies ist deutlich wahrnehmbar, sonst scheint derselbe fein eingesprengt zu sein. Die Rinde glänzend, aderig.
 
-1\. Bruchstück von einem der mehreren allda gefallenen, aber bei dem Schmelzen des Eises meist in einen Sce versunkenen Steine; etwa die Hälfte eines kleinen Steines; mit Rinde und einer geschnittenen Fläche. — 1 Loth, schwach. — 1832. 30. 1. — Von dem verstorbenen Grafen Gregor von Razoumovsky in Tausch erhalten.
+1\. Bruchstück von einem der mehreren allda gefallenen, aber bei dem Schmelzen des Eises meist in einen See versunkenen Steine; etwa die Hälfte eines kleinen Steines; mit Rinde und einer geschnittenen Fläche. — 1 Loth, schwach. — 1832. 30. 1. — Von dem verstorbenen Grafen Gregor von Razoumovsky in Tausch erhalten.
 
 ### 11\. Nobleborough,
 
@@ -792,15 +792,15 @@ oder Nobleboro, im Staate Maine, in den vereinigten Staaten von Nord-Amerika.
 
 In jeder Beziehung dem Steine von Lontalax so ähnlich, dass die dort gegebene Beschreibung auch vollkommen auf den Stein von Nobleborough angewendet werden kann; nur scheint letzterer noch weniger Zusammenhang zu besitzen, und daher zerreiblicher zu sein.
 
-1\. Drei Bröckchen, wovon das größte mit Rinde, von einem allda gefallenen Steine von 4 bis 6 Pfund, (außer welchem noch andere gefallen sein sollen.) — 3/8 Loth. — 1838. 25. 5. — Aus der chemahls Heulandschen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland erhielt diese Fragmente durch Professor Silliman aus Nord-Amerika.
+1\. Drei Bröckchen, wovon das größte mit Rinde, von einem allda gefallenen Steine von 4 bis 6 Pfund, (außer welchem noch andere gefallen sein sollen.) — 3/8 Loth. — 1838. 25. 5. — Aus der ehemals Heuland‘schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland erhielt diese Fragmente durch Professor Silliman aus Nord-Amerika.
 
 ### 12\. Mässing.
 
-(St. Nicolas) bei Altotting, Landgericht Eggenfelden in Bayern.
+(St. Nicolas) bei Altötting, Landgericht Eggenfelden in Bayern.
 
 13\. Dezember 1803, zwischen 10 und 11 Uhr Vormittags.
 
-Graulich weiße, ziemlich lockere Grundmasse, meist aus einem, wie Feldspat aussehenden, schneeweißen Mineral bestehend‚ worin kuglige Ausscheidungen von unreiner, pistaziengrüner Farbe, mit ziemlich vollkommenen schiefiwinklichen Teilungstlächen, dann eckige, schwarze, und endlich ganz kleine Körner von olivengrüner Farbe eingemengt sind. Von metallischen Gemengteilen ist Magnetkies allein deutlich zu erkennen. — Ein höchst ausgezeichneter, dem Steine von Lontalax verwandter Meteorstein.
+Graulich weiße, ziemlich lockere Grundmasse, meist aus einem, wie Feldspat aussehenden, schneeweißen Mineral bestehend‚ worin kuglige Ausscheidungen von unreiner, pistaziengrüner Farbe, mit ziemlich vollkommenen schiefwinklichen Teilungsflächen, dann eckige, schwarze, und endlich ganz kleine Körner von olivengrüner Farbe eingemengt sind. Von metallischen Gemengteilen ist Magnetkies allein deutlich zu erkennen. — Ein höchst ausgezeichneter, dem Steine von Lontalax verwandter Meteorstein.
 
 Zwei kleine Fragmente von einem daselbst einzeln gefallenen Steine von 3 1/4 Pfund.
 
@@ -828,13 +828,13 @@ im Großherzogtum Toskana.
 
 16\. Juni 1794, nach 7 Uhr Abends.
 
-Hellgraue, zuweilen rostbraun gefleckte Grundmasse, mit vielen, teils lichtgrünlichen, teils schwärzlichen, selten kugeligen, meist eckigen Ausscheidungen, die dem Ganzen ein breccien- oder porphyrartiges Ansehen verleihen; mit vielem, größtenteils fein eingesprengten, manchmahl aber auch in Körnern eingewachsenen Magnetkies und weniger, fein eingesprengtem metallischen Eisen. Matte, zum Teil rissige und dadurch weiß geaderte Rinde.
+Hellgraue, zuweilen rostbraun gefleckte Grundmasse, mit vielen, teils lichtgrünlichen, teils schwärzlichen, selten kugeligen, meist eckigen Ausscheidungen, die dem Ganzen ein breccien- oder porphyrartiges Ansehen verleihen; mit vielem, größtenteils fein eingesprengten, manchmal aber auch in Körnern eingewachsenen Magnetkies und weniger, fein eingesprengtem metallischen Eisen. Matte, zum Teil rissige und dadurch weiß geaderte Rinde.
 
 Drei vollkommen ganze, aber sehr kleine, dann drei ganze, aber angebrochene oder angeschnittene Steine, und Ein Bruchstück (etwas mehr als die Hälfte eines Steines), zusammen also sieben Stücke von den sehr vielen, jedoch meist kleinen allda gefallenen Steinen.
 
 1\. Ein sehr kleiner ganzer Stein. — 7/32 Loth, schwach. — 1832. 29. 4. — Geschenk von Herrn Direktor von Schreibers.
 
-2\. Ein ebenfalls sehr kleiner ganzer Stein. — 9/32 Loth, schwach. — 1817. 47. 1. — Durch Vermittlung des Professors, Kreiherrn von Jacquin, aus Italien zu Kauf erhalten.
+2\. Ein ebenfalls sehr kleiner ganzer Stein. — 9/32 Loth, schwach. — 1817. 47. 1. — Durch Vermittlung des Professors, Freiherrn von Jacquin, aus Italien zu Kauf erhalten.
 
 3\. Ein kleiner, fast ganzer Stein, mit einer Bruchfläche. — 17/32 Lth. — 1817. 47. 2. — Wie Nr. 2 durch Freiherrn von Jacquin erhalten.
 
@@ -842,9 +842,9 @@ Drei vollkommen ganze, aber sehr kleine, dann drei ganze, aber angebrochene oder
 
 5\. Ein für diese Lokalität nicht ganz kleiner, fast ganzer Stein, mit einer größeren und einigen kleineren Bruchflächen. — 1 13/16 Loth. — 1817. 47. 3. — Wie Nr. 3 durch Freiherrn von Jacquin erhalten.
 
-6\. Ein größeres Bruchstück (etwas mehr als die Hälfte eines Steines), mit einer Bruch- und einer anpolierten Fläche. — Beschrieben und abgebildet in v. Schreibers Beiträgen, S. 14, Taf. 2. und S. 61, Taf 7. — 1 3/4 Lth. — 1809. 20. 1. — Vom Obersten von Tihavsky als Geschenk erhalten. Ä
+6\. Ein größeres Bruchstück (etwas mehr als die Hälfte eines Steines), mit einer Bruch- und einer anpolierten Fläche. — Beschrieben und abgebildet in v. Schreibers Beiträgen, S. 14, Taf. 2. und S. 61, Taf 7. — 1 3/4 Lth. — 1809. 20. 1. — Vom Obersten von Tihavsky als Geschenk erhalten.
 
-7\. Ein größerer, fast ganzer Stein, mit einer Schnitt- und einer polierten Fläche, auch einer Bruchfläche mit zwei Vertiefungen, worin sich eine schwarze Substanz zeigt, Die Rinde zum Teil mit Eindrücken, — 6 1/32 Lth. — 1822. 20. 1. — Durch Herrn Chierici aus Florenz zu Kauf erhalten.
+7\. Ein größerer, fast ganzer Stein, mit einer Schnitt- und einer polierten Fläche, auch einer Bruchfläche mit zwei Vertiefungen, worin sich eine schwarze Substanz zeigt, Die Rinde zum Teil mit Eindrücken. — 6 1/32 Lth. — 1822. 20. 1. — Durch Herrn Chierici aus Florenz zu Kauf erhalten.
 
 ### 15\. Ensisheim,
 
@@ -852,11 +852,11 @@ im ehemaligen Elsass, jetzt Dep. du Haut-Rhin, Frankreich.
 
 7\. November 1492, zwischen 11 und 12 Uhr Mittags.
 
-Dunkelgraue, rosibraun gefleckte Grundmasse, stellenweise lichter, wodurch ein unvollkommen breccienartiges Ausschen entsteht, das auf polierten Flächen noch deutlicher wahrzunehmen ist. Das nicht häufig und meist fein eingesprengte metallische Eisen, und der vorwaltende, teils fein eingesprengte, teils in kleinen Flecken und Adern auftretende Magnetkies sind, vorzüglich ersteres, auf den Bruchflächen Schwer, dagegen auf polierten Flächen deutlich zu erkennen; sehr ausgezeichnete und zahlreiche, schwarze, glänzende Ablösungsflächen, die den Stein fast Schiefrig, und daher leicht spaltbar machen; auch schwarze glänzende Blättchen‚ die kurze Ablösungsflächen sind. — Ein höchst eigentümlicher, mit keinem anderen verwechselbarer Meteorstein.
+Dunkelgraue, rostbraun gefleckte Grundmasse, stellenweise lichter, wodurch ein unvollkommen breccienartiges Aussehen entsteht, das auf polierten Flächen noch deutlicher wahrzunehmen ist. Das nicht häufig und meist fein eingesprengte metallische Eisen, und der vorwaltende, teils fein eingesprengte, teils in kleinen Flecken und Adern auftretende Magnetkies sind, vorzüglich ersteres, auf den Bruchflächen Schwer, dagegen auf polierten Flächen deutlich zu erkennen; sehr ausgezeichnete und zahlreiche, schwarze, glänzende Ablösungsflächen, die den Stein fast Schiefrig, und daher leicht spaltbar machen; auch schwarze glänzende Blättchen‚ die kurze Ablösungsflächen sind. — Ein höchst eigentümlicher, mit keinem anderen verwechselbarer Meteorstein.
 
 Ein großes und vier kleine Bruchstücke, sämtlich ohne Rinde, von einem sehr großen, einzeln gefallenen Steine von 270 Pfund.
 
-1\. Ein großes Bruchstück, — 24 1/8 Lth. — 1813. 40. 1. — Durch Vermittelung des kaiserl. Ministers Freiherrn von Hügel, während der Invasion der verbündeten Mächte im Jahre 1813, aus Colmar in Elsass als Geschenk erhalten.
+1\. Ein großes Bruchstück, — 24 1/8 Lth. — 1813. 40. 1. — Durch Vermittlung des kaiserl. Ministers Freiherrn von Hügel, während der Invasion der verbündeten Mächte im Jahre 1813, aus Colmar in Elsass als Geschenk erhalten.
 
 2\. Kleineres Bruchstück, — 5 1/32 Lth. — 1841. 6. 71. — Von der königl. sächsischen Mineralien-Niederlage zu Freiberg gekauft.
 
@@ -867,7 +867,7 @@ Ein großes und vier kleine Bruchstücke, sämtlich ohne Rinde, von einem sehr g
 
 5\. Kleines Bruchstück , mit einer anpolierten Fläche, — 1 5/8 Loth. — Von 1809. 19. 1. — Geschenk vom verstorbenen Major v. Schwarz.
 
-Der Meteorstein von Ensisheim ist der älteste von allen, die sich bis an unsere Zeit der Zertrümmerung, dem Verstreuen und endlichem Vergessen und Wegwerfen eutzogen haben. Er verdankt seine Erhaltung dem Umstande, dass Kaiser Maximilian 1. während seines Falles sich in oder bei Ensisheim befand, und den Stein in den Chor der Kirche zu Ensisheim aufhängen ließ, mit dem Verhothe, für Niemanden etwas davon abzuschlagen. In der Revolutionszeit wurde der Stein auf die öffentliche Bibliothek zu Colmar gebracht, und viele Stücke davon abgeschlagen. Er befindet sich jetzt, beträchtlich vermindert, neuerdings in der Kirche zu Ensisheim.
+Der Meteorstein von Ensisheim ist der älteste von allen, die sich bis an unsere Zeit der Zertrümmerung, dem Verstreuen und endlichem Vergessen und Wegwerfen entzogen haben. Er verdankt seine Erhaltung dem Umstande, dass Kaiser Maximilian 1. während seines Falles sich in oder bei Ensisheim befand, und den Stein in den Chor der Kirche zu Ensisheim aufhängen ließ, mit dem Verbote, für Niemanden etwas davon abzuschlagen. In der Revolutionszeit wurde der Stein auf die öffentliche Bibliothek zu Colmar gebracht, und viele Stücke davon abgeschlagen. Er befindet sich jetzt, beträchtlich vermindert, neuerdings in der Kirche zu Ensisheim.
 
 ### 16\. L'Aigle.
 
@@ -875,25 +875,25 @@ Der Meteorstein von Ensisheim ist der älteste von allen, die sich bis an unsere
 
 26\. April 1803, 1 Uhr Nachmittags.
 
-Teils licht-, teils dunkelgraue, meist rosthraun vefleckte Grundmasse; die lichteren und dunkleren Partien entweder fleckenartig nebeneinander, oder die lichte Grundmasse von einem dunkleren, bald dickeren, bald dünneren aderigen Gewebe durchzogen, dessen Ziellen die lichteren Stellen sind. In diese ungleich gefärbte Grundmasse sind breccien- oder porphyrartig lichtere oder dunklere, eckige Körner oder Ausscheidungen eingemengt (zuweilen auch schwarze, bohnengroße Partien, durch das Zusammenfliessen des schwarzen Aderngeflechtes entstanden). Das gediegene Eisen ist in ziemlicher Menge, zum Teil grob, der Magnetkies nur äußerst fein eingesprengt. Schwarze Ablösungsflächen sind nicht selten. Die Rinde ist matt, nicht rau. — Ein Meteorstein von eigentümlicher Beschaffenheit.
+Teils licht-, teils dunkelgraue, meist rostbraun gefleckte Grundmasse; die lichteren und dunkleren Partien entweder fleckenartig nebeneinander, oder die lichte Grundmasse von einem dunkleren, bald dickeren, bald dünneren aderigen Gewebe durchzogen, dessen Zellen die lichteren Stellen sind. In diese ungleich gefärbte Grundmasse sind breccien- oder porphyrartig lichtere oder dunklere, eckige Körner oder Ausscheidungen eingemengt (zuweilen auch schwarze, bohnengroße Partien, durch das Zusammenfließen des schwarzen Aderngeflechtes entstanden). Das gediegene Eisen ist in ziemlicher Menge, zum Teil grob, der Magnetkies nur äußerst fein eingesprengt. Schwarze Ablösungsflächen sind nicht selten. Die Rinde ist matt, nicht rau. — Ein Meteorstein von eigentümlicher Beschaffenheit.
 
-*) Es werden hier und bei anderen ausgedehnteren Steinfällen mehrere Orte genannt, teils weil die Steine hei allen diesen Orten niederfielen, teils weil sie zuweilen mit verschiedenen Ortsbezeichnungen in Handel kommen, und man sie dann für das Produkt verschiedener Freigninse halten könnte.
+*) Es werden hier und bei anderen ausgedehnteren Steinfällen mehrere Orte genannt, teils weil die Steine hei allen diesen Orten niederfielen, teils weil sie zuweilen mit verschiedenen Ortsbezeichnungen in Handel kommen, und man sie dann für das Produkt verschiedener Ereignisse halten könnte.
 
 Dreizehn Stücke von den sehr vielen (2000 bis 3000) der allda gefallenen Steine, darunter vier ganze Steine.
 
-1\. Großer, ganzer, ringsum überrindeter Stein. — 2 Pfd. 22 Lth. — 1841. 14. 1. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft. Herr Heuland kaufte den Stein von Herrn Lambotin in Paris.
+1\. Großer, ganzer, ringsum überrundeter Stein. — 2 Pfd. 22 Lth. — 1841. 14. 1. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft. Herr Heuland kaufte den Stein von Herrn Lambotin in Paris.
 
-2\. Großer, ganzer, überrindeter Stein, von dem ein dabei befindliches und anpassendes Eck abgebrochen ist (auch die Kanten sind hie und da, wie gewöhnlich, etwas abgestossen); an ein Paar Seiten mit Eindrücken. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 12, Taf. 2. — 1 Pfund 30 3/8 Loth — 1. 6. — Wurde durch den verstorbenen k. k. Naturalien-Kabinetts-Direktor Stütz, im Jahre 1803 von einem Franzosen gekauft.
+2\. Großer, ganzer, überrundeter Stein, von dem ein dabei befindliches und anpassendes Eck abgebrochen ist (auch die Kanten sind hie und da, wie gewöhnlich, etwas abgestoßen); an ein Paar Seiten mit Eindrücken. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 12, Taf. 2. — 1 Pfund 30 3/8 Loth — 1. 6. — Wurde durch den verstorbenen k. k. Naturalien-Kabinetts-Direktor Stütz, im Jahre 1803 von einem Franzosen gekauft.
 
-3\. Fast gauzer Stein, mit einer anpolierten Fläche. — 22 1/8 Loth. — 1840. 11. 2. — Von Herrn von Scala gekauft, Stammt aus der gräflich Razoumovsky'schen Mineralien-Sammlung.
+3\. Fast ganzer Stein, mit einer anpolierten Fläche. — 22 1/8 Loth. — 1840. 11. 2. — Von Herrn von Scala gekauft, Stammt aus der gräflich Razoumovsky'schen Mineralien-Sammlung.
 
 4\. Ein sehr kleiner, aber ganzer Stein, nur an einer Kante, und auch hier zum Teil während des Falles verbrochen und wieder unvollkommen überrindet; hellgraue Grundmasse. — 29/32 Loth. — 1816. 36. 35. — Durch Direktor v. Schreibers während seiner Anwesenheit in Paris im Jahre 1815 vom Mineralienhändler Lambotin erkauft.
 
-5\. Ein Fragment (wohl 2/3 des ganzen Steines); mit anpolirter Fläche. — 8 3/4 Loth. — 1827. 27. 4050. — Aus der Mineralien-Sammlung des Herrn von der Nüll.
+5\. Ein Fragment (wohl 2/3 des ganzen Steines); mit anpolierter Fläche. — 8 3/4 Loth. — 1827. 27. 4050. — Aus der Mineralien-Sammlung des Herrn von der Nüll.
 
-6\. Ein frisches Bruchstück mit etwas Rinde, und den in der Beschreibung erwähnten, schwarzen, bohnengrossen Einmengungen. — 6 23/32 Lth. — 1824. 48. 1. — Durch den Herausgeber zu Kauf erhalten.
+6\. Ein frisches Bruchstück mit etwas Rinde, und den in der Beschreibung erwähnten, schwarzen, bohnengroßen Einmengungen. — 6 23/32 Lth. — 1824. 48. 1. — Durch den Herausgeber zu Kauf erhalten.
 
-7\. Bruchstück mit gekrümmter Ablösungsfläche; eine polierte Fläche ist rostbraun gefleckt. — 3 9/32 Loth. — 1808. 4. 1. — Durch Herrn Apothıcker Moser in Paris gekauft.
+7\. Bruchstück mit gekrümmter Ablösungsfläche; eine polierte Fläche ist rostbraun gefleckt. — 3 9/32 Loth. — 1808. 4. 1. — Durch Herrn Apotheker Moser in Paris gekauft.
 
 8\. a. und b. Zwei Bruchstücke mit Rinde und anpolierten Flächen, welche viele rostbraune Flecken zeigen. (Waren zu einem Versuche einige Zeit in der Erde vergraben). — 1 5/32 Loth und 19/32 Loth. — Aus den Doubletten. — Von Herrn Lambotin in Paris im Jahre 1815 gekauft.
 
@@ -901,25 +901,25 @@ Dreizehn Stücke von den sehr vielen (2000 bis 3000) der allda gefallenen Steine
 
 10\. Kleines Bruchstück mit frischem Bruche; die Rinde mit weißen Adern. — 3/4 Loth. — 1816. 40. 31. — Wie Nr. 9 angekauft.
 
-11\. Ansehnliches Bruchstück, mit großer, frischer Bruchfläche, welche das in der Beschreibung erwähnte aderige Gewebe, wodurch ein marmorirtes oder breccienartiges Ansehen entsteht, deutlich wahrnehmen lässt; mit Rinde, — 13 3/4 Loth — 1843. 29. 1. — Von Hrn. Francois Marguier in Tausch erhalten.
+11\. Ansehnliches Bruchstück, mit großer, frischer Bruchfläche, welche das in der Beschreibung erwähnte aderige Gewebe, wodurch ein marmoriertes oder breccienartiges Ansehen entsteht, deutlich wahrnehmen lässt; mit Rinde, — 13 3/4 Loth — 1843. 29. 1. — Von Hrn. Francois Marguier in Tausch erhalten.
 
-Die Meteorsteine von L’Aigle sind die verbreiteisten und gemeinsten in Mineralien-Sammlungen. Ein Mineralien-Händler in Paris, Herr Lamhotin, kaufte davon so viel auf, als er in L’Aigle und der Umgegend zusammenbringen konnte. Lange war der Preis derselben 8 bis 10 Francs für die Unze. Jetzt ist davon in Paris nichts mehr zu erhalten.
+Die Meteorsteine von L’Aigle sind die verbreitetsten und gemeinsten in Mineralien-Sammlungen. Ein Mineralien-Händler in Paris, Herr Lambotin, kaufte davon so viel auf, als er in L’Aigle und der Umgegend zusammenbringen konnte. Lange war der Preis derselben 8 bis 10 Francs für die Unze. Jetzt ist davon in Paris nichts mehr zu erhalten.
 
 ### 17\. Liponas,
 
-(in Chladni, veilleicht durch einen Druckfehler, unrichtig Laponas) bei Pont de Vesle und Bourg en Bresse, Dept. de l'Ain, Frankreich.
+(in Chladni, vielleicht durch einen Druckfehler, unrichtig Laponas) bei Pont de Vesle und Bourg en Bresse, Dept. de l'Ain, Frankreich.
 
 7\. September 1753, 2 Uhr Nachmittags.
 
-Dunkel asch- oder blaulich-graue Grundmasse mit schwärzlich grauen Partien, welche dieselbe durchziehen und fleckig oder marmoriert ausschen machen; beide mit Rostflecken und ziemlich deutlichen, aber mit der Grundmasse fest verwachsenen, kugeligen Ausscheidung; mit fein und mittelfein eingesprengtem, metallischen Eisen und sehr fein eingesprengtem Magnetkies. Matte Rinde. — Gleicht fast vollkommen den Meteorsteinen von L'Aigle.
+Dunkel asch- oder bläulichgraue Grundmasse mit schwärzlich grauen Partien, welche dieselbe durchziehen und fleckig oder marmoriert aussehen machen; beide mit Rostflecken und ziemlich deutlichen, aber mit der Grundmasse fest verwachsenen, kugeligen Ausscheidung; mit fein und mittelfein eingesprengtem, metallischen Eisen und sehr fein eingesprengtem Magnetkies. Matte Rinde. — Gleicht fast vollkommen den Meteorsteinen von L'Aigle.
 
 Zwei Bruchstücke von einem der zwei allda gefallenen Steine, welche zusammen 31 1/2 Pfund wogen.
 
-1\. Fragment mit vielRinde und ausgezeichneten Eindrücken an der Oberfläche. — 4 15/32 Loth. — 1838. 25. 3. — Aus der Heuland'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Das Stück lag früher in der von Herrn Heuland erkauften Mineralien-Sammlung des Herrn Marquis de Dree in Paris.
+1\. Fragment mit viel Rinde und ausgezeichneten Eindrücken an der Oberfläche. — 4 15/32 Loth. — 1838. 25. 3. — Aus der Heuland'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Das Stück lag früher in der von Herrn Heuland erkauften Mineralien-Sammlung des Herrn Marquis de Dree in Paris.
 
-2\. Ein ganz kleines, anpolirtes Bruchstück, ohne Rinde. — 5/16 Loth. — 1832. 29. 1. — Geschenk von Herrn Direktor von Schreibers, welcher dieses kleine Fragment während seines Aufenthaltes zu Paris im Jahre 1815, aus der de Dree'schen Mineralien-Sammlung erhielt.
+2\. Ein ganz kleines, anpoliertes Bruchstück, ohne Rinde. — 5/16 Loth. — 1832. 29. 1. — Geschenk von Herrn Direktor von Schreibers, welcher dieses kleine Fragment während seines Aufenthaltes zu Paris im Jahre 1815, aus der de Dree'schen Mineralien-Sammlung erhielt.
 
-Nach dem, was Bigot de Morogues in dem Werke: Memoire sur les chutes des pierres, Seite 334, von einem in dem Museum de Dree befindlichen Meteorstein von unbekannter Abkunft erwähnt, ist es wohl nur Vermutung, dass die, obwohl nur in sehr wenig Sammlungen vorhandenen Steine von Liponas wirklich von dieser Lokalität sind, Es heisst da, nachdem die auf unsere Exemplare, die aus des Marquis de Dree Sammlung stammen, vollkommen anwendbare Diagnose gezeben ist: Je presume qu'elle (la pierre d'origine inconnue) peut Etre l'une de celles tombees a Liponas en 1753, ce qui paroit probable a M. Leman, tant a cause de la maniere, dont elle est parvenue a M. de Dree, que par son volume et ses autres caracteres.
+Nach dem, was Bigot de Morogues in dem Werke: Memoire sur les chutes des pierres, Seite 334, von einem in dem Museum de Dree befindlichen Meteorstein von unbekannter Abkunft erwähnt, ist es wohl nur Vermutung, dass die, obwohl nur in sehr wenig Sammlungen vorhandenen Steine von Liponas wirklich von dieser Lokalität sind, Es heißt da, nachdem die auf unsere Exemplare, die aus des Marquis de Dree Sammlung stammen, vollkommen anwendbare Diagnose gegeben ist: Je presume qu'elle (la pierre d'origine inconnue) peut Etre l'une de celles tombees a Liponas en 1753, ce qui paroit probable a M. Leman, tant a cause de la maniere, dont elle est parvenue a M. de Dree, que par son volume et ses autres caracteres.
 
 ### 18\. Chantonnay.
 
@@ -927,7 +927,7 @@ Zwischen Nantes und La Rochelle, Dept. de la Vendee, Frankreich.
 
 5\. August 1812, Nachts 2 Uhr.
 
-Die Grundmasse zeigt stellenweise eine ganz verschiedene Beschaffenheit; sie ist nämlich teils, und zwar bei weitem vorherrschend, schwarz, schwach schimmernd und dicht, wie mancher Basalt; teils dunkelgrau, braun gefleckt, mit schwarzen Streifen oder Linien durchzogen und daher von marmorirtem Ansehen. (Auch die schwarze Grundmasse hat, was aber nur auf polierten Flächen zu bemerken ist, vereinzelte, meist aber undeutliche, lichtere Flecken, und ist mit einem breiten, noch schwärzeren, aderigen Geflechte durchzogen). Ziemlich viel teils fein, teils in hirsekorngrossen Körnern eingesprengtes metallisches Eisen; weit weniger und höchst fein eingesprengter Maenetkies. Undeutliche, matte Rinde. — Ein höchst eigentümlicher Meteorstein; nur die lichteren Stellen gleichen zum Teile den Steinen von Seres und Barbotan.
+Die Grundmasse zeigt stellenweise eine ganz verschiedene Beschaffenheit; sie ist nämlich teils, und zwar bei weitem vorherrschend, schwarz, schwach schimmernd und dicht, wie mancher Basalt; teils dunkelgrau, braun gefleckt, mit schwarzen Streifen oder Linien durchzogen und daher von marmoriertem Ansehen. (Auch die schwarze Grundmasse hat, was aber nur auf polierten Flächen zu bemerken ist, vereinzelte, meist aber undeutliche, lichtere Flecken, und ist mit einem breiten, noch schwärzeren, aderigen Geflechte durchzogen). Ziemlich viel teils fein, teils in hirsekorngroßen Körnern eingesprengtes metallisches Eisen; weit weniger und höchst fein eingesprengter Magnetkies. Undeutliche, matte Rinde. — Ein höchst eigentümlicher Meteorstein; nur die lichteren Stellen gleichen zum Teile den Steinen von Seres und Barbotan.
 
 Ein großes und drei kleinere Fragmente von einem einzeln gefallenen Steine von 69 Pfund.
 
@@ -945,7 +945,7 @@ bei Cento, Provinz Ferrara, im Kirchenstaate.
 
 15\. Janner 1824, zwischen 8 und 9 Uhr Abends.
 
-Matte, schwarze Grundmasse, mit reichlich eingemengten, mit der Grundmasse porphyrarlig und fest verwachsenen, lichtgrauen, kugelichen Ausscheidungen; ziemlich viel metallisches Eisen, teils sehr fein, teils eröblich, meist in die Grundmasse, selten in die kugelichen Ausscheidungen eingesprengt und die letzteren oft ringförmig umgebend; der Magneikies, wenn er vorhanden ist, so fein eingesprengt, dass er nicht unterschieden werden kann, Matte, oder schwach schimmernde Rinde, mit rundlichen, wie schuppig aussehenden Erhöhungen. — Ein höchst merkwürdiger Meteorstein von ganz eigenthümlichem Aussehen, fast wie Obsidianporphyr.
+Matte, schwarze Grundmasse, mit reichlich eingemengten, mit der Grundmasse porphyrartig und fest verwachsenen, lichtgrauen, kugelichen Ausscheidungen; ziemlich viel metallisches Eisen, teils sehr fein, teils gröblich, meist in die Grundmasse, selten in die kugelichen Ausscheidungen eingesprengt und die letzteren oft ringförmig umgebend; der Magnetkies, wenn er vorhanden ist, so fein eingesprengt, dass er nicht unterschieden werden kann, Matte, oder schwach schimmernde Rinde, mit rundlichen, wie schuppig aussehenden Erhöhungen. — Ein höchst merkwürdiger Meteorstein von ganz eigentümlichem Aussehen, fast wie Obsidianporphyr.
 
 Ein Fragment und ein Blättchen von einem der drei allda aufgefundenen Steine.
 
@@ -959,7 +959,7 @@ Chesterfield-County, Staat Virginien, Nord-Amerika.
 
 4\. Juni 1828, 9 Uhr Morgens.
 
-Schwarzgraue, weisslichgrau gesprengelte und rostbraun gefleckte Grundmasse, worin sich kleine Höhlungen befinden; mit vielen kugeligen Ausscheidungen, zum Teile von schmutziggrüner Farbe; mit viel eingesprengtem, fein zertheiltem Magnetkies (der, wie bei vielen anderen Mecteoriten, auf Bruchflächen deutlicher zu schen ist, als auf polierten Flächen) und mässig und mittelfein eingesprengtem metallischen Eisen, Der Magnetkies kleidet einige der oben erwähnten Höhlungen aus, und ist darin zuweilen kugelig und bunt angelaufen. In einer Vertiefung eines der Bruchstücke ist ein Eisenkorn sichtbar. Matte, poröse und, wie es scheint, leicht ablösbare Rinde. — Ein merkwürdiger Metcorstein, von ganz eigentümlicher Beschaffenheit.
+Schwarzgraue, weißlichgrau gesprenkelte und rostbraun gefleckte Grundmasse, worin sich kleine Höhlungen befinden; mit vielen kugeligen Ausscheidungen, zum Teile von schmutziggrüner Farbe; mit viel eingesprengtem, fein zerteiltem Magnetkies (der, wie bei vielen anderen Meteoriten, auf Bruchflächen deutlicher zu sehen ist, als auf polierten Flächen) und mäßig und mittelfein eingesprengtem metallischen Eisen, Der Magnetkies kleidet einige der oben erwähnten Höhlungen aus, und ist darin zuweilen kugelig und bunt angelaufen. In einer Vertiefung eines der Bruchstücke ist ein Eisenkorn sichtbar. Matte, poröse und, wie es scheint, leicht ablösbare Rinde. — Ein merkwürdiger Meteorstein, von ganz eigentümlicher Beschaffenheit.
 
 Drei Bruchstücke von einem einzeln gefallenen Steine von 4 Pfund.
 
@@ -975,29 +975,29 @@ im Staate Connecticut, Nord-Amerika,
 
 14\. Dezember 1807, 6 1/2 Uhr Morgens.
 
-Die Grundmasse zeigt zwei verschiedene Farbennuancen, eine dunkelaschgraue und eine helle, graulichweisse, die wohl meist;in einem und demselben Steine neben einander auftreten, vielleicht aber doch jede für sich auch ganze, wenn gleich kleine Steine constituiren mögen. Jedenfalls sind von den Fragmenten, die uns zu Gebothe stehen, oder die wir zu schen Gelegenheit hatten, die einen manchmahl bloß hell graulichweiss, und dann meist mit braunen Rostflecken besäet, die anderen bloß dunkelaschgrau, so dass man Steine von verschiedenen Steinfällen vor sich zu haben glaubt. In anderen meist größeren Stücken, sicht man jedoch die hellgraue Nüance bald in größeren Partien, bald in Flecken in der dunkelgrauen auftreten und überzeugt sich dadurch leicht von der Identität des Fund- oder Fallortes. Höchst ausgezeichnet sind in den Meteorsteinen von Weston, die in großer Menge und Vollkommenheit, aber nur in geringer Größe auftretenden kugligen Ausscheidungen, die jedoch in den dunkleren Partien weit ausgezeichneter erscheinen. Metallisches Eisen ist in ziemlicher Menge vorhanden aber meist fein eingesprengt; noch feiner der auf Bruchflächen leicht wahrnehmbare Magneikies. Die Rinde ist sehr rauh unduneben, matt oder schimmernd. — Eine sehr charakteristische, leicht erkennbare Varietät von Meteorsteinen.
+Die Grundmasse zeigt zwei verschiedene Farbennuancen, eine dunkelaschgraue und eine helle, graulichweiße, die wohl meist in einem und demselben Steine neben einander auftreten, vielleicht aber doch jede für sich auch ganze, wenn gleich kleine Steine konstituieren mögen. Jedenfalls sind von den Fragmenten, die uns zu Gebote stehen, oder die wir zu sehen Gelegenheit hatten, die einen manchmal bloß hell graulichweiß, und dann meist mit braunen Rostflecken besäet, die anderen bloß dunkelaschgrau, so dass man Steine von verschiedenen Steinfällen vor sich zu haben glaubt. In anderen meist größeren Stücken, sieht man jedoch die hellgraue Nuance bald in größeren Partien, bald in Flecken in der dunkelgrauen auftreten und überzeugt sich dadurch leicht von der Identität des Fund- oder Fallortes. Höchst ausgezeichnet sind in den Meteorsteinen von Weston, die in großer Menge und Vollkommenheit, aber nur in geringer Größe auftretenden kugligen Ausscheidungen, die jedoch in den dunkleren Partien weit ausgezeichneter erscheinen. Metallisches Eisen ist in ziemlicher Menge vorhanden aber meist fein eingesprengt; noch feiner der auf Bruchflächen leicht wahrnehmbare Magnetkies. Die Rinde ist sehr rau und uneben, matt oder schimmernd. — Eine sehr charakteristische, leicht erkennbare Varietät von Meteorsteinen.
 
 Fünf Fragmente von ungleicher Beschaffenheit von den sehr vielen und mitunter sehr großen daselbst gefallenen Steinen.
 
-1\. Fragment mit frischem Bruch und unvollkommener Rinde; die Substanz des Steines vorherrschend dunkelgrau mit lichtgrauen Flecken. — 3 Loth. — 1840. 4. 4. — Aus der ehemals Heuland'schen, späther Heath'schen Metcoriten-Sammlung durch Herrn Pötschke angekauft. Stammt aus der de Dree'schen Mineralien-Sammlung.
+1\. Fragment mit frischem Bruch und unvollkommener Rinde; die Substanz des Steines vorherrschend dunkelgrau mit lichtgrauen Flecken. — 3 Loth. — 1840. 4. 4. — Aus der ehemals Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke angekauft. Stammt aus der de Dree'schen Mineralien-Sammlung.
 
-2\. Fragment mit anpolirter Fläche ohne Rinde; dunkelgraue Grundmasse mit sehr vielen und ausgezeichneten kugligen Ausscheidungen; die Bruchfläche zum Teil rostbraun gefleckt. — 2 9/16 Loth. — 1812. 13. 6. — Von dem verstorbenen Mineralien-Händler Barton eingetauscht.
+2\. Fragment mit anpolierter Fläche ohne Rinde; dunkelgraue Grundmasse mit sehr vielen und ausgezeichneten kugligen Ausscheidungen; die Bruchfläche zum Teil rostbraun gefleckt. — 2 9/16 Loth. — 1812. 13. 6. — Von dem verstorbenen Mineralien-Händler Barton eingetauscht.
 
-3\. Fragment mit sehr unebener Rinde; die Grundmasse dunkelgrau mit einzelnen lichtgrauen Flecken. — 2 13/32 Loth. — 1838. 8. 1. — Von der Frau Johanna von Henikstein, gebornen von Dieckmann-Secherau eingetauscht. Befand sich früher in der Mineralien-Sammlung des k. k. Hofrathes von Gersdorf.
+3\. Fragment mit sehr unebener Rinde; die Grundmasse dunkelgrau mit einzelnen lichtgrauen Flecken. — 2 13/32 Loth. — 1838. 8. 1. — Von der Frau Johanna von Henikstein, geborenen von Dieckmann-Secherau eingetauscht. Befand sich früher in der Mineralien-Sammlung des k. k. Hofrates von Gersdorf.
 
-4\. Kleines Fragment mit etwas Rinde. Lichtgraue Grundmasse mit Rostilecken; diekugligen Ausscheidungen nicht sehr deutlich; das metallische Eisen und der Magnetkies fein eingesprengt. — 1 11/32 Loth. — 1821. 50. 42. — Durch Baron Lederer, k. k. General-Konsul in New-York, von Dr. Mitchill in Tausch erhälten.
+4\. Kleines Fragment mit etwas Rinde. Lichtgraue Grundmasse mit Rostflecken; die kugligen Ausscheidungen nicht sehr deutlich; das metallische Eisen und der Magnetkies fein eingesprengt. — 1 11/32 Loth. — 1821. 50. 42. — Durch Baron Lederer, k. k. General-Konsul in New-York, von Dr. Mitchill in Tausch erhalten.
 
-5\. Kleines Eragment ohne Rinde; die Grundmasse teils hellgrau mit Rostflecken, teils dunkelgrau mit kugligen Ausscheidungen. — 1 7/32 Loth. — 1812. 13. 7. — Mit Nr. 2 von dem verstorbenen Mineralien-Händler Barton eingetauscht. —
+5\. Kleines Fragment ohne Rinde; die Grundmasse teils hellgrau mit Rostflecken, teils dunkelgrau mit kugligen Ausscheidungen. — 1 7/32 Loth. — 1812. 13. 7. — Mit Nr. 2 von dem verstorbenen Mineralien-Händler Barton eingetauscht. —
 
 ### 22\. La Baffe,
 
-2 lieues südlich von Epinal, Dept. des Vosges, Frankreich.
+2 Lieues südlich von Épinal, Dept. des Vosges, Frankreich.
 
 13\. September 1822. 7 Uhr Morgens.
 
-Lichtaschgraue oder graulichweisse, rostbraun gefleckte, durch eine große Menge von klein kugligen Ausscheidungen körnig erscheinende Grundmasse; mit vielem teils fein, teils mittelfein eingesprengten metallischen Eisen und sehr fein eingesprengtem Magnetkies; matte oder schwach schimmernde Rinde. — (Ist von den lichteren Abänderungen der Steine von Weston nicht zu unterscheiden.)
+Lichtaschgraue oder graulichweiße, rostbraun gefleckte, durch eine große Menge von klein kugligen Ausscheidungen körnig erscheinende Grundmasse; mit vielem teils fein, teils mittelfein eingesprengten metallischen Eisen und sehr fein eingesprengtem Magnetkies; matte oder schwach schimmernde Rinde. — (Ist von den lichteren Abänderungen der Steine von Weston nicht zu unterscheiden.)
 
-1\. Fragment mit Rinde und kleiner, (ohne Smirgel) unvollkomnen anpolirter Fläche (von einem einzeln gefallenen Steine von unbekanntem Gewichte). — 15/16 Loth. — 1840. 29. 2. — Vom königl. Museum der Naturgeschichte zu Paris auf Vermittlung des Herausgebers, während seines Aufenthaltes zu Paris in Tausch erhalten.
+1\. Fragment mit Rinde und kleiner, (ohne Smirgel) unvollkommen anpolierter Fläche (von einem einzeln gefallenen Steine von unbekanntem Gewichte). — 15/16 Loth. — 1840. 29. 2. — Vom königl. Museum der Naturgeschichte zu Paris auf Vermittlung des Herausgebers, während seines Aufenthaltes zu Paris in Tausch erhalten.
 
 ### 23\. Benares.
 
@@ -1021,11 +1021,11 @@ Ohne nähere Angabe des Fundortes erhalten; (nicht zu verwechseln mit Kuleschofk
 
 Auch die Fallzeit ist nicht mitgeteilt worden.
 
-Dunkelaschgraue Grundmasse, ganz erfüllt mit einer Menge von kugligen, zuweilen auch eckigen Ausscheidungen von schmutzig grünlichgrauer Farbe. Der Magneikies, zuweilen bunt angelaufen, sondert sich in grosseren körnigen Partien aus, ist jedoch meist nur sehr fein eingesprengt. Das metallische Eisen ist in ziemlicher Menge und meist fein eingesprengt. Matte, poröse Rinde. — Einer der aus gezeichnetesten Meteorsteine‚ am nächsten den Steinen von Weston und Krasno-Ugol verwandt.
+Dunkelaschgraue Grundmasse, ganz erfüllt mit einer Menge von kugligen, zuweilen auch eckigen Ausscheidungen von schmutzig grünlichgrauer Farbe. Der Magnetkies, zuweilen bunt angelaufen, sondert sich in größeren körnigen Partien aus, ist jedoch meist nur sehr fein eingesprengt. Das metallische Eisen ist in ziemlicher Menge und meist fein eingesprengt. Matte, poröse Rinde. — Einer der aus gezeichnetesten Meteorsteine‚ am nächsten den Steinen von Weston und Krasno-Ugol verwandt.
 
 1\. Bruchstück mit Rinde und einer anpolierten Fläche. — 5 1/8 Loth gut. — 1838. 28. 1. — Von der kaiserl. russischen Akademie der Wissenschaften zu Petersburg durch Professor Kupffer in Tausch erhalten.
 
-Über diesen nicht öffentlich bekannt gewordenen Steinfal), der, wie schon oben bemerkt wurde, mit dem von Kuleschofka nicht zu verwechseln ist, fehlen alle historischen Nachrichten.
+Über diesen nicht öffentlich bekannt gewordenen Steinfall), der, wie schon oben bemerkt wurde, mit dem von Kuleschofka nicht zu verwechseln ist, fehlen alle historischen Nachrichten.
 
 ### 25\. Krasno-Ugol.
 
@@ -1043,7 +1043,7 @@ zwischen Magdeburg und Helmstädt, preußische Provinz Sachsen.
 
 15\. April 1812, 4 Uhr Nachmittags.
 
-Dunkelaschgraue, sehr dichte und auf Bruchflächen ziemlich homogene Grundmasse, mit etwas dunkleren, klein kugelisen Ausscheidungen, die auf Bruchilächen fast gar nicht, deutlich hingegen auf polierten Flächen zu erkennen sind; viel, aber sehr fein und gleichförmig eingesprengtes gediegenes Eisen; viel, höchst fein eingesprengter Magneitkies, der, wie gewöhnlich, auf Bruchflächen leichter wahrzunehmen ist, als auf polierten Flächen. (Das Umgekehrte gilt vom metallischen Eisen.) Dünne, matte Rinde, die zuweilen nur in Flecken und Pünktchen auftritt und wie ausgeschwitzt aussieht. — Ein durch seine Dichtheit, auscheinende Homogenität der Grundmasse, und das feine und gleichförmige Gemenge der letzten mit den zwei metallischen Gemengteilen sehr ausgezeichneter Metcorstein; von allen anderen, mit Ausnahme desjenigen aus dem Gouvernement Simbirsk höchst verschieden.
+Dunkelaschgraue, sehr dichte und auf Bruchflächen ziemlich homogene Grundmasse, mit etwas dunkleren, klein kugeligen Ausscheidungen, die auf Bruchflächen fast gar nicht, deutlich hingegen auf polierten Flächen zu erkennen sind; viel, aber sehr fein und gleichförmig eingesprengtes gediegenes Eisen; viel, höchst fein eingesprengter Magnetkies, der, wie gewöhnlich, auf Bruchflächen leichter wahrzunehmen ist, als auf polierten Flächen. (Das Umgekehrte gilt vom metallischen Eisen.) Dünne, matte Rinde, die zuweilen nur in Flecken und Pünktchen auftritt und wie ausgeschwitzt aussieht. — Ein durch seine Dichtheit, anscheinende Homogenität der Grundmasse, und das feine und gleichförmige Gemenge der letzten mit den zwei metallischen Gemengteilen sehr ausgezeichneter Meteorstein; von allen anderen, mit Ausnahme desjenigen aus dem Gouvernement Simbirsk höchst verschieden.
 
 1\. Ein dreieckiges Bruchstück, von einen einzeln gefallenen Steine von 4 1/2 Pfund; mit etwas Rinde und einer anpolierten Fläche. — 3 Loth — 1814. 22. a. 1. — Geschenk von dem verstorbenen Professor Blumenbach in Göttingen.
 
@@ -1051,7 +1051,7 @@ Dunkelaschgraue, sehr dichte und auf Bruchflächen ziemlich homogene Grundmasse,
 
 Ohne nähere Angabe des Fallortes und ohne Angabe der Fallzeit erhalten.
 
-Dunkelgraue, feste und dichte Grundmasse, aus welcher auf polierten Flächen kleine, dunklere, ins grünlichgraue ziehende Körner unterscheidbar sind; mit mässig viel, jedoch meist mikroskopisch fein und nur in einzelnen Körnchen etwas gröber eingesprengtem metallischen Eisen, und höchst fein eingesprengtem Magnetkies, Matte, dünne, unterbrochene und fast nur schorfartige Rinde. (So wenigstens an dem kleinen uns zu Gebothe stehenden Stücke). — Ein sehr merkwürdiger und eigentümlicher, nur dem Meteorsteine von Erxleben verwandter Meteorit.
+Dunkelgraue, feste und dichte Grundmasse, aus welcher auf polierten Flächen kleine, dunklere, ins grünlichgraue ziehende Körner unterscheidbar sind; mit mäßig viel, jedoch meist mikroskopisch fein und nur in einzelnen Körnchen etwas gröber eingesprengtem metallischen Eisen, und höchst fein eingesprengtem Magnetkies, Matte, dünne, unterbrochene und fast nur schorfartige Rinde. (So wenigstens an dem kleinen uns zu Gebote stehenden Stücke). — Ein sehr merkwürdiger und eigentümlicher, nur dem Meteorsteine von Erxleben verwandter Meteorit.
 
 1\. Fragment mit Rinde und einer kleinen anpolierten Fläche. — 17/32 Loth. — 1838. 28. 4. — Von der kaiserlich russischen Akademie der Wissenschaften zu Petersburg durch Herrn Professor Kupffer (leider ohne irgendeine historische Notiz, um die wir uns später erfolglos bemühten), in Tausch erhalten.
 
@@ -1061,7 +1061,7 @@ im Innkreise, Österreich ob der Enns. (Gehörte zur Zeit des Falles zu Baiern.)
 
 20\. November 1768, 4 Uhr Nachmittags.
 
-Sehr hellgraue, fast weiße, wenig zusammenhängende, nicht schwer zerreibliche Grundmasse, mit ziemlich vielen, auf den Bruchflächen wenig wahrnehmbaren, auf Schnittflächen aber leichter erkennbaren kugeligen Ausscheidungen; fein eingesprengtes mcetallisches Eisen und viel, sehr fein eingesprengter Magnetkies, der sich zuweilen in größeren Körnern, von Hanfkorn- bis Bohnengrösse, aussondert. Matte Rinde. — Ein durch seine helle Farbe und leichte Zerreiblichkeit sehr ausgezeichneter Meteorstein.
+Sehr hellgraue, fast weiße, wenig zusammenhängende, nicht schwer zerreibliche Grundmasse, mit ziemlich vielen, auf den Bruchflächen wenig wahrnehmbaren, auf Schnittflächen aber leichter erkennbaren kugeligen Ausscheidungen; fein eingesprengtes metallisches Eisen und viel, sehr fein eingesprengter Magnetkies, der sich zuweilen in größeren Körnern, von Hanfkorn- bis Bohnengröße, aussondert. Matte Rinde. — Ein durch seine helle Farbe und leichte Zerreiblichkeit sehr ausgezeichneter Meteorstein.
 
 Zwei Bruchstücke von einem einzeln gefallenen Steine von 38 Pfund; beide mit Rinde.
 
@@ -1075,9 +1075,9 @@ Dorf oder Gegend ? Drake-Creek, 18 engl. Meilen von Nashville, Staat Tennessee, 
 
 9\. Mai 1827, 4 Uhr Nachmittags.
 
-Lichtgrane, durch undeutliche, kugelige Ausscheidungen schwach gefleckte, nicht stark zusammenhänsende, und daher schwer polirbare Grundmasse; sehr viel fein eingesprengter Magnetkies, der auch in hanfgrossen Partien auftritt; das metallische Eisen fein zerstreut und in geringer Menge eingesprengt. Matte, ziemlich glatte Rinde.
+Lichtgrane, durch undeutliche, kugelige Ausscheidungen schwach gefleckte, nicht stark zusammenhängende, und daher schwer polirbare Grundmasse; sehr viel fein eingesprengter Magnetkies, der auch in hanfgroßen Partien auftritt; das metallische Eisen fein zerstreut und in geringer Menge eingesprengt. Matte, ziemlich glatte Rinde.
 
-1\. Fragment mit Rinde, von einem faustgrossen Stücke im Museum des Yale-College zu New-Haven in Nord-Amerika abgeschlagen. (Es fielen mehrere Steine, wovon 5 gesammelt wurden, deren einer 11 Pfd. wog.) — 1 27/32 Loth. — 1840. 32. 1. — Durch Vermittlung des Herrn Baron Lederer, österr. General-Consuls in New-York, von Herrn Professor Silliman in New-Haven in Tausch erhalten.
+1\. Fragment mit Rinde, von einem faustgroßen Stücke im Museum des Yale-College zu New-Haven in Nord-Amerika abgeschlagen. (Es fielen mehrere Steine, wovon 5 gesammelt wurden, deren einer 11 Pfd. wog.) — 1 27/32 Loth. — 1840. 32. 1. — Durch Vermittlung des Herrn Baron Lederer, österr. General-Konsuls in New-York, von Herrn Professor Silliman in New-Haven in Tausch erhalten.
 
 ### 30\. Lucé,
 
@@ -1085,19 +1085,19 @@ en Maine, jetzt Dep. de la Sarthe, Frankreich.
 
 13\. September 1768, 4 1/2 Uhr Nachmittags.
 
-Lichtgraue, mit Rostflecken durchsäcte Grundmasse, mit undeutlichen kugeligen Ausscheidungen; fein und mittelfein eingesprengtes gediegenes Eisen; sehr fein eingesprengter Magnetkies; rauhe, matte Rinde.
+Lichtgraue, mit Rostflecken durchsäete Grundmasse, mit undeutlichen kugeligen Ausscheidungen; fein und mittelfein eingesprengtes gediegenes Eisen; sehr fein eingesprengter Magnetkies; raue, matte Rinde.
 
 Fragment von einem einzeln (?) gefallenen Steine von 7 1/2 Pfund.
 
 1\. Kleines Fragment mit Rinde und einer anpolierten Fläche. — 17/32 Loth. — 1838. 25. 6. — Aus der ehemals Heuland'schen, dann Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Das Stück lag früher in der von Herrn Heuland angekauften Mineralien-Sammlung des Marquis de Dree in Paris.
 
-In der königl, Mineralien-Sammlung zu Berlin befindet sich ein Fragment von Luce, das mit der Chladni'schen Meteoriten-Sammlung dahin kam, und von dem am Wiener kaiserl. Mineralien-Kabinette befindlichen verschieden ist. Das Berliner ist dunkelaschgrau, und ganz den Steinen von Limerick und Tipperary ähnlich. Chladni sagt nicht, von wem er sein Stück erhielt. Das unsere stammt aus der de Dree'schen Sammlung, wo esschon Bigot de Morogues sah, der vom Steine von Luce sagt: La pierre tomhde a Lucé, en 1768, est facile a reconnoitre a cause de la teinte uniforme tres-claire; elle est assez compacte A grains fins, et ne présente aucun filon. (Siehe den Anhang: Description comparative de quelques pierres tombdes du ciel, Seite 335 in Bigot's Werke: Memoire historique et physique sur les chutes des pierres tombdes sur la surface de la terre a diverses epoques, Orleans 1812.) Léman charakterisirt den Stein von Lucé folgender Massen: Pierre d’un gris cendré pale, avec une infinité de petits points hrillants, d'un jaune pale, enveloppte d'une croüte noire etc, (Siehe den Artikel Pierres météoriques in dem Nouveau Dictionnaire d'histoire naturelle Vol. 26. Paris 1818.)
+In der königl, Mineralien-Sammlung zu Berlin befindet sich ein Fragment von Luce, das mit der Chladni'schen Meteoriten-Sammlung dahin kam, und von dem am Wiener kaiserl. Mineralien-Kabinette befindlichen verschieden ist. Das Berliner ist dunkelaschgrau, und ganz den Steinen von Limerick und Tipperary ähnlich. Chladni sagt nicht, von wem er sein Stück erhielt. Das unsere stammt aus der de Dree'schen Sammlung, wo es schon Bigot de Morogues sah, der vom Steine von Luce sagt: La pierre tombee a Lucé, en 1768, est facile a reconnoitre a cause de la teinte uniforme tres-claire; elle est assez compacte A grains fins, et ne présente aucun filon. (Siehe den Anhang: Description comparative de quelques pierres tombdes du ciel, Seite 335 in Bigot's Werke: Memoire historique et physique sur les chutes des pierres tombdes sur la surface de la terre a diverses epoques, Orleans 1812.) Léman charakterisiert den Stein von Lucé folgender Massen: Pierre d’un gris cendré pale, avec une infinité de petits points hrillants, d'un jaune pale, enveloppte d'une croüte noire etc, (Siehe den Artikel Pierres météoriques in dem Nouveau Dictionnaire d'histoire naturelle Vol. 26. Paris 1818.)
 
 Anhang\. Die nachfolgenden zwei Stücke sind mit dem Meteorstein-Fragment Nr. 1 von Lucé, mit Ausnahme der Beschaffenheit der Rinde, was jedoch nicht viel bedeuten will, vollkommen identisch, wurden aber mit der Angabe anderer Lokalitäten erhalten, mit denen sie nicht übereinstimmen. Wir lassen sie deshalb hier anhangsweise folgen, ohne übrigens die Lokalität Lucé zu verbürgen.
 
-2\. Bruchstück mit Rinde und polierter Fläche. — 8 13/32 Loth. — 1841. 14. 5. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft, mit der Etiquette: Luimerik. Herr Heuland glaubt den Stein von Herrn Professor Gieseke aus Dublin erhalten zu haben; cs dürfte jedoch eine Verwechslung eingetreten sein, welche leicht Statt findet, wenn man die Stücke nicht durch aufgeklebte Etiquetten oder Nummern unterscheidet. — Dieses Fragment wird wohl gleichfalls aus der Sammlung des Marquis de Dree herstammen.
+2\. Bruchstück mit Rinde und polierter Fläche. — 8 13/32 Loth. — 1841. 14. 5. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft, mit der Etiquette: Limerick. Herr Heuland glaubt den Stein von Herrn Professor Gieseke aus Dublin erhalten zu haben; es dürfte jedoch eine Verwechslung eingetreten sein, welche leicht Statt findet, wenn man die Stücke nicht durch aufgeklebte Etiquetten oder Nummern unterscheidet. — Dieses Fragment wird wohl gleichfalls aus der Sammlung des Marquis de Dree herstammen.
 
-3\. Kleines Bruchstück mit etwas Rinde, dicken, schwarzen Adern und anpolirter Fläche. — 19/32 Loth. — 1841. 14. 6. — Aus der Heuland'schen Sammlung durch Herrn Pötschke angekauft. Erhalten mit der Lokalität Toulouse. Stammt aus des Marquis de Dree Mineralien-Sammlung.
+3\. Kleines Bruchstück mit etwas Rinde, dicken, schwarzen Adern und anpolierter Fläche. — 19/32 Loth. — 1841. 14. 6. — Aus der Heuland'schen Sammlung durch Herrn Pötschke angekauft. Erhalten mit der Lokalität Toulouse. Stammt aus des Marquis de Dree Mineralien-Sammlung.
 
 ### 31\. Lissa.
 
@@ -1105,27 +1105,27 @@ Anhang\. Die nachfolgenden zwei Stücke sind mit dem Meteorstein-Fragment Nr. 1 
 
 3\. September 1808, 3 1/2 Uhr Nachmittags.
 
-Lichtgraue, feinkörnige Grundmasse, in welcher zwar nicht auf Bruch-, doch auf anpolierten Flächen, hellgraue, kugelige oder ovale, mit der Grundmasse innig zusammenhängende Ausscheidungen wahrzunehmen sind; ziemlich viel, aber höchst fein eingesprengtes metallisches Eisen, ungefähr eben so viel, sehr fein eingesprengter, zuweilen aber auch in linsengrossen Partien auftretender Magnetkies. Feine, seltener dicke Adern durchziehen die Grundmasse nach verschiedenen Richtungen. Matte Rinde.
+Lichtgraue, feinkörnige Grundmasse, in welcher zwar nicht auf Bruch-, doch auf anpolierten Flächen, hellgraue, kugelige oder ovale, mit der Grundmasse innig zusammenhängende Ausscheidungen wahrzunehmen sind; ziemlich viel, aber höchst fein eingesprengtes metallisches Eisen, ungefähr eben so viel, sehr fein eingesprengter, zuweilen aber auch in linsengroßen Partien auftretender Magnetkies. Feine, seltener dicke Adern durchziehen die Grundmasse nach verschiedenen Richtungen. Matte Rinde.
 
 Ein großer, ganzer Stein und zwei Fragmente von den vier oder fünf der allda gefallenen Steine.
 
-1\. Großer, ganzer, 7 Zoll langer Stein von unregelmäßiger Form (unvollkommen vierseitig, prismatisch), mit vielen kleinen Eindrücken an der Oberfläche; an zwei Stellen mit Bruchflächen und kleinen, beim Falle entstandenen Beschädigungen an den Kanten. — Beschrieben undabgebildet inv. Schreibers Beiträgen, S. 17, Taf. 3. — 5 Pfund, 17 5/8 Loth. — 1809. 17. 1. — Ist vom Lissaer Wirthschaftsamte an das Bunzlauer Kreisant, durch dieses an das königl. böhmische Gubernium und weiter an die vereinigte k. k. Hofkanzlei in Wien eingesendet worden, welche den Meteorstein Seiner Majestät dem Kaiser Franz überreichte, der ihn 1809 durch den Herrn Oberstkämmerer, Grafen von Wrbna, dem k. k. Hof-Mineralien-Kabinette übergeben ließ.
+1\. Großer, ganzer, 7 Zoll langer Stein von unregelmäßiger Form (unvollkommen vierseitig, prismatisch), mit vielen kleinen Eindrücken an der Oberfläche; an zwei Stellen mit Bruchflächen und kleinen, beim Falle entstandenen Beschädigungen an den Kanten. — Beschrieben und abgebildet in v. Schreibers Beiträgen, S. 17, Taf. 3. — 5 Pfund, 17 5/8 Loth. — 1809. 17. 1. — Ist vom Lissaer Wirtschaftsamte an das Bunzlauer Kreisamt, durch dieses an das königl. böhmische Gubernium und weiter an die vereinigte k. k. Hofkanzlei in Wien eingesendet worden, welche den Meteorstein Seiner Majestät dem Kaiser Franz überreichte, der ihn 1809 durch den Herrn Oberstkämmerer, Grafen von Wrbna, dem k. k. Hof-Mineralien-Kabinette übergeben ließ.
 
 2\. Bruchstück mit Rinde und einer anpolierten Fläche. — 3 1/32 Lth. — 1808. 26. 1. — Wurde durch das königl. böhm. Gubernium eingesendet.
 
-3\. Bruchstück mit Rinde und teilweise frischem Bruche. — 2 17/32 Loth. — 1838. 24. 1. — Von Herrn Gubernialrath Neumann in Prag in Tausch erhalten.
+3\. Bruchstück mit Rinde und teilweise frischem Bruche. — 2 17/32 Loth. — 1838. 24. 1. — Von Herrn Gubernialrat Neumann in Prag in Tausch erhalten.
 
 ### 32\. Owahu.
 
 (Oahu oder Woahoo), eine der Sandwich-Inseln, deren Hauptort Honororu (oder Honololu).
 
-Lichtaschgraue, etwas ins Grünliche zichende, durch eingemengte kugelige Ausscheidungen mehr oder weniger deutlich gefleckte Grundmasse, durchzogen von einer großen Anzahl schwarzer Adern, die sich zum Teil auch verästeln; schwarze, graphitartig glänzende Ablösungen; ziemlich viel, meist fein eingesprengtes gediegenes Eisen; sehr fein eingesprengter Magnetkies; matie, schwarze, zum Teil ins Bräunlichrothe umgeänderte Rinde. Eines von den zwei vorhandenen Stücken zeigt auch rostbraune Flecken in der Grundmasse, in Folge der durch Umstände erfolgten, theilweisen Oxydierung des metallischen Eisens, welches die Umgebungen färbte. Dieses Kennzeichen kann daher vorhanden sein, oder auch fehlen, und ist somit überhaupt nicht bezeichnend. (Dieser Meteorstein steht dem von Lissa am nächsten.)
+Lichtaschgraue, etwas ins Grünliche ziehende, durch eingemengte kugelige Ausscheidungen mehr oder weniger deutlich gefleckte Grundmasse, durchzogen von einer großen Anzahl schwarzer Adern, die sich zum Teil auch verästeln; schwarze, graphitartig glänzende Ablösungen; ziemlich viel, meist fein eingesprengtes gediegenes Eisen; sehr fein eingesprengter Magnetkies; matte, schwarze, zum Teil ins Bräunlichrote umgeänderte Rinde. Eines von den zwei vorhandenen Stücken zeigt auch rostbraune Flecken in der Grundmasse, in Folge der durch Umstände erfolgten, teilweisen Oxydierung des metallischen Eisens, welches die Umgebungen färbte. Dieses Kennzeichen kann daher vorhanden sein, oder auch fehlen, und ist somit überhaupt nicht bezeichnend. (Dieser Meteorstein steht dem von Lissa am nächsten.)
 
 Zwei Fragmente von den zwei allda gefallenen Steinen, wovon jeder ungefähr 15 Pfund wog.
 
-1\. Fragment mit Rinde und einer unvollkommen anpolierten Fläche. — 2 Lth. — 1842. 34. 1. — Durch den Curator des Yale-College zu New-Haven in Nord-Amerika, Herrn B. Silliman, in Tausch erhalten. Der 2 Pfund schwere Stein, von dem dieses Fragment herrührt, wurde von dem Rev. Henry Bingham von den Sandwich-Inseln nach Nord-Amerika gebracht.
+1\. Fragment mit Rinde und einer unvollkommen anpolierten Fläche. — 2 Lth. — 1842. 34. 1. — Durch den Kurator des Yale-College zu New-Haven in Nord-Amerika, Herrn B. Silliman, in Tausch erhalten. Der 2 Pfund schwere Stein, von dem dieses Fragment herrührt, wurde von dem Rev. Henry Bingham von den Sandwich-Inseln nach Nord-Amerika gebracht.
 
-2\. Fragment mit Rinde und anpolirter Fläche. — 3 1/2 Loth. — 1839. 37. 1. — Von der kaiserl. russischen Universität zu Dorpat durch den Professor und Staatsrath, Moritz von Engelhardt, in Tausch erhalten. Wurde von dem in der Dorpater Universitäts-Sammlung aufbewahrten Stücke, welches der damalıls auf Owahu anwesende Herr Ernst Hoffmann, jetzt Professor in Kiew, von der Kotzebue'schen Weltumseglung mitbrachte, abgeschnitten (dabei aber leider mit Oehl getränkt).
+2\. Fragment mit Rinde und anpolierter Fläche. — 3 1/2 Loth. — 1839. 37. 1. — Von der kaiserl. russischen Universität zu Dorpat durch den Professor und Staatsrat, Moritz von Engelhardt, in Tausch erhalten. Wurde von dem in der Dorpater Universitäts-Sammlung aufbewahrten Stücke, welches der damals auf Owahu anwesende Herr Ernst Hoffmann, jetzt Professor in Kiew, von der Kotzebue'schen Weltumseglung mitbrachte, abgeschnitten (dabei aber leider mit Oel getränkt).
 
 ### 33\. Charkow.
 
@@ -1133,17 +1133,17 @@ Zwei Fragmente von den zwei allda gefallenen Steinen, wovon jeder ungefähr 15 P
 
 1\. Oktober 1787, 3 Uhr Nachmittags.
 
-Lichtaschgraue Grundmasse, mit eingemengten, undeutlichen Körnern, die etwas ins Grünliche ziehen; in mässiger Menge und meist fein eingemengtes metallisches Eisen; sehr fein eingesprengter Magnetkies; matte, glatte Rinde. — Das sehr kleine Fragment zeigt keine schwarze Adern oder Ablösungen, die jedoch vorhanden sein können.
+Lichtaschgraue Grundmasse, mit eingemengten, undeutlichen Körnern, die etwas ins Grünliche ziehen; in mäßiger Menge und meist fein eingemengtes metallisches Eisen; sehr fein eingesprengter Magnetkies; matte, glatte Rinde. — Das sehr kleine Fragment zeigt keine schwarze Adern oder Ablösungen, die jedoch vorhanden sein können.
 
 1\. Kleines Fragment mit Rinde und einer kleinen, mit Quarzpulver polierten Fläche, von einem der mehreren ? allda gefallenen Steine. — 3/32 Loth. — 1839. 22. 4. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhalten, Stammt aus der Chladni'schen Meteoriten-Sammlung.
 
 ### 34\. Zaborczika.
 
-(Nach einer brieflichen Angabe von Professor Eichwald Saborytz) am Flüsse Slucz oder Sluisch ? Gouv. Volhynien, Russland.
+(Nach einer brieflichen Angabe von Professor Eichwald Saborytz) am Flüsse Slucz oder Sluisch ? Gouv. Wolhynien, Russland.
 
 30\. März alten Styls 1818.
 
-Lichtaschgraue, durch undeutlich eingemengte Körner von einer anderen Nuance von Grau nicht ganz homogen ausschende Grundmasse, mit kleinen braunen Rostflecken; ziemlich viel eingesprengter Magnetkies. Über das Verhältniss des eingemengten metallischen Eisens lässt sich aus Mangel einer polierten Fläche an dem kleinen zerklüfteten Stücke nicht urtheilen. Rinde ist an dem Fragmente nicht vorhanden.
+Lichtaschgraue, durch undeutlich eingemengte Körner von einer anderen Nuance von Grau nicht ganz homogen aussehende Grundmasse, mit kleinen braunen Rostflecken; ziemlich viel eingesprengter Magnetkies. Über das Verhältnis des eingemengten metallischen Eisens lässt sich aus Mangel einer polierten Fläche an dem kleinen zerklüfteten Stücke nicht urteilen. Rinde ist an dem Fragmente nicht vorhanden.
 
 1\. Kleines Fragment ohne Rinde. (Die Zahl der gefallenen Steinen ist unbekannt.) — 5/16 Loth. — 1839. 22. 3. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhalten, welcher das Fragment vom Professor Storodeki in Wilna erhielt.
 
@@ -1153,25 +1153,25 @@ Gouv. Ekaterinoslaw, Russland.
 
 3\. Februar 1814.
 
-Lichtaschgraue Grundmasse, durch undeutliche, auf polierten Flächen mehr wahrnehmbare, kugelige Kinmengungen schwach gefleckt; nicht viel mittelfein eingesprengtes metallisches Eisen; ziemlich viel, meist sehr fein eingesprengter Magnetkies. Rinde fehlt dem vorhandenen Fragmente.
+Lichtaschgraue Grundmasse, durch undeutliche, auf polierten Flächen mehr wahrnehmbare, kugelige Einmengungen schwach gefleckt; nicht viel mittelfein eingesprengtes metallisches Eisen; ziemlich viel, meist sehr fein eingesprengter Magnetkies. Rinde fehlt dem vorhandenen Fragmente.
 
 1\. Fragment ohne Rinde und einer unvollkommen anpolierten Fläche von einem einzeln gefallenen Steine von 40 Pfund. — 7/8 Loth. — 1840. 1. 1. — Vom Mineralien-Kabinette der königl. Universität zu Berlin in Tausch erhalten. Das Stück, von welchem dieses Fragment abgeschnitten wurde, stammt aus Klaproths Sammlung.
 
 ### 36\. Politz.
 
-(Köstritz) bei Gera im Fürstenthume Reuß.
+(Köstritz) bei Gera im Fürstentume Reuß.
 
 13\. Oktober 1819, 8 Uhr Morgens.
 
-Lichtaschgraue Grundmasse, mit undeutlichen braunen Flecken und schwarzen Punkten; diekugeligen Ausscheidungen mehr oder weniger deutlich; schwarze Adern scheinen (so viel nach den vorhandenen kleinen Stücken geurtheilt werden kann) nur seltener aufzutreten; ziemlich viel, jedoch meist fein eingesprengtes metallisches Eisen; weniger und höchst fein eingesprengter Magnetkies; matte, ziemlich dicke Rinde.
+Lichtaschgraue Grundmasse, mit undeutlichen braunen Flecken und schwarzen Punkten; die kugeligen Ausscheidungen mehr oder weniger deutlich; schwarze Adern scheinen (so viel nach den vorhandenen kleinen Stücken geurteilt werden kann) nur seltener aufzutreten; ziemlich viel, jedoch meist fein eingesprengtes metallisches Eisen; weniger und höchst fein eingesprengter Magnetkies; matte, ziemlich dicke Rinde.
 
 Drei Bruchstücke von einem einzeln gefallenen, 7 Pfund schweren Steine.
 
-1\. Flaches Bruchstück mit viel Rinde. — 9/16 Lth. — 1840. 23. 2. — Von Doktor Bondi in Dresden gekauft, der esvon Herrn Laspe in Gera erhielt.
+1\. Flaches Bruchstück mit viel Rinde. — 9/16 Lth. — 1840. 23. 2. — Von Doktor Bondi in Dresden gekauft, der es von Herrn Laspe in Gera erhielt.
 
-2\. a. Kleines Bruchstück mit Rinde. — 7/32 Loth. — 1839. 22. 5. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhälten. Stammt aus der Chladni'schen Meteoriten-Sammlung.
+2\. a. Kleines Bruchstück mit Rinde. — 7/32 Loth. — 1839. 22. 5. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhalten. Stammt aus der Chladni'schen Meteoriten-Sammlung.
 
-2\. b. Kleines Bruchstück ohne Rinde; von zwei Seiten anpolirt. — 3/8 Loth. — 1839. 22, 6. — Wie Nr. 2a. erhalten.
+2\. b. Kleines Bruchstück ohne Rinde; von zwei Seiten anpoliert. — 3/8 Loth. — 1839. 22, 6. — Wie Nr. 2a. erhalten.
 
 ### 37\. Kuleschofka.
 
@@ -1179,7 +1179,7 @@ Romenskyscher Kreis, Gouv. Poltawa, Russland.
 
 12\. März 1811, um Mitternacht.
 
-Lichtaschgraue, stark zusammenhängende Grundmasse, mit höchst feinen, schwer unterscheidbaren braunen Pünktchen. Auf polierten Fächen sind undeutliche, kugelige Ausscheidungen, vieles, teils fein, teils grob eingesprengtes metallisches Eisen und ziemlich viel, aber höchst fein eingesprengter Magnetkies wahrzunehmen; letzterer ist auch auf den Bruchflächen leicht zu unterscheiden. Den Stein durchziehen hie und da dünne, schwarze Adern; auch sind schwarze Ablösungsflächen vorhanden. Dicke, matte oder etwas schimmernde Rinde.
+Lichtaschgraue, stark zusammenhängende Grundmasse, mit höchst feinen, schwer unterscheidbaren braunen Pünktchen. Auf polierten Fachen sind undeutliche, kugelige Ausscheidungen, vieles, teils fein, teils grob eingesprengtes metallisches Eisen und ziemlich viel, aber höchst fein eingesprengter Magnetkies wahrzunehmen; letzterer ist auch auf den Bruchflächen leicht zu unterscheiden. Den Stein durchziehen hie und da dünne, schwarze Adern; auch sind schwarze Ablösungsflächen vorhanden. Dicke, matte oder etwas schimmernde Rinde.
 
 Zwei Bruchstücke von einem einzeln gefallenen Steine von 13 Pfund.
 
@@ -1193,17 +1193,17 @@ Gouv. Smolensk, Russland.
 
 10\. August 1818.
 
-Lichtgraue, rostbraun gefleckte, mit feinen, schwarzen Adern durchzogene Grundmasse; mit vielen, aber undeutlichen kugeligen, meist jedoch eckigen, mit der Grundmasse fest verwachsenen Ausscheidungen, die dem Steine ein marmorirtes Aussehen geben; ziemlich viel, teils fein, teils mittelfein eingesprengtes metallisches Eisen; weniger, sehr fein eingesprengter Magnetkies; fast matte, oder nur schimmernde Rinde.
+Lichtgraue, rostbraun gefleckte, mit feinen, schwarzen Adern durchzogene Grundmasse; mit vielen, aber undeutlichen kugeligen, meist jedoch eckigen, mit der Grundmasse fest verwachsenen Ausscheidungen, die dem Steine ein marmoriertes Aussehen geben; ziemlich viel, teils fein, teils mittelfein eingesprengtes metallisches Eisen; weniger, sehr fein eingesprengter Magnetkies; fast matte, oder nur schimmernde Rinde.
 
 Drei Bruchstücke von einem einzeln gefallenen Steine von 7 Pfund.
 
-1\. Bruchstück von schwarzen Adern durchzogen, mit Rinde und einer anpolierten Fläche. — 4 3/32 Loth. — 1829. 41. 15. — Von Doktor Fiedler in Dresden gekauft, mit den imaginären Fundörtern: Ural und Ufa. Herr Fiedler erhielt dieses Fragment vomlerrn G. B. Sowerby in London.
+1\. Bruchstück von schwarzen Adern durchzogen, mit Rinde und einer anpolierten Fläche. — 4 3/32 Loth. — 1829. 41. 15. — Von Doktor Fiedler in Dresden gekauft, mit den imaginären Fundörtern: Ural und Ufa. Herr Fiedler erhielt dieses Fragment vom Herrn G. B. Sowerby in London.
 
-2\. Frisches Bruchstück mit etwas Rinde und einer Ablösungsfläche. — 3 3/32 Loth. — 1841. 14. 9. — Aus der Heatl'schen (früher Heuland'schen) Meteoriten-Sammlung durch Herrn Pötschke gekauft, mit der Etiquette: Timochin. — Stammt aus der Sammlung des Sir Alexander Chrichton, welche in London durch Herrn Sowerby versteigert wurde. Dieses Fragment, sowie Nr. 1, sind von einem größeren Stücke abgeschlagen, welches nunmehr Baron Reichenbach in Wien aus der Heuland'schen Sammlung besitzt.
+2\. Frisches Bruchstück mit etwas Rinde und einer Ablösungsfläche. — 3 3/32 Loth. — 1841. 14. 9. — Aus der Heath'schen (früher Heuland'schen) Meteoriten-Sammlung durch Herrn Pötschke gekauft, mit der Etiquette: Timochin. — Stammt aus der Sammlung des Sir Alexander Chrichton, welche in London durch Herrn Sowerby versteigert wurde. Dieses Fragment, sowie Nr. 1, sind von einem größeren Stücke abgeschlagen, welches nunmehr Baron Reichenbach in Wien aus der Heuland'schen Sammlung besitzt.
 
-3\. Fragment ohne Rinde, mit anpolirter Fläche. — 1 3/8 Loth. — 1839. 28. 2. — Aus der Mineralien-Sammlung der königl. Universität zu Berlin durch Professor Weiss mit dem Fundorte Slohbodka‚ Gouv. Smolensk, Russland (gefallen 10. August 1818) in Tausch erhalten. Stammt aus der von der Berliner Universität angekauften Bergemann’schen Mineralien-Sammlung.
+3\. Fragment ohne Rinde, mit anpolierter Fläche. — 1 3/8 Loth. — 1839. 28. 2. — Aus der Mineralien-Sammlung der königl. Universität zu Berlin durch Professor Weiss mit dem Fundorte Slobodka‚ Gouv. Smolensk, Russland (gefallen 10. August 1818) in Tausch erhalten. Stammt aus der von der Berliner Universität angekauften Bergemann’schen Mineralien-Sammlung.
 
-Ob die aufgestellten drei Fragmente wohl sicher von einem und demselben Fundorte, auch wirklich von Slohodka seyen, bleibt noch etwas zweifelhaft.
+Ob die aufgestellten drei Fragmente wohl sicher von einem und demselben Fundorte, auch wirklich von Slobodka seien, bleibt noch etwas zweifelhaft.
 
 ### 39\. Milena.
 
@@ -1213,7 +1213,7 @@ Ob die aufgestellten drei Fragmente wohl sicher von einem und demselben Fundorte
 
 Lichtaschgraue Grundmasse mit braunen Rostflecken, undeutlichen, etwas dunkleren, kugeligen Ausscheidungen, ziemlich viel fein und mittelfein eingesprengtem metallischen Eisen und sehr fein eingesprengtem Magnetkies; matte oder schwach schimmernde Rinde. — Gehört zu der gewöhnlichen Abänderung der lichten, metallisches Eisen führenden Meteorsteine, und ist von den Meteoriten von Slobodka, Forsyth, Glasgow, Yorkshire, Kuleschofka, Politz, Zaborczika und Charkow kaum zu unterscheiden.
 
-1\. Fragment mit frischem Bruch, einer schwach anpolierten Schnittfläche und etwas Rinde, von einem der zwei oder drei allda gefallenen Steine oder Fragmente von mässiger Größe, deren Gewicht wegen schneller Zertrümmerung der Steine durch die herbeigeeilten Landleute, nicht genau bekannt wurde, und etwa 10 bis 11 Pfund betragen haben mag. — 11 1/16 Loth. — 1842. 45. 1. — Von Sr. Excellenz dem Bischof von Agram, Georg von Haulik, als Geschenk erhalten.
+1\. Fragment mit frischem Bruch, einer schwach anpolierten Schnittfläche und etwas Rinde, von einem der zwei oder drei allda gefallenen Steine oder Fragmente von mäßiger Größe, deren Gewicht wegen schneller Zertrümmerung der Steine durch die herbeigeeilten Landleute, nicht genau bekannt wurde, und etwa 10 bis 11 Pfund betragen haben mag. — 11 1/16 Loth. — 1842. 45. 1. — Von Sr. Excellenz dem Bischof von Agram, Georg von Haulik, als Geschenk erhalten.
 
 ### 40\. Forsyth,
 
@@ -1225,7 +1225,7 @@ Lichtgraue, etwas ins Dunkelgraue ziehende, rostbraun gefleckte Grundmasse, mit 
 
 Zwei Bruchstücke von einem einzeln gefallenen Stein von 36 Pfund.
 
-1\. Fragment mit Rinde und anpolirter Schnittiläche. — 2 7/8 Loth. — 1832. 43. 13. — Durch den k. k. General-Konsul in New-York, Baron Lederer in Tausch erhalten.
+1\. Fragment mit Rinde und anpolierter Schnittfläche. — 2 7/8 Loth. — 1832. 43. 13. — Durch den k. k. General-Konsul in New-York, Baron Lederer in Tausch erhalten.
 
 2\. Fragment ohne Rinde, jedoch teilweise ganz frischen Bruchflächen. — 2 3/32 Loth. — 1834. 31. 22. — Wie Nr. 1 erhalten.
 
@@ -1235,9 +1235,9 @@ Zwei Bruchstücke von einem einzeln gefallenen Stein von 36 Pfund.
 
 13\. Dezember 1795, 3 1/2 Uhr Nachmittags.
 
-Lichtgraue, auf polierten Flächen ins Dunkelgraue geneigte, schwach rosthraun gefleckte Grundmasse, mit undeutlichen, ebenfalls grauen, mit der Grundmasse innig verbundenen, kugeligen, oder ovalen Ausscheidungen; ziemlich viel, teils fein, teils mittelfein eingcesprengtes metallisches Eisen; viel, jedoch sehr fein eingesprengter Magnetkies; schwarze, glänzende Ablösungsflächen; matte, oder schwachschimmernde Rinde.
+Lichtgraue, auf polierten Flächen ins Dunkelgraue geneigte, schwach rostbraun gefleckte Grundmasse, mit undeutlichen, ebenfalls grauen, mit der Grundmasse innig verbundenen, kugeligen, oder ovalen Ausscheidungen; ziemlich viel, teils fein, teils mittelfein eingesprengtes metallisches Eisen; viel, jedoch sehr fein eingesprengter Magnetkies; schwarze, glänzende Ablösungsflächen; matte, oder schwachschimmernde Rinde.
 
-1\. Bruchstück von einem einzeln gefallenen Steine von 56 englischen Pfund, welchen früher die Familie Sowerby in London besass, der aber nunmehr im brittischen Museum zu Tiondon aufbewahrt wird. — 2 3/32 Lth. — 1816. 76. 2. — Von Herrn Sowerby, Vater, aus London in Tausch erhalten.
+1\. Bruchstück von einem einzeln gefallenen Steine von 56 englischen Pfund, welchen früher die Familie Sowerby in London besaß, der aber nunmehr im britischen Museum zu London aufbewahrt wird. — 2 3/32 Lth. — 1816. 76. 2. — Von Herrn Sowerby, Vater, aus London in Tausch erhalten.
 
 ### 42\. Glasgow.
 
@@ -1265,7 +1265,7 @@ Fast lichtgraue, auf polierten Flächen dunkelgraue, rostbraun gelleckte Grundma
 
 8\. Oktober 1803. 10 Uhr Vormittags.
 
-Fast lichtgraue, auf polierten Schnittflächen dunkelgraue, rostbraun gefleckte Grundmasse, mit einzelnen, meist lichteren, kugeligen Ausscheidungen; viel, meistens fein, zum Teil aber auch grob eingesprengtes, metallisches Eisen; viel, sehr fein eingesprengter Magnetkies; matte, rauhe Rinde.
+Fast lichtgraue, auf polierten Schnittflächen dunkelgraue, rostbraun gefleckte Grundmasse, mit einzelnen, meist lichteren, kugeligen Ausscheidungen; viel, meistens fein, zum Teil aber auch grob eingesprengtes, metallisches Eisen; viel, sehr fein eingesprengter Magnetkies; matte, raue Rinde.
 
 Zwei Bruchstücke von einem einzeln gefallenen Steine von 7 Pfund 12 Loth.
 
@@ -1279,9 +1279,9 @@ bei Poitiers, Dept. de la Vienne, Frankreich.
 
 18\. Juli (nach dem Kataloge des Pariser Museums), nach andern Angaben 13\. Mai 1831.
 
-Lichtaschgraue, doch schon stark ins Dunkelblaulichgraue geneigte Grundmasse, durch undeutliche, mit der Grundmasse fest verwachsene kugelige Ausscheidungen schwach gefleckt, zum Teil auch mit Rostflecken durchsäet; ziemlich viel, sehr fein, zum Teil aber auch grob eingesprengtes metallisches Eisen, sehr fein eingesprengier Magnetkies, schwach schimmernde, fast matte Rinde.
+Lichtaschgraue, doch schon stark ins Dunkelbläulichgraue geneigte Grundmasse, durch undeutliche, mit der Grundmasse fest verwachsene kugelige Ausscheidungen schwach gefleckt, zum Teil auch mit Rostflecken durchsäet; ziemlich viel, sehr fein, zum Teil aber auch grob eingesprengtes metallisches Eisen, sehr fein eingesprengter Magnetkies, schwach schimmernde, fast matte Rinde.
 
-1\. Fragment mit Rinde und einer unvollkommen (ohne Smirgel) polierten Fläche, von einem einzeln gefallenen Steine von 40 Pfund. — 5 1/16 Loth. — 1840. 29. 1. Vom königl. Museum der Naturgeschichte zu Paris auf Vermittlung des Heransgchers in Tausch erhalten. Das Pariser Museum bekam das Stück von Baron Cuvier zu Geschenk.
+1\. Fragment mit Rinde und einer unvollkommen (ohne Smirgel) polierten Fläche, von einem einzeln gefallenen Steine von 40 Pfund. — 5 1/16 Loth. — 1840. 29. 1. Vom königl. Museum der Naturgeschichte zu Paris auf Vermittlung des Herausgebers in Tausch erhalten. Das Pariser Museum bekam das Stück von Baron Cuvier zu Geschenk.
 
 ### 46\. Château-Renard.
 
@@ -1289,15 +1289,15 @@ Gemeinde Triguères, Dept. du Loiret, Frankreich.
 
 12\. Juni 1841.
 
-Lichtgraue, doch etwas ins Dunkelblaulichgraue ziehende, durch undeutlich eingemengte kugelige Ausscheidungen gefleckt ausschende, zum Teil auch mit Rostflecken besäcte und schwarz punctirte Grundmasse, von schwarzen, dickeren oder dünneren Adern durchzogen, die sich auf den Bruchflächen manchmal als schwarze Ablösungsflächen darstellen; viel fein und grob eingemengtes metallisches Eisen und sehr fein eingesprengter Magnetkies; matte schwarze Rinde.
+Lichtgraue, doch etwas ins Dunkelbläulichgraue ziehende, durch undeutlich eingemengte kugelige Ausscheidungen gefleckt aussehende, zum Teil auch mit Rostflecken besäte und schwarz punktierte Grundmasse, von schwarzen, dickeren oder dünneren Adern durchzogen, die sich auf den Bruchflächen manchmal als schwarze Ablösungsflächen darstellen; viel fein und grob eingemengtes metallisches Eisen und sehr fein eingesprengter Magnetkies; matte schwarze Rinde.
 
 Drei Bruchstücke von einem einzeln gefallenen, in zwei große und viele kleine Fragmente zersprungenen Steine von 70 bis 80 Pfund.
 
-1\. Fragment mit Rinde und anpolirter Fläche. — 18 9/16 Loth. — 1842. 28. 1. — Von Herrn Roussel in Paris in Tausch erhalten.
+1\. Fragment mit Rinde und anpolierter Fläche. — 18 9/16 Loth. — 1842. 28. 1. — Von Herrn Roussel in Paris in Tausch erhalten.
 
 2\. Scharfkantiges Bruchstück ohne Rinde, mit einer zum Teil dicken, schwarzen Ader. — 7 1/4 Loth. — 1842. 28. 2. — Mit und wie Nr. 1 erhalten.
 
-3\. Anpolirte Platte mit Rinde. — 2 1/16 Loth. — Von 1842. 28. 1. — Wurde von Nr. 1 abgeschnitten.
+3\. Anpolierte Platte mit Rinde. — 2 1/16 Loth. — Von 1842. 28. 1. — Wurde von Nr. 1 abgeschnitten.
 
 ### 47\. Salés.
 
@@ -1305,13 +1305,13 @@ Villefranche, Dept. du Rhône, Frankreich.
 
 8\. oder 12. März 1798. 6 Uhr Abends.
 
-Lichtgraue, doch schon etwas ins Dunkle und Braune ziehende, mit sehr feinen schwarzen Adern durchwebte, rosibraun gefleckte und fein schwarz punctirte Grundmasse, mit wenigen kugeligen Ausscheidungen, wovon einige schmutzig dunkelgrün, andere graulich-weiß sind; viel, teils fein eingesprengtes, teils in Körnern, (die manchmal an 2 Linien und darüber lang sind), eingewachsenes gediegenes Eisen und fein eingesprengter Maeneitkies; undeutliche Ablösungsflächen; matte, dicke und rauhe Rinde.
+Lichtgraue, doch schon etwas ins Dunkle und Braune ziehende, mit sehr feinen schwarzen Adern durchwebte, rostbraun gefleckte und fein schwarz punktierte Grundmasse, mit wenigen kugeligen Ausscheidungen, wovon einige schmutzig dunkelgrün, andere graulich-weiß sind; viel, teils fein eingesprengtes, teils in Körnern, (die manchmal an 2 Linien und darüber lang sind), eingewachsenes gediegenes Eisen und fein eingesprengter Magnetkies; undeutliche Ablösungsflächen; matte, dicke und raue Rinde.
 
 Zwei Bruchstücke von einem einzeln gefallenen Steine von 20 Pfund.
 
 1\. Bruchstück mit Rinde und zwei anpolierten Flächen. — 16 11/16 Loth. — 1841. 14. 3. — Aus der Heuland'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Stammt aus der Mineralien-Sammlung des Herrn Marquis de Dree.
 
-2\. Bruckstück mit einem kleinen Stück Rinde und einer anpolierten Kläche, in welcher zwei größere, mit Salpetersäure geätzte Körner von gediegenem Eisen eingewachsen sind. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 86, Taf. 7. — 2 13/32 Loth. — 1816. 35. 43. — Auf Verwendung des Direktors von Schreibers während dessen Anwesenheit in Paris im Jahre 1815, aus der Sammlung des Herrn Marquis de Dree in Tausch erhalten. (Ist damals von dem jetzt im k. k. Mineralien-Kabinetie befindlichen Stücke Nr. 1 abgeschnitten worden.)
+2\. Bruchstück mit einem kleinen Stück Rinde und einer anpolierten Fläche, in welcher zwei größere, mit Salpetersäure geätzte Körner von gediegenem Eisen eingewachsen sind. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 86, Taf. 7. — 2 13/32 Loth. — 1816. 35. 43. — Auf Verwendung des Direktors von Schreibers während dessen Anwesenheit in Paris im Jahre 1815, aus der Sammlung des Herrn Marquis de Dree in Tausch erhalten. (Ist damals von dem jetzt im k. k. Mineralien-Kabinette befindlichen Stücke Nr. 1 abgeschnitten worden.)
 
 ### 48\. Agen.
 
@@ -1319,15 +1319,15 @@ Dept. Lot et Garonne, Frankreich.
 
 5\. September 1814, Mittags.
 
-Lichtgraue, auf polierten Klächen ins Dunkelgraue ziehende, rosthraun gefleckte und schwarz punctirte, auch mit vielen, meist sehr feinen schwarzen Adern durchzogene Grundmasse, mit dunkelgrauen, fest verwachsenen, kugeligen Ausscheidungen; viel, aber sehr fein eingesprengtem und gleichmässig vertheiltem gediesenen Eisen und mikroskopisch fein eingesprengtem Magnetkies; matte, stellenweise auch schlackige Rinde.
+Lichtgraue, auf polierten Flächen ins Dunkelgraue ziehende, rostbraun gefleckte und schwarz punktierte, auch mit vielen, meist sehr feinen schwarzen Adern durchzogene Grundmasse, mit dunkelgrauen, fest verwachsenen, kugeligen Ausscheidungen; viel, aber sehr fein eingesprengtem und gleichmäßig verteiltem gediegenen Eisen und mikroskopisch fein eingesprengtem Magnetkies; matte, stellenweise auch schlackige Rinde.
 
 Zwei Bruchstücke von zwei der vielen allda gefallenen Steine, welche hinsichtlich der Helligkeit der Grundmasse und der Rostflecken voneinander etwas verschieden sind.
 
 1\. Bruchstück mit viel Rinde und einer anpolierten Fläche. — 4 9/32 Loth. — 1816. 31. 33. e. — Auf Vermittlung des k. k. Naturalien-Kabinetts-Direktors von Schreibers im Jahre 1815 aus dem königlichen Museum der Naturgeschichte in Paris durch Tausch erhalten.
 
-2\. Bruchstück (halber Stein ?) von lichterem Grau, und mit polierter Kläche. — 7 1/4 Loth. — 1841. 14. 7. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft. Ist von Nr. 1 etwas verschieden. Herr Heuland kaufte das Stück von Herrn Leman in Paris, als die Hälfte des angeblich größten der bei Agen gefallenen Steine, was jedoch unrichtig ist, da der größte 18 Pfund wog.
+2\. Bruchstück (halber Stein ?) von lichterem Grau, und mit polierter Fläche. — 7 1/4 Loth. — 1841. 14. 7. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft. Ist von Nr. 1 etwas verschieden. Herr Heuland kaufte das Stück von Herrn Leman in Paris, als die Hälfte des angeblich größten der bei Agen gefallenen Steine, was jedoch unrichtig ist, da der größte 18 Pfund wog.
 
-Die Meteorsteine von Agen sind vorzüglich merkwürdig durch den Umstand, dass sie, obwohl gediegenes Eisen führend, doch keinen Nickel enthalten, ein Fall, der unter allen anderen eiscnführenden nur noch bei dem Meteorsteine von Wessely Statt findet.
+Die Meteorsteine von Agen sind vorzüglich merkwürdig durch den Umstand, dass sie, obwohl gediegenes Eisen führend, doch keinen Nickel enthalten, ein Fall, der unter allen anderen eisenführenden nur noch bei dem Meteorsteine von Wessely Statt findet.
 
 ### 49\. Nanjemoy.
 
@@ -1335,9 +1335,9 @@ Maryland, in den vereinigten Staaten von Nord-Amerika.
 
 10\. Februar 1825, gegen Mittag.
 
-Zwischen licht uud[dunkelaschgrau schwankende, feste und dichte, zum Teil mit Rostflecken durchsäete Grundmasse, mit theilslichteren, meist aber dunkleren, mit der Grundmasse fest verwachsenen, kugeligen Ausscheidungen; mit ziemlich viel fein eingesprengtem gediegenen Eisen, und höchst fein cingesprengtem Magnetkies; raulle und matte Rinde, mit feinen Sprüngen durchwebt.
+Zwischen licht und dunkelaschgrau schwankende, feste und dichte, zum Teil mit Rostflecken durchsäete Grundmasse, mit teils lichteren, meist aber dunkleren, mit der Grundmasse fest verwachsenen, kugeligen Ausscheidungen; mit ziemlich viel fein eingesprengtem gediegenen Eisen, und höchst fein eingesprengtem Magnetkies; raue und matte Rinde, mit feinen Sprüngen durchwebt.
 
-1\. Fragment mit Rinde undeeiner anpolierten Fläche von einem einzeln gefallenen Steine von 16 Pfund. — 20 Loth. — 1835. 25. 1. — Aus der ehemals Heuland'schen, dann Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland in London erhielt das Stück von Professor Silliman aus Nord-Amerika.
+1\. Fragment mit Rinde und einer anpolierten Fläche von einem einzeln gefallenen Steine von 16 Pfund. — 20 Loth. — 1835. 25. 1. — Aus der ehemals Heuland'schen, dann Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland in London erhielt das Stück von Professor Silliman aus Nord-Amerika.
 
 ### 50\. Asco,
 
@@ -1347,9 +1347,9 @@ November 1805.
 
 Fast lichtgraue Grundmasse, mit Rostflecken und kleinen undeutlichen kugeligen Ausscheidungen; mit vielem teils fein, teils mittelfein eingesprengtem metallischen Eisen und sehr fein eingesprengtem Magnetkies; undeutliche, sehr feine schwarze Adern; schwarze, metallisch glänzende Ablösungen. Rinde ist an dem Fragmente nicht vorhanden. (Dieser Stein ist von dem Meteorsteine von Nanjemoy kaum zu unterscheiden.)
 
-1\. Anpolirtes Fragment ohne Rinde. — 1 1/16 Loth. — 1838. 25. 4. — Aus der ehemals Heuland'schen, dann Heath'schen Meteoriten - Sammlung durch Herrn Pötschke gekauft. Das Stück stammt aus der Mineralien-Sammlung des Herrn Marquis de Dree in Paris, die Herr Heuland kaufte.
+1\. Anpoliertes Fragment ohne Rinde. — 1 1/16 Loth. — 1838. 25. 4. — Aus der ehemals Heuland'schen, dann Heath'schen Meteoriten - Sammlung durch Herrn Pötschke gekauft. Das Stück stammt aus der Mineralien-Sammlung des Herrn Marquis de Dree in Paris, die Herr Heuland kaufte.
 
-Über den Steinfall von Asco ist nichts öffentlich bekannt zemacht worden; dasser sich ereignet, wurde uns durch verlässliche Zeugnisse aus Korsika hekräftiget und dabei gemeldet, dass der gefallene Stein in einer Kircho aufbewahrt werde.
+Über den Steinfall von Asco ist nichts öffentlich bekannt gemacht worden; dass er sich ereignet, wurde uns durch verlässliche Zeugnisse aus Korsika bekräftiget und dabei gemeldet, dass der gefallene Stein in einer Kirche aufbewahrt werde.
 
 ### 51\. Toulouse.
 
@@ -1357,11 +1357,11 @@ Fast lichtgraue Grundmasse, mit Rostflecken und kleinen undeutlichen kugeligen A
 
 10\. April 1812, 8 1/4 Uhr Abends.
 
-Schwach dunkelgraue, rostbraun ecfleckte Grundmasse, mit kleinen und undeutlichen, mit der Grundmasse fest verwachsenen kugeligen Ausscheidungen; mit viel, ziemlich fein und gleichförmig eingesprengtem metallischen Eisen und höchst fein eingesprengtem Magnetkies; matte, mit kleinen runden Erhöhungen oder Narben besetzte Rinde.
+Schwach dunkelgraue, rostbraun gefleckte Grundmasse, mit kleinen und undeutlichen, mit der Grundmasse fest verwachsenen kugeligen Ausscheidungen; mit viel, ziemlich fein und gleichförmig eingesprengtem metallischen Eisen und höchst fein eingesprengtem Magnetkies; matte, mit kleinen runden Erhöhungen oder Narben besetzte Rinde.
 
 1\. Bruchstück von einem der mehreren allda gefallenen, aber meist nicht aufgefundenen Steine (das Aufgefundene soll nach Chladni höchstens 16 Loth wiegen), mit Rinde und einer polierten Fläche. — 15/16 Loth. — 1816. 31. 33. d. — Auf Verwendung des Direktors von Schreibers im Jahre 1815 durch Tausch aus dem königl. Museum der Naturgeschichte in Paris von dem daselbst aufbewahrten 6 Loth schweren Steine erhalten.
 
-Das im kön. Mineralien-Kabinett zu Berlin befindliche, aus Chladnis Sammlung herrührende Stück von Toulouse ist dunkler als das in unserer Sammlung vorhandene, und ähnelt mehr den Steinen von Limerick und Tipperary. Chladni erhielt das Stück von Professor Laugier. — Man sehe auch das bei Nr. 3 im Auhange zur Lokalität Luce Bemerkte.
+Das im kön. Mineralien-Kabinett zu Berlin befindliche, aus Chladnis Sammlung herrührende Stück von Toulouse ist dunkler als das in unserer Sammlung vorhandene, und ähnelt mehr den Steinen von Limerick und Tipperary. Chladni erhielt das Stück von Professor Laugier. — Man sehe auch das bei Nr. 3 im Anhange zur Lokalität Luce Bemerkte.
 
 ### 52\. Blansko.
 
@@ -1371,7 +1371,7 @@ Brünner Kreis, Mähren.
 
 Dunkelgraue, rostbraun gefleckte Grundmasse, mit ziemlich vielen dunkleren, kleinkugeligen Ausscheidungen, viel fein eingesprengtem metallischen Eisen, und sehr fein eingesprengtem Magnetkies; matte Rinde. — Ist von den Steinen von Toulouse und Wessely kaum zu unterscheiden.
 
-1\. a. Ein ganzer, überrindeter Stein, mit ein Paar kleinen Bruchflächen. Einer von den 8 Steinen, die durch Dr. Reichenbach mit vielen Kosten und großer Anstrengung aufgefunden wurden. Die von demselben abgeschnittene Ecke liegt unter:
+1\. a. Ein ganzer, überrundeter Stein, mit ein Paar kleinen Bruchflächen. Einer von den 8 Steinen, die durch Dr. Reichenbach mit vielen Kosten und großer Anstrengung aufgefunden wurden. Die von demselben abgeschnittene Ecke liegt unter:
 
 1\. b. Beide Schnittflächen sind poliert und lassen ein Paar feine Adern wahrnehmen; auch ist eine Ablösungsfläche sichtbar. — Beide Stücke wiegen zusammen 3 31/32 Loth. — 1834. 32. 1. — Von Herrn Dr. Reichenbach in Tausch erhalten.
 
@@ -1381,15 +1381,15 @@ Dunkelgraue, rostbraun gefleckte Grundmasse, mit ziemlich vielen dunkleren, klei
 
 9\. September 1831, 3 Uhr Nachmittags.
 
-Dunkel- fast blaulichgraue, schwach rostbraun gefleckte, mit sehr feinen schwarzen Adern durchzogene Grundmasse, mit undeutlichen, meist kleinen, kugeligen Ausscheidungen; viel fein eingesprengtem, gleichmässig vertheiltem metallischen Eisen und wenig höchst fein, fast mikroskopisch eingesprengtem Magnetkies; matte Rinde mit kleinen Erhöhungen oder Narben (wie am Steine von Toulouse). — Nahe verwandt mit den Meteorsteinen von Limerick und Tipperary; nur etwas heller.
+Dunkel- fast bläulichgraue, schwach rostbraun gefleckte, mit sehr feinen schwarzen Adern durchzogene Grundmasse, mit undeutlichen, meist kleinen, kugeligen Ausscheidungen; viel fein eingesprengtem, gleichmäßig verteiltem metallischen Eisen und wenig höchst fein, fast mikroskopisch eingesprengtem Magnetkies; matte Rinde mit kleinen Erhöhungen oder Narben (wie am Steine von Toulouse). — Nahe verwandt mit den Meteorsteinen von Limerick und Tipperary; nur etwas heller.
 
 1\. Ein ganzer Stein, der einzige, welcher da fiel. An drei Stellen ist die Rinde beim Fallen in geringer Ausdehnung abgesprengt, an zwei anderen sind kleine Stückchen abgesägt worden; eine von den dadurch entstandenen Schnittflächen ist poliert.
 
-Ausführlich ist dieser Meteorstein beschrieben in dem Berichte des Direktors von Schreibers über den Meteorstein-Fall von Wessely in Baumgariners Zeitschrift für Physik und verwandte Wissenschaften, Band 1. Seite 193. Auch ist am k. k. Hof-Mineralien-Kabinette eine sehr genaue Lithographie dieses Steines vorhanden. — 6 Pfund, 17 1/2 Loth. — 1832. 7. 1. — Vom herrschaftlichen Wirthschaftsamte zu Wessely an das k.k. Kreisamt zu Hradisch abgeliefert, zclangte dieser Meteorstein an das Landes-Präsidium zu Brünn und von da an die k. k. Hofkanzlei nach Wien, welche ihn Seiner Majestät dem Kaiser Franz vorlegte, auf dessen Befehl er in dem k. k. Hof-Mineralien-Kabinette hinterlegt wurde.
+Ausführlich ist dieser Meteorstein beschrieben in dem Berichte des Direktors von Schreibers über den Meteorstein-Fall von Wessely in Baumgartners Zeitschrift für Physik und verwandte Wissenschaften, Band 1. Seite 193. Auch ist am k. k. Hof-Mineralien-Kabinette eine sehr genaue Lithographie dieses Steines vorhanden. — 6 Pfund, 17 1/2 Loth. — 1832. 7. 1. — Vom herrschaftlichen Wirtschaftsamte zu Wessely an das k. k. Kreisamt zu Hradisch abgeliefert, gelangte dieser Meteorstein an das Landes-Präsidium zu Brünn und von da an die k. k. Hofkanzlei nach Wien, welche ihn Seiner Majestät dem Kaiser Franz vorlegte, auf dessen Befehl er in dem k. k. Hof-Mineralien-Kabinette hinterlegt wurde.
 
-2\. a. und b. Zwei kleine anpolirte Fragmente, wovon eines mit Rinde. — Zusammen 15/32 Loth. — Abfälle, erhalten beim Absägen eines kleinen Stückes für das Franzens-Museum zu Brünn, für welches auch ein Gyps-Modell von diesem Steine angefertigt wurde.
+2\. a. und b. Zwei kleine anpolierte Fragmente, wovon eines mit Rinde. — Zusammen 15/32 Loth. — Abfälle, erhalten beim Absägen eines kleinen Stückes für das Franzens-Museum zu Brünn, für welches auch ein Gips-Modell von diesem Steine angefertigt wurde.
 
-Wir haben schon bei dem Metcorstein von Agen Nr. 48 bemerkt, dass außer diesem, unler allen Meteorsteinen die gediegenes Eisen einschließen, nur noch der von Wessely die merk würdige Erscheinung darbiethet, keinen Nickel zu enthalten.
+Wir haben schon bei dem Meteorstein von Agen Nr. 48 bemerkt, dass außer diesem, unter allen Meteorsteinen die gediegenes Eisen einschließen, nur noch der von Wessely die merk würdige Erscheinung darbietet, keinen Nickel zu enthalten.
 
 ### 54\. Limerick.
 
@@ -1397,17 +1397,17 @@ Wir haben schon bei dem Metcorstein von Agen Nr. 48 bemerkt, dass außer diesem,
 
 10\. September 1813, 9 Uhr Morgens.
 
-Dunkelasch- oder blaulichgraue, rostbraun gcfleckte Grundmasse, mit einzelnen deutlichen, meist aber undeutlichen kugeligen Ausscheidungen; viel fein eingesprengtesmetallischesEisen (auf polirtenFlächen zuweilen zuLinien vereinigt) und sehr fein eingesprengter Magnetkies; schwarze, mehr oder weniger deutliche, zum Teil metallisch glänzende Ablösungsflächen; matte, zuweilen aderige Rinde. — (Von dem Meteorsteine von Tipperary nicht unterscheidbar.)
+Dunkelasch- oder bläulichgraue, rostbraun gefleckte Grundmasse, mit einzelnen deutlichen, meist aber undeutlichen kugeligen Ausscheidungen; viel fein eingesprengtes metallisches Eisen (auf polierten Flächen zuweilen zu Linien vereinigt) und sehr fein eingesprengter Magnetkies; schwarze, mehr oder weniger deutliche, zum Teil metallisch glänzende Ablösungsflächen; matte, zuweilen aderige Rinde. — (Von dem Meteorsteine von Tipperary nicht unterscheidbar.)
 
-Drei Bruchstücke von den mehreren daselbst gefallenen Steinen, deren Gesammtgewicht nicht bekannt ist.
+Drei Bruchstücke von den mehreren daselbst gefallenen Steinen, deren Gesamtgewicht nicht bekannt ist.
 
-1\. Fragment mit anpolirter Fläche und stark aderiger, dicker Rinde. — 3 31/32 Loth. — 1818. 26. B. 194. — Geschenk von Professor Gieseke in Dublin.
+1\. Fragment mit anpolierter Fläche und stark aderiger, dicker Rinde. — 3 31/32 Loth. — 1818. 26. B. 194. — Geschenk von Professor Gieseke in Dublin.
 
 2\. Längliches Fragment mit brauner, glatter Rinde. — 3 1/8 Loth. — 1827. 27. 4054. — Aus der von der Nüll'schen Mineralien-Sammlung. Herr von der Nüll erhielt es von Professor Gieseke in Dublin.
 
 3\. Fragment mit metallisch glänzenden Ablösungen und ziemlich glatter Rinde. — 2 9/32 Loth. — 1821. 9. 12. — Von Herrn G. B. Sowerby in London gekauft.
 
-Mit der Angahe des Fallortes Limerick erhielt das kaiserl, Mineralien-Kabinett später ein Fragment, dasden hier aufgeführten drei Fragımenten nicht gleicht. (Siehe denAnhang zu Luce.) Wir überzeugten uns, dass unsere drei Fragmente den im hrittischen Museum vonder Lokalität Limerick aufbewahrten Stücken vollkonimen ähnlich sind, durch ein Fragment, das Herr Heuland nach Wicnschickte, und nun im Besitze von Baron Reichenbach ist. Sollten vielleicht bei Limerick, wie bei Weston, Steine von verschiedenem Aussehen gefallen sein?
+Mit der Angabe des Fallortes Limerick erhielt das kaiserl, Mineralien-Kabinett später ein Fragment, das den hier aufgeführten drei Fragmenten nicht gleicht. (Siehe den Anhang zu Luce.) Wir überzeugten uns, dass unsere drei Fragmente den im britischen Museum von der Lokalität Limerick aufbewahrten Stücken vollkommen ähnlich sind, durch ein Fragment, das Herr Heuland nach Wien schickte, und nun im Besitze von Baron Reichenbach ist. Sollten vielleicht bei Limerick, wie bei Weston, Steine von verschiedenem Aussehen gefallen sein?
 
 ### 55\. Grüneberg (Grünberg).
 
@@ -1415,7 +1415,7 @@ Mit der Angahe des Fallortes Limerick erhielt das kaiserl, Mineralien-Kabinett s
 
 22\. März 1841, Nachmittags 3 1/2 Uhr.
 
-Dunkelasch- oder blaulichgraue Grundmasse, mit sehr undeutlichen , kleinkugeligen Einmengungen undschwarzen, glänzenden Ablösungsflächen. Da das kleine Fragment nicht anpolirt ist, so lässt sich über die Menge des eingemengten metallischen Eisens und des Magnetkieses kein sicheres Urtheil fällen; ersteres scheint in ziemlicher Menge, aber fein eingesprengt vorhanden zu sein. Das Fragment zeigt auch nur unvollkommene, dünne Rinde. — (Dieser Meteorstein ist aufBruchflächen von den Steinen von Tipperary und Lumerik nicht zu unterscheiden.)
+Dunkelasch- oder bläulichgraue Grundmasse, mit sehr undeutlichen , kleinkugeligen Einmengungen und schwarzen, glänzenden Ablösungsflächen. Da das kleine Fragment nicht anpoliert ist, so lässt sich über die Menge des eingemengten metallischen Eisens und des Magnetkieses kein sicheres Urteil fällen; ersteres scheint in ziemlicher Menge, aber fein eingesprengt vorhanden zu sein. Das Fragment zeigt auch nur unvollkommene, dünne Rinde. — (Dieser Meteorstein ist auf Bruchflächen von den Steinen von Tipperary und Limerick nicht zu unterscheiden.)
 
 1\. Kleines Fragment mit unvollkommener Rindenbildung, von einem einzeln gefallenen Steine, welcher in mehrere Stücke zerbrach, von denen zwei, in einem Gesamtgewichte von 2 Pfund 20 1/2 Loth aufgefunden wurden. — 1/2 Loth. — 1842. 35. 1. — Von Herrn Professor von Glocker in Breslau in Tausch erhalten.
 
@@ -1425,13 +1425,13 @@ Dunkelasch- oder blaulichgraue Grundmasse, mit sehr undeutlichen , kleinkugelige
 
 August 1810, Mittags.
 
-Dunkelasch-, fast blaulichgraue, mit einigen sehr feinen, schwarzen Adern durchzogene Grundmasse und wenigen schwachen Rostflecken; kleinkugelige, dunklere Ausscheidungen, die zuweilen auseinanderlaufend fascrige Struktur zeigen; viel fein eingesprengtes gediegenes Eisen, und viel, sehr fein eingesprengter Magnetkies, von welch letzterem stellenweise auch einige größere Körner sichtbar sind; manchmahl auch undeutliche, schwarze Ablösungsflächen; aderige, matte und dicke Rinde.
+Dunkelasch-, fast bläulichgraue, mit einigen sehr feinen, schwarzen Adern durchzogene Grundmasse und wenigen schwachen Rostflecken; kleinkugelige, dunklere Ausscheidungen, die zuweilen auseinanderlaufend faserige Struktur zeigen; viel fein eingesprengtes gediegenes Eisen, und viel, sehr fein eingesprengter Magnetkies, von welch letzterem stellenweise auch einige größere Körner sichtbar sind; manchmal auch undeutliche, schwarze Ablösungsflächen; aderige, matte und dicke Rinde.
 
 Zwei Bruchstücke von einem einzeln gefallenen Steine von 7 3/4 Pfund.
 
 1\. Bruchstück mit Rinde und einer anpolierten Fläche. — 14 17/32 Loth. — 1816. 75. 1. — Ein Geschenk des Professors Gieseke in Dublin.
 
-2\. Kleines Bruchstück mit ganz frischem Bruche, großen Rostflecken, einer Ablösungsfläche und etwas Rinde. — 1 3/8 Loth. — 1839. 4. 14. — Durch Herrn Dr. Baader von Herrn Heuland in London gekauft. Dieses Fragment rührt wahrscheinlich von dem jetzt im brittischen Museum befindlichen Stücke von Tipperary her, ist aber jedenfalls, wie Herr Sowerby durch Herrn Heuland verbürgen ließ, damit vollkommen identisch.
+2\. Kleines Bruchstück mit ganz frischem Bruche, großen Rostflecken, einer Ablösungsfläche und etwas Rinde. — 1 3/8 Loth. — 1839. 4. 14. — Durch Herrn Dr. Baader von Herrn Heuland in London gekauft. Dieses Fragment rührt wahrscheinlich von dem jetzt im britischen Museum befindlichen Stücke von Tipperary her, ist aber jedenfalls, wie Herr Sowerby durch Herrn Heuland verbürgen ließ, damit vollkommen identisch.
 
 ### 57\. Gouvernement Kursk.
 
@@ -1439,27 +1439,21 @@ Russland.
 
 Ohne nähere Angabe des Fallortes, und ohne Angabe der Fallzeit erhalten.
 
-Dunkelaschgraue Grundmasse, mit {heils lichteren,
-teils dunkleren, zuweilen fast schwärzlichen, kugeligen
-Ausscheidungen; mit fein und mittelfein, wie es scheint,
-ungleichförmig eingesprengtem gediegenen Eisen und
-fein eingesprengtem Magnetkies; matte Rinde. (Wegen
-Kleinheit der vorhandenen Fragmente ist die Diagnose
-vielleicht nicht ganz vollständig.)
+Dunkelaschgraue Grundmasse, mit teils lichteren, teils dunkleren, zuweilen fast schwärzlichen, kugeligen Ausscheidungen; mit fein und mittelfein, wie es scheint, ungleichförmig eingesprengtem gediegenen Eisen und fein eingesprengtem Magnetkies; matte Rinde. (Wegen Kleinheit der vorhandenen Fragmente ist die Diagnose vielleicht nicht ganz vollständig.)
 
-1\. Drei sehr kleine Fragmente, sämtlich mit Rinde, eines davon anpolirt. — Zusammen 3/16 Loth. — 1838. 28. 5. — Von der kaiserl. russischen Akademie der Wissenschaften zu Petersburg durch Professor Kupffer in Tausch erhalten.
+1\. Drei sehr kleine Fragmente, sämtlich mit Rinde, eines davon anpoliert. — Zusammen 3/16 Loth. — 1838. 28. 5. — Von der kaiserl. russischen Akademie der Wissenschaften zu Petersburg durch Professor Kupffer in Tausch erhalten.
 
 Über diesen Steinfall ist eben so wenig etwas öffentlich bekannt gemacht worden, wie über die aus den Gouvernements Simbirsk und Poltawa (nicht Kuleschofka); auch konnten wir darüber aus St. Petersburg, unserer Bemühungen ungeachtet, bisher keine nähere Notiz erhalten.
 
 ### 58\. Lixna,
 
-bei Dunaburg, Gouv. Witepsk, Russland (ehemals pohlnisch Liefland oder Lithauen).
+bei Dunaburg, Gouv. Witepsk, Russland (ehemals polnisch Liefland oder Litauen).
 
 12\. Juli (oder 30. Juni alten Styls) 1820, zwischen 5 und 6 Uhr Abends.
 
-Fast dunkelaschgraue, mit kleinen Rostflecken durchsäeteund von schwarzen Linien durchzogene Grundmasse, mit zahlreichen, aber kleinen, dunkelgrauen, mit der Grundmasse fest verwachsenen und daher aus derselben auf Bruchflächen nicht hervortretenden kugeligen Ausscheidungen; viel fein und mittelfein eingesprengtes gediegenes Eisen und sehr fein eingesprengter Magnetkies; zahlreiche schwarze und glänzende Ablösungsflächen, welche diesen Stein besonders auszeichnen; matte, etwas rauhe Rinde.
+Fast dunkelaschgraue, mit kleinen Rostflecken durchsäete und von schwarzen Linien durchzogene Grundmasse, mit zahlreichen, aber kleinen, dunkelgrauen, mit der Grundmasse fest verwachsenen und daher aus derselben auf Bruchflächen nicht hervortretenden kugeligen Ausscheidungen; viel fein und mittelfein eingesprengtes gediegenes Eisen und sehr fein eingesprengter Magnetkies; zahlreiche schwarze und glänzende Ablösungsflächen, welche diesen Stein besonders auszeichnen; matte, etwas raue Rinde.
 
-1\. Fragment mit Rinde, zwei Absonderungs- und einer anpolierten Schnittfläche, von einem der mehreren allda gefallenen Steine. — 14 11/32 Loth. — 1838. 9. 1. — Von Herrn Doktor Estreicher, Professer der Naturgeschichte an der Universität zu Krakau, in Tausch erhalten.
+1\. Fragment mit Rinde, zwei Absonderungs- und einer anpolierten Schnittfläche, von einem der mehreren allda gefallenen Steine. — 14 11/32 Loth. — 1838. 9. 1. — Von Herrn Doktor Estreicher, Professor der Naturgeschichte an der Universität zu Krakau, in Tausch erhalten.
 
 ### 59\. Tabor.
 
@@ -1467,17 +1461,17 @@ Fast dunkelaschgraue, mit kleinen Rostflecken durchsäeteund von schwarzen Linie
 
 3\. Juli 1753, 8 Uhr Abends.
 
-Dunkel- fast blaulichgraue, rostbraungefleckte, dichte und stark zusammenhängende Grundmasse, mit meist kleinen und nicht sehr deutlichen kugeligen Ausscheidungen; viel fein und grob eingemengies, zum Teil auch zu Adern und rundlichen Partien vereinigtes metallisches Eisen; sehr fein eingesprengter Magnetkies; matte Rinde. — Einer der eisenreichsten Meteorsteine.
+Dunkel- fast bläulichgraue, rostbraungefleckte, dichte und stark zusammenhängende Grundmasse, mit meist kleinen und nicht sehr deutlichen kugeligen Ausscheidungen; viel fein und grob eingemengtes, zum Teil auch zu Adern und rundlichen Partien vereinigtes metallisches Eisen; sehr fein eingesprengter Magnetkies; matte Rinde. — Einer der eisenreichsten Meteorsteine.
 
 Sieben Stücke, darunter ein großer ganzer Stein, ein kleinerer fast ganzer und ein kleiner ganzer, von den ziemlich vielen der allda gefallenen Steine.
 
-1\. Großer, ganzer Stein, fast 7 Zoll lang, 2 1/2 Zoll hoch, verschoben viereckig; die Rinde an zwei Stellen angebrochen; auch sonst noch kleine, vom Falle herrührende Beschädigungen an Ecken und Kanten. In einer Vertiefung steckt ein bohnengrosses Eisenkorn; Spuren von anderen sind an der Rinde vorhanden. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 10. Taf. 2. — 4 Pfund 31 Loth. — 1. 4. — Ist von dem damaligen Kreishauptmann zu Tabor, Grafen von Wratislaw, gleich nach der Begebenheit im Jahre 1753 mit einem umständlichen Berichte an das böhmische Gubernium, und von diesem an die k. k. Hofkanzlei eingesendet worden.
+1\. Großer, ganzer Stein, fast 7 Zoll lang, 2 1/2 Zoll hoch, verschoben viereckig; die Rinde an zwei Stellen angebrochen; auch sonst noch kleine, vom Falle herrührende Beschädigungen an Ecken und Kanten. In einer Vertiefung steckt ein bohnengroßes Eisenkorn; Spuren von anderen sind an der Rinde vorhanden. — Beschrieben und abgebildet in von Schreibers Beiträgen, S. 10. Taf. 2. — 4 Pfund 31 Loth. — 1. 4. — Ist von dem damaligen Kreishauptmann zu Tabor, Grafen von Wratislaw, gleich nach der Begebenheit im Jahre 1753 mit einem umständlichen Berichte an das böhmische Gubernium, und von diesem an die k. k. Hofkanzlei eingesendet worden.
 
 2\. Fast ganzer Stein, von vierseitig prismatischer Form, oben mit einer frischen Bruchfläche; an einer der 4 Seitenflächen eine Ablösungsfläche. — 1 Pfund 3 1/2 Loth. — 1840. 11. 1. — Von Herrn Ludwig von Scala aus der Mineralien-Sammlung des verstorbenen Grafen Gregor Razoumovsky gekauft, wo der Stein ohne Bezeichnung des Fundortes lag. Stammt wahrscheinlich aus der Mineralien-Sammlung des Fürsten Sinzendorf, die Graf Razoumovsky kaufte.
 
 3\. Ein ganzer, aber entzweigebrochener kleiner Stein, von interessanter prismatischer Form, an dem einen Ende dicker. — 1 7/8 Loth. — 1832. 6. 7. — Stammt aus der Mineralien-Sammlung des verstorbenen Baron Thavonat, und wurde später durch Doktor Baader an das k. k. Mineralien-Kabinett verkauft.
 
-4\. Vierseitig pyramidales, stark umrindetes Bruchstück eines großen Steines; die Bruchfläche, welche während des Falles entstanden und unvollkommen überrindet ist, zum Teil anpolirt. — 31 Loth. — 1841. 14. 2. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft. War irrthümlich als L'Aigle bezeichnet.
+4\. Vierseitig pyramidales, stark umrundetes Bruchstück eines großen Steines; die Bruchfläche, welche während des Falles entstanden und unvollkommen überrindet ist, zum Teil anpoliert. — 31 Loth. — 1841. 14. 2. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft. War irrtümlich als L'Aigle bezeichnet.
 
 5\. Dünner, plattenförmiger Abschnitt, mit polierter Fläche und viel Rinde. — 2 29/32 Loth. — 1838. 4. 1. — Von Herrn Grafen von Beroldingen, k. k. Kämmerer, eingetauscht. Lag früher in der Mineralien-Sammlung des Herrn Morgenbesser, ohne Angabe des Fallortes.
 
@@ -1485,7 +1479,7 @@ Sieben Stücke, darunter ein großer ganzer Stein, ein kleinerer fast ganzer und
 
 7\. Eine viereckige, von beiden Seiten polierte Platte, mit einer Eisenader, — 2 17/32 Loth. 1. 5. — Vom verstorbenen Kabinetts-Kustos von Mühlfeld erhalten.
 
-Die Meteorsteine von Tahor (1753) sind die ersten, die in wissenschaftliche Sammlungen kamen, Der große Stein von Tabor (Nr. 1) inder Sammlung des k. k. Mineralien-Kabinettes und die ebenfalls darin befindliche berühmte Eisenmasse von Agram (1751), von der später die Rede sein wird, waren die ersien in ihrer Integrität verbliebenen Meteoriten, die Chladni, der Meister in der Meteoritologie, Leopold v. Buch und andere Gelehrte zu sehen bekamen. Die Fragmente des älteren Meteorsteines von Ensisheim (1492) wurden, wie bei dieser Lokalität (Nr. 15) bemerkt worden ist, erst später in Circulation gesetzt und hatten als Fragmente, wie die Bruchstücke des Pallasischen Eisens weniger Interesse. — Frühere Gelehrte liessen sich durch den Anblick der erwähnten Massen von ihrer vorgefassten Meinung nicht abbringen. Born äussert in seinem Lithophylacium Bornianum, B. 1. S. 125, bei den Steinen von Tabor: quae 3 Julii anni 1753 inter tonitrua e Coelo pluisse creduliores quidam asserunt.
+Die Meteorsteine von Tabor (1753) sind die ersten, die in wissenschaftliche Sammlungen kamen, Der große Stein von Tabor (Nr. 1) in der Sammlung des k. k. Mineralien-Kabinettes und die ebenfalls darin befindliche berühmte Eisenmasse von Agram (1751), von der später die Rede sein wird, waren die ersten in ihrer Integrität verbliebenen Meteoriten, die Chladni, der Meister in der Meteoritologie, Leopold v. Buch und andere Gelehrte zu sehen bekamen. Die Fragmente des älteren Meteorsteines von Ensisheim (1492) wurden, wie bei dieser Lokalität (Nr. 15) bemerkt worden ist, erst später in Zirkulation gesetzt und hatten als Fragmente, wie die Bruchstücke des Pallasischen Eisens weniger Interesse. — Frühere Gelehrte ließen sich durch den Anblick der erwähnten Massen von ihrer vorgefassten Meinung nicht abbringen. Born äußert in seinem Lithophylacium Bornianum, B. 1. S. 125, bei den Steinen von Tabor: quae 3 Julii anni 1753 inter tonitrua e Coelo pluisse creduliores quidam asserunt.
 
 ### 60\. Charsonville.
 
@@ -1493,7 +1487,7 @@ Die Meteorsteine von Tahor (1753) sind die ersten, die in wissenschaftliche Samm
 
 23\. November 1810, 1 1/2 Uhr Nachmittags.
 
-Ins Dunkelasch- oder Blaulichgraue ziehende, dichte und feste, von vielen Rostflecken wie marmoriert aussehende Grundmasse; die kugeligen Ausscheidungen undeutlich und mit der Grundmasse innig verwachsen; sehr viel fein und gleichförmig eingesprengies gediegenes Eisen und höchst fein eingesprengter Magnetkies; dickere und dünnere, eiwas verzweigie Adern; matte, etwas schimmernde Rinde.
+Ins Dunkelasch- oder Bläulichgraue ziehende, dichte und feste, von vielen Rostflecken wie marmoriert aussehende Grundmasse; die kugeligen Ausscheidungen undeutlich und mit der Grundmasse innig verwachsen; sehr viel fein und gleichförmig eingesprengtes gediegenes Eisen und höchst fein eingesprengter Magnetkies; dickere und dünnere, etwas verzweigte Adern; matte, etwas schimmernde Rinde.
 
 Zwei Bruchstücke von einem der zwei aufgefundenen Steine, wovon einer 40, der andere 20 Pfund wog.
 
@@ -1501,7 +1495,7 @@ Zwei Bruchstücke von einem der zwei aufgefundenen Steine, wovon einer 40, der a
 
 2\. Kleines Bruchstück ohne Rinde und mit polierter Fläche. — 4 Loth. — 1841. 14. 8. — Aus der Heuland'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft.
 
-Dem Meteorsteine von Charsonville oder Orleans verleihen die darin befindlichen schwarzen Adern oder Gänge, die in keinem anderen Meteorsteine so schön und in solcher Deutlichkeit zu finden sind, ein besonderes Interesse. Grosse polierte Schnittflächen, wie die bei dem Stücke Nr. 1, stellen die Beschaffenheit und Verzweigung dieser Gänge am schönsten dar.
+Dem Meteorsteine von Charsonville oder Orleans verleihen die darin befindlichen schwarzen Adern oder Gänge, die in keinem anderen Meteorsteine so schön und in solcher Deutlichkeit zu finden sind, ein besonderes Interesse. Große polierte Schnittflächen, wie die bei dem Stücke Nr. 1, stellen die Beschaffenheit und Verzweigung dieser Gänge am schönsten dar.
 
 ### 61\. Doroninsk.
 
@@ -1509,7 +1503,7 @@ Gouv. Irkutsk, Sibirien.
 
 25\. März 1805, 5 Uhr Nachmittags.
 
-Dunkelaschgraue, durch eine Menge von Rostflecken fast braun erscheinende, sehr dichte Grundmasse, mit undeutlichen und kleinen lichteren kugeligen Ausscheidungen, welche, mit der Grundmasse fest verwachsen, als kleine Flecken erscheinen; vielfein eingesprengtes gediegenes Eisen undhöchst fein eingesprengter Magnetkies; schwarze Ablösungsflächen und undeutliche, sehr feine, die Masse durchzichende Adern; matte, schwarze Rinde. — (Ist von dem Meteorsteine von Seres in Makedonien kaum zu unterscheiden.)
+Dunkelaschgraue, durch eine Menge von Rostflecken fast braun erscheinende, sehr dichte Grundmasse, mit undeutlichen und kleinen lichteren kugeligen Ausscheidungen, welche, mit der Grundmasse fest verwachsen, als kleine Flecken erscheinen; viel fein eingesprengtes gediegenes Eisen und höchst fein eingesprengter Magnetkies; schwarze Ablösungsflächen und undeutliche, sehr feine, die Masse durchziehende Adern; matte, schwarze Rinde. — (Ist von dem Meteorsteine von Seres in Makedonien kaum zu unterscheiden.)
 
 1\. Fragment mit Rinde und einer anpolierten Fläche, von einem der zwei allda aufgefundenen Steine, deren einer 7 und der andere 2 1/2 Pfund wog. — 1 3/4 Loth. — 1839. 22. 2. — Aus der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss eingetauscht. Befand sich früher in der Klaproth'schen Mineralien-Sammlung.
 
@@ -1519,13 +1513,13 @@ Makedonien, Turkey.
 
 Juni 1818.
 
-Dunkelasch- oder blaulichgraue, rostbraun gefleckte, sehr dichte Grundmasse, mit rundlichen lichteren Stellen, welche von kugeligen, aber mit der Grundmasse innig verbundenen Ausscheidungen herrühren; viel, meist fein eingesprengtes metallisches Eisen und höchst fein eingesprengter Magnetkies; gestreifte Ablösungsflächen, matte Rinde.
+Dunkelasch- oder bläulichgraue, rostbraun gefleckte, sehr dichte Grundmasse, mit rundlichen lichteren Stellen, welche von kugeligen, aber mit der Grundmasse innig verbundenen Ausscheidungen herrühren; viel, meist fein eingesprengtes metallisches Eisen und höchst fein eingesprengter Magnetkies; gestreifte Ablösungsflächen, matte Rinde.
 
-Zwei Bruchstücke von einem einzeln gefallenen Steine von 15 Pfund, welchen Iussuf-Pascha, Statthalter von Seres in Makedonien, seinem Leibarzte, Herrn Grohmann, schenkte. Letzterer brachte den Stein nach Wien und verehrte ihn seinem ehemaligen Lehrer, Hrn. Professor Andreas Ritter von Scherer, in dessen Besitz er sich noch befindet.
+Zwei Bruchstücke von einem einzeln gefallenen Steine von 15 Pfund, welchen Yussuf-Pascha, Statthalter von Seres in Makedonien, seinem Leibarzte, Herrn Grohmann, schenkte. Letzterer brachte den Stein nach Wien und verehrte ihn seinem ehemaligen Lehrer, Hrn. Professor Andreas Ritter von Scherer, in dessen Besitz er sich noch befindet.
 
 1\. Bruchstück mit einer kleinen anpolierten Fläche. — 6 21/32 Loth. — 1832. 11. 1. — Geschenk von Herrn Ritter Pittoni von Dannenfeld in Grätz, der das Fragment von Doktor Grohmann erhielt.
 
-2\. Bruchstück mit frischem Bruche, ohne Rinde, mit einer verrosteten, schwach gefurchten Ablösungsfläche. — 3 3/32 Loth. — 1842. 26. 1. — In Tausch von Baron Lederer, k. k. österreichischen General-Konsul zu New-York, erhalten. Baron Tiederer kaufte das Stück mit einer Mineralien-Sammlung in Wien mit der Etiquette: Syrmien, 1824, und schickte dasselbe zur näheren Bestimmung aus Nord-Amerika an das k. k. Mineralien-Kabinett, wo es sogleich für Seres erkannt wurde. Für die Richtigkeit der Bestimmung zeugte der später aufgefundene Umstand, dass eine Bruchfläche dieses Stückes an eine Bruchfläche des Stückes Nr. 1 anpasst. (Auch andere lange getrennt gewesene, aneinander passende Stücke anderer Lokalitäten haben sich in der Metcoriten-Sammlung des k. k. Mineralien-Kabinettes wieder zusammen gefunden.)
+2\. Bruchstück mit frischem Bruche, ohne Rinde, mit einer verrosteten, schwach gefurchten Ablösungsfläche. — 3 3/32 Loth. — 1842. 26. 1. — In Tausch von Baron Lederer, k. k. österreichischen General-Konsul zu New-York, erhalten. Baron Lederer kaufte das Stück mit einer Mineralien-Sammlung in Wien mit der Etiquette: Syrmien, 1824, und schickte dasselbe zur näheren Bestimmung aus Nord-Amerika an das k. k. Mineralien-Kabinett, wo es sogleich für Seres erkannt wurde. Für die Richtigkeit der Bestimmung zeugte der später aufgefundene Umstand, dass eine Bruchfläche dieses Stückes an eine Bruchfläche des Stückes Nr. 1 anpasst. (Auch andere lange getrennt gewesene, aneinander passende Stücke anderer Lokalitäten haben sich in der Meteoriten-Sammlung des k. k. Mineralien-Kabinettes wieder zusammen gefunden.)
 
 ### 63\. Sigena.
 
@@ -1535,7 +1529,7 @@ Dorf Sena, Bezirk Sigena, Aragonien, Spanien.
 
 Fast dunkelgraue, rostbraun gefleckte Grundmasse; mit wenigen kugeligen Ausscheidungen, viel fein eingesprengtem metallischen Eisen und wenig sehr fein eingesprengtem Magnetkies. — (Ist nahe verwandt mit den Steinen von Barbotan.)
 
-1\. Ein sehr kleines Bruchstück ohne Rinde, von einem einzeln gefallenen Steine von 9 Pfund 2 Loth. — 7/32 Loth. — 1816. 31. 33. g. — Wurde auf Verwendung des Dircctors v. Schreibers im Jahre 1815 von dem kleinen Stücke von Sigena im königl. Museum der Naturgeschichte zu Paris abgeschnitten und in Tausch erhalten.
+1\. Ein sehr kleines Bruchstück ohne Rinde, von einem einzeln gefallenen Steine von 9 Pfund 2 Loth. — 7/32 Loth. — 1816. 31. 33. g. — Wurde auf Verwendung des Direktors v. Schreibers im Jahre 1815 von dem kleinen Stücke von Sigena im königl. Museum der Naturgeschichte zu Paris abgeschnitten und in Tausch erhalten.
 
 ### 64\. Barbotan.
 
@@ -1543,15 +1537,15 @@ Fast dunkelgraue, rostbraun gefleckte Grundmasse; mit wenigen kugeligen Ausschei
 
 24\. Juli 1790, 9 Uhr Abends.
 
-Fast dunkelgraue, stark rostbraun gefleckte, feste Grundmasse, mit sehr wenig kugeligen Ausscheidungen; sehr viel, meist fein eingesprengfies metallisches Eisen, das hie und da in größeren, zuweilen linsen- und bohnengrossen Körnern, und auch in unvollkommenen Hexaedern hervortritt; sehr fein eingesprengter Magnetkies; schimmernde schwarze Ablösungsflächen; matte Rinde.
+Fast dunkelgraue, stark rostbraun gefleckte, feste Grundmasse, mit sehr wenig kugeligen Ausscheidungen; sehr viel, meist fein eingesprengtes metallisches Eisen, das hie und da in größeren, zuweilen linsen- und bohnengroßen Körnern, und auch in unvollkommenen Hexaedern hervortritt; sehr fein eingesprengter Magnetkies; schimmernde schwarze Ablösungsflächen; matte Rinde.
 
 Zwei Bruchstücke von zwei der vielen allda gefallenen Steine, wovon einige über 20 Pfund wogen.
 
-1\. Großes Bruchstück mit Rinde und einer anschnlichen, polierten Fläche; an der Bruchfläche ragen zwei unvollkommene Hexaeder von gediegenem Eisen hervor. — 19 3/4 Loth. — 1841. 14. 4. — Aus der Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft.
+1\. Großes Bruchstück mit Rinde und einer ansehnlichen, polierten Fläche; an der Bruchfläche ragen zwei unvollkommene Hexaeder von gediegenem Eisen hervor. — 19 3/4 Loth. — 1841. 14. 4. — Aus der Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft.
 
-2\. Bruchstick ohne Rinde, mit lachen linsengrossen Eisenkörnern und zwei schwarzen Ablösungsflächen. — 15 21/32 Loth. — 1827. 27. 4052. Aus der von der Nüll'schen Mineralien-Sammlung.
+2\. Bruchstück ohne Rinde, mit lachen linsengroßen Eisenkörnern und zwei schwarzen Ablösungsflächen. — 15 21/32 Loth. — 1827. 27. 4052. Aus der von der Nüll'schen Mineralien-Sammlung.
 
-Der Meteorsteinfall von Barbotan ist einer der beirächtlichsten und ausgedehntesten gewesen, da er sich über mehrere Ortschaften verschiedener, jedoch benachbarter Departements erstreckte. Er fiel in die Zeit völligen Unglaubens und grösster Verstockung (1790). Die Acusserungen von Bertholon im Journal des sciences utiles vom Jahre 1790 über den Verbal-Prozess, den die Municipalität von Juillac über das Phänomen und den Steinfall ahgefasst hatte (d'un fait evidement faux, d'un phenomene physiquement impossible) und über die Erzählungen von Augenzeugen des Ereignisses (qui ne peuvent qu'exciter la pitie, nous ne dirons pas seulement des physiciens, mais de tous les gens raisonnables) verdienen, dass sie als Beiträge zur Geschichte der Meteoriten nicht in Vergessenheit geraten.
+Der Meteorsteinfall von Barbotan ist einer der beträchtlichsten und ausgedehntesten gewesen, da er sich über mehrere Ortschaften verschiedener, jedoch benachbarter Departements erstreckte. Er fiel in die Zeit völligen Unglaubens und größter Verstockung (1790). Die Äußerungen von Bertholon im Journal des sciences utiles vom Jahre 1790 über den Verbal-Prozess, den die Munizipalität von Juillac über das Phänomen und den Steinfall abgefasst hatte (d'un fait evidement faux, d'un phenomene physiquement impossible) und über die Erzählungen von Augenzeugen des Ereignisses (qui ne peuvent qu'exciter la pitie, nous ne dirons pas seulement des physiciens, mais de tous les gens raisonnables) verdienen, dass sie als Beiträge zur Geschichte der Meteoriten nicht in Vergessenheit geraten.
 
 ### 65\. Eichstädt.
 
@@ -1569,15 +1563,15 @@ Zwei Bruchstücke von einem, so viel bekannt, einzeln gefallenen Steine von 5 Pf
 
 ### 66\. Groß-Divina,
 
-nachst Budetin, unweit Sillein, im Trentschiner-Komitate, Ungarn.
+nächste Budetin, unweit Sillein, im Trentschiner-Komitate, Ungarn.
 
 24\. Juli, 1837, 1/2 12 Uhr Mittags.
 
 Zwischen dunkel- und lichtaschgrau schwankende, mit braunen Rostflecken erfüllte Grundmasse, mit einer großen Anzahl von kleinen, dunkelgrauen kugligen Ausscheidungen, die auf Bruchflächen aus der Grundmasse zum Teil hervorragen; mit ziemlich viel fein eingesprengtem metallischen Eisen und höchst fein eingesprengtem Magnetkies; matte, teils ziemlich glatte, teils höchst raue Rinde. — (Steht den Meteorsteinen von Timochin, Zebrak und Eichstädt sehr nahe.)
 
-1\. Anpolirtes Fragment, mit Rinde von zweierlei Beschaffenheit, von einem einzeln gefallenen Steine von 19 Pfund Wiener Gewicht, der sich jetzt im k. National-Museum zu Pesth befindet. — 3 11/16 Loth. — 1838. 1. 1. — Geschenk von Herrn Johann Lottner, Pfarrer zu Gross-Divina.
+1\. Anpoliertes Fragment, mit Rinde von zweierlei Beschaffenheit, von einem einzeln gefallenen Steine von 19 Pfund Wiener Gewicht, der sich jetzt im k. National-Museum zu Pesth befindet. — 3 11/16 Loth. — 1838. 1. 1. — Geschenk von Herrn Johann Lottner, Pfarrer zu Groß-Divina.
 
-Über den Steinfall von Groß-Divina oder Budetin besitzen wir nur Zeitungsnachrichten (darunter eine in der allgemeinen Zeitung vom 27. August 1837) und eine kleine Notiz von H. Zipser in Leonhards und Bronns Jahrhuch für Mineralogie (Jahrgang 1840. S. 89.) Wir haben uns kurz nach dem Falle sowohl um den einzeln gefallenen Stein, der jedoch schon dem ungarischen National-Museum in Pesth zugesichert worden war, als um Nachrichten über das Freigniss beworben. Der Stein kam durch die Gefälligkeit der Gräfin Ludmilla von Csaky, Herrschaftsbesitzerin von Budetin, zur Ansicht in das k. Mineralien-Kabinett nach Wien, wo wir davon Zeichnungen und ein Gypsmodell anfertigen liessen. Er gehört durch seine Form und Überrundung und durch die Eindrücke au einem Teile seiner Oberfläche zu den merkwürdigsten Meteorsteinen. Herr Professor Sadler, Kustos am National-Museum zu Pesth, ist beschäftiget, über diesen und den Meteorstein von Milena in Kroatien (siehe Nr. 39) Notizen zu sammeln und diese, nebst dem lesultate der chemischen Untersuchung der zwei Steine, der wissenschaftlichen Welt bekannt zu geben.
+Über den Steinfall von Groß-Divina oder Budetin besitzen wir nur Zeitungsnachrichten (darunter eine in der allgemeinen Zeitung vom 27. August 1837) und eine kleine Notiz von H. Zipser in Leonhards und Bronns Jahrbuch für Mineralogie (Jahrgang 1840. S. 89.) Wir haben uns kurz nach dem Falle sowohl um den einzeln gefallenen Stein, der jedoch schon dem ungarischen National-Museum in Pesth zugesichert worden war, als um Nachrichten über das Ereignis beworben. Der Stein kam durch die Gefälligkeit der Gräfin Ludmilla von Csaky, Herrschaftsbesitzerin von Budetin, zur Ansicht in das k. Mineralien-Kabinett nach Wien, wo wir davon Zeichnungen und ein Gipsmodell anfertigen ließen. Er gehört durch seine Form und Überrundung und durch die Eindrücke au einem Teile seiner Oberfläche zu den merkwürdigsten Meteorsteinen. Herr Professor Sadler, Kustos am National-Museum zu Pesth, ist beschäftiget, über diesen und den Meteorstein von Milena in Kroatien (siehe Nr. 39) Notizen zu sammeln und diese, nebst dem Resultate der chemischen Untersuchung der zwei Steine, der wissenschaftlichen Welt bekannt zu geben.
 
 ### 67\. Zebrak.
 
@@ -1585,7 +1579,7 @@ Zwischen dunkel- und lichtaschgrau schwankende, mit braunen Rostflecken erfüllt
 
 Mehr dunkel- als lichtgraue, aber ganz mit braunen Rostflecken erfüllte Grundmasse; viele kleine auf Bruchflächen aus der Grundmasse zum Teil heraustretende und daher mit ihr nicht fest verwachsene kuglige Ausscheidungen; viel ziemlich fein eingesprengtes gediegenes Eisen und viel sehr fein eingesprengter Magnetkies; dicke und matte Rinde. — (Ist den Steinen von Eichstädt und Smolensk nahe verwandt.)
 
-1\. Bruchstück mit viel Rinde und anvolirter Fläche, von einem in drei Stücke zerfallenen Steine, welche zusammen etwa 4 Pfund gewogen haben sollen. (Es fiel auch ein zweiter Stein, der aber nicht aufgefunden worden zu sein scheint.) — 20 3/16 Loth. — 1832. 31. 1. — Vom vaterländischen Museum in Prag durch Tausch erhalten.
+1\. Bruchstück mit viel Rinde und anpolierter Fläche, von einem in drei Stücke zerfallenen Steine, welche zusammen etwa 4 Pfund gewogen haben sollen. (Es fiel auch ein zweiter Stein, der aber nicht aufgefunden worden zu sein scheint.) — 20 3/16 Loth. — 1832. 31. 1. — Vom vaterländischen Museum in Prag durch Tausch erhalten.
 
 ### 68\. Timochin.
 
@@ -1597,7 +1591,7 @@ Zwischen licht- und dunkelaschgrau schwankende Grundmasse, mit vielen Rostflecke
 
 Zwei Bruchstücke von einem einzeln gefallenen Steine von 140 Pfund.
 
-1\. Bruchstück mit Rinde und anpolirter Fläche. — Beschrieben und abgebildet in von Schreibers Beiträgen Seite 63. Taf. 7. — 4 3/4 Loth. — 1810. 2. 3. — Von dem verstorbenen Professor und Medicinalrath Klaproth in Berlin als Abschnitt von einem größeren Bruchstücke gekauft.
+1\. Bruchstück mit Rinde und anpolierter Fläche. — Beschrieben und abgebildet in von Schreibers Beiträgen Seite 63. Taf. 7. — 4 3/4 Loth. — 1810. 2. 3. — Von dem verstorbenen Professor und Medizinalrat Klaproth in Berlin als Abschnitt von einem größeren Bruchstücke gekauft.
 
 2\. Fragment mit etwas Rinde und ganz frischem Bruche. — 3 1/4 Loth. — 1838. 28. 3. — Von der kaiserl. russischen Akademie der Wissenschaften in Petersburg durch Herrn Professor Kupffer in Tausch erhalten.
 
@@ -1607,11 +1601,11 @@ Dorf am Flüsse Açu (Assu), oder Amargoro, Provinz Rio grande do Norte (nicht C
 
 11\. November (nicht 11. Dezember) 1836, 5 Uhr Morgens.
 
-Fast dunkelaschgraue, mit einer großen Menge von Rostflecken durchsäcte, sehr feste Grundmasse, mit undeutlichen, kugligen Ausscheidungen; mit einer großen Menge meist fein eingesprengten metallischen Eisens, das sich jedoch oft zu geraden, oder krummen dicken Linien zusammenhäuft, und viel sehr fein eingesprengtem Magnetkies; matte oder schwach schimmernde, meist stark verrostete, zuweilen verschlackte Rinde. — (Hat große Achnlichkeit mit dem Meteorstein von Timochin.)
+Fast dunkelaschgraue, mit einer großen Menge von Rostflecken durchsäete, sehr feste Grundmasse, mit undeutlichen, kugligen Ausscheidungen; mit einer großen Menge meist fein eingesprengten metallischen Eisens, das sich jedoch oft zu geraden, oder krummen dicken Linien zusammenhäuft, und viel sehr fein eingesprengtem Magnetkies; matte oder schwach schimmernde, meist stark verrostete, zuweilen verschlackte Rinde. — (Hat große Ähnlichkeit mit dem Meteorstein von Timochin.)
 
-Drei kleine ganze Steine und vier Bruchstücke von der ungeheueren Menge der allda gefallenen Steine.
+Drei kleine ganze Steine und vier Bruchstücke von der ungeheureren Menge der allda gefallenen Steine.
 
-1\. Rundlicher, vollkommen ganzer Stein, mit verrosteter Rinde. — 3 Loth. — 1839. 27. 5. — Auf Vermittlung des Herrn Johann Natterer, Custos-Adjuncten am k. k. Hof-Naturalien-Kabinette, durch gütige Bemühung des Herrn Tegetmeyer, österreichischen Vice-Consuls-Stellvertreter zu Pernambuco, und des H. Breisky, österreichischen Vice-Consuls zu Bahia, von dem ersteren mit den folgenden sechs Stücken als Geschenk erhalten.
+1\. Rundlicher, vollkommen ganzer Stein, mit verrosteter Rinde. — 3 Loth. — 1839. 27. 5. — Auf Vermittlung des Herrn Johann Natterer, Kustos-Adjunkten am k. k. Hof-Naturalien-Kabinette, durch gütige Bemühung des Herrn Tegetmeyer, österreichischen Vize-Konsuls-Stellvertreter zu Pernambuco, und des H. Breisky, österreichischen Vize-Konsuls zu Bahia, von dem ersteren mit den folgenden sechs Stücken als Geschenk erhalten.
 
 2\. Ganzer, rundlicher Stein, an einer Seite gewölbt, an der andern flach; an letzterer etwas angebrochen, verrostet und mit verschlackter Rinde. — (Erhielt nach seiner Einsendung Sprünge, die durch das fortgesetzte Rosten des Eisens entstanden.) — 7 7/16 Loth. — 1839. 27. 3. — Mit Nr. 1 erhalten.
 
@@ -1621,11 +1615,11 @@ Drei kleine ganze Steine und vier Bruchstücke von der ungeheueren Menge der all
 
 5\. Längliches Fragment, ungefähr ein halber Stein, mit verrosteter Rinde und rostiger Bruchfläche. — 3 5/8 Lth. — Von: 1839. 27. 4. — Mit Nr. 1 erhalten.
 
-6\. Fragment mit anpolirter Fläche, dann veralteten und frischen Bruchflächen und etwas Rinde. — 2 13/32 Loth. — Von: 1839. 27. 1. — Mit Nr. 1 erhalten.
+6\. Fragment mit anpolierter Fläche, dann veralteten und frischen Bruchflächen und etwas Rinde. — 2 13/32 Loth. — Von: 1839. 27. 1. — Mit Nr. 1 erhalten.
 
-7\. Fragment mit polierter Fläche, mit alten und neuen Bruchflächen und etwas Rinde. Die eisenreiche Schnittfläche ist zur Hälfte schwach, zur Hälfte stark geätzt, wodurch auf den, eine unterbrochene Linie bildenden Eisentheilchen feine Linien, die fast Widmanstättensche Figuren bilden, zum Vorschein kamen. — 1 Loth. — Von: 1839. 27. 1. — Mit Nr. 1 erhalten.
+7\. Fragment mit polierter Fläche, mit alten und neuen Bruchflächen und etwas Rinde. Die eisenreiche Schnittfläche ist zur Hälfte schwach, zur Hälfte stark geätzt, wodurch auf den, eine unterbrochene Linie bildenden Eisenteilchen feine Linien, die fast Widmanstättensche Figuren bilden, zum Vorschein kamen. — 1 Loth. — Von: 1839. 27. 1. — Mit Nr. 1 erhalten.
 
-Über den Steinregen von Macao oder Rio Assu sind nur ungenügende Nachrichten bekannt gemacht worden. Sie rühren von einem Franzosen, H. F. Berthou, her, der damahls in Olinda, in der Provinz Ceara wohnte. Er hat die Gegend des Steinfalls nicht besucht und das Ereignis nur nach Hörensagen beschrieben. Nach Nachrichten, die sich Herr Breisky in Bahia auf Ansuchen von Herrn Tegetmayer in Pernambuco aus der Stadt Ceara verschaffte, liegt das kleine Dorf Macao, das erst im J. 1828 zu entstehen anfing, und im J. 1839 31 Häuser zählte, am Ufer des Flusses Assı oder Amargoro, nicht weit von seinem Ausflusse in das Meer und gchört zur Provinz Rio grande do Norte. Der Steinregen hat sich nach unsern Nachrichten den 11. November, nach dem Briefe des H. Berthou in dem Gompte rendu der Pariser Akademie vom 14. August 1837, S. 211, den 11. Dezember 1836 ereignet. Die Anzahl der zefallenen Steine muss ungeheuer gross gewesen sein, da sich der Niederfall auf 3 Meilen, von dem Gute Cacimbas bis zur Mündung des Riv Assu erstreckte (nach dem Berichte von H. Berthou über einen Flächenraum von mehr als 10 Lieues); eigentlich scheint aber das Phänomen zwei große Explosionen, eine zu Cacimbas, die andere an der Flussmündung gemacht zu haben. Die gefallenen Steine sind nach den Nachrichten, die urs zukamen, klein gewesen, meist von der Größe eines Taubeneies; der französische Bericht In dem Compte rendu spricht dagegen von Steinen von 1 bis 80 Pfund. Sie sollen nach demselben Berichte einige Ochsen zetödtet oder verwundet haben. Ein Muster dieser Meteorsteine ist an die Akademie der Wissenschaften in Paris geschickt worden, welche die Analyse (die jedoch bisher noch nicht erschienen ist) Herrn Berthier übertrug. Ausser diesem Muster und den Exemplaren, die das k. k. Mineralien-Kabinet durch die eifrige und gütige Bemühung der Herren Tegetmayer und Breisky erhielt, scheinen keine anderen von diesem Ereignisse nach Europa gekommen zu sein. Aus England und auf andern Wegen auch von hier aus hat man sich fruchtlos darum bemühet. Da die Steine von Macao zu den eisenreichsten gehören, werden sie bei längerem Liegen in der Erde durch Oxydierung des Eisens zerbersten und endlich zerfallen, so dass man nach einigen Jahren, wenigstens von den kleineren, kaum mehr etwas wird finden können. Selbst ein paar Stücke unserer Sammlung, die mehr als zwei Jahre in der Erde gelegen haben mögen, zerbarsten seit sie sich darin befinden und dürften kaum zu retten sein.
+Über den Steinregen von Macao oder Rio Assu sind nur ungenügende Nachrichten bekannt gemacht worden. Sie rühren von einem Franzosen, H. F. Berthou, her, der damals in Olinda, in der Provinz Ceara wohnte. Er hat die Gegend des Steinfalls nicht besucht und das Ereignis nur nach Hörensagen beschrieben. Nach Nachrichten, die sich Herr Breisky in Bahia auf Ansuchen von Herrn Tegetmayer in Pernambuco aus der Stadt Ceara verschaffte, liegt das kleine Dorf Macao, das erst im J. 1828 zu entstehen anfing, und im J. 1839 31 Häuser zählte, am Ufer des Flusses Assu oder Amargoro, nicht weit von seinem Ausflusse in das Meer und gehört zur Provinz Rio grande do Norte. Der Steinregen hat sich nach unsern Nachrichten den 11. November, nach dem Briefe des H. Berthou in dem Compte rendu der Pariser Akademie vom 14. August 1837, S. 211, den 11. Dezember 1836 ereignet. Die Anzahl der gefallenen Steine muss ungeheuer groß gewesen sein, da sich der Niederfall auf 3 Meilen, von dem Gute Cacimbas bis zur Mündung des Riv Assu erstreckte (nach dem Berichte von H. Berthou über einen Flächenraum von mehr als 10 Lieues); eigentlich scheint aber das Phänomen zwei große Explosionen, eine zu Cacimbas, die andere an der Flussmündung gemacht zu haben. Die gefallenen Steine sind nach den Nachrichten, die uns zukamen, klein gewesen, meist von der Größe eines Taubeneies; der französische Bericht In dem Compte rendu spricht dagegen von Steinen von 1 bis 80 Pfund. Sie sollen nach demselben Berichte einige Ochsen getötet oder verwundet haben. Ein Muster dieser Meteorsteine ist an die Akademie der Wissenschaften in Paris geschickt worden, welche die Analyse (die jedoch bisher noch nicht erschienen ist) Herrn Berthier übertrug. Außer diesem Muster und den Exemplaren, die das k. k. Mineralien-Kabinett durch die eifrige und gütige Bemühung der Herren Tegetmayer und Breisky erhielt, scheinen keine anderen von diesem Ereignisse nach Europa gekommen zu sein. Aus England und auf andern Wegen auch von hier aus hat man sich fruchtlos darum bemühet. Da die Steine von Macao zu den eisenreichsten gehören, werden sie bei längerem Liegen in der Erde durch Oxydierung des Eisens zerbersten und endlich zerfallen, so dass man nach einigen Jahren, wenigstens von den kleineren, kaum mehr etwas wird finden können. Selbst ein paar Stücke unserer Sammlung, die mehr als zwei Jahre in der Erde gelegen haben mögen, zerbarsten seit sie sich darin befinden und dürften kaum zu retten sein.
 
 ## 1\. Meteoreisen.
 
@@ -1633,19 +1627,19 @@ Nr\. 70 bis 94.
 
 ### 70\. Atacama.
 
-Bei dem Dorfe San Pedro, 20 Leagues von dem Hafen Cobija entfernt, Provinz Atacama, Republik Bolivia (ehemals Peru), an der Gränze von Chili, Süd-Amerika.
+Bei dem Dorfe San Pedro, 20 Leagues von dem Hafen Cobija entfernt, Provinz Atacama, Republik Bolivia (ehemals Peru), an der Grenze von Chili, Süd-Amerika.
 
-Der wissenschäftlichen Welt seit 1827 bekannt; die Fallzeit ist unbekannt. — An dem bezeichneten Fundorte soll eine Masse von 3 Centnern (Quintals) und viele kleinere Stücke zerstreut herum liegen.
+Der wissenschaftlichen Welt seit 1827 bekannt; die Fallzeit ist unbekannt. — An dem bezeichneten Fundorte soll eine Masse von 3 Zentnern (Quintals) und viele kleinere Stücke zerstreut herum liegen.
 
-Ein Gemenge von gediegenem Eisen mit einem gleichen Verhältniss vou lichtgrünem, fast grünlich weißen (vom Eisen jedoch später teilweise rostbraun gefärbten) Olivin, in meist feinkörnigem Gefüge, und mit Magnetkies, der aber nur in sehr geringer Menge vorhanden und nur auf polierten Schnittflächen unterscheidbar ist. Das metallische Eisen bildet ein ästiges oder schwammförmiges, von dem Olivin ausgefülltes Gerippe. Auf Durchschnitten zeigt sich das Eisen in Feldern mit ausund einspringenden Winkeln, und die vom Olivin erfüllten Zellen daher ebenfalls eckig, selten rund. Durch Behandlung des Eisens mit Säuren entstehen in der Mitte der Eisenpartie eckige mit den Rändern derselben parallele, durch glänzende Leisten eingefasste und öfter von Linien durchzogene dunkle Felder, während der größere Teil des den Rändern näher liegenden metallischen Eisens weniger oder gar nicht angegriffen wird, und daher den Metallglanz behält. Der Olivin ist in größeren Körnern von dem Eisen nicht trennbar, sondern zerbröckelt, vermöge seiner kleinkörnigen Struktur.
+Ein Gemenge von gediegenem Eisen mit einem gleichen Verhältnis von lichtgrünem, fast grünlich weißen (vom Eisen jedoch später teilweise rostbraun gefärbten) Olivin, in meist feinkörnigem Gefüge, und mit Magnetkies, der aber nur in sehr geringer Menge vorhanden und nur auf polierten Schnittflächen unterscheidbar ist. Das metallische Eisen bildet ein ästiges oder schwammförmiges, von dem Olivin ausgefülltes Gerippe. Auf Durchschnitten zeigt sich das Eisen in Feldern mit aus- und einspringenden Winkeln, und die vom Olivin erfüllten Zellen daher ebenfalls eckig, selten rund. Durch Behandlung des Eisens mit Säuren entstehen in der Mitte der Eisenpartie eckige mit den Rändern derselben parallele, durch glänzende Leisten eingefasste und öfter von Linien durchzogene dunkle Felder, während der größere Teil des den Rändern näher liegenden metallischen Eisens weniger oder gar nicht angegriffen wird, und daher den Metallglanz behält. Der Olivin ist in größeren Körnern von dem Eisen nicht trennbar, sondern zerbröckelt, vermöge seiner kleinkörnigen Struktur.
 
-1\. Ein großes merkwürdiges Stück, rings von gestreiften, teilweise glänzenden natürlichen Ablösungsflächen umgeben; mit einer polierten Schnittfläche. — 5 Pfd. 5 1/2 Loth. — 1842. 1. 1. — Aus der ehemals Heuland'schen, später Heath'schen Meteoriten-Sammlung, durch H. Carl Pötschke in Wien gekauft. Herr Heulaud kaufte das Stück durch Vermittlung des Herrn Brooke in London von dem Agenten einer südamerikanischen Bergwerksgesellschaft.
+1\. Ein großes merkwürdiges Stück, rings von gestreiften, teilweise glänzenden natürlichen Ablösungsflächen umgeben; mit einer polierten Schnittfläche. — 5 Pfd. 5 1/2 Loth. — 1842. 1. 1. — Aus der ehemals Heuland'schen, später Heath'schen Meteoriten-Sammlung, durch H. Carl Pötschke in Wien gekauft. Herr Heuland kaufte das Stück durch Vermittlung des Herrn Brooke in London von dem Agenten einer südamerikanischen Bergwerksgesellschaft.
 
-2\. Bruchstück, durch das Entzweireissen der Masse an der Oberfläche kurzzähnig, mit anpolirter Fläche. — 1 Pfund, 1 Loth. — 1834. 5. 1. — Durch Doktor Bondi in Dresden von Herrn Heuland in London zu Kauf erhalten.
+2\. Bruchstück, durch das Entzweireißen der Masse an der Oberfläche kurzzahnig, mit anpolierter Fläche. — 1 Pfund, 1 Loth. — 1834. 5. 1. — Durch Doktor Bondi in Dresden von Herrn Heuland in London zu Kauf erhalten.
 
 3\. Ein dickes Plättchen von Nr. 2 abgeschnitten, mit polierter und dann geätzter Schnittfläche. — 6 Loth. — Von 1834. 5. 1.
 
-Herr Hippolyte Jubin, königl. französischer Schiffslieutenant, brachte ein Meteoreisen aus Peru nach Frankreich (in das Museum von Angers), das bei Potosi in Bolivia gefunden worden sein soll. (Siehe Chronique scientifique, eine Beilage zum Institut, Nr. 8, von 24. Fehruar 1839, dann Poggendorffs Annalen, Band 47. S. 470.) Es gleicht nach der Beschreibung ganz dem Meteoreisen von Atacama, und der Fundort Potosi ist wohl nur eine irrige Angabe von Seite des Mittheilers des Stückes an Herrn Jubin.
+Herr Hippolyte Jubin, königl. französischer Schiffslieutenant, brachte ein Meteoreisen aus Peru nach Frankreich (in das Museum von Angers), das bei Potosi in Bolivia gefunden worden sein soll. (Siehe Chronique scientifique, eine Beilage zum Institut, Nr. 8, von 24. Februar 1839, dann Poggendorffs Annalen, Band 47. S. 470.) Es gleicht nach der Beschreibung ganz dem Meteoreisen von Atacama, und der Fundort Potosi ist wohl nur eine irrige Angabe von Seite des Mittheilers des Stückes an Herrn Jubin.
 
 ### 71\. Krasnojarsk.
 
@@ -1653,51 +1647,51 @@ Zwischen Krasnojarsk und Abakansk, Gouv. Jeniseisk, Sibirien.
 
 Auch Pallasisches Eisen genannt, weil der Naturforscher Pallas, der diese Eisenmasse im Jahre 1772 kennen lernte, dieselbe später im Jahre 1776 im 3. Teile seiner Reise durch verschiedene Provinzen des russischen Reiches ausführlich bekannt machte. Die Fallzeit ist unbekannt. Die Masse wurde von einem Kosaken im J. 1749 aufgefunden. Sie wog ursprünglich 40 Pud oder 1600 russische Pfund.
 
-Die Eisenmasse von Krasnojarsk, gegenwärtig in der Mineralien-Sammlung der k. Akademie der Wissenschaften zu St. Petersburg aufbewahrt, wiegt jetzt noch 1270 russische Pfund. (Siehe G. Rose, Reise nach dem Ural u. s. w. 1. Band. S. 43.) Ausser dieser großen durch Pallas im J. 1776 nach St. Petersburg gesendeten Masse dürften Später noch mehrere kleinere Stücke hei Krasnojarsk aufgefunden, und nach Europa gebracht worden sein; eine Verauthung, die wir einer gefälligen Mittheilung von Herrn Heinrich Heuland in London entnehmen. Derselhe schrieh, dass sein ehemahliger Associe Sitrikoff im J. 1807 über zwei Centner des Pallasischen Eisens zu Moskau auf dem dortigen Trödlermarkte (der Lausemarkt genannt)als altes Eisen nach dem Pfund in der Bude eines Eisenhändlers kaufte, wo es unter zerbrochenen Eisengefäsen lag. Merr Heuland sah die Pallas'sche Eisenmasse in St, Petershurg zu wiederhohlten Mahlen, und ist überzeugt, dass die erwähnten Stücke wenigstens nicht nach dem J. 1796, wo er die Masse das erstemahl sah, von derselben ahxeschlagen worden sind. Die grüssten von den am Lausemarkt zu Moskau verkauften Stücken kamen in die Sammlung des ehemaligen russischen Reichskanzlers Romanzow und an die Oxforder Universität. — Sollten die Moskauer Stücke etwa von einer neuen, nicht bekannt gewordenen Lokalität herrühren? Es ist zu bedauern, dass man damals der Sache nicht mehr nachspürte.
+Die Eisenmasse von Krasnojarsk, gegenwärtig in der Mineralien-Sammlung der k. Akademie der Wissenschaften zu St. Petersburg aufbewahrt, wiegt jetzt noch 1270 russische Pfund. (Siehe G. Rose, Reise nach dem Ural u. s. w. 1. Band. S. 43.) Außer dieser großen durch Pallas im J. 1776 nach St. Petersburg gesendeten Masse dürften Später noch mehrere kleinere Stücke hei Krasnojarsk aufgefunden, und nach Europa gebracht worden sein; eine Vermutung, die wir einer gefälligen Mittheilung von Herrn Heinrich Heuland in London entnehmen. Derselbe schrieb, dass sein ehemaliger Associe Sitrikoff im J. 1807 über zwei Zentner des Pallasischen Eisens zu Moskau auf dem dortigen Trödlermarkte (der Lausemarkt genannt)als altes Eisen nach dem Pfund in der Bude eines Eisenhändlers kaufte, wo es unter zerbrochenen Eisengefäßen lag. Herr Heuland sah die Pallas'sche Eisenmasse in St. Petersburg zu wiederholten Mahlen, und ist überzeugt, dass die erwähnten Stücke wenigstens nicht nach dem J. 1796, wo er die Masse das erste mahl sah, von derselben abgeschlagen worden sind. Die größten von den am Lausemarkt zu Moskau verkauften Stücken kamen in die Sammlung des ehemaligen russischen Reichskanzlers Romanzow und an die Oxforder Universität. — Sollten die Moskauer Stücke etwa von einer neuen, nicht bekannt gewordenen Lokalität herrühren? Es ist zu bedauern, dass man damals der Sache nicht mehr nachspürte.
 
-Ein Gemenge von gediegenem Eisen mit Olivin (oder Chrysolith) ungefähr in gleichem Verhältniss, und mit etwas Magnetkies. Das gediegene Eisen bildet ein ästiges oder schwammförmiges Gerippe, das der Olivin ausfüllt. Die ästige Gestalt zeigt sich nur dann deutlich, wenn der Olivin aus den Ilöhlungen herausgefallen ist. Der in weit geringerer Menge vorhandene Magnctkies liegt zwischen den Verzweigungen des Eisens und hilft mit das Gerippe zu constituiren; ist jedoch fast nur auf Schnittflächen wahrzunehmen. Auf diesen erscheint der Olivin zwischen dem metallischen Eisen und dem Magnetkies in runden, nicht in eckigen Zellen. Durch mäßiges Actzen mit Säuren werden die Ränder oder die Aussenwände des Eisens fast nicht angegriffen und bleiben glänzend oder fast glänzend, während die Mitte oder der Kern des Eisens in ein mit den Rändern paralleles graues und mattes Feld umgeändert wird, das von erhöhten leisten eingefasst und zuweilen mit einzelnen, oder auch mehreren untereinander parallelen Linien durchzogen ist. Der Olivin zeigt verschiedene Nüancen von Grün, vom schönsten und hellsten Pistaziengrün bis zu einem dunklen und schmutzigen Bräunlichgrün. Die einzelnen Olivinkörner besitzen oft unregelmässige Flächen, die durch Berührung mit andern Olivinkörnern und mit den Wänden des Eisens entstanden sind (jedoch sind daran von Gustav Rose auch wahre Krystallflächen beobachtet worden), auch durchziehen den Olivin zuweilen dünne Linien oder Adern von metallischem Eisen.
+Ein Gemenge von gediegenem Eisen mit Olivin (oder Chrysolith) ungefähr in gleichem Verhältnis, und mit etwas Magnetkies. Das gediegene Eisen bildet ein ästiges oder schwammförmiges Gerippe, das der Olivin ausfüllt. Die ästige Gestalt zeigt sich nur dann deutlich, wenn der Olivin aus den Höhlungen herausgefallen ist. Der in weit geringerer Menge vorhandene Magnetkies liegt zwischen den Verzweigungen des Eisens und hilft mit das Gerippe zu konstituieren; ist jedoch fast nur auf Schnittflächen wahrzunehmen. Auf diesen erscheint der Olivin zwischen dem metallischen Eisen und dem Magnetkies in runden, nicht in eckigen Zellen. Durch mäßiges Ätzen mit Säuren werden die Ränder oder die Außenwände des Eisens fast nicht angegriffen und bleiben glänzend oder fast glänzend, während die Mitte oder der Kern des Eisens in ein mit den Rändern paralleles graues und mattes Feld umgeändert wird, das von erhöhten leisten eingefasst und zuweilen mit einzelnen, oder auch mehreren untereinander parallelen Linien durchzogen ist. Der Olivin zeigt verschiedene Nuancen von Grün, vom schönsten und hellsten Pistaziengrün bis zu einem dunklen und schmutzigen Bräunlichgrün. Die einzelnen Olivinkörner besitzen oft unregelmäßige Flächen, die durch Berührung mit andern Olivinkörnern und mit den Wänden des Eisens entstanden sind (jedoch sind daran von Gustav Rose auch wahre Krystallflächen beobachtet worden), auch durchziehen den Olivin zuweilen dünne Linien oder Adern von metallischem Eisen.
 
 Das Meteoreisen von Krasnojarsk unterscheidet sich von jenem von Atacama vorzüglich durch die Beschaffenheit des Olivins und die runde Form der Zellen.
 
-1\. Großes Bruchstück, zum Teil mit natürlicher Oberfläche und unvollkommener Rindenbildung; in einigen Höhlungen schwärzlich angelaufen; mit wenigen zähnigen Hervorragungen; der Olivin ist noch größtenteils vorhanden. — 4 Pfund 15 Loth. — 1. 1. — Dieses Stück kann nicht aus der Mineralien-Sammlung des Freiherrn von Baillou, welche der römische Kaiser Franz 1. im J. 1748 kaufte, wie in dem Verzeichnisse der Metcormassen des k. k. Mineralien-Kabinettes in Chladnis Werke über Feuer-Meteore vermuthet wird, herstammen, sondern muss später angekauft worden sein.
+1\. Großes Bruchstück, zum Teil mit natürlicher Oberfläche und unvollkommener Rindenbildung; in einigen Höhlungen schwärzlich angelaufen; mit wenigen zahnigen Hervorragenden; der Olivin ist noch größtenteils vorhanden. — 4 Pfund 15 Loth. — 1. 1. — Dieses Stück kann nicht aus der Mineralien-Sammlung des Freiherrn von Baillou, welche der römische Kaiser Franz 1. im J. 1748 kaufte, wie in dem Verzeichnisse der Meteormassen des k. k. Mineralien-Kabinettes in Chladnis Werke über Feuer-Meteore vermutet wird, herstammen, sondern muss später angekauft worden sein.
 
-2\. Ein zum Teil ausgezeichnet ästiges Stück, da der Olivin (oder eigentlich Chrysolith) aus einem Teile der Masse herausgefallen ist. Von diesem Mineral befindet sich an einer Stelle der Oberfläche ein schön pistaziengrünes, durchsichtiges, erbsengrosses Korn, mit glatten glänzenden Flächen, das man für einen Krystall halten könnte. Das Stück besitzt eine polierte, aber nur zur Hälfte geätzte Schnitifläche, wodurch sowohl das Gemenge von Eisen, Magnetkies und Olivin, als auch auf dem geätzten Teile die charakteristische Zeichnung des Eisens zum Vorschein kamen. — Ein schönes, höchst ausgezeichnetes und lehrreiches Stück. — 27 1/32 Loth. — 1827. 27. 4042. — Beschrieben und abgebildet in v. Schreibers Beiträgen, Seite 84. Taf. 8. — Aus der von der Nüll'schen Mineralien-Sammlung.
+2\. Ein zum Teil ausgezeichnet ästiges Stück, da der Olivin (oder eigentlich Chrysolith) aus einem Teile der Masse herausgefallen ist. Von diesem Mineral befindet sich an einer Stelle der Oberfläche ein schön pistaziengrünes, durchsichtiges, erbsengroßes Korn, mit glatten glänzenden Flächen, das man für einen Kristall halten könnte. Das Stück besitzt eine polierte, aber nur zur Hälfte geätzte Schnittfläche, wodurch sowohl das Gemenge von Eisen, Magnetkies und Olivin, als auch auf dem geätzten Teile die charakteristische Zeichnung des Eisens zum Vorschein kamen. — Ein schönes, höchst ausgezeichnetes und lehrreiches Stück. — 27 1/32 Loth. — 1827. 27. 4042. — Beschrieben und abgebildet in v. Schreibers Beiträgen, Seite 84. Taf. 8. — Aus der von der Nüll'schen Mineralien-Sammlung.
 
 3\. Ein vollkommen ästiges Stück, fast ohne Olivin, der beim Zerschlagen herausgefallen ist. — 12 7/16 Lth. — 1827. 27. 4043. — Aus der von der Nüll'schen Mineralien-Sammlung.
 
 4\. Kleines Stück mit Olivin und einer geätzten Schnittfläche. — 8 Loth. — 1842. 1. 4. — Aus der Heuland'schen Sammlung durch Herrn Pötschke gekauft.
 
-5\. Kleines Stück mit Olivin und einer anpolierten Fläche. — 6 7/32 Loth. — 1841. 14. 13. — Aus der Heulandschen Sammlung durch Herrn Pötschke gekauft.
+5\. Kleines Stück mit Olivin und einer anpolierten Fläche. — 6 7/32 Loth. — 1841. 14. 13. — Aus der Heuland‘schen Sammlung durch Herrn Pötschke gekauft.
 
 6\. Lose, ausgewählte Körner von Olivin, zusammen 7/8 Loth wiegend. — 1838. 25. 15. — Von Herrn Pötschke gekauft, als Auswahl aus den Abfällen bei dem Zerschlagen eines großen 6 Pfund 12 Loth schweren Stückes von diesem Meteoreisen, aus der ehemals Heulandischen Sammlung.
 
 ### 72\. Brahin.
 
-Am Zusammenflusse des Dnieper und Prypetz, Retschitzer Kreis, Gouv. Minsk, Russland (ehemals Lithauen).
+Am Zusammenflusse des Dnieper und Prypetz, Retschitzer Kreis, Gouv. Minsk, Russland (ehemals Litauen).
 
 Es wurden da im Jahre 1810 (nicht 1809) zwei Stücke gefunden, die zusammen ungefähr 200 Pfund wogen, und wovon der größte Teil in den Jahren 1821 und 1822 an die Universität zu Wilna und von da später mit den Sammlungen der Universität nach Kiew kam.
 
-Aus gediegenem Eisen und Olivin gemengte Masse (Magnetkies wird wohl auch vorhanden sein, ist aber in dem kleinen, uns zu Gebothe stehenden Stücke nicht sichtbar). Das metallische, das schwammförmige Gerippe bildende Eisen scheint schmälere, weniger ausgedehnte Partien zu bilden, als diess bei den analogen Massen von Atacama und Krasnojarsk der Fall ist, und der Olivin (dem sibirischen im Aussehen gleich) fast der vorwaltende Gemengtheil zu sein. Auszeichnend für die Brahiner Masse ist der Umstand, dass bei Ätzung des Eisens, die matt werdenden Mittelfelder verhältnissmässig sehr ausgedehnt und dagegen die sie einschliessenden glänzenden Ränder sehr schmal sind. An dem kleinen Stücke der k. Sammlung ist eine mit ganz kleinen braunen Olivinkörnern besäete Stelle vorhanden; wahrscheinlich eine Stelle der natürlichen Oberfläche der Masse.
+Aus gediegenem Eisen und Olivin gemengte Masse (Magnetkies wird wohl auch vorhanden sein, ist aber in dem kleinen, uns zu Gebote stehenden Stücke nicht sichtbar). Das metallische, das schwammförmige Gerippe bildende Eisen scheint schmälere, weniger ausgedehnte Partien zu bilden, als dies bei den analogen Massen von Atacama und Krasnojarsk der Fall ist, und der Olivin (dem sibirischen im Aussehen gleich) fast der vorwaltende Gemengteil zu sein. Auszeichnend für die Brahiner Masse ist der Umstand, dass bei Ätzung des Eisens, die matt werdenden Mittelfelder verhältnismäßig sehr ausgedehnt und dagegen die sie einschließenden glänzenden Ränder sehr schmal sind. An dem kleinen Stücke der k. Sammlung ist eine mit ganz kleinen braunen Olivinkörnern besäete Stelle vorhanden; wahrscheinlich eine Stelle der natürlichen Oberfläche der Masse.
 
 1\. Fragment mit Olivin und 2 kleinen anpolierten und geätzten Flächen. — 1 1/16 Loth. — 1839. 28. 3. — Aus der Mineralien-Sammlung der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhalten. Das im Berliner Museum befindliche größere Exemplar ist ein Geschenk des Herrn Professors Eichwald in Wilna (jetzt in St. Petersburg).
 
-Über die Eisenmassen von Brahin ist in deutschen wissenschaftlichen Zeitschriften wenig gesagt worden. Nähere Nachrichten darüber findet man in einer kleinen, pohlnisch geschriebenen Schrift von Felix Drzewinski, die in Jahre 1825 zu Wilna erschien, und den Titel führt: Ueher Meteorsteine und die mögliche Ursache ihrer Entstehung. Wir verdanken sie der gütigen Mittheilung des kaiserl. russischen Staatsrathes und Professors von Eichwald in Petersburg.
+Über die Eisenmassen von Brahin ist in deutschen wissenschaftlichen Zeitschriften wenig gesagt worden. Nähere Nachrichten darüber findet man in einer kleinen, polnisch geschriebenen Schrift von Felix Drzewinski, die in Jahre 1825 zu Wilna erschien, und den Titel führt: Über Meteorsteine und die mögliche Ursache ihrer Entstehung. Wir verdanken sie der gütigen Mittheilung des kaiserl. russischen Staatsrates und Professors von Eichwald in Petersburg.
 
 ### 73\. Sachsen.
 
 Steinbach, zwischen Johann Georgenstadt und Eibenstock; oder Naunhof bei Grimma?
 
-Man sehe was Chladni in seinem Werke über Feuer-Meteore, Seite 326, über die Herstammung dieser Eisenmasse bemerkt. — Die Vermutung, dass die in den Sammlungen vorhandenen Stücke des sächsischen Meteoreisens Teile von der vor der Mitte des sechzehnten Jahrhunderts (zwischen den Jahren 1540 und 1550) im Walde bei Naunhof, nicht weit von Grimma (nicht Grimme, wie Chladni schreibt) gefallenen Masse seyen, ist höchst unwahrscheinlich. Die wenigen Stücke, die man vom sächsischen Meteoreisen in Sammlungen findet (wir entdeckten zwei kleine Stücke erst im vorigen Sommer noch in den Mineralien-Sammlungen der königl. Akademie der Wissenschaften zu Stockholm und der Universität zu Uppsala, wo sie als siberisches Eisen lagen), mögen teils von der ansehnlichen Stufe herrühren, die Marggraf bei den Steinbacher Seifenwerken zwischen Eihenstock und Johann Georgenstadt gefunden hat (siehe Lehmann Einleitung in einige Teile der Bergwerkswissenschaft. Berlin, 1751, S. 79), teils von dem Stücke oder den Stücken, die in der Sammlung des ehemaligen sächsischen Berghauptmannes von Schönberg mit der Etiquetie lagen: "ein kurioses Stück gediegen Eisen, so auf dem Felde gefunden worden," und das wohl auch von Steinbach sein dürfte. Weitere Daten über die Ungewissheit, die noch über die Herstammung des vermeintlichen Meteoreisens von Sachsen herrscht, werden weiter unten folgen.
+Man sehe was Chladni in seinem Werke über Feuer-Meteore, Seite 326, über die Herstammung dieser Eisenmasse bemerkt. — Die Vermutung, dass die in den Sammlungen vorhandenen Stücke des sächsischen Meteoreisens Teile von der vor der Mitte des sechzehnten Jahrhunderts (zwischen den Jahren 1540 und 1550) im Walde bei Naunhof, nicht weit von Grimma (nicht Grimme, wie Chladni schreibt) gefallenen Masse seien, ist höchst unwahrscheinlich. Die wenigen Stücke, die man vom sächsischen Meteoreisen in Sammlungen findet (wir entdeckten zwei kleine Stücke erst im vorigen Sommer noch in den Mineralien-Sammlungen der königl. Akademie der Wissenschaften zu Stockholm und der Universität zu Uppsala, wo sie als sibirisches Eisen lagen), mögen teils von der ansehnlichen Stufe herrühren, die Marggraf bei den Steinbacher Seifenwerken zwischen Eibenstock und Johann Georgenstadt gefunden hat (siehe Lehmann Einleitung in einige Teile der Bergwerkswissenschaft. Berlin, 1751, S. 79), teils von dem Stücke oder den Stücken, die in der Sammlung des ehemaligen sächsischen Berghauptmannes von Schönberg mit der Etiquette lagen: "ein kurioses Stück gediegen Eisen, so auf dem Felde gefunden worden," und das wohl auch von Steinbach sein dürfte. Weitere Daten über die Ungewissheit, die noch über die Herstammung des vermeintlichen Meteoreisens von Sachsen herrscht, werden weiter unten folgen.
 
-Aus gediegenem Eisen und einem braunen, stellenweise ins Grüne ziehenden olivinartigen Mineral gemengte Masse, der nur höchst sparsam etwas Magnetkies beigemengt ist. Das Eisen schwammförmig oder ästig, an der Oberfläche der Bruchflächen kurzzähnig, auf Schnittflächen in der olivinartigen Substanz, mehr oder weniger schmale, meist wurmförmig eckrümmte Ausscheidungen mit rundlichen Sinuositäten bildend; die Farbe mehr in dasGrauc als das Silberweisse geneigt (nicht so hell wie bei den fast silberweissen Eisenmassen von Atacama und Sibirien). Werden die Eisenpartien geätzt, so erscheinen dieselben bedeckt mit geraden, nach drei Richtungen gekehrten, glänzenden und hervorragenden Linien und zwischen ihnen matte graue Felder. (Widmanstättensche Figuren.) Das braune, stellenweise ins Grüne ziehende, mit dem Eisen gemengte Mineral ist körnig, jedoch stark zusammenhängend, mit mehr oder weniger deutlicher blätteriger Struktur (Teilbarkeit), und soll nach den Untersuchungen von Stromayer, obwohl mit dem Olivin im Acusseren verwandt, ein eigenthümliches Mineral sein, da es nicht wie der Olivin der Eisenmassen aus Sibirien, Lithauen und Bolivia, als ein einfaches Talkerde-Silicat, sondern als ein Talkerde-Trisilicat zu betrachten ist. (Siehe Göttinger gelehrte Anzeigen, Stück 208 und 209 vom Monathı Dezember 1824.) — Diese interessante Eisenmasse unterscheidet sich von denen von Krasnojarsk, Brahin und Atacama auffallend durch die auf geätzten Flächen zum Vorschein kommenden Widmanstättenschen Figuren, da bei diesen auf den dunkleren Mittelfeldern entweder gar keine Figuren, oder nur einzelne Linien erscheinen.
+Aus gediegenem Eisen und einem braunen, stellenweise ins Grüne ziehenden olivinartigen Mineral gemengte Masse, der nur höchst sparsam etwas Magnetkies beigemengt ist. Das Eisen schwammförmig oder ästig, an der Oberfläche der Bruchflächen kurzzahnig, auf Schnittflächen in der olivinartigen Substanz, mehr oder weniger schmale, meist wurmförmig eckrümmte Ausscheidungen mit rundlichen Sinuositäten bildend; die Farbe mehr in das Grauc als das Silberweiße geneigt (nicht so hell wie bei den fast silberweißen Eisenmassen von Atacama und Sibirien). Werden die Eisenpartien geätzt, so erscheinen dieselben bedeckt mit geraden, nach drei Richtungen gekehrten, glänzenden und hervorragenden Linien und zwischen ihnen matte graue Felder. (Widmanstättensche Figuren.) Das braune, stellenweise ins Grüne ziehende, mit dem Eisen gemengte Mineral ist körnig, jedoch stark zusammenhängend, mit mehr oder weniger deutlicher blätteriger Struktur (Teilbarkeit), und soll nach den Untersuchungen von Stromayer, obwohl mit dem Olivin im Acusseren verwandt, ein eigenthümliches Mineral sein, da es nicht wie der Olivin der Eisenmassen aus Sibirien, Litauen und Bolivia, als ein einfaches Talkerde-Silicat, sondern als ein Talkerde-Trisilikat zu betrachten ist. (Siehe Göttinger gelehrte Anzeigen, Stück 208 und 209 vom Monat Dezember 1824.) — Diese interessante Eisenmasse unterscheidet sich von denen von Krasnojarsk, Brahin und Atacama auffallend durch die auf geätzten Flächen zum Vorschein kommenden Widmanstättenschen Figuren, da bei diesen auf den dunkleren Mittelfeldern entweder gar keine Figuren, oder nur einzelne Linien erscheinen.
 
 1\. a. Kleines Bruchstück, ästig, an der Oberfläche rostbraun; eine kleine Fläche ist poliert und geätzt, wodurch Widmanstättensche Figuren zum Vorschein kamen. — 7/32 Loth. — 1809. 9. 1. — Wurde von dem verstorbenen Präsidenten von Schlotheim in Gotha im Jahre 1809 als Geschenk erhalten, und ist ein Abschnitt von dem Stücke von 145/, Loth Wiener Gewicht, das ehemals in von Schlotheims Mineralien-Sammlung lag, (aus der es das kaiserl. Mineralien-Kabinett um den Preis von 100 Stück Louis d'or hätte kaufen können) und dienach seinem Tode nach St, Petersburg verkauft wurde. Es stammt, wie das 1 Pfund 29 Loth Wiener Gewicht schwere Stück im herzogl. Naturalien-Kabinett zu Gotha, aus der Sammlung des ehemaligen sächsischen Berghauptmannes von Schönberg.
 
-1\. b. KleinesBruchstück, angeblich, aber fälschlich vom Senegal, mit stark geätzter Fläche. — 9/32 Loth. — 1838. 25. 14. — Mit der Lokalität Senegal aus der ehemals Heuland'schen, dann Heath'schen Meteoriten-Sammlung, durch Herrn Pötschke erkauft. Das Stück lag früher in der vonHerrn Heulaud erkauften Sammlung des Marquis de Dree, in welcher es Bigot de Morogues und Chladni sahen und desselben in ihren schon früher angeführten Werken, Seite 33 und 335, erwähnen.
+1\. b. Kleines Bruchstück, angeblich, aber fälschlich vom Senegal, mit stark geätzter Fläche. — 9/32 Loth. — 1838. 25. 14. — Mit der Lokalität Senegal aus der ehemals Heuland'schen, dann Heath'schen Meteoriten-Sammlung, durch Herrn Pötschke erkauft. Das Stück lag früher in der vonHerrn Heulaud erkauften Sammlung des Marquis de Dree, in welcher es Bigot de Morogues und Chladni sahen und desselben in ihren schon früher angeführten Werken, Seite 33 und 335, erwähnen.
 
-1\. c. Kleines Bruchstück, angeblich, aber fälschlich von Tabor in Böhmen (nach Borns irriger, durch eine Verwechslung entstandener Angabe im Lithophylacium Bornianum B. 1. S. 125), mit kleiner anpolirter Fläche. — 14/32 Loth, gut. — 1839. 22. 8. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Professor Weiss in Tausch erhalten, Stammt aus der Klaproth'schen Mineralien-Sammlung.
+1\. c. Kleines Bruchstück, angeblich, aber fälschlich von Tabor in Böhmen (nach Borns irriger, durch eine Verwechslung entstandener Angabe im Lithophylacium Bornianum B. 1. S. 125), mit kleiner anpolierter Fläche. — 14/32 Loth, gut. — 1839. 22. 8. — Von der Mineralien-Sammlung der königl. Universität zu Berlin durch Professor Weiss in Tausch erhalten, Stammt aus der Klaproth'schen Mineralien-Sammlung.
 
-1\. d. Kleines Bruchstück, angeblich, aber fälschlich aus Sibirien, mit geätzter Fläche. — 23/32 Loth. — Aus den Doubletten. — Wurde durch Herrn Direktor von Schreibers vor mehreren Jahren von Hofrath von Gersdorf eingetauscht, welcher dieses Stück von Professor Chladni ebenfalls in Tausch als Meteoreisen von Sibirien erhielt. (War damahls jedoch weder poliert noch geätzt.)
+1\. d. Kleines Bruchstück, angeblich, aber fälschlich aus Sibirien, mit geätzter Fläche. — 23/32 Loth. — Aus den Doubletten. — Wurde durch Herrn Direktor von Schreibers vor mehreren Jahren von Hofrath von Gersdorf eingetauscht, welcher dieses Stück von Professor Chladni ebenfalls in Tausch als Meteoreisen von Sibirien erhielt. (War damals jedoch weder poliert noch geätzt.)
 
 2\. Großes Bruchstück, das gediegene Eisen an der Oberfläche (die aus Bruchflächen besteht), kurzzähnig, mit einer anpolierten Schnittfläche. — 1 Pfund 14 1/32 Lth. — 1. 2.
 
@@ -1717,9 +1711,9 @@ Diese, wegen Kleinheit der zu Gehothe gestandenen zwei Stückchen unvollkommene 
 
 1\. Ganz kleines (unverändertes) Stückchen mitschön geätzter Fläche , worauf kleine, meist rundliche Partien eines erdigen braunen Minerals eingemengt erscheinen. — 1/16 Loth oder 15 1/2 Gran. — 1840. 1. 2. — Vom Mineralien-Kabinette der königl. Universität zu Berlin durch Herrn Professor Weiss in Tausch erhalten. Wurde von dem kleinen Stücke von nahe 200 Gran abgeschnitten, das früher in Chladnis Sammlung lag. Der verstorbene Chladni erhielt es durch Herrn Professor Steininger von der Gesellschaft nützlicher Forschungen in Trier. Das Stück war früher in Besitz von Doktor Schmitz, Kreisphysikus zu Hillesheim in der Eifel. (Siehe darüber Schweiggers Journal für Chemie und Physik. Band 46, S. 38 und 392).
 
-Das in der Mineralien-Sammlung des Gymnasiums zu Trier noch vorhandene kleine Stück unveränderten Bitburger Eisens (das wir im Jahre 1840 auf einer bloß in dieser Absicht unternommenen Seitentour zu schen Gelegenheit nahmen) wiegt 1 Loth 1 Quentchen und 51 Gran Nürnberger Apotheker Gewicht. Es war damabls nicht anpolirt und daher nicht aufgeschlossen. Wegen Kleinheit und der sehr unebenen Beschaffenheit des Stückes konnten wir davon keinen Abschnitt für unsere Sammlung erhalten. Die olivinartige Substanz ist daran demungeachtet gut erkennbar; sie soll nach Herrn Professor Steiniuger leicht schmelzbar sein, und aus einem Eisensilicat bestehen, Diess kostbare Eisenstückchen stammt von dem verstorbenen Appellationsgerichtsrathe Seippel in Trier her, der es selbst von der Masse abschlug, als sie auf dem Durchwege von Bitburg nach dem Frischofen zu Pluwig in Trier gewogen wurde. Von ihm kam das Stück an den Domdechant Castello und später mit dem anderen, nun in Berlin befindlichen Stückchen an Doktor Schmitz, durch welchen Herr Professor Nöggerath in Bonn im Jahre 1814 die erste mündliche Nachricht, aber leider nur von dem Vorhandensewesenseyn dieser höchst merkwürdigen Masse erhielt.
+Das in der Mineralien-Sammlung des Gymnasiums zu Trier noch vorhandene kleine Stück unveränderten Bitburger Eisens (das wir im Jahre 1840 auf einer bloß in dieser Absicht unternommenen Seitentour zu schen Gelegenheit nahmen) wiegt 1 Loth 1 Quentchen und 51 Gran Nürnberger Apotheker Gewicht. Es war damabls nicht anpoliert und daher nicht aufgeschlossen. Wegen Kleinheit und der sehr unebenen Beschaffenheit des Stückes konnten wir davon keinen Abschnitt für unsere Sammlung erhalten. Die olivinartige Substanz ist daran demungeachtet gut erkennbar; sie soll nach Herrn Professor Steiniuger leicht schmelzbar sein, und aus einem Eisensilicat bestehen, Diess kostbare Eisenstückchen stammt von dem verstorbenen Appellationsgerichtsrathe Seippel in Trier her, der es selbst von der Masse abschlug, als sie auf dem Durchwege von Bitburg nach dem Frischofen zu Pluwig in Trier gewogen wurde. Von ihm kam das Stück an den Domdechant Castello und später mit dem anderen, nun in Berlin befindlichen Stückchen an Doktor Schmitz, durch welchen Herr Professor Nöggerath in Bonn im Jahre 1814 die erste mündliche Nachricht, aber leider nur von dem Vorhandensewesenseyn dieser höchst merkwürdigen Masse erhielt.
 
-2\. Kleines, doch fast 1 Zoll langes (nicht im Feuer gewesenes) Stückchen, mit einer polierten, zur Hälfte schwach geätzten Schnittfläche. Das Eisen ist darauf in 3 Partien gesondert, die voneinander durch eine schmutziggelbe, ins Braune ziehende olivinartige Substanz getrennt sind, welche wieder höchst feine Pünktchen von gediegenem Eisen enthält; auf der Rückseite, wo das Stückchen vielleicht durch Auswitterung der olivinartigen Substanz, eine poröse Beschaffenheit zeigt, scheint etwas natürliche Oberfläche vorhanden zu sein. — 5/16 Loth, oder 75 1/2 Gran. — 1842. 34. 2. — Durch den Curator am Yale-College zu New-Haven im Staate Connecticut, Herrn Professor Silliman in Tausch erhalten.
+2\. Kleines, doch fast 1 Zoll langes (nicht im Feuer gewesenes) Stückchen, mit einer polierten, zur Hälfte schwach geätzten Schnittfläche. Das Eisen ist darauf in 3 Partien gesondert, die voneinander durch eine schmutziggelbe, ins Braune ziehende olivinartige Substanz getrennt sind, welche wieder höchst feine Pünktchen von gediegenem Eisen enthält; auf der Rückseite, wo das Stückchen vielleicht durch Auswitterung der olivinartigen Substanz, eine poröse Beschaffenheit zeigt, scheint etwas natürliche Oberfläche vorhanden zu sein. — 5/16 Loth, oder 75 1/2 Gran. — 1842. 34. 2. — Durch den Kurator am Yale-College zu New-Haven im Staate Connecticut, Herrn Professor Silliman in Tausch erhalten.
 
 In das Museum des Yale-College in New-Haven kam mit der Mineralien-Sammlung des verstorbenen, schon früher erwähnten Obersten Gibbs das Stückchen unveränderten Bitburger Eisens, das derselbe im Jahre 1805 von der Masse noch in Bitburg selbst abschlug. Nun liegt aber im Yale-College kein gediegenes Eisen weder mit der Etiquette Bitburg, noch mit der Etiquette Ardennen, wohin der Oberste Bitburg früher vorlegte, sondern ein 500 Gran schweres Stück gediegenes Eisen, von dem das unter Nr. 2 beschriebene ein Abschnitt ist, mit der Bezeichnung: "aus der Auvergne." Durch Zerstreuung oder einen Gedächtnissfehler musste also Bitburg aus den Ardennen nunmehr nach der Auvergne wandern; denn aus dem letzteren Lande ist außer natürlichem Stahl, der ein pseudovulkanisches Produkt ist, nie eine Lokalität von Meteoreisen bekannt geworden und das aus New-Haven erhaltene Muster stimmt fast ganz mit denzwei anderen noch vorhandenen Stückchen unveränderten Bitburger Eisens in den Sammlungen von Trier und Berlin überein.
 
@@ -1731,7 +1725,7 @@ Seit 1784 durch Nachrichten in der Gazeta di Mexico bekannt; mehr durch Chladni,
 
 Gediegenes Eisen, derb, dicht, ohne sichtbare Beimengung (auch Magnetkies ist an dem kleinen Stücke der Sammlung, das außer einer stark geätzten, meist nur gehämmerte oder gequetschte Flächen besitzt, nicht zu schen, obwohl er kaum fehlen wird). Durch Ätzung mit Säuren erscheinen (wenigstens an dem Stücke der Sammlung) Widmanstättische Figuren, welche verschobene Vierecke, also Streifung nur nach zwei Richtungen (nicht wie es gewöhnlich ist, Streifung nach drei Richtungen und daher Dreiecke) zeıgen.
 
-Da zu dieser Diagnose uns nur das kleine Stück unserer Sammlung zu Gebothe stand, halten wir dieselbe für unvollständig. Im Berliner Museum liegen mehrere, aber zur wissenschaftlichen Untersuchung noch nicht zugerichtete Stücke von Toluca, aus verschiedenen Quellen.
+Da zu dieser Diagnose uns nur das kleine Stück unserer Sammlung zu Gebote stand, halten wir dieselbe für unvollständig. Im Berliner Museum liegen mehrere, aber zur wissenschaftlichen Untersuchung noch nicht zugerichtete Stücke von Toluca, aus verschiedenen Quellen.
 
 1\. Dreieckiges Stück von einer der größtenteils kleinen, nur einzelne Pfunde oder Unzen schweren Massen, welche da auf den Feldern herum lagen (noch liegen?), und von den Indianern und Grundeigenthümern zu Ackergeräthen verwendet wurden; mit einer stark geätzten Fläche mit Widmanstättischen Figuren, zwei, etwas unebenen Schnitt-, einer kleinen gehämmerten und einer noch kleineren Bruchfläche mit hackigem Bruche. Eine körnige Fläche scheint von der natürlichen Oberfläche der Masse zu sein. — 3 7/32 Loth. — 1810. 2. 1. — Beschrieben und (jedoch nicht gut) abgebildet in von Schreibers angeführten Beiträgen, Seite 78, Taf. 8, Mittelfigur links. — Vom verstorbenen Professor Klaproth in Berlin als Abschnitt von einem von Herrn Alexander v. Humboldt herrührenden, und nun in der Berliner königl. Mineralien-Sammlung befindlichen Stücke gekauft.
 
@@ -1741,23 +1735,23 @@ bei Carlsbad in Böhmen.
 
 Die Fallzeit ist unbekannt. Die ursprünglich 191 Wiener Pfund schwer gewesene Eisenmasse war seit Jahrhunderten unter dem Namen: der verwünschte Burggraf auf dem Rathhause zu Elbogen aufbewahrt, ist aber erst im Jahre 1811 (von dem Herrn Gubernialrath Neumann in Prag) als Meteorit erkannt worden.
 
-Derbes und dichtes gediegenes Eisen, mit hie und da in Körnern eingesprengtem, oder in Linien eingewachsenem Magnetkies. Durch Anlaufen in der Hitze, noch besser durch Actzen mit Säuren, erscheinen jene merkwürdigen von ihrem Entdecker Herrn von Widmannstätten in Wien benannten Figuren in großer Vollkommenheit. Sie bilden meist gleichseitige Dreiecke, die von Streifen von mässiger Breite umschlossen sind.
+Derbes und dichtes gediegenes Eisen, mit hie und da in Körnern eingesprengtem, oder in Linien eingewachsenem Magnetkies. Durch Anlaufen in der Hitze, noch besser durch Actzen mit Säuren, erscheinen jene merkwürdigen von ihrem Entdecker Herrn von Widmannstätten in Wien benannten Figuren in großer Vollkommenheit. Sie bilden meist gleichseitige Dreiecke, die von Streifen von mäßiger Breite umschlossen sind.
 
 Das Nihere und bisher einzige Erschöpfende über diese Widmanstättenschen Figuren findet man in den schon oft angeführten Beiträgen zur Geschichte und Kenntnis metevrischer Stein- und Metall-Massen von Carl von Schreibers, S. 70 u. f. Es kann hier nur angeführt werden, dass bei diesen, mit der kristallinischen Struktur und der chemischen Beschaffenheit der Meteoreisen-Massen zusammenhängenden Figuren dreierlei zu unterscheiden ist: 1. Streifen, die meist nach drei Richtungen gehen, beim Ätzen des Meteoreisens mit Säuren, da sie das reinste oder am wenigsten mit Nickel legirte Eisen enthalten, am leichtesten aufgelöst werden, und daher die vertieftesten Stellen der geätzten Oberfäche bilden. 2. Zwischenfelder, von diesen Streifen eingeschlossen, Dreiecke, Vierecke und andere Figuren darstellend, und aus einer körnigen, von Säuren weniger als die Streifen angreifbaren Masse bestehend, die von feinen erhabenen Linien (Schraffirungslinien oder Leisten) nach einer oder mehreren Richtungen durchzogen ist. 3. Einfassungsleisten, oder erhabene uud glänzende, die Streifen und Zwischenfelder einfassende und sie voneinander trennende Linien, die von der Säure nicht oder nur wenig angegriffen werden, daher am meisten hervorragen und noch den Glanz der polierten Fläche beibehalten haben. Sie enthalten nach den Untersuchungen von Berzelius mehr Nickel als die Streifen und Zwischenfelder, und sind daher am wenigsten von Säuren angreifbar.
 
 1\. Eine unregelmässige Masse von fast dreieckiger Form (die man der cines Pferdekopfes ähnlich gefunden hat), 141 Wiener Pfund an Gewicht, von welcher vor der Ausfolgung in Elbogen das vordere oder dünnere Ende von mehr als 40 Pfunden abgesäget, und zum Andenken daselbst zurückbehalten wurde.
 
-Die Masse wog, wie schon angeführt worden ist, ursprünglich 191 Pfund, wovon nach des Direktors von Schreibers Verzeichnis der Meteoriten des k. k. Mineralien-Kabineltes in Chladnis Feuer-Meteoren, S. 433, 150 Pfund nach Wien gekommen sind. Durch das Abschneiden einer Platte‚ die zerschnitten, zu Tauschen und Versuchen verwendet wurde, wie auch durch das Poliren und Ätzen der neuen großen Schnittfläche, hat das Stück 9 Pfund verloren. — Ausser dem großen im k. k. Mineralien-Kabinette aufbewahrten Stücke, das mehr alszwei Drittel der ursprünglichen Elbogner Eisenmasse ausmacht, sind nurnoch zweiandere Stücke dieser Kiscumasse von anschnlicber Größe vorhanden. Das auf dem Bathhause zu Elbogen befindliche Stück wog im Jahre 1838 noch 27 Pfund. Das Universitäts-Museum zu Prag bewahrt ein von dem Elbogner Stück ahgesägtes Exemplar von 11 Pfund 18 1/4 Loth. Wir haben von diesen zwei Stüken durch die gütige Bemühung der Herren Wilhelm Haidinger und Professor Presl Gypsahsüsse erhalten, ım die Masse im Wiener Kabinette ergänzen zu können.
+Die Masse wog, wie schon angeführt worden ist, ursprünglich 191 Pfund, wovon nach des Direktors von Schreibers Verzeichnis der Meteoriten des k. k. Mineralien-Kabineltes in Chladnis Feuer-Meteoren, S. 433, 150 Pfund nach Wien gekommen sind. Durch das Abschneiden einer Platte‚ die zerschnitten, zu Tauschen und Versuchen verwendet wurde, wie auch durch das Poliren und Ätzen der neuen großen Schnittfläche, hat das Stück 9 Pfund verloren. — Ausser dem großen im k. k. Mineralien-Kabinette aufbewahrten Stücke, das mehr alszwei Drittel der ursprünglichen Elbogner Eisenmasse ausmacht, sind nurnoch zweiandere Stücke dieser Kiscumasse von anschnlicber Größe vorhanden. Das auf dem Bathhause zu Elbogen befindliche Stück wog im Jahre 1838 noch 27 Pfund. Das Universitäts-Museum zu Prag bewahrt ein von dem Elbogner Stück ahgesägtes Exemplar von 11 Pfund 18 1/4 Loth. Wir haben von diesen zwei Stüken durch die gütige Bemühung der Herren Wilhelm Haidinger und Professor Presl Gipsahsüsse erhalten, ım die Masse im Wiener Kabinette ergänzen zu können.
 
-Das am kaiserl. Mineralien-Kabinette befindliche große Stück ist 11 1/2 Zoll lang und 12 1/2 Zoll hoch; die große geätzte Schnittfläche ist 8 Zoll hoch, 7 Zoll breit und zeigt auf das Vollkommenste die Widmanstättenschen Figuren. Ein unmittelbarer Abdruck oder Autograph von dieser Fläche befindet sich in des Direktors v. Schreibers öfter angefürtem Werke, Taf. 9., die Beschreibung S. 72. Die Oberfläche der Masse ist auf den hervorragenderen Teilen stark abgerieben, und zeigt auch da das krystallinische Gefüge ungemein deutlich. — 1812. 59. 1. — Wurde auf Veranlassung des Naturalien-Kabinetts-Direktors v. Schreibers im Jahre 1812 von dem Magistrate zu Elbogen als ein kostbares Geschenk erhalten. — Das Weitere über diese höchst merkwürdige Masse findet man in Chladnis angeführtem Werke über Feuer-Meteore, S. 327, und in einem kleinen zu Carlsbad im Jahre 1834 erschienenen Werkchen: "Der verwünschte Burggraf von Elbogen. Ein Andenken an Elbogen für die Herren Carlsbader Brunnen-Gäste."
+Das am kaiserl. Mineralien-Kabinette befindliche große Stück ist 11 1/2 Zoll lang und 12 1/2 Zoll hoch; die große geätzte Schnittfläche ist 8 Zoll hoch, 7 Zoll breit und zeigt auf das Vollkommenste die Widmanstättenschen Figuren. Ein unmittelbarer Abdruck oder Autograph von dieser Fläche befindet sich in des Direktors v. Schreibers öfter angefürtem Werke, Taf. 9., die Beschreibung S. 72. Die Oberfläche der Masse ist auf den hervorragenderen Teilen stark abgerieben, und zeigt auch da das kristallinische Gefüge ungemein deutlich. — 1812. 59. 1. — Wurde auf Veranlassung des Naturalien-Kabinetts-Direktors v. Schreibers im Jahre 1812 von dem Magistrate zu Elbogen als ein kostbares Geschenk erhalten. — Das Weitere über diese höchst merkwürdige Masse findet man in Chladnis angeführtem Werke über Feuer-Meteore, S. 327, und in einem kleinen zu Carlsbad im Jahre 1834 erschienenen Werkchen: "Der verwünschte Burggraf von Elbogen. Ein Andenken an Elbogen für die Herren Carlsbader Brunnen-Gäste."
 
-2\. Ein parallelepipedisches Stück, von welchem 5 Seiten, sämtlich Schnittflächen, geätzt und dann angelaufen wurden, wodurch das krystallinische Gefüge und die ungleiche Fähigkeit zum Anlaufen auf das Schönste zum Vorschein kamen; die sechste Fläche ist eine natürliche von der Oberfläche der Masse. — 2 15/16 Loth. — Wurde beim Schneiden der großen Fläche am Stücke Nr. 1 als Abschnitt erhalten.
+2\. Ein parallelepipedisches Stück, von welchem 5 Seiten, sämtlich Schnittflächen, geätzt und dann angelaufen wurden, wodurch das kristallinische Gefüge und die ungleiche Fähigkeit zum Anlaufen auf das Schönste zum Vorschein kamen; die sechste Fläche ist eine natürliche von der Oberfläche der Masse. — 2 15/16 Loth. — Wurde beim Schneiden der großen Fläche am Stücke Nr. 1 als Abschnitt erhalten.
 
-3\. a. Ein ringsum mässig geätztes parallelepipedisches Stückchen mit Magnetkies. — 1 1/4 Loth.
+3\. a. Ein ringsum mäßig geätztes parallelepipedisches Stückchen mit Magnetkies. — 1 1/4 Loth.
 
 3\. b. Kleines parallelepipedisches Stückchen, ringsum schwach geätzt mit Magnetkies. — 9/16 Loth.
 
-3\. c. und d. Zwei, ringsum mässig geätzte kleine Würfel; an einem davon ist eine Würfelecke abgeschnitten. Der Magnetkies ist beim Ätzen zum Teil herausgefallen. — Zusammen 1/2 Loth. — Wie a und b als Abschnitte von Nr. 1 erhalten. Sie dienen zum Studium der Widmanstättenschen Figuren, da die große Masse Nr. 1 nicht leicht beweglich ist, und die kleinen Stücke auch mehrere aufeinander senkrecht stehende Flächen darbieten.
+3\. c. und d. Zwei, ringsum mäßig geätzte kleine Würfel; an einem davon ist eine Würfelecke abgeschnitten. Der Magnetkies ist beim Ätzen zum Teil herausgefallen. — Zusammen 1/2 Loth. — Wie a und b als Abschnitte von Nr. 1 erhalten. Sie dienen zum Studium der Widmanstättenschen Figuren, da die große Masse Nr. 1 nicht leicht beweglich ist, und die kleinen Stücke auch mehrere aufeinander senkrecht stehende Flächen darbieten.
 
 4\. a. Ein parallelepipedisches Stückchen, ringsum poliert, mit fein eingesprengtem Magneikies. — 1 3/32 Loth.
 
@@ -1773,7 +1767,7 @@ Gefallen am 26. Mai 1751, Abends um 6 Uhr.
 
 Wenn nicht durch gleichzeitige Zeitungsnachrichten ist dieser Meteoritenfall, (der aber damals und noch lange darnach nicht geglaubt, vielmehr verlacht wurde) wahrscheinlich erst durch Güssmanns Lithophylaceum Mitisianum im J. 1785 der wissenschaftlichen Welt bekannt geworden.*
 
-*) Der Verfasser sagt daselbst, nachdem das KEreigniss von Hraschina kurz erzählt worden, S. 127 weiters von unserer Eisenmasse: Massa illarum major caesareo Viennensi illata Museo paucos adhuc ante annos in eodem ostendabatur, primum inter lapides e coelo lapsos relata, non plane falso, sed male aptato vocabulo; deinde cum phaenomeni causa ignota esset, boc nomine irrisa ac neglecta. Ein Vorstand des k. k. Mineralien-Kabinetts Ahbhe Stütz fügte noch im J. 1790 bei Gelegenheit der Bekanntmachung der Urkunde über den Fall der Agramer Eisenmasse (im 2. Bande der Berghaukunde, Seite 407) folende Bemerkung bei: dass das Eisen vom Himmel gefallen sein soll, mögen der Naturgeschichte Unkundige glauben, mögen wohl im J. 1751 selhst Deutschlands aufgeklärtere Köpfe bei der damahls unter uns herrschenden Ungewissheit in der Naturgeschichte und practischen Physik geglaubt haben; aber in unsern Zeiten wäre es unverzeihlich, solche Mährchen auch nur wahrscheinlich zu finden.
+*) Der Verfasser sagt daselbst, nachdem das KEreigniss von Hraschina kurz erzählt worden, S. 127 weiters von unserer Eisenmasse: Massa illarum major caesareo Viennensi illata Museo paucos adhuc ante annos in eodem ostendabatur, primum inter lapides e coelo lapsos relata, non plane falso, sed male aptato vocabulo; deinde cum phaenomeni causa ignota esset, boc nomine irrisa ac neglecta. Ein Vorstand des k. k. Mineralien-Kabinetts Ahbhe Stütz fügte noch im J. 1790 bei Gelegenheit der Bekanntmachung der Urkunde über den Fall der Agramer Eisenmasse (im 2. Bande der Berghaukunde, Seite 407) folende Bemerkung bei: dass das Eisen vom Himmel gefallen sein soll, mögen der Naturgeschichte Unkundige glauben, mögen wohl im J. 1751 selhst Deutschlands aufgeklärtere Köpfe bei der damals unter uns herrschenden Ungewissheit in der Naturgeschichte und practischen Physik geglaubt haben; aber in unsern Zeiten wäre es unverzeihlich, solche Mährchen auch nur wahrscheinlich zu finden.
 
 Allgemeiner bekannt wurde dieser Meteoritenniederfall und unsere Eisenmasse im J. 1794 durch die berühmte Schrift von Chladni: "Über den Ursprung der von Pallas scfundenen und anderer ihr ähnlichen Eisenmassen, und über einige damit in Verbindung stehende Naturerscheinungen." Riga 1794. 4.
 
@@ -1783,7 +1777,7 @@ Gediegenes Eisen, derb, dicht, hie und da mit Magnetkies gemengt, auf polierten 
 
 Von allen bekannten meteorischen Kisenmassen ist die Agramer die einzige, deren Herabfalleu samt allen Nebenumständen beobachtet worden ist; sie ist sowohl in dieser Hinsicht, als durch ihre vortreffliche Erhaltung, durch die Eigenthümlichkeit ihrer Oberfläche, die Rinde von doppelter Beschaffenheit, die Vollkommenheit der Widmanstättenschen Figuren u. s. w. die merkwürdigste und kestharste von allen in Sammlungen aufbewahrten Meteoreisenmassen, welcher nur zwei andere Massen, nämlich die ebenfalls noch vollkommen ganze, aber an der Oberfläche stark abgenützte, dagegen weit größere, 591 Kilogrammen wiegende Eisenmasse von Caille, Departement du Var, Frankreich, im k. Museum der Naturgeschichte zu Paris. dann die noch größere Eisenmasse von 3000 Pfund im Yale-Collegium zu New-Haven im nordamerikanischen Staate Connecticut, die jedoch ebenfalls undenkliche Zeit lang unter freiem Himmel lag, etwa den Rang streitig machen könnten, Andere meteorische Eisenmassen von ansehnlicher Größe, womit jedoch der wissenschaftliche Werth nicht zunimmt, befinden sich im brittischen Museum zu London und in der Mineralien-Sammlung der Akademie der Wissenschaften zu St. Petersburg; im ersteren ein Block, an Gewicht 1400 engl. Pfund, von der auf 30.000 Pfund geschätzten Eisenmasse in der Provinz Tucuman, Republik Buenos-Ayres; in der zweiten die Pallasische Eisenmasse von Krasnojarsk in Sibirien, gegenwärtig noch 1270 russische Pfunde schwer, von deren Oberfläche aber so viele Stücke abgeschlagen worden sind, dass sie jetzt eine ganz abgerundete Masse darstellt. An wissenschaftlichem und historischem Interesse kaun, vorzüglich durch die herrliche von Herrn v. Widınannstätten geätzte große Schnittfläche, die deren Inneres aufschloss, nur die große Elhogner Masse im k. k. Mineralien-Kabinette der Masse von Agram an die Seite gesetzt werden, Einen noch nicht aufgeschlossenen Schatz besitzt das vaterländische Museum zu Prag an der Bohumilitzer Eisenmasse.
 
-2\. Kleines Stück, ein Teil des vom vorigen abgesägten, mit natürlicher, schwach überrindeter, und mit drei aufeinander senkrecht stehenden, schwach geätzten Schnittllächen. Um einen Teil dieses kostbaren Stückchens, (da von der Masse nichts mehr abgesägt werden soll) zieht sich zwischen dem gediegenen Eisen der Masse und der schwarzen Rinde, und mit dieser zum Teil in Schichten abwechselnd, eine zweite Rinde von Magnetkies herum. — 2 1/8 Loth.
+2\. Kleines Stück, ein Teil des vom vorigen abgesägten, mit natürlicher, schwach überrundeter, und mit drei aufeinander senkrecht stehenden, schwach geätzten Schnittllächen. Um einen Teil dieses kostbaren Stückchens, (da von der Masse nichts mehr abgesägt werden soll) zieht sich zwischen dem gediegenen Eisen der Masse und der schwarzen Rinde, und mit dieser zum Teil in Schichten abwechselnd, eine zweite Rinde von Magnetkies herum. — 2 1/8 Loth.
 
 3\. Kleine Platte, ebenfalls ein Teil des Stückes, das von der Masse 1 abgesägt wurde; 2 Zoll 2 Linien lang; die eine Fläche schön geätzt und mit Widmanstättenschen Figuren bedeckt, die andere poliert. — 19/32 Loth. — Beschrieben und nicht gut abgebildet in von Schreibers Beiträgen, Seite 76. Tafel 8, Mittelfigur rechts.
 
@@ -1809,7 +1803,7 @@ Derbes und dichtes gediegenes Eisen mit mehr oder weniger, in Körnern und Linie
 
 3\. Tiefgeätzte dreieckige Platte, aus der die Einfassungsleisten ungemein schön hervorragen; Mittelfelder sind weniger vorhanden. Merkwürdig ist dieses Stück auch durch den Umstand, dass die eben nicht dicke Platte an den zwei großen einander entgegengesetztien parallelen Flächen auffallend verschiedene Zeichnung zeigt, da auf der einen nur wenige Einfassungsleisten und fast gar keine Zwischenfelder vorhanden sind. Die feinkörnige Masse, welche die Streifen bildet, ist hier sehr ausgedehnt und vorherrschend. — 3 19/32 Loth. — 1840. 24. 1. — Durch Herrn Ritter von Pittoni in Grätz zu Kauf erhalten. — Stammt aus der Mineralien-Sammlung des H. v. Patschovski in Triest.
 
-4\. Unregelmässige Platte, von der einen Seite fein poliert, von der anderen sehr schwach geätzt. Die Streifen der geätzten Fläche sind punctirt, ein Umstand, der etwas räthselhaft ist, und von ungleicher Auflöslichkeit im ersten Stadium der Säureeinwirkung herrühren mag, Die zweite, spiegelhell polierte Fläche zeigt außer fein eingesprengtem Magnetkies, nach gewissen Richtungen gehalten, ziemlich deutlich die feinen Einfassungsleisten und somit eine Skizze der Widmanstättenschen Figuren, was dadurch erklärlich wird, dass die Einfassungsleisten (eine Legirung von Eisen mit Nickel oder sogenannter Meteorstahl) härter sind, als die Streifen und Mittelfelder und daher eine höhere Politur aunehmen. — 1 31/32 Loth. — Von Nr. 1 abgeschnitten.
+4\. Unregelmässige Platte, von der einen Seite fein poliert, von der anderen sehr schwach geätzt. Die Streifen der geätzten Fläche sind punctirt, ein Umstand, der etwas räthselhaft ist, und von ungleicher Auflöslichkeit im ersten Stadium der Säureeinwirkung herrühren mag, Die zweite, spiegelhell polierte Fläche zeigt außer fein eingesprengtem Magnetkies, nach gewissen Richtungen gehalten, ziemlich deutlich die feinen Einfassungsleisten und somit eine Skizze der Widmanstättenschen Figuren, was dadurch erklärlich wird, dass die Einfassungsleisten (eine Legierung von Eisen mit Nickel oder sogenannter Meteorstahl) härter sind, als die Streifen und Mittelfelder und daher eine höhere Politur aunehmen. — 1 31/32 Loth. — Von Nr. 1 abgeschnitten.
 
 5\. Eine gleich große Platte, durch Teilung des vorigen Stückes erhalten; beiderseits fein poliert und ungemein schön angelaufen, mit den vollkommensten Widmanstättenschen Figuren geziert. — 2 5/32 Loth. — Von Nr. 1 und rücksichtlich Nr. 4.
 
@@ -1863,9 +1857,9 @@ Istim Jahre 1830 durch Professor Shepard in Sillimans American Journal bekannt g
 
 Die bei Guilford befindlich gewesene Eisenmasse, deren ursprüngliches Gewicht unbekannt ist, wurde von den Schmieden der Umgegend lange zur Verfertigung von Nägeln, Hufeisen u. dgl. benützt. Den Rest der Masse, die nur noch 200 Grammen wog, brachte Professor Denison Olmstedt naeh dem Yale-Collegium zu Newhaven in Connecticut.
 
-Derbes und dichtes gediegenesEisen (wie fast nicht zu bezweifeln mit etwas Magnetkies gemengt); auf polierten, und dann durch Hitze oder mit Säuren behandelten Flächen, sehr vollkommene Widmannstätten'sche Figuren zeigend. (Eine weitere Beschreibung erlaubt die Kleinheit des uns zu Gebothe stehenden Stückes nicht.)
+Derbes und dichtes gediegenesEisen (wie fast nicht zu bezweifeln mit etwas Magnetkies gemengt); auf polierten, und dann durch Hitze oder mit Säuren behandelten Flächen, sehr vollkommene Widmannstätten'sche Figuren zeigend. (Eine weitere Beschreibung erlaubt die Kleinheit des uns zu Gebote stehenden Stückes nicht.)
 
-1\. Kleines unregelmässiges dreieckiges Plätichen, von einer Seite poliert und geätzt, von der anderen angefeilt. — 15/32 Loth. — 1842. 34. 3. — Vom Yale-College zu New-Haven in Nord-Amerika durch den Curator Herrn Silliman in Tausch erhalten.
+1\. Kleines unregelmässiges dreieckiges Plätichen, von einer Seite poliert und geätzt, von der anderen angefeilt. — 15/32 Loth. — 1842. 34. 3. — Vom Yale-College zu New-Haven in Nord-Amerika durch den Kurator Herrn Silliman in Tausch erhalten.
 
 ### 82\. Caille,
 
@@ -1897,7 +1891,7 @@ Cosbys-Creek, Cocke-County, im östlichen Tennessee, in den vereinigten Staaten 
 
 Bekannt seit 1840 durch einen Aufsatz von Professor Troost zu Nashville in Sillimans American-Journal. — Es soll da eine Masse von 2000 Pfund liegen.
 
-Derbes und dichtes gediegenes Eisen, mit wenig Magnetkies (und nach der Angabe von Professor Troost mit viel Graphit) gemengt. Uns stehen nur kleine durch Verwitterung von Brauneisenstein umgebene, krystallinische Bröckchen zu Gebothe, in welche die Masse, gleich der Ashviller, sehr leicht zu zerfallen scheint. Die krystallinische Struktur lässt vermuten, dass sich auf geätzten Flächen deutliche Widmanstättensche Figuren darstellen würden.
+Derbes und dichtes gediegenes Eisen, mit wenig Magnetkies (und nach der Angabe von Professor Troost mit viel Graphit) gemengt. Uns stehen nur kleine durch Verwitterung von Brauneisenstein umgebene, kristallinische Bröckchen zu Gebote, in welche die Masse, gleich der Ashviller, sehr leicht zu zerfallen scheint. Die kristallinische Struktur lässt vermuten, dass sich auf geätzten Flächen deutliche Widmanstättensche Figuren darstellen würden.
 
 1\. Meist sehr kleine und einige größere braune, verrostete Bröckchen, durch das Zerfallen des Eisens parallel den Zusammensetzungs- oder Teilungsflächen entstanden. — 1 5/16 Loth. — 1843. 4. 68. — Von Herrn Doktor Bondi in Dresden zu Kauf erhalten. (Durch Professor Shepard kamen diese Fragmente aus Nord-Amerika an Herrn Heinrich Heuland in London.)
 
@@ -1971,13 +1965,13 @@ Derbes und dichtes gediegenes Eisen, zuweilen mit Schwefelkies (Magnetkies ?) ge
 
 1\. Ein größtenteils von natürlichen Flächen umschlossenes Stück, dass eine hervorragende Ecke gebildet hat, mit einer polierten Schnittfläche, über die sich zickzackförmige Sprünge hinziehen. Das Stück zeigt sehr merkwürdige Oberflächen-Verhältnisse (Vertiefungen und Höhlungen) und eine schlackenartige Rinde mit sonderbaren Poren oder feinen Juöchern. — 1 Pfund 3 29/32 Loth. — 1840. 4. 7. — Aus der ehemals Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke in Wien gekauft. Ist (wie die folgenden Stücke Nr. 2 bis Nr. 5) von einem großen Stücke abgeschnitten, das bei seiner Ankunft in Wien 13 Pfund 2 Loth Wiener-Gewicht wog, und von Herrn Mariano de Rivero aus Columbien an Herrn Heuland in London gesendet wurde.
 
-2\. Eine 6 Linien dicke und 3 1/2 Zoll lange Platte, an den Rändern von natürlicher Oberfläche umgeben; die zwei großen polierten Schnittflächen sehr schwach geätzt; vorzüglich merkwürdig durch den Umstand, dass die eine Schnittfläche eine ovale Höhlung durchschnitt, die teilweise mit porösem Schwefelkies (die Farbe ist nicht die des Magnetkieses) ausgcekleidet ist. Sprünge durchziehen diese Platte ebenso, wie die Schnittfläche des Stückes Nr. 1. — 30 5/8 Loth. — 1842. 1. 3. — Wie Nr. 1 acquirirt.
+2\. Eine 6 Linien dicke und 3 1/2 Zoll lange Platte, an den Rändern von natürlicher Oberfläche umgeben; die zwei großen polierten Schnittflächen sehr schwach geätzt; vorzüglich merkwürdig durch den Umstand, dass die eine Schnittfläche eine ovale Höhlung durchschnitt, die teilweise mit porösem Schwefelkies (die Farbe ist nicht die des Magnetkieses) ausgcekleidet ist. Sprünge durchziehen diese Platte ebenso, wie die Schnittfläche des Stückes Nr. 1. — 30 5/8 Loth. — 1842. 1. 3. — Wie Nr. 1 akquiriert.
 
-3\. Dicker Abschnitt, von zwei Seiten mit Rinde umgeben, mit zwei schmalen und einer breiten, polierten, dann einer größeren schön geätzten Schnittfläche. Auf einer der polierten Flächen befindet sich eine sonderbare kleine längliche Höhlung. — 5 13/16 Loth. — 1838. 25. 8. Wie Nr. 1 acquirirt.
+3\. Dicker Abschnitt, von zwei Seiten mit Rinde umgeben, mit zwei schmalen und einer breiten, polierten, dann einer größeren schön geätzten Schnittfläche. Auf einer der polierten Flächen befindet sich eine sonderbare kleine längliche Höhlung. — 5 13/16 Loth. — 1838. 25. 8. Wie Nr. 1 akquiriert.
 
-4\. Kleines, an beiden Seiten schwach geätztes Plättchen. — 7/8 Loth. — 1838. 25. 9. Wie Nr. 1 acquirirt.
+4\. Kleines, an beiden Seiten schwach geätztes Plättchen. — 7/8 Loth. — 1838. 25. 9. Wie Nr. 1 akquiriert.
 
-5\. Kleines, blau und violet angelaufenes Plättchen mit Zeichnungen. — 5/8 Loth. — 1838. 25. 10. Wie Nr. 1 acquirirt.
+5\. Kleines, blau und violett angelaufenes Plättchen mit Zeichnungen. — 5/8 Loth. — 1838. 25. 10. Wie Nr. 1 akquiriert.
 
 Die Herren Rivero und Bousingault haben sowohl in dem Meteoreisen von Santa Rosa in Columbien, das wir in der k. Berliner Mineralien-Sammlung zu sehen und hinsichtlich der heim Ätzen sich zeigenden Figuren zu untersuchen Gelegenheit hatten, wohei es sich wie Rasgata verhält, als auch in dieseu letzteren einen nicht unbeträchtlichen Antheil von Nickel gefunden. Wiederholte in Wien mit unserem Eisen von Rasgata, das doch von den Herrn Rivero und Bousingault herstammt, angestellte Versuche konnten darin keineu Nickel entdecken. Dieses merkwürdige Eisen verdiente wohl eine wiederholte genaue chemische Untersuchung.
 
@@ -1985,9 +1979,9 @@ Die Herren Rivero und Bousingault haben sowohl in dem Meteoreisen von Santa Rosa
 
 15 Meilen von Otumpa (das nach einigen Angaben im Bezirke, jetzt Staate, St. Jago del Estero liegen soll) in einer wüsten Gegend des Staates Tucuman, einer der vereinigten Provinzen von Rio de la Plata (argentinische Republik), Süd-Amerika.
 
-Wurde von Don Miguel Rubin de Celis im Auftrage der spanischen Regierung im Jahre 1783 aufgesucht, und ist durch eine Uebersetzung seines Berichtes in den Londoner Philos. Transact. vom Jahre 1788. T. 1. der wissenschaftlichen Welt bekannt geworden. — Die Fallzeit ist unbekannt. — Rubin de Celis schätzte das Gewicht der Masse auf 300 Centner.
+Wurde von Don Miguel Rubin de Celis im Auftrage der spanischen Regierung im Jahre 1783 aufgesucht, und ist durch eine Übersetzung seines Berichtes in den Londoner Philos. Transact. vom Jahre 1788. T. 1. der wissenschaftlichen Welt bekannt geworden. — Die Fallzeit ist unbekannt. — Rubin de Celis schätzte das Gewicht der Masse auf 300 Zentner.
 
-Derbes und dichtes gediegenes Eisen, oft mit größeren oder kleineren Höhlungen, die zuweilen ganz oder teilweise mit Schwefelkies ausgefüllt sind, der auch sonst noch in kleineren Partien in der Masse zerstreut ist. Auf Bruchflächen kommt eine krystallinische Struktur, parallel den Flächen des Oktaeders zum Vorschein, auf polierten Flächen kurze, nach verschiedenen Richtungen gekehrte, linienförmige Einschnitte. Durch mäßiges Ätzen erscheinen auf diesem, durch Salpetersäure schwer angreifbaren Meteoreisen keine Widmannstättenschen Figuren, sondern kurze, etwas erhöhte Linien, die nach mehreren Richtungen gekehrt sind, sich auch aerühren und gegenseitig schneiden, und dem Ganzen ein gestricktes oder federartiges Ansehen verleihen, je nachdem die Striche sich unter rechten oder schiefen Winkeln berühren oder schneiden. Die geätzten Flächen gleichen in dieser Beziehung, d. h. hinsichtlich ihrer Zeichnung, der langsam erkalteten kristallinischen Oberfläche mancher, Metallkuchen, z. B. von Antimon, Tellur, Wismuth, oder auch der Zeichnung, welche oft auf gefrorenen Fensterscheiben zum Vorschein kommt. Durch sehr starkes Ätzen bietet dieses Eisen eine körnige Oberfläche dar, von tiefen Einschnitten nach verschiedenen Richtungen durchkreuzt. — Ein Meteoreisen von merkwürdiger, nur mit dem Eisen von Senegal verwandter Beschaffenheit.
+Derbes und dichtes gediegenes Eisen, oft mit größeren oder kleineren Höhlungen, die zuweilen ganz oder teilweise mit Schwefelkies ausgefüllt sind, der auch sonst noch in kleineren Partien in der Masse zerstreut ist. Auf Bruchflächen kommt eine kristallinische Struktur, parallel den Flächen des Oktaeders zum Vorschein, auf polierten Flächen kurze, nach verschiedenen Richtungen gekehrte, linienförmige Einschnitte. Durch mäßiges Ätzen erscheinen auf diesem, durch Salpetersäure schwer angreifbaren Meteoreisen keine Widmanstätten‘schen Figuren, sondern kurze, etwas erhöhte Linien, die nach mehreren Richtungen gekehrt sind, sich auch aerühren und gegenseitig schneiden, und dem Ganzen ein gestricktes oder federartiges Ansehen verleihen, je nachdem die Striche sich unter rechten oder schiefen Winkeln berühren oder schneiden. Die geätzten Flächen gleichen in dieser Beziehung, d. h. hinsichtlich ihrer Zeichnung, der langsam erkalteten kristallinischen Oberfläche mancher, Metallkuchen, z. B. von Antimon, Tellur, Wismuth, oder auch der Zeichnung, welche oft auf gefrorenen Fensterscheiben zum Vorschein kommt. Durch sehr starkes Ätzen bietet dieses Eisen eine körnige Oberfläche dar, von tiefen Einschnitten nach verschiedenen Richtungen durchkreuzt. — Ein Meteoreisen von merkwürdiger, nur mit dem Eisen von Senegal verwandter Beschaffenheit.
 
 1\. Ein Stück mit viel natürlicher Oberfläche, mit Bruchflächen, worauf sich oktaedrische Teilungsgestalten befinden, und einer polierten Schnittfläche, wodurch zwei Höhlungen durchschnitten wurden, wovon die größere teilweise mit Schwefelkies ausgefüllt ist. — 19 23/32 Loth. — 1840. 4. 8. — Aus der Heuland'schen, später Heath'schen Meteoriten - Sammlung durch Herrn Pötschke gekauft. Kam durch einen in Chili ansässigen Eingländer nach London.
 
@@ -1995,41 +1989,41 @@ Derbes und dichtes gediegenes Eisen, oft mit größeren oder kleineren Höhlunge
 
 3\. a. Kleines Stück, mit in Folge der Abmeisselung gekrümmten Blättern, mit einer kleinen geätzten und einer noch kleineren blau angelaufenen Fläche, die jedoch wegen Verquetschung des Eisens nichts Lehrreiches darbieten. — 1 3/32 Loth. — 1807. 22. 16. — Durch den verstorbenen v. Fichtel aus Madrid zu Kauf erhalten.
 
-3\. b. Kleines Stück mit natürlicher Oberfläche und einer kleinen polierten Fläche. — 1 1/8 Loth. — 1827. 27. 4044. — Aus der von der Nüll'schen Mineralien-Sammlung, in die es ehenfalls durch den verstorbenen v. Fichtel gekommen ist.
+3\. b. Kleines Stück mit natürlicher Oberfläche und einer kleinen polierten Fläche. — 1 1/8 Loth. — 1827. 27. 4044. — Aus der von der Nüll'schen Mineralien-Sammlung, in die es ebenfalls durch den verstorbenen v. Fichtel gekommen ist.
 
 3\. c. Ganz kleines, schön angelaufenes Plättchen, mit kurzen feinen Strichelehen und kleinen Pünktchen; von der einen Seite geätzt. — 3/32 Loth. — Ein Abschnitt von Nr. 1.
 
 ### 90\. Senegal.
 
-Mehrere Gegenden am oheren Senegal in Afrika, besonders im Lande Siratik und im Lande Bambuk, von wo einige Stücke über Galam nach Fort Louis und nach den englischen Pflanzörtern kamen.
+Mehrere Gegenden am oberen Senegal in Afrika, besonders im Lande Siratik und im Lande Bambuk, von wo einige Stücke über Galam nach Fort Louis und nach den englischen Pflanzörtern kamen.
 
 Ist durch den Reisenden Compagnon und durch die mineralogischen Lehrbücher von Baumer, Wallerius und anderen zwischen den Jahren 1760 und 1770 in Europa bekannt geworden. — Die Fallzeit ist unbekannt. — Es müssen da auf einer sehr großen Strecke sehr viele große und kleine Eisenmassen zerstreut herum liegen, die von den Eingebornen schon lange zur Verfertigung von Töpfen u. s. w. benützt werden.
 
-Derbes und dichtes gediegenes Eisen, an welchem nur sehr selten eine geringe Einmengung von Schwefel- oder Magnetkies und (wenigstens an den uns zu Gebothe stehenden Stücken) auch keine Höhlungen wahrzunehmen sind. Durch Ätzen mit Säuren kommen keine Widmannstätten'schen Figuren, sondern nur kurze feine, nach mehreren Richtungen gekehrte Striche zum Vorschein, die sich zuweilen berühren und schneiden und gestrickte oder federartige Zeichnungen bilden. Die Masse erhält bei stärkerer Ätzung ein gekörntes Ansehen und nach verschiedenen Richtungen gekehrte Einschnitte, und ist daher dem Eisen von Tucuman hinsichtlich seines Verhaltens in Säuren nahe verwandt.
+Derbes und dichtes gediegenes Eisen, an welchem nur sehr selten eine geringe Einmengung von Schwefel- oder Magnetkies und (wenigstens an den uns zu Gebote stehenden Stücken) auch keine Höhlungen wahrzunehmen sind. Durch Ätzen mit Säuren kommen keine Widmannstätten‘schen Figuren, sondern nur kurze feine, nach mehreren Richtungen gekehrte Striche zum Vorschein, die sich zuweilen berühren und schneiden und gestrickte oder federartige Zeichnungen bilden. Die Masse erhält bei stärkerer Ätzung ein gekörntes Ansehen und nach verschiedenen Richtungen gekehrte Einschnitte, und ist daher dem Eisen von Tucuman hinsichtlich seines Verhaltens in Säuren nahe verwandt.
 
 1\. Dicke Platte mit natürlicher Oberfläche an den Rändern, dann mit einer rohen Schnitt- und mit einer fein polierten Fläche. — 12 23/32 Loth. — 1840. 13. 6. — Von dem französischen Naturalien-Händler, Herrn F. Marguier, gekauft, der dieses und die folgenden durch Zerschneiden erhaltenen Stücke Nr. 2, 3 und 4, von einem vom Senegal zurückgekehrten Naturforscher in Bordeaux erhielt.
 
-2\. Plättchen , von einer Seite sehr schwach geätzt, von der anderen poliert; mit etwas Schwefelkies. — 2 17/32 Loth. — 1840. 13. 7. — Wie und mit Nr. 1 acquirirt.
+2\. Plättchen , von einer Seite sehr schwach geätzt, von der anderen poliert; mit etwas Schwefelkies. — 2 17/32 Loth. — 1840. 13. 7. — Wie und mit Nr. 1 akquiriert.
 
-3\. Dickes Plättchen, von allen Seiten sehr stark geätzt. — 3 15/16 Loth. — 1840. 21. 8. — Wie Nr. 1 acquirirt.
+3\. Dickes Plättchen, von allen Seiten sehr stark geätzt. — 3 15/16 Loth. — 1840. 21. 8. — Wie Nr. 1 akquiriert.
 
-4\. Dünnes Plättchen, poliert und dann blau angelaufen. — 31/32 Loth. — 1840. 13. 8. — Mit und wie Nr. 1 acquirirt.
+4\. Dünnes Plättchen, poliert und dann blau angelaufen. — 31/32 Loth. — 1840. 13. 8. — Mit und wie Nr. 1 akquiriert.
 
 5\. a. und b. Ein Stück mit natürlicher Oberfläche und mit Bruchflächen, wovon ein dabei liegendes Plättchen abgeschnitten ist. Von den zwei Schnittflächen ist die Eine poliert, die andere schwach geätzt. — Zusammen 9 1/4 Loth. — 1843. 4. 67. — Durch Doktor Bondi in Dresden zu Kauf erhalten.
 
 ### 91\. Vorgebirge der guten Hoffnung.
 
-Kapland (oder Kapcolonie). Zwischen dem Sonntags- und Boschesmanns-Flusse, Afrika.
+Kapland (oder Kapkolonie). Zwischen dem Sonntags- und Boschesmanns-Flusse, Afrika.
 
-Gefunden 1793. Bekannt seit 1801 durch Barrows Reise in Süd-Afrika; besser seit 1804 durch eine Abhandlung von Van Marum in den Verhandlungen der Gesellschaft der Wissenschaften zu Harlem. — Die Fallzeit ist unbekannt. — Man fand da eine 300 Pfund schwere Masse, von der Mehreres verschmiedet wurde, und die später bei ihrer Ueberführung nach Europa (in das Naturalien -Kabinett zu Harlem) nur noch 171 Pfund wog.
+Gefunden 1793. Bekannt seit 1801 durch Barrows Reise in Süd-Afrika; besser seit 1804 durch eine Abhandlung von Van Marum in den Verhandlungen der Gesellschaft der Wissenschaften zu Harlem. — Die Fallzeit ist unbekannt. — Man fand da eine 300 Pfund schwere Masse, von der Mehreres verschmiedet wurde, und die später bei ihrer Überführung nach Europa (in das Naturalien -Kabinett zu Harlem) nur noch 171 Pfund wog.
 
-Neuerlich ist wieder Meteoreisen am großen Fischflusse in der Kap-Colonie gefunden worden, (Siehe: Alexander Expedition of Discovery into the Interior of Afrika. London 1838. Vol. 2. Appendix S. 272.) Capitän Alexander hat Eisenmassen in großer Menge über eine große Strecke Landes zerstreut angetroffen. Da der Sonntags- und Boschesmannsfluss, zwischen welchen die Barrow'sche Eisenmasse gefunden wurde, von dem großen Fischflusse, namentlich in seiner oberen Strecke, nicht sehr entfernt sind, und die durch Capitän Alexander bekannt gewordenen Eisenmassen über eine große Landstrecke zerstreut liegen, so dürften wohl alle diese Eisenmassen von einem gemeinschaftlichen Ereignisse herrühren.
+Neuerlich ist wieder Meteoreisen am großen Fischflusse in der Kap-Kolonie gefunden worden, (Siehe: Alexander Expedition of Discovery into the Interior of Afrika. London 1838. Vol. 2. Appendix S. 272.) Capitan Alexander hat Eisenmassen in großer Menge über eine große Strecke Landes zerstreut angetroffen. Da der Sonntags- und Boschesmannsfluss, zwischen welchen die Barrow'sche Eisenmasse gefunden wurde, von dem großen Fischflusse, namentlich in seiner oberen Strecke, nicht sehr entfernt sind, und die durch Capitan Alexander bekannt gewordenen Eisenmassen über eine große Landstrecke zerstreut liegen, so dürften wohl alle diese Eisenmassen von einem gemeinschaftlichen Ereignisse herrühren.
 
-Derbes und dichtes gediegenes Eisen mit wenig und meist fein eingesprengtem Magnetkies. Durch Ätzen von polierten Flächen mit Säuren entstehen keine Widmannstätten'schen Figuren; man sieht nur über die graue sehr fein gekörnte Fläche schmälere oder breitere, gerade und gekrümmte undeutliche Bänder hinziehen, die sich jedoch nur zeigen, wenn man die Fläche nüch gewissen Richtungen hält. Auf polierten Flächen bemerkt man, dass sich breite Streifen und verzweigte, fast dendritische Zeichnungen von der Oberfläche der Masse in das Innere ziehen, durch den Umstand, weil diese Stellen durch das Poliren weniger Glanz erlangen. Durch starkes Ätzen kommen manchmall vertiefte, etwas gekrümmte Streifen, an anderen Stellen auch kleine sternförmige Erhöhungen zum Vorschein. — Ein höchst sonderbares und eigenthümliches, durch seine Eigenschaften ganz isoliert stehendes Meteoreisen, etwa nur dem folgenden von Clairborne in Alabama verwandt.
+Derbes und dichtes gediegenes Eisen mit wenig und meist fein eingesprengtem Magnetkies. Durch Ätzen von polierten Flächen mit Säuren entstehen keine Widmannstätten'schen Figuren; man sieht nur über die graue sehr fein gekörnte Fläche schmälere oder breitere, gerade und gekrümmte undeutliche Bänder hinziehen, die sich jedoch nur zeigen, wenn man die Fläche nüch gewissen Richtungen hält. Auf polierten Flächen bemerkt man, dass sich breite Streifen und verzweigte, fast dendritische Zeichnungen von der Oberfläche der Masse in das Innere ziehen, durch den Umstand, weil diese Stellen durch das Polieren weniger Glanz erlangen. Durch starkes Ätzen kommen manchmall vertiefte, etwas gekrümmte Streifen, an anderen Stellen auch kleine sternförmige Erhöhungen zum Vorschein. — Ein höchst sonderbares und eigentümliches, durch seine Eigenschaften ganz isoliert stehendes Meteoreisen, etwa nur dem folgenden von Clairborne in Alabama verwandt.
 
-1\. Unregelmässiges Stück, zum Teil mit schwarzer, natürlicher Oberfläche und einer polierten Schnittfläche. Unterhalb der, wie es scheint, leicht absprengbaren Rinde sind kleine, runde, fast netzartige Vertiefungen wahrnehmbar. — 1 Pfund 2 5/16 Loth. — 1815. 33. 1. — Durch Professor Van Marum aus dem Naturalien-Kabinette der Gesellschaft der Wissenschaften zu Harlem in Tausch erhalten.
+1\. Unregelmäßiges Stück, zum Teil mit schwarzer, natürlicher Oberfläche und einer polierten Schnittfläche. Unterhalb der, wie es scheint, leicht absprengbaren Rinde sind kleine, runde, fast netzartige Vertiefungen wahrnehmbar. — 1 Pfund 2 5/16 Loth. — 1815. 33. 1. — Durch Professor Van Marum aus dem Naturalien-Kabinette der Gesellschaft der Wissenschaften zu Harlem in Tausch erhalten.
 
-2\. Platte, von einer Seite poliert, von der anderen geätzt, mit natürlicher Oberfläche an drei Rändern. — 8 1/2 Loth. — 1840. 23. 1. — Durch Vermittlung des Herrn Bondi in Dresden von Herrn Heuland in London zu Kauf erhalten. — Stammt aus der Mineralien-Sammlung des verstorbenen Sowerby Vater, (der von dem Cap'schen Eisen ein größeres von Barrow nach England gebrachtes Stück besass, und davon einen Säbel für den Kaiser Alexander von Russland schmieden ließ).
+2\. Platte, von einer Seite poliert, von der anderen geätzt, mit natürlicher Oberfläche an drei Rändern. — 8 1/2 Loth. — 1840. 23. 1. — Durch Vermittlung des Herrn Bondi in Dresden von Herrn Heuland in London zu Kauf erhalten. — Stammt aus der Mineralien-Sammlung des verstorbenen Sowerby Vater, (der von dem Cap'schen Eisen ein größeres von Barrow nach England gebrachtes Stück besaß, und davon einen Säbel für den Kaiser Alexander von Russland schmieden ließ).
 
 3\. a. Ein kleines, dreieckiges Stück, ringsum stark geätzt, wodurch auf einer Seite die bei der Beschreibung erwähnten, vertieften Streifen und auf der anderen die erwähnten Sternchen zum Vorschein kamen. — 17/32 Lth. — Abschnitt von Nr. 1.
 
@@ -2039,9 +2033,9 @@ Derbes und dichtes gediegenes Eisen mit wenig und meist fein eingesprengtem Magn
 
 Lime-Creek, Clarke-County, im Staate Albama, Nord-Amerika.
 
-Bekannt seit 1838 durch eine Abhandlung von Herrn Charles Jackson in Sillimans American-Journal, Vol. 34. — Es wurde da eine 10 Zoll lange und 1 bis 6 Zoll breite Masse gefunden, und man vermuthet, dass noch mehrere Massen in der Gegend vorhanden sein mögen.
+Bekannt seit 1838 durch eine Abhandlung von Herrn Charles Jackson in Sillimans American-Journal, Vol. 34. — Es wurde da eine 10 Zoll lange und 1 bis 6 Zoll breite Masse gefunden, und man vermutet, dass noch mehrere Massen in der Gegend vorhanden sein mögen.
 
-Derbes und dichtes gediegenes Eisen, worin Magnet- oder Schwefelkies teils in Körnern und Linien, teils in unendlich feinen Pünktchen, die letzteren gleichförmig durch die ganze Masse verteilt, eingemengt ist, Eine so feine und gleichmässige Vertheilung des Kieses findet bei keinem anderen Meteoreisen Statt. Das kleine uns zu Gebothe stehende Blättchen dieses Meteoreisens zeigte durch starkes Ätzen mit Säuren (verdünnte Salpetersäure griff es gar nicht an) weder Widmannstätten'sche Figuren, noch Linien, Striche oder Bänder; die Säure verwandelte die übrigens auch schwer polirbare und nur wenig Glanz erlangende Fläche nur in eine schwarzgraue Substanz, aus der die Kiespünktchen hervorglänzen, — Ein merkwürdiges, weitere Untersuchung verdienendes Eisen, das nach den Untersuchungen von Dr. Jackson Chlorine enthält.
+Derbes und dichtes gediegenes Eisen, worin Magnet- oder Schwefelkies teils in Körnern und Linien, teils in unendlich feinen Pünktchen, die letzteren gleichförmig durch die ganze Masse verteilt, eingemengt ist, Eine so feine und gleichmäßige Verteilung des Kieses findet bei keinem anderen Meteoreisen Statt. Das kleine uns zu Gebote stehende Blättchen dieses Meteoreisens zeigte durch starkes Ätzen mit Säuren (verdünnte Salpetersäure griff es gar nicht an) weder Widmannstätten‘sche Figuren, noch Linien, Striche oder Bänder; die Säure verwandelte die übrigens auch schwer polirbare und nur wenig Glanz erlangende Fläche nur in eine schwarzgraue Substanz, aus der die Kiespünktchen hervorglänzen, — Ein merkwürdiges, weitere Untersuchung verdienendes Eisen, das nach den Untersuchungen von Dr. Jackson Chlorine enthält.
 
 1\. Kleines, von einer Seite geätztes Plättchen (wegen schnellen Rostens mit Schellack-Firniss überzogen). — 13/32 Loth. — 1842. 46. 1. — Ein interessantes Geschenk von Herrn Charles Jackson zu Boston in Nord-Amerika.
 
@@ -2049,7 +2043,7 @@ Derbes und dichtes gediegenes Eisen, worin Magnet- oder Schwefelkies teils in K�
 
 Aus einem indischen Dorfe in der Misteca, im Staate Oaxaca in Mexico.
 
-Die Existenz dieses Metcoreisens ist noch nicht durch öffentliche Nachrichten bekannt geworden. Herr Baron Karawinsky in München, der zu wiederhohlten Mahlen Mexico bereiste, brachte das Stück von da mit. Es wurde von einem Klumpen, wie er sich in einem Briefe ausdrückt, der an dem angegebenen Orte liegt, abgemeisselt.
+Die Existenz dieses Meteoreisens ist noch nicht durch öffentliche Nachrichten bekannt geworden. Herr Baron Karawinsky in München, der zu wiederhohlten Mahlen Mexico bereiste, brachte das Stück von da mit. Es wurde von einem Klumpen, wie er sich in einem Briefe ausdrückt, der an dem angegebenen Orte liegt, abgemeisselt.
 
 Da das kleine Stückchen unserer Sammlung beim Abmeisseln gehämmert worden ist, so lässt sich von dieser Lokalität keine Diagnose geben. Das Eisen ist derb und dicht und zeigt durch Ätzen feine gekrümmte Streifen.
 
@@ -2059,25 +2053,25 @@ Da das kleine Stückchen unserer Sammlung beim Abmeisseln gehämmert worden ist,
 
 In einer Sowallik genannten Gegend, an der nördlichen Küste der Baffings-Bay, unter 76° 22' der Breite und 58° westlicher Länge von Greenwich.
 
-Bekannt seit 1819 durch die Reise des Capitäns Ross. — Nach der Aussage der Eskimos sollen allda, 30 englische Meilen von der Küste entfernt, zwei große Eisenmassen vorhanden sein, von welchen sie Stücke abbrechen, um Geräthe daraus zu verfertigen.*
+Bekannt seit 1819 durch die Reise des Capitans Ross. — Nach der Aussage der Eskimos sollen allda, 30 englische Meilen von der Küste entfernt, zwei große Eisenmassen vorhanden sein, von welchen sie Stücke abbrechen, um Geräte daraus zu verfertigen.*
 
 *) Möge es dem jetzt regierenden König von Dänemark, einem großen Gönner der Wissenschaften und der Mineralogie insbesondere, gefallen, die Sache ermitteln, und Stücke des unveränderten Eisens nach Europa bringen zu lassen.
 
-Die Verarbeitung des Eisens gestattet keine Diagnose; es lassen sich aber darin noch Schwefelkies und schwarze Einmengungen unterscheiden. Die geätzte Fläche bekam ein körniges Anschen, und man hat sich bei Gelegenheit des Aetzens von der Anwesenheit des Nickels in diesem Eisen überzeugt.
+Die Verarbeitung des Eisens gestattet keine Diagnose; es lassen sich aber darin noch Schwefelkies und schwarze Einmengungen unterscheiden. Die geätzte Fläche bekam ein körniges Ansehen, und man hat sich bei Gelegenheit des Ätzens von der Anwesenheit des Nickels in diesem Eisen überzeugt.
 
-1\. Als kurze, dreieckige Messerklinge zum Abhäuten der Seehunde von den Ekimos verarbeitet. Die eine Fläche verrostet,, die andere zum Teil anpolirt, und zum Teil geätzt. — 7/32 Loth. — 1838. 25. 13. — Aus der ehemals Heuland'schen, dann Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland kaufte diese Messerklinge, die in ein Heft, aus dem Zahne eines Wallrosses angefertiget, befestigt war, in einer öffentlichen Versteigerung zu London. Das Stück stammt von der ersten englischen Expedition unter Capitän Ross, der dieses zur Fischerei benützte Messer von den Ekimos eintauschte.
+1\. Als kurze, dreieckige Messerklinge zum Abhäuten der Seehunde von den Ekimos verarbeitet. Die eine Fläche verrostet,, die andere zum Teil anpoliert, und zum Teil geätzt. — 7/32 Loth. — 1838. 25. 13. — Aus der ehemals Heuland'schen, dann Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Herr Heuland kaufte diese Messerklinge, die in ein Heft, aus dem Zahne eines Wallrosses angefertiget, befestigt war, in einer öffentlichen Versteigerung zu London. Das Stück stammt von der ersten englischen Expedition unter Capitan Ross, der dieses zur Fischerei benützte Messer von den Ekimos eintauschte.
 
 ## Zusätze.
 
-1\. Die im Wiener k. k. Mineralien-Kabinette aufgestellten 258 Nummern von Meteoriten (von kleineren Stücken machen in mehreren Fällen zwei oder mehrere zusammen Eine Nummer) repräsentiren nach dem im Kabinetts-Kataloge jedem einzelnen Stücke beigefügten Werthe oder Ankaufspreise eine Gesammtisumme von 33,196 1/2 Gulden in Conventions-Münze.* Sie wiegen zusammen 330 Pfund und 14 29/32 Loth Wiener Gewicht. (Ein Wiener Pfund von 32 Wiener Lothen ist gleich 38,314 preußischen Lothen, oder 19,754 englischen Avoir du poids Unzen, oder 560,012 französischen Grammen. Ein Kilogramm ist gleich 1 Pfund 25 9/64 Loth Wiener Gewicht.)
+1\. Die im Wiener k. k. Mineralien-Kabinette aufgestellten 258 Nummern von Meteoriten (von kleineren Stücken machen in mehreren Fällen zwei oder mehrere zusammen Eine Nummer) repräsentieren nach dem im Kabinetts-Kataloge jedem einzelnen Stücke beigefügten Werte oder Ankaufspreise eine Gesammtisumme von 33,196 1/2 Gulden in Conventions-Münze.* Sie wiegen zusammen 330 Pfund und 14 29/32 Loth Wiener Gewicht. (Ein Wiener Pfund von 32 Wiener Lothen ist gleich 38,314 preußischen Lothen, oder 19,754 englischen Avoir du poids Unzen, oder 560,012 französischen Grammen. Ein Kilogramm ist gleich 1 Pfund 25 9/64 Loth Wiener Gewicht.)
 
 *) Wir liefern im einem Anhange, um einem mehrseitigen Wunsche zu entsprechen, die Schätzung der einzelnen Stücke.
 
-2\. Ausser der unter Glas zur Schau gestellten Meteoriten-Sammlung des k. k. Mineralien-Kabinettes befinden sich daselbst in einem Schranke des vierten Saales in Schiebfächern (Schubladen) noch zwei kleinere Sammlungen von Meteoriten zur näheren naturhistorischen oder chemischen Untersuchung derselben und beinahe von allen Lokalitäten der großen Sammlung. Die erste, in 12 Kartons, besteht aus kleinen Stücken, von welchen die spezifischen Gewichte der angefügten Tabelle genommen wurden, aus Fragmenten, die zu anderen wissenschaftlichen Untersuchungen, z. B. mechanischer Sonderung ihrer Gemenstheile u. s. w. dienten, und endlich auch aus manchem kleinen Stückchen, an dem sich ein interessantes Verhältniss darstellt, dass die Stücke der größeren Sammlung nicht darbieten. Die zweite der angeführten kleineren Sammlungen ist eine zum Behufe von mikroskopischen Untersuchungen hergerichtete, in welcher die Meteorsteine in grob gepulvertem Zustande in Schiebern unter zwei runden Glasplättchen; die Meteoreisen in eben solchen Schiebern in ganz dünn geschnittenen und dann mit Säuren geätztien kleinen Plättchen aufbewahrt werden.
+2\. Außer der unter Glas zur Schau gestellten Meteoriten-Sammlung des k. k. Mineralien-Kabinettes befinden sich daselbst in einem Schranke des vierten Saales in Schiebfächern (Schubladen) noch zwei kleinere Sammlungen von Meteoriten zur näheren naturhistorischen oder chemischen Untersuchung derselben und beinahe von allen Lokalitäten der großen Sammlung. Die erste, in 12 Kartons, besteht aus kleinen Stücken, von welchen die spezifischen Gewichte der angefügten Tabelle genommen wurden, aus Fragmenten, die zu anderen wissenschaftlichen Untersuchungen, z. B. mechanischer Sonderung ihrer Gemengteile u. s. w. dienten, und endlich auch aus manchem kleinen Stückchen, an dem sich ein interessantes Verhältnis darstellt, dass die Stücke der größeren Sammlung nicht darbieten. Die zweite der angeführten kleineren Sammlungen ist eine zum Behufe von mikroskopischen Untersuchungen hergerichtete, in welcher die Meteorsteine in grob gepulvertem Zustande in Schiebern unter zwei runden Glasplättchen; die Meteoreisen in eben solchen Schiebern in ganz dünn geschnittenen und dann mit Säuren geätzten kleinen Plättchen aufbewahrt werden.
 
 3\. Als Anhänge zu der Meteoriten-Sammlung werden ferners allda noch aufbewahrt:
 
-a\. Alle Körper, die man fälschlich für Meteoriten angesehen hat, und wovon ein großer Teil die meisten der öffentlichen Meteoriten-Sammlungen (namentlich jene in Berlin und London) verunziert; so erstens künstliche Eisenmassen, die man für Meteoreisen hielt, wie die von Gross-Kammsdorf‚ Magdeburg, Aachen, Cilly, Collina di Brianza, Florac, Oswego u. s. w. Zweitens verschiedene Naturkörper, die aus der Atmosphäre gefallen sind oder gefallen sein sollen, z. B. die in Brauncisenstein umgewandelten Schwefelkieslinsen von Sterlitamak im Gouvernement Orenburg, die den Kern von Hagelkörnern gebildet haben sollen; Stückchen von porösem Braun- oder Rascneisenstein, die man für das Residuum einer bei Löbau in der Oberlausitz niedergefallenen Sternschnuppe hält*; Fragmente von Kalkspath, die auf ein Schiff in den amerikanischen Gewässern niedergefallen sein sollen; das sogenannte Meteorpapier von Rauden in Kurland; die Rückstände des rothen Schnees aus den Schweizer Alpen; Staub von dem Schlammregen von Udine; die vielbesprochenen Raseneisensteinkörner von Iwan in Ungarn u. s. w.
+a\. Alle Körper, die man fälschlich für Meteoriten angesehen hat, und wovon ein großer Teil die meisten der öffentlichen Meteoriten-Sammlungen (namentlich jene in Berlin und London) verunziert; so erstens künstliche Eisenmassen, die man für Meteoreisen hielt, wie die von Groß-Kammsdorf‚ Magdeburg, Aachen, Cilly, Collina di Brianza, Florac, Oswego u. s. w. Zweitens verschiedene Naturkörper, die aus der Atmosphäre gefallen sind oder gefallen sein sollen, z. B. die in Brauncisenstein umgewandelten Schwefelkieslinsen von Sterlitamak im Gouvernement Orenburg, die den Kern von Hagelkörnern gebildet haben sollen; Stückchen von porösem Braun- oder Rascneisenstein, die man für das Residuum einer bei Löbau in der Oberlausitz niedergefallenen Sternschnuppe hält*; Fragmente von Kalkspat, die auf ein Schiff in den amerikanischen Gewässern niedergefallen sein sollen; das sogenannte Meteorpapier von Rauden in Kurland; die Rückstände des roten Schnees aus den Schweizer Alpen; Staub von dem Schlammregen von Udine; die vielbesprochenen Raseneisensteinkörner von Iwan in Ungarn u. s. w.
 
 *) Über diese jedenfalls merkwürdige Substanz siehe: Ficinus Beohachtung des Falles cines Meteorsteines bei Löbau in der k. sächs, Oberlausitz, am 18. Januar 1835, in Erdmanns und Schweiggers Journal für practische Chemie. B. 5. S. 41.
 
@@ -2087,19 +2081,19 @@ c\. Das vorgebliche tellurische Eisen von Canaan im Staate Connecticut, und ein 
 
 d\. Stücke von Roheisen, Eisenschlacken und andere Schmelzproducte; auch Blitzröhren und vom Blitz getroffene Felssteine zum Vergleiche.
 
-e\. Einige Mineralien, die Ähnlichkeit mit Meteorsteinen besitzen (Dolerit, Basalt, Lava, Obsidianporphyr, Trachyt), oder an Widmanstättensche Figuren erinnernde Streifen nach drei Richtungen wahrnehmen lassen. (Magneteisenstein, Eisenglanz, Corund, Kalkspath.)
+e\. Einige Mineralien, die Ähnlichkeit mit Meteorsteinen besitzen (Dolerit, Basalt, Lava, Obsidianporphyr, Trachyt), oder an Widmanstättensche Figuren erinnernde Streifen nach drei Richtungen wahrnehmen lassen. (Magneteisenstein, Eisenglanz, Corund, Kalkspat.)
 
 f\. Einige Meteorsteine, namentlich von Stannern, mit welchen durch Herrn Hofrath und Direktor von Schreibers verschiedenartige Schmelzversuche im Porzellanfeuer, mit Brennspiegeln und mit elektrischen Strömungen angestellt worden sind, dann andere Meteorsteine, die längere Zeit in der Erde vergraben waren, um die Verwitterbarkeit derselben zu untersuchen (da es sonderbar ist, dass man noch nie Meteorsteine fand, deren Niederfallen nicht beobachtet worden wäre.)
 
 g\. Verarbeitetes (geschmiedetes, geschweisstes, in Bleche ausgezogenes....) Meteoreisen, namentlich von Agram, Elbogen und vom Cap der guten Hoffnung; technische Versuche, von Herrn v. Widmannstätten ausgeführt.
 
-h\. Die Original-Urkunde in lateinischer Sprache, ddo. 6. Juli 1751 mit Siegel und einer gleichzeitigen deutschen Uebersetzung über das Niederfallen der zwei Meteoreisenmassen von Agram.
+h\. Die Original-Urkunde in lateinischer Sprache, ddo. 6. Juli 1751 mit Siegel und einer gleichzeitigen deutschen Übersetzung über das Niederfallen der zwei Meteoreisenmassen von Agram.
 
-i\. Eine Anzahl Gypsabgüsse von antiken Münzen, worauf Meteoriten oder geheiligte Steine (Bätylien, Cerauniten) abgebildet sind.
+i\. Eine Anzahl Gipsabgüsse von antiken Münzen, worauf Meteoriten oder geheiligte Steine (Bätylien, Cerauniten) abgebildet sind.
 
-k\. Einzelne Gypsabdrücke von Meteoriten, namentlich von dem durch seine Gestalt und die Eindrücke an der Oberfläche sehr merkwürdigen Meteorstein, gefallen im Jahre 1837 zu Gross-Divina bei Budetin in Ungarn, nun im National-Museum zu Pesth; eine Ergänzung in Gyps von unserer Elbogner Eisenmasse, und Modelle von den Meteorsteinen von Tipperary und Wessely.
+k\. Einzelne Gipsabdrücke von Meteoriten, namentlich von dem durch seine Gestalt und die Eindrücke an der Oberfläche sehr merkwürdigen Meteorstein, gefallen im Jahre 1837 zu Groß-Divina bei Budetin in Ungarn, nun im National-Museum zu Pesth; eine Ergänzung in Gips von unserer Elbogner Eisenmasse, und Modelle von den Meteorsteinen von Tipperary und Wessely.
 
-l\. Eine große Anzahl von ausgezeichnet schönen in Farben ausgeführten Zeichnungen, dann viele höchst getreue Bleistift-Zeichnungen von Meteoriten, vorzüglich von Widmanstättenschen Figuren der Mcteoreisenmassen; ferners Autographen von geätztem Meteoreisen; Lithographien und Kupferstiche, Meteorsteine darstellend, endlich zwei Situationspläne der Gegenden von Stannern und Lissa, mit Bezeichnung der Puncte, auf welchen die daselbst aus der Luft gefallenen Steine aufgefunden worden sind.
+l\. Eine große Anzahl von ausgezeichnet schönen in Farben ausgeführten Zeichnungen, dann viele höchst getreue Bleistift-Zeichnungen von Meteoriten, vorzüglich von Widmanstättenschen Figuren der Meteoreisenmassen; ferners Autographen von geätztem Meteoreisen; Lithographien und Kupferstiche, Meteorsteine darstellend, endlich zwei Situationspläne der Gegenden von Stannern und Lissa, mit Bezeichnung der Punkte, auf welchen die daselbst aus der Luft gefallenen Steine aufgefunden worden sind.
 
 (Eine fast vollständige kleine Sammlung von allen über Meteoriten erschienenen Werken und Abhandlungen befindet: sich unter den Büchern des k. k. Mineralien-Kabinetts.)
 
@@ -2109,7 +2103,7 @@ l\. Eine große Anzahl von ausgezeichnet schönen in Farben ausgeführten Zeichn
 
 a\. (Fallzeit) 1668. Verona (Vago). Obwohl das Gewicht der allda gefallenen 2 oder 3 großen Steine 500 Pfund betrug, ist jetzt von denselben doch nur noch ein ganz kleines Stückchen bekannt, dass sich in der Sammlung des verstorbenen Chemikers Laugier in Paris befand. Chladni, der es im Jahre 1818 sah, fand es den Steinen von Tabor und Barbotan ähnlich. (Es ist uns Hoffnung gemacht worden, dass in Verona doch noch ein Stück ausgemittelt werden dürfte.)
 
-b\. 1715. Garz (Schellin) bei Stargard in Pommern. Von diesem erst im Jahre 1822 (in Gilberts Annalen B. 71. S. 213) bekannt gemachten Steinfall sind gegenwärtig nur noch 2 oder 3 Stücke vorhanden; eines bei eineın Gutsbesitzer in Pommern, ein anderes sehr kleines von 91 Gran in der k. Mineralien-Sammlung zu Berlin. (Wir sahen es da und fanden es den Steinen von Apt, Berlanguillas u. s. w. ähnlich.) Das kleine Fragment, das der verstorbene Prof. Gilbert in Leipzig besass, scheint verloren gegangen zu sein.
+b\. 1715. Garz (Schellin) bei Stargard in Pommern. Von diesem erst im Jahre 1822 (in Gilberts Annalen B. 71. S. 213) bekannt gemachten Steinfall sind gegenwärtig nur noch 2 oder 3 Stücke vorhanden; eines bei eineın Gutsbesitzer in Pommern, ein anderes sehr kleines von 91 Gran in der k. Mineralien-Sammlung zu Berlin. (Wir sahen es da und fanden es den Steinen von Apt, Berlanguillas u. s. w. ähnlich.) Das kleine Fragment, das der verstorbene Prof. Gilbert in Leipzig besaß, scheint verloren gegangen zu sein.
 
 c\. 1815. Duralla bei Liodiana in Ostindien. Der allda gefallene Stein von 25 Pfunden, dem die Braminen große Verehrung bezeugten und einen eigenen Tempel bauen lassen wollten, wird im Hause der ostindischen Compagnie in London aufbewahrt, und davon auch nicht die Abtreunung eines winzigen Fragmentchens gestattet. Wir haben deshalb fruchtlose Schritte gemacht. Er soll zu der Abtheilung der eisenhältigen Meteorsteine gehören.
 
@@ -2119,9 +2113,9 @@ e\. 1822. Rourpoor bei Futichpore in Doab, Ostindien. Von dem unergiebigen Stein
 
 f\. 1824. Tounkin, Gouv. Irkutzk, Sibirien. Der 5 Pfund schwere Stein befand sich vor mehreren Jahren bei einem Gouverneur in Sibirien. Ein ganz kleiner Splitter, den Doktor Fiedler in Dresden auf seiner Reise durch Sibirien davon erhielt, befindet sich jetzt in der Sammlung des Freiherrn von Reichenbach in Wien.
 
-g\. 1825. Oriang in Malwate, Ostindien. Der Stein, der durch seinen Fall einen Mann tödtete und eine Frau stark beschädigte, ist wohl nicht nach Europa gebracht worden.
+g\. 1825. Oriang in Malwate, Ostindien. Der Stein, der durch seinen Fall einen Mann tötete und eine Frau stark beschädigte, ist wohl nicht nach Europa gebracht worden.
 
-h\. 1827. Mhow im District Azim-Gesh; Ostindien. Es fielen einige Steine, wovon ein abgesprungenes Bruchstück ebenfalls einen Menschen tödtete; sie sind wohl ebenfalls nicht nach Europa gekomnen.
+h\. 1827. Mhow im District Azim-Gesh; Ostindien. Es fielen einige Steine, wovon ein abgesprungenes Bruchstück ebenfalls einen Menschen tötete; sie sind wohl ebenfalls nicht nach Europa gekomnen.
 
 i\. 1829. Deal im Staate New-Jersey, Nordamerika. Es fielen mehrere Steine, von denen wir durch die Gefälligkeit der Herren Silliman und Shepard etwas zu erhalten hoffen.
 
@@ -2131,9 +2125,9 @@ l\. 1834. Charwallas bei Hissar, Ostindien. Es fiel ebenfalls nur Ein, wenige Pf
 
 m\. 1837. Esnaude, Dept. Charente inferieure. Von dem einzeln gefallenen Steine von 3 Pfunden sind Stücke an das naturhistorische Museum zu Bordeaux geschickt worden.*
 
-*) Ein drei Loth schweres Fragment des Meteorsteines von Esnaude hat das k. k. Mineralien-Kabinett während des Druckes des vorliegenden Cataloges durch H. Marguier erhalten.
+*) Ein drei Loth schweres Fragment des Meteorsteines von Esnaude hat das k. k. Mineralien-Kabinett während des Druckes des vorliegenden Kataloges durch H. Marguier erhalten.
 
-n\. 1839. Little-Piney, im Staate Missouri, Nordamerika. Es wurde nur Ein faustgrosser Stein gefunden, den man zertrümmerte, Ein Fragment davon ist im brittischen Museum zu London, andere in ein paar amerikanischen Sammlungen. Auch unsere Sammlung hat Hoffnung, davon ein Fragment zu erhalten.
+n\. 1839. Little-Piney, im Staate Missouri, Nordamerika. Es wurde nur Ein faustgroßer Stein gefunden, den man zertrümmerte, Ein Fragment davon ist im brittischen Museum zu London, andere in ein paar amerikanischen Sammlungen. Auch unsere Sammlung hat Hoffnung, davon ein Fragment zu erhalten.
 
 o\. 1840. Kirgisen-Steppe, am Flüsse Karokol, Asien. Der einzeln gefallene Stein von fast 6 Zoll Länge befindet sich im Museum der naturforschenden Gesellschaft zu Moskau.
 
@@ -2143,15 +2137,15 @@ o\. 1840. Kirgisen-Steppe, am Flüsse Karokol, Asien. Der einzeln gefallene Stei
 
 r\. Auf dem Alasej'schen Bergrücken in Sibirien, der das Flusssystem des Alasej von dem des Indigirka trennt, findet man in Menge gediegenes Eisen von vorzüglicher Güte, dass nur Meteoreisen sein kann, und von den Jakuten zu Messern, Beilen u.dgl. verarbeitet wird, (Siehe Wrangels Reise längs der Nordküste von Sibirien und auf dem Eismeere. 1. Band. Seite 175. Berlin. 1839.) Es scheint davon noch nichts nach Europa gekommen zu Sein.
 
-s\. In der Petropawlowsker Goldseife, Gouv. Omsk, Sibirien, hat man früher kleinere Stücke gediegenen nickelhaltigen Eisens, die man nicht beachtete, und erst kürzlich ein größeres 17 1/2 Pfund schweres Stück gefunden. (Siehe Erdmann Archiv für wissenschaftliche Kunde von Russland. 1841. 1. S. 314-320.) Wir hoffen, durch gütige Vermittlung des Ilerrn Generals von Tscheffkin, Chef des Stabes des k. russischen Bergingenicur-Corps, an den wir uns gewendet haben, davon etwas zu erhalten.
+s\. In der Petropawlowsker Goldseife, Gouv. Omsk, Sibirien, hat man früher kleinere Stücke gediegenen nickelhaltigen Eisens, die man nicht beachtete, und erst kürzlich ein größeres 17 1/2 Pfund schweres Stück gefunden. (Siehe Erdmann Archiv für wissenschaftliche Kunde von Russland. 1841. 1. S. 314-320.) Wir hoffen, durch gütige Vermittlung des Herrn Generals von Tscheffkin, Chef des Stabes des k. russischen Bergingenicur-Corps, an den wir uns gewendet haben, davon etwas zu erhalten.
 
-t\. Wie wir bereits bei dem Meteoreisen vom Cap der guten Hoffnung (Nr. 91 des gegenwärtigen Verzeichnisses) bemerkten, ist es noch ungewiss, ob das früher zwischen dem Sonntags- und Boschesmanns-Flusse gefundene Meteoreisen mit den am großen Fischflusse weit umher gestreuten Eisenmassen, die durch Capitän Alexander bekannt wurden, von ein und demselben Ereignis herrühren. Es wäre wünschenswerth, das von C. Alexander entdeckte Eisen untersuchen zu können, Ob esschon nach Europa gebracht worden, ist uns nicht bekannt.
+t\. Wie wir bereits bei dem Meteoreisen vom Cap der guten Hoffnung (Nr. 91 des gegenwärtigen Verzeichnisses) bemerkten, ist es noch ungewiss, ob das früher zwischen dem Sonntags- und Boschesmanns-Flusse gefundene Meteoreisen mit den am großen Fischflusse weit umher gestreuten Eisenmassen, die durch Capitan Alexander bekannt wurden, von ein und demselben Ereignis herrühren. Es wäre wünschenswerth, das von C. Alexander entdeckte Eisen untersuchen zu können, Ob esschon nach Europa gebracht worden, ist uns nicht bekannt.
 
 u\. Das Meteoreisen von Santa Rosa oder Tocavita in Neu-Granada sahen wir in der k. Mineralien-Sammlung zu Berlin, wohin es durch Herrn Alexander von Humboldt kam, und fanden es dem bei Rasgata aufgefundenen ganz ähnlich. Es ist nicht unwahrscheinlich, dass die Eisenmassen dieser zwei Lokalitäten, die voneinander nicht sehr entfernt sind, von Einem Meteore herrühren, das verschiedene Entladungen machte.
 
 v\. Ob das Meteoreisen aus der Sierra blanca unweit Villa nueva de Huaxuquilla in Mexiko (siehe Chladni S. 339.) und
 
-w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanischen Lokalitäten (das erstere etwa mit Toluca, das andere mit Zacatecas oder eigentlich San Jose del Sitio) zusammenfallen dürften, ist noch ungewiss, und wird erst durch mineralogische und chemische Untersuchungen ermittelt werden können. Ein Stück Eisen mit dem angeblichen Fundorte Sierra blanca, in der, für die k. Mineralien-Sammlung in Berlin angekauften Bergemann'schen Mincralien-Sammlung fanden wir rücksichtlich der Widmannstätti'schen Figuren dem Eisen von Durango im Wiener kais. Mineralien-Kabinette ähnlich.
+w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanischen Lokalitäten (das erstere etwa mit Toluca, das andere mit Zacatecas oder eigentlich San Jose del Sitio) zusammenfallen dürften, ist noch ungewiss, und wird erst durch mineralogische und chemische Untersuchungen ermittelt werden können. Ein Stück Eisen mit dem angeblichen Fundorte Sierra blanca, in der, für die k. Mineralien-Sammlung in Berlin angekauften Bergemann'schen Mineralien-Sammlung fanden wir rücksichtlich der Widmannstätti'schen Figuren dem Eisen von Durango im Wiener kais. Mineralien-Kabinette ähnlich.
 
 ## Die spezifischen Gewichte der im k. k. Mineralien-Kabinette vorhandenen Meteoriten.
 
@@ -2176,7 +2170,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  15       | Ensisheim                                          | 3,48\.                                                                | 3,23\. Barthold\. \- 3,48\. bis 3,50\. Schreibers\.                                                                                                                                  
  16       | L’Aigle                                            | 3,39 bis 3,47\.                                                       | 3,49\. Schreibers\.                                                                                                                                                                  
  &nbsp;   | Eisenkorn daraus                                   | 7,08\.                                                                | &nbsp;                                                                                                                                                                               
- &nbsp;   | Eisenplattchen daraus                              | …\.                                                                   | 6,04\. Schreibers                                                                                                                                                                    
+ &nbsp;   | Eisenplättchen daraus                              | …\.                                                                   | 6,04\. Schreibers                                                                                                                                                                    
  17       | Liponas                                            | 3,66\.                                                                | &nbsp;                                                                                                                                                                               
  18       | Chantonnay                                         | &nbsp;                                                                | &nbsp;                                                                                                                                                                               
  &nbsp;   | der lichte Teil                                   | 3,46\.                                                                | 3,44\. bis 3,49\. Schreibers\.                                                                                                                                                       
@@ -2237,7 +2231,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  63       | Sigena                                             | 3,63\.                                                                | &nbsp;                                                                                                                                                                               
  64       | Barbotan                                           | 3,62\.                                                                | &nbsp;                                                                                                                                                                               
  65       | Eichstadt                                          | 3,60\.                                                                | 3,70\. Schreibers\.                                                                                                                                                                  
- 66       | Gross\-Divina                                      | 3,55 bis 3,56\.                                                       | &nbsp;                                                                                                                                                                               
+ 66       | Groß\-Divina                                      | 3,55 bis 3,56\.                                                       | &nbsp;                                                                                                                                                                               
  67       | Zebrak                                             | 3,60\.                                                                | 3,6\. Zippe\.                                                                                                                                                                        
  68       | Timochin                                           | 3,60\.                                                                | 3,7\. Klaproth\.                                                                                                                                                                     
  69       | Macao                                              | 3,72 bis 3,74\.                                                       | &nbsp;                                                                                                                                                                               
@@ -2257,7 +2251,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  74       | Bitburg                                            | 6,52\.                                                                | 6,14\. Steininger\.                                                                                                                                                                  
  75       | Toluca                                             | 7,72\.                                                                | 7,60\. bis 7,67\. Schreibers\.                                                                                                                                                       
  76       | Elbogen                                            | 7,74\.                                                                | 7,2\. bis 7,3\. Neumann\. \- 7,76\. Mohs\. \- 7,78\. Wehrle\. \- 7,80\. bis 7,83\. Schreibers\.                                                                                      
- &nbsp;   | gegluht, wodurch der Magnetkies zerstort wurde     | 7,87\.                                                                | &nbsp;                                                                                                                                                                               
+ &nbsp;   | geglüht, wodurch der Magnetkies zerstört wurde     | 7,87\.                                                                | &nbsp;                                                                                                                                                                               
  77       | Agram                                              | 7,82\.                                                                | 7,73\. bis 7,80\. Schreibers\. \- 7,78\. Wehrle\.                                                                                                                                    
  78       | Lenarto                                            | 7,73\.                                                                | 7,72\. bis 7,80\. Schreibers\. \- 7,79\. Wehrle\.                                                                                                                                    
  79       | Red\-River                                         | 7,82\.                                                                | 7,4\. Gibbs\.                                                                                                                                                                        
@@ -2287,8 +2281,8 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  &nbsp;   | &nbsp;                                             | 7,94\.                                                                | &nbsp;                                                                                                                                                                               
  92       | Clairborne                                         | 6,82\.                                                                | 5,7\., 6,0\., 6,5\. Verschiedene Teile dieses Eisens\. Jackson\.                                                                                                                     
  &nbsp;   | **Anhang\.**                                           | &nbsp;                                                                | &nbsp;                                                                                                                                                                               
- 93       | Oaxaca \(etwas gehammert\)                         | 7,38\.                                                                | &nbsp;                                                                                                                                                                               
- 94       | Grönland \(stark gehammert\)                       | 7,23\.                                                                | &nbsp;                                                                                                                                                                               
+ 93       | Oaxaca \(etwas gehämmert\)                         | 7,38\.                                                                | &nbsp;                                                                                                                                                                               
+ 94       | Grönland \(stark gehämmert\)                       | 7,23\.                                                                | &nbsp;                                                                                                                                                                               
 
 ## Schätzung der Meteoriten im k. k. Mineralien-Kabinette.
 
@@ -2466,7 +2460,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  &nbsp;   | Barbotan Nr\. 2                      | 47                             
  65       | Eichstadt Nr\. 1                     | 42                             
  &nbsp;   | Eichstadt Nr\. 2                     | 6                              
- 66       | Gross\-Divina Nr\. 1                 | 30                             
+ 66       | Groß\-Divina Nr\. 1                 | 30                             
  67       | Zebrak Nr\. 1                        | 120                            
  68       | Timochin Nr\. 1                      | 28                             
  &nbsp;   | Timochin Nr\. 2                      | 20                             
@@ -2537,7 +2531,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  &nbsp;   | Caille Nr\. 2                        | 30                             
  83       | Ashville Nr\. 1                      | 90                             
  &nbsp;   | Ashville Nr\. 2                      | 8                              
- 84       | Tennesee Nr\. 1                      | 15                             
+ 84       | Tennessee Nr\. 1                      | 15                             
  85       | Bohumilitz Nr\. 1                    | 500                            
  &nbsp;   | Bohumilitz Nr\. 2                    | 6                              
  &nbsp;   | Bohumilitz Nr\. 3                    | 18                             
@@ -2570,20 +2564,20 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  &nbsp;   | Senegal Nr\. 4                       | 5                              
  &nbsp;   | Senegal Nr\. 5a                      | 20                             
  &nbsp;   | Senegal Nr\. 5b                      | ^                              
- 91       | Vorgebirg der guten Hoffnung Nr\. 1  | 200                            
- &nbsp;   | Vorgebirg der guten Hoffnung Nr\. 2  | 55                             
- &nbsp;   | Vorgebirg der guten Hoffnung Nr\. 3a | 4                              
- &nbsp;   | Vorgebirg der guten Hoffnung Nr\. 3b | 3                              
+ 91       | Vorgebirge der guten Hoffnung Nr\. 1  | 200                            
+ &nbsp;   | Vorgebirge der guten Hoffnung Nr\. 2  | 55                             
+ &nbsp;   | Vorgebirge der guten Hoffnung Nr\. 3a | 4                              
+ &nbsp;   | Vorgebirge der guten Hoffnung Nr\. 3b | 3                              
  92       | Clairborne Nr\. 1                    | 10                             
  93       | Oaxaca Nr\. 1                        | 5                              
  94       | Grönland Nr\. 1                      | 5                              
  80       | Nummern Meteoreisen\.                | 25611                          
  &nbsp;   | Hiezu die 178 Meteorsteine\.         | 7585 ½                         
- &nbsp;   | Also die gesammten 258 Meteoriten\.  | 33196 ½                        
+ &nbsp;   | Also die gesamten 258 Meteoriten\.  | 33196 ½                        
 
 ## Erklärung der Abbildung.
 
-Die auf der Abbildung dargestellten Widmanstättenschen Figuren (siehe die Anmerkung auf Seite 100 des vorliegenden Werkes) sind durch Ätzen der polierten Schnittfläche eines Stückes Meteoreisen von Lenarto in Ungarn erhalten worden. Es ist diess das größte Stück von dieser Lokalität in der Meteoriten-Sammlung des k. k. Mineralien-Kabinettes und in dem vorliegenden beschreibenden Verzeichnisse Seite 108 unter Nummer 1 angezeigt, Um die Zeichnung des Originals zu vervielfältigen, ist von der mit Salpetersäure geätzten Fläche desselben ein Gypsabguss gemacht und in diesen die Metall-Legirung (Blei, Zinn und Antimon) ausgegossen worden. Dadurch wurde eine dem Originale vollkommen ähnliche Platte gewonnen, und von dieser sodaun die Abdrücke auf Papier abgezogen.
+Die auf der Abbildung dargestellten Widmanstättenschen Figuren (siehe die Anmerkung auf Seite 100 des vorliegenden Werkes) sind durch Ätzen der polierten Schnittfläche eines Stückes Meteoreisen von Lenarto in Ungarn erhalten worden. Es ist dies das größte Stück von dieser Lokalität in der Meteoriten-Sammlung des k. k. Mineralien-Kabinettes und in dem vorliegenden beschreibenden Verzeichnisse Seite 108 unter Nummer 1 angezeigt, Um die Zeichnung des Originals zu vervielfältigen, ist von der mit Salpetersäure geätzten Fläche desselben ein Gipsabguss gemacht und in diesen die Metall-Legierung (Blei, Zinn und Antimon) ausgegossen worden. Dadurch wurde eine dem Originale vollkommen ähnliche Platte gewonnen, und von dieser sodann die Abdrücke auf Papier abgezogen.
 
 ## Verwandtschafts-Tabelle der Meteoriten.
 
@@ -2593,13 +2587,13 @@ Erdige Meteoriten entweder ohne metallischen Eisen, oder, wenn dieses eingemengt
 
 #### 1\. Anomale Meteorsteine.
 
-Gediegenes Eisen und Schwefeleisen sind darin entweder gar nicht vorhanden, oder in so geringer Menge, dass man sie in der gepulverten Substanz nur mittelst des Mikroscopes zu entdecken vermag.
+Gediegenes Eisen und Schwefeleisen sind darin entweder gar nicht vorhanden, oder in so geringer Menge, dass man sie in der gepulverten Substanz nur mittelst des Mikroskope zu entdecken vermag.
 
-1\. Alais. Bröcklige, leicht zu Pulver zerreibliche schwarze Masse, efflorescirend, im Wasser zu einem Brei zerfallend. Gediegenes Eisen und Schwefeleisen nur durch das Mikroscop erkennbar.
+1\. Alais. Bröcklige, leicht zu Pulver zerreibliche schwarze Masse, effloreszierend, im Wasser zu einem Brei zerfallend. Gediegenes Eisen und Schwefeleisen nur durch das Mikroskop erkennbar.
 
 2\. Simonod. Bröcklige und scharfkantige nicht leicht zerreibliche schwarze Masse, ohne gediegenen Eisen und ohne Magnetkies.
 
-3\. Kapland. Zusammenhängende aber weiche, schwarze Masse, durch den Strich Glanz erlangend, ohne sichtbares Schwefeleisen (obwohl der Stein nach der chemischen Untersuchung 4 p. c. Schwefel enthält) und ohne metall. Eisen. (Die chem. Analyse hat darin weder metall. Eisen noch Nickel gefunden.) Matte schwarze Rinde.
+3\. Kapland. Zusammenhängende aber weiche, schwarze Masse, durch den Strich Glanz erlangend, ohne sichtbares Schwefeleisen (obwohl der Stein nach der chemischen Untersuchung 4 p. c. Schwefel enthält) und ohne Metall. Eisen. (Die chem. Analyse hat darin weder Metall. Eisen noch Nickel gefunden.) Matte schwarze Rinde.
 
 4\. Chassigny. Zusammenhängende, körnige, gelblichgrüne Grundmasse ohne metallischen Eisen und ohne Schwefeleisen, aber mit kleinen schwarzen Körnern von Chromeisen gemengt. (Die Grundmasse besteht nur aus Einem, und zwar einem olivinartigen, in Säuren löslichen Mineral.) Matte schwarze Rinde.
 
@@ -2613,11 +2607,11 @@ Stets ist darin Schwefeleisen, in den meisten Fällen, nebst dem Schwefeleisen a
 
 5\. Juvenas. Die Masse enthält kleine Höhlungen; die beiden erdigen Mineralien stets in frischem Zustande.
 
-6\. Stannern. Die Masse ist ohne Hohlungen; von den beiden erdigen Gemengteilen ist der weiße meist nicht ganz frisch.
+6\. Stannern. Die Masse ist ohne Höhlungen; von den beiden erdigen Gemengteilen ist der weiße meist nicht ganz frisch.
 
-7\. Konstantinopel. Die Masse ist ohne Hohlungen; von den beiden erdigen Gemengteilen ist der weiße meist nicht ganz frisch.
+7\. Konstantinopel. Die Masse ist ohne Höhlungen; von den beiden erdigen Gemengteilen ist der weiße meist nicht ganz frisch.
 
-8\. Jonzac. Die Masse ist ohne Hohlungen; von den beiden erdigen Gemengteilen ist der weiße meist nicht ganz frisch.
+8\. Jonzac. Die Masse ist ohne Höhlungen; von den beiden erdigen Gemengteilen ist der weiße meist nicht ganz frisch.
 
 ##### b\. Von erdigen Gemengteilen ist außer den zwei bei a. erwähnten noch wenigstens ein dritter olivengrüner vorhanden; breccienartiges Aussehen.
 
@@ -2632,7 +2626,7 @@ grüne Kügelchen auf.
 
 #### 2\. Mit Schwefeleisen (Magnetkies?) und mit gediegenem Eisen. Die schwarze Rinde matt oder schwach schimmernd.
 
-(Von erdigen Mineralien sind in Folge chemischer Untersuchung darin vorhanden: a. Ein olivinartiges in Säuren lösliches, aber unschmelzbares Mineral. b. Ein oder vielleicht zwei, ein augit- und ein leucit- oder feldspathartiges Mineral, in Säuren unlöslich, aber schmelzbar Silicate von Talkerde, Kalkerde, Eisenoxydul, Manganoxydul, Tonerde, Kali und Natron). In der chemischen Zusammensetzung dieser Mineralien herrscht die Talkerde vor.)
+(Von erdigen Mineralien sind in Folge chemischer Untersuchung darin vorhanden: a. Ein olivinartiges in Säuren lösliches, aber unschmelzbares Mineral. b. Ein oder vielleicht zwei, ein augit- und ein leucit- oder feldspatartiges Mineral, in Säuren unlöslich, aber schmelzbar Silicate von Talkerde, Kalkerde, Eisenoxydul, Manganoxydul, Tonerde, Kali und Natron). In der chemischen Zusammensetzung dieser Mineralien herrscht die Talkerde vor.)
 
 13\. Parma. Mehr Kies als Eisen. Lichtgraue Grundmasse. Breccienartig, oder doch breccienartige Zeichng.
 
@@ -2704,31 +2698,31 @@ grüne Kügelchen auf.
 
 (43., 44.)
 
-43\. Berlanguillas. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+43\. Berlanguillas. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
-44\. Apt. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+44\. Apt. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
-45\. Vouille. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+45\. Vouille. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
-46\. Chateau-Renard. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+46\. Chateau-Renard. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
-47\. Sales. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+47\. Sales. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
-48\. Agen. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+48\. Agen. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
 (49., 50.)
 
-49\. Nanjemoy. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+49\. Nanjemoy. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
-50\. Asco. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+50\. Asco. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
-51\. Toulouse. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue ubergehend.
+51\. Toulouse. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
 (52., 53.)
 
-52\. Blansko. Dunkelgraue (blaulichgraue) Grundmasse.
+52\. Blansko. Dunkelgraue (bläulichgraue) Grundmasse.
 
-53\. Wessely. Dunkelgraue (blaulichgraue) Grundmasse.
+53\. Wessely. Dunkelgraue (bläulichgraue) Grundmasse.
 
 (54., 55., 56.)
 
@@ -2772,11 +2766,11 @@ grüne Kügelchen auf.
 
 ## 2\. Meteoreisen.
 
-Metallische Meteoriten, die wenigstens zur Halfte aus metallischem Eisen, meist aber vorwaltend aus derbem Eisen bestehen, dem einige andere, gleichfalls meist metallische Mineralien nur in geringer Menge beigemengt sind.
+Metallische Meteoriten, die wenigstens zur Hälfte aus metallischem Eisen, meist aber vorwaltend aus derbem Eisen bestehen, dem einige andere, gleichfalls meist metallische Mineralien nur in geringer Menge beigemengt sind.
 
 ### 1\. Ästiges Meteoreisen,
 
-mit einer ungefähr gleichen Menge von Olivin oder einem olivinartigen Mineral in den Höhlungen oder Zwischenräumen, dessen Vorhandenseyn die ästige oder schwammförmige Gestalt des Eisens, das gleichsam das Skelett des Ganzen bildet, bestimmt.
+mit einer ungefähr gleichen Menge von Olivin oder einem olivinartigen Mineral in den Höhlungen oder Zwischenräumen, dessen Vorhandensein die ästige oder schwammförmige Gestalt des Eisens, das gleichsam das Skelett des Ganzen bildet, bestimmt.
 
 #### 1\. Mit Olivin (Talkerde-Silicat).
 
@@ -2794,11 +2788,11 @@ mit einer ungefähr gleichen Menge von Olivin oder einem olivinartigen Mineral i
 
 von unbestimmter Form, mit Einmengungen, die auf die Gestalt des Eisens keinen Einfluss ausüben, und demselben nur in geringer Menge beigemengt sind. (Sie machen, etwa mit Ausnahme von Nr. 74, wohl nie mehr als den zwölften Teil des Ganzen aus.)
 
-#### 1\. Die Einmengnng besteht aus einem erdigen, grünlichen oder branuen olivinartigen Mineral (und wohl auch aus Magnetkies).
+#### 1\. Die Einmengung besteht aus einem erdigen, grünlichen oder braunen olivinartigen Mineral (und wohl auch aus Magnetkies).
 
 74\. Bitburg.
 
-#### 2\. Die Einmengung besteht aus Magnetkies (zuweilen wohl auch aus einer zweiten, noch nicht hinreichend untersuchten Schwefeleisen-Verbindung) und in seltneren Fällen aus einigen anderen Mineralien (Magneteisen, Chromeisen, Graphit, Verbindungen von Phosphoreisen mit Phosphornickel und Phosphormagnesium u. s. w.).
+#### 2\. Die Einmengung besteht aus Magnetkies (zuweilen wohl auch aus einer zweiten, noch nicht hinreichend untersuchten Schwefeleisen-Verbindung) und in selteneren Fällen aus einigen anderen Mineralien (Magneteisen, Chromeisen, Graphit, Verbindungen von Phosphoreisen mit Phosphornickel und Phosphormagnesium u. s. w.).
 
 75\. Toluca. Durch Ätzen mit Sauren oder Anlaufen durch Hitze entstehen vollkommene Widmanstättensche Figuren, d. h. mit der kristallinischen Struktur und der chemischen Beschaffenheit des Eisens, das teils rein, teils mit Nickel, Kobalt, Phosphor u. s. w. legiert ist, zusammenhangende Zeichnungen, die aus Streifen, Zwischenfeldern und Einfassungsleisten bestehen. Die Zwischenfelder sind schraffiert und wiederhohlen in Kleinen die Beschaffenheit der Masse in Großen.
 
@@ -2824,11 +2818,11 @@ von unbestimmter Form, mit Einmengungen, die auf die Gestalt des Eisens keinen E
 
 86\. Bahia. Durch Ätzen oder Anlaufen entstehen unvollkommene Widmanstättensche Figuren, d. h. die Einfassungsleisten sind wenig deutlich, die Zwischenfelder verschwinden fast ganz, die Streifen sind dagegen sehr breit und schimmern fleckenweise und abwechselnd wie moire metallique.
 
-87\. Zacatecas. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern läugere feine Linien, die sich zwar öfter berühren und schneiden, und dadurch unvollkommene Zwischenfelder bilden; diese werden aber nur von diesen Linien (nicht von Streifen mit Begrenzungsleisten) umgeben, und sind zum Teil mit unterbrochenen kurzen Linien der Strichelchen ausgefüllt.
+87\. Zacatecas. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern längere feine Linien, die sich zwar öfter berühren und schneiden, und dadurch unvollkommene Zwischenfelder bilden; diese werden aber nur von diesen Linien (nicht von Streifen mit Begrenzungsleisten) umgeben, und sind zum Teil mit unterbrochenen kurzen Linien der Strichelchen ausgefüllt.
 
-88\. Rasgata. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern läugere feine Linien, die sich zwar öfter berühren und schneiden, und dadurch unvollkommene Zwischenfelder bilden; diese werden aber nur von diesen Linien (nicht von Streifen mit Begrenzungsleisten) umgeben, und sind zum Teil mit unterbrochenen kurzen Linien der Strichelchen ausgefüllt.
+88\. Rasgata. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern längere feine Linien, die sich zwar öfter berühren und schneiden, und dadurch unvollkommene Zwischenfelder bilden; diese werden aber nur von diesen Linien (nicht von Streifen mit Begrenzungsleisten) umgeben, und sind zum Teil mit unterbrochenen kurzen Linien der Strichelchen ausgefüllt.
 
-89\. Tucumann. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern kurze feine Linien, die sich oft berühren und schneiden, ohne Mittelfelder zu bilden, und dem Ganzen eine gestrickte oder federartige Zeichnung verleihen.
+89\. Tucuman. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern kurze feine Linien, die sich oft berühren und schneiden, ohne Mittelfelder zu bilden, und dem Ganzen eine gestrickte oder federartige Zeichnung verleihen.
 
 90\. Senegal. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern kurze feine Linien, die sich oft berühren und schneiden, ohne Mittelfelder zu bilden, und dem Ganzen eine gestrickte oder federartige Zeichnung verleihen.
 
