@@ -166,7 +166,7 @@ Wien, den 23. Februar 1843.
 
 59\. Tabor (Plan).
 
-60\. Charsonville (Orleans).
+60\. Charsonville (Orléans).
 
 61\. Doroninsk.
 
@@ -1483,7 +1483,7 @@ Die Meteorsteine von Tabor (1753) sind die ersten, die in wissenschaftliche Samm
 
 ### 60\. Charsonville.
 
-(Orleans, Beaugency, Mortelle, Villerai, Moulin-brule) Dépt. du Loiret, Frankreich.
+(Orléans, Beaugency, Mortelle, Villerai, Moulin-brule) Dépt. du Loiret, Frankreich.
 
 23\. November 1810, 1 1/2 Uhr Nachmittags.
 
@@ -1495,7 +1495,7 @@ Zwei Bruchstücke von einem der zwei aufgefundenen Steine, wovon einer 40, der a
 
 2\. Kleines Bruchstück ohne Rinde und mit polierter Fläche. — 4 Loth. — 1841. 14. 8. — Aus der Heuland'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft.
 
-Dem Meteorsteine von Charsonville oder Orleans verleihen die darin befindlichen schwarzen Adern oder Gänge, die in keinem anderen Meteorsteine so schön und in solcher Deutlichkeit zu finden sind, ein besonderes Interesse. Große polierte Schnittflächen, wie die bei dem Stücke Nr. 1, stellen die Beschaffenheit und Verzweigung dieser Gänge am schönsten dar.
+Dem Meteorsteine von Charsonville oder Orléans verleihen die darin befindlichen schwarzen Adern oder Gänge, die in keinem anderen Meteorsteine so schön und in solcher Deutlichkeit zu finden sind, ein besonderes Interesse. Große polierte Schnittflächen, wie die bei dem Stücke Nr. 1, stellen die Beschaffenheit und Verzweigung dieser Gänge am schönsten dar.
 
 ### 61\. Doroninsk.
 
