@@ -1557,7 +1557,7 @@ Dunkelgraue Grundmasse mit vielen Rostflecken; zahlreiche, auf Bruchflächen aus
 
 Zwei Bruchstücke von einem, so viel bekannt, einzeln gefallenen Steine von 5 Pfund 22 Loth.
 
-1\. Bruchstück mit Rinde und einer anpolierten Fläche. — Beschrieben und abgebildet in von Schreibers Beiträgen, Seite 13, Taf. 2. — 6 31/32 Loth. — 1. 8. — Wurde durch den Domherrn von Hompesch in Eichstädt, um das Jahr 1789, dem damaligen Direktors-Adjunkten am k. k. Naturalien-Kabinette, Abbe Stütz, mitgeteilt.
+1\. Bruchstück mit Rinde und einer anpolierten Fläche. — Beschrieben und abgebildet in von Schreibers Beiträgen, Seite 13, Taf. 2. — 6 31/32 Loth. — ♂ 1. 8. — Wurde durch den Domherrn von Hompesch in Eichstädt, um das Jahr 1789, dem damaligen Direktors-Adjunkten am k. k. Naturalien-Kabinette, Abbe Stütz, mitgeteilt.
 
 2\. Kleines Bruchstück mit frischem Bruche und etwas Rinde. — 11/32 Loth. — 1840. 4. 6. — Aus der Heuland'schen, später Heath'schen Meteoriten-Sammlung durch Herrn Pötschke gekauft. Stammt aus der de Dree'schen Mineralien-Sammlung (in welcher es beim Verkaufe durch Verwechslung die Etiquette mit dem Fallorte Mauerkirchen führte).
 
