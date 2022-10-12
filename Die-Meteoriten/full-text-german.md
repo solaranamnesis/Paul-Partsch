@@ -230,7 +230,7 @@ Wien, den 23. Februar 1843.
 
 90\. Senegal.
 
-91\. Cap der guten Hoffnung.
+91\. Kap der guten Hoffnung.
 
 92\. Clairborne (Alabama).
 
@@ -456,7 +456,7 @@ Wien, den 23. Februar 1843.
 
 90\. Senegambien (am oberen Teil des Senegalstromes).
 
-91\. Cap der guten Hoffnung (zwischen dem Sonntags- und Boschesmannsflüsse).
+91\. Kap der guten Hoffnung (zwischen dem Sonntags- und Boschesmannsflüsse).
 
 #### D\. Amerika.
 
@@ -621,7 +621,7 @@ Bokkeveld bei Tulpagh, 70 englische Meilen von der Kapstadt, am Vorgebirge der g
 
 In die schwarze, matte, durch den Strich Glanz erlangende, weiche und milde Grundmasse sind weißliche und grünliche, undeutliche Körner (die wie Flecken aussehen und wenig Körper zu haben scheinen) eingemengt; gediegen Eisen und Schwefelkies sind nicht sichtbar. — Ein höchst eigentümlicher Meteorstein.
 
-Fragment mit etwas Rinde; von einem großen, einzeln gefallenen Steine von einigen Zentnern an Gewicht, der in viele Trümmer zersprang. — 3/8 Loth. — 1842. 36. 1. — Von dem kaiserl. russischen Minister in Hamburg, geheimen Rath von Struve, in Tausch erhalten. Dieser bekam das Fragment von Professor Mayer, der es vom Cap mitbrachte.
+Fragment mit etwas Rinde; von einem großen, einzeln gefallenen Steine von einigen Zentnern an Gewicht, der in viele Trümmer zersprang. — 3/8 Loth. — 1842. 36. 1. — Von dem kaiserl. russischen Minister in Hamburg, geheimen Rath von Struve, in Tausch erhalten. Dieser bekam das Fragment von Professor Mayer, der es vom Kap mitbrachte.
 
 ### 4\. Chassigny,
 
@@ -2085,7 +2085,7 @@ e\. Einige Mineralien, die Ähnlichkeit mit Meteorsteinen besitzen (Dolerit, Bas
 
 f\. Einige Meteorsteine, namentlich von Stannern, mit welchen durch Herrn Hofrath und Direktor von Schreibers verschiedenartige Schmelzversuche im Porzellanfeuer, mit Brennspiegeln und mit elektrischen Strömungen angestellt worden sind, dann andere Meteorsteine, die längere Zeit in der Erde vergraben waren, um die Verwitterbarkeit derselben zu untersuchen (da es sonderbar ist, dass man noch nie Meteorsteine fand, deren Niederfallen nicht beobachtet worden wäre.)
 
-g\. Verarbeitetes (geschmiedetes, geschweißtes, in Bleche ausgezogenes....) Meteoreisen, namentlich von Agram, Elbogen und vom Cap der guten Hoffnung; technische Versuche, von Herrn v. Widmannstätten ausgeführt.
+g\. Verarbeitetes (geschmiedetes, geschweißtes, in Bleche ausgezogenes....) Meteoreisen, namentlich von Agram, Elbogen und vom Kap der guten Hoffnung; technische Versuche, von Herrn v. Widmannstätten ausgeführt.
 
 h\. Die Original-Urkunde in lateinischer Sprache, ddo. 6. Juli 1751 mit Siegel und einer gleichzeitigen deutschen Übersetzung über das Niederfallen der zwei Meteoreisenmassen von Agram.
 
@@ -2139,7 +2139,7 @@ r\. Auf dem Alasej'schen Bergrücken in Sibirien, der das Flusssystem des Alasej
 
 s\. In der Petropawlowsker Goldseife, Gouv. Omsk, Sibirien, hat man früher kleinere Stücke gediegenen nickelhaltigen Eisens, die man nicht beachtete, und erst kürzlich ein größeres 17 1/2 Pfund schweres Stück gefunden. (Siehe Erdmann Archiv für wissenschaftliche Kunde von Russland. 1841. 1. S. 314-320.) Wir hoffen, durch gütige Vermittlung des Herrn Generals von Tscheffkin, Chef des Stabes des k. russischen Bergingenieur-Corps, an den wir uns gewendet haben, davon etwas zu erhalten.
 
-t\. Wie wir bereits bei dem Meteoreisen vom Cap der guten Hoffnung (Nr. 91 des gegenwärtigen Verzeichnisses) bemerkten, ist es noch ungewiss, ob das früher zwischen dem Sonntags- und Boschmanns-Flüsse gefundene Meteoreisen mit den am großen Fischflüsse weit umher gestreuten Eisenmassen, die durch Capitan Alexander bekannt wurden, von ein und demselben Ereignis herrühren. Es wäre wünschenswert, das von C. Alexander entdeckte Eisen untersuchen zu können. Ob es schon nach Europa gebracht worden, ist uns nicht bekannt.
+t\. Wie wir bereits bei dem Meteoreisen vom Kap der guten Hoffnung (Nr. 91 des gegenwärtigen Verzeichnisses) bemerkten, ist es noch ungewiss, ob das früher zwischen dem Sonntags- und Boschmanns-Flüsse gefundene Meteoreisen mit den am großen Fischflüsse weit umher gestreuten Eisenmassen, die durch Capitan Alexander bekannt wurden, von ein und demselben Ereignis herrühren. Es wäre wünschenswert, das von C. Alexander entdeckte Eisen untersuchen zu können. Ob es schon nach Europa gebracht worden, ist uns nicht bekannt.
 
 u\. Das Meteoreisen von Santa Rosa oder Tocavita in Neu-Granada sahen wir in der k. Mineralien-Sammlung zu Berlin, wohin es durch Herrn Alexander von Humboldt kam, und fanden es dem bei Rasgatà aufgefundenen ganz ähnlich. Es ist nicht unwahrscheinlich, dass die Eisenmassen dieser zwei Lokalitäten, die voneinander nicht sehr entfernt sind, von Einem Meteore herrühren, das verschiedene Entladungen machte.
 
@@ -2270,7 +2270,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  &nbsp;   | &nbsp;                                             | 7,56\.                                                                | &nbsp;                                                                                                                                                                               
  &nbsp;   | &nbsp;                                             | 7,60\.                                                                | &nbsp;                                                                                                                                                                               
  90       | Senegal                                            | 7,72\.                                                                | &nbsp;                                                                                                                                                                               
- 91       | Cap der guten Hoffnung                             |                                                                       | 6,65\. bis 6,92\. die dunkleren Teile\. Widmannstatten\. \- 7,63\. bis 7,87\. die lichteren Teile\. Widmannstatten\. \- 7,60\. Van Marum\. \- 7,66\. Wehrle\. \- 7,70\. Dankelmann\. 
+ 91       | Kap der guten Hoffnung                             |                                                                       | 6,65\. bis 6,92\. die dunkleren Teile\. Widmannstatten\. \- 7,63\. bis 7,87\. die lichteren Teile\. Widmannstatten\. \- 7,60\. Van Marum\. \- 7,66\. Wehrle\. \- 7,70\. Dankelmann\. 
  &nbsp;   | &nbsp;                                             | 6,63\.                                                                | &nbsp;                                                                                                                                                                               
  &nbsp;   | &nbsp;                                             | 6,92\.                                                                | &nbsp;                                                                                                                                                                               
  &nbsp;   | &nbsp;                                             | 6,99\.                                                                | &nbsp;                                                                                                                                                                               
@@ -2826,7 +2826,7 @@ von unbestimmter Form, mit Einmengungen, die auf die Gestalt des Eisens keinen E
 
 90\. Senegal. Durch Ätzen entstehen keine Widmanstättenschen Figuren, sondern kurze feine Linien, die sich oft berühren und schneiden, ohne Mittelfelder zu bilden, und dem Ganzen eine gestrickte oder federartige Zeichnung verleihen.
 
-91\. Cap der guten Hoffnung. Durch Ätzen entstehen entweder gar keine Figuren, oder es ziehen sich über die geätzte graue und feinkörnige Fläche einzelne, zuweilen mehrere parallele Bänder hin, die jedoch nur sichtbar sind, wenn die Fläche nach gewissen Richtungen gehalten wird.
+91\. Kap der guten Hoffnung. Durch Ätzen entstehen entweder gar keine Figuren, oder es ziehen sich über die geätzte graue und feinkörnige Fläche einzelne, zuweilen mehrere parallele Bänder hin, die jedoch nur sichtbar sind, wenn die Fläche nach gewissen Richtungen gehalten wird.
 
 92\. Clairborne. Durch Ätzen entstehen entweder gar keine Figuren, oder es ziehen sich über die geätzte graue und feinkörnige Fläche einzelne, zuweilen mehrere parallele Bänder hin, die jedoch nur sichtbar sind, wenn die Fläche nach gewissen Richtungen gehalten wird.
 
