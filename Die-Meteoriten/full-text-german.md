@@ -136,7 +136,7 @@ Wien, den 23. Februar 1843.
 
 44\. Apt (Saurette).
 
-45\. Vouille (Poitiers).
+45\. Vouillé (Poitiers).
 
 46\. Chateau-Renard (Trigueres).
 
@@ -288,7 +288,7 @@ Wien, den 23. Februar 1843.
 
 51\. Toulouse, Dept. de la Haute-Garonne.
 
-45\. Vouille, Dept. de la Vienne.
+45\. Vouillé, Dept. de la Vienne.
 
 ##### England.
 
@@ -563,7 +563,7 @@ Wien, den 23. Februar 1843.
  20         | 1828     | 4\. Juni                                           | Richmond\.                
  40         | 1829     | 8\. Mai                                            | Forsyth\.                 
  25         | 1829     | 9\. September                                      | Krasno\-Ugol\.            
- 45         | 1831     | 18\. Juli \(nach anderen Angaben 13\. Mai\)        | Vouille\.                 
+ 45         | 1831     | 18\. Juli \(nach anderen Angaben 13\. Mai\)        | Vouillé\.                 
  53         | 1831     | 9\. September                                      | Wessely\.                 
  52         | 1833     | 25\. November                                      | Blansko\.                 
  2          | 1835     | 13\. November                                      | Simonod\.                 
@@ -2107,7 +2107,7 @@ b\. 1715. Garz (Schellin) bei Stargard in Pommern. Von diesem erst im Jahre 1822
 
 c\. 1815. Duralla bei Lodiana in Ostindien. Der allda gefallene Stein von 25 Pfunden, dem die Braminen große Verehrung bezeugten und einen eigenen Tempel bauen lassen wollten, wird im Hause der ostindischen Compagnie in London aufbewahrt, und davon auch nicht die Abtrennung eines winzigen Fragmentchens gestattet. Wir haben deshalb fruchtlose Schritte gemacht. Er soll zu der Abtheilung der eisenhältigen Meteorsteine gehören.
 
-d\. 1822. Angers, Dept. Maine et Loire, Frankreich. Wir sahen von diesem, hinsichtlich seiner Masse unbeträchtlichen Steinfall ein Stück im k. Museum der Naturgeschichte zu Paris. Der Stein gleicht dem von Vouille.
+d\. 1822. Angers, Dept. Maine et Loire, Frankreich. Wir sahen von diesem, hinsichtlich seiner Masse unbeträchtlichen Steinfall ein Stück im k. Museum der Naturgeschichte zu Paris. Der Stein gleicht dem von Vouillé.
 
 e\. 1822. Rourpoor bei Futichpore in Doab, Ostindien. Von dem unergiebigen Steinfall (die Steine wogen zusammen nur einige Pfunde) scheint nichts nach Europa gekommen zu sein.
 
@@ -2206,7 +2206,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  42       | Glasgow                                            | 3,53\.                                                                | &nbsp;                                                                                                                                                                               
  43       | Berlanguillas                                      | 3,49\.                                                                | &nbsp;                                                                                                                                                                               
  44       | Apt                                                | 3,48\.                                                                | &nbsp;                                                                                                                                                                               
- 45       | Vouille                                            | 3,55\.                                                                | &nbsp;                                                                                                                                                                               
+ 45       | Vouillé                                            | 3,55\.                                                                | &nbsp;                                                                                                                                                                               
  46       | Chateau\-Renard                                    | 3,54\.                                                                | 3,56\. Dufrenoy\.                                                                                                                                                                    
  &nbsp;   | Eisenkorner daraus                                 | …\.                                                                   | 6,48\. Dufrenoy\.                                                                                                                                                                    
  47       | Salés                                              | 3,47\.                                                                | &nbsp;                                                                                                                                                                               
@@ -2419,7 +2419,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  43       | Berlanguillas Nr\. 1                 | 66                             
  44       | Apt Nr\. 1                           | 96                             
  &nbsp;   | Apt Nr\. 2                           | 12                             
- 45       | Vouille Nr\. 1                       | 35                             
+ 45       | Vouillé Nr\. 1                       | 35                             
  46       | Chateau\-Renard Nr\. 1               | 74                             
  &nbsp;   | Chateau\-Renard Nr\. 2               | 21                             
  &nbsp;   | Chateau\-Renard Nr\. 3               | 10                             
@@ -2702,7 +2702,7 @@ grüne Kügelchen auf.
 
 44\. Apt. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
-45\. Vouille. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
+45\. Vouillé. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
 46\. Chateau-Renard. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
