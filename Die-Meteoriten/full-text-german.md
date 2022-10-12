@@ -138,7 +138,7 @@ Wien, den 23. Februar 1843.
 
 45\. Vouillé (Poitiers).
 
-46\. Chateau-Renard (Trigueres).
+46\. Château-Renard (Trigueres).
 
 47\. Salés (Villefranche).
 
@@ -266,7 +266,7 @@ Wien, den 23. Februar 1843.
 
 4\. Chassigny, Dept. de la haute Marne.
 
-46\. Chateau-Renard, Dept. du Loiret.
+46\. Château-Renard, Dept. du Loiret.
 
 15\. Ensisheim, ehemals Elsass, jetzt Dept. du Haut-Rhin.
 
@@ -571,7 +571,7 @@ Wien, den 23. Februar 1843.
  66         | 1837     | 24\. Juli                                          | Groß\-Divina\.           
  3          | 1838     | 13\. Oktober                                       | Kapland\.                 
  55         | 1841     | 22\. Marz                                          | Grüneberg\.               
- 46         | 1841     | 12\. Juni                                          | Chateau\-Renard\.         
+ 46         | 1841     | 12\. Juni                                          | Château\-Renard\.         
  39         | 1842     | 26\. April                                         | Milena\.                  
  24         | &nbsp;   | Die Fallzeit unbekannt\.                           | Gouv\. Poltawa\.          
  57         | &nbsp;   | Die Fallzeit unbekannt\.                           | Gouv\. Kursk\.            
@@ -2207,7 +2207,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  43       | Berlanguillas                                      | 3,49\.                                                                | &nbsp;                                                                                                                                                                               
  44       | Apt                                                | 3,48\.                                                                | &nbsp;                                                                                                                                                                               
  45       | Vouillé                                            | 3,55\.                                                                | &nbsp;                                                                                                                                                                               
- 46       | Chateau\-Renard                                    | 3,54\.                                                                | 3,56\. Dufrenoy\.                                                                                                                                                                    
+ 46       | Château\-Renard                                    | 3,54\.                                                                | 3,56\. Dufrenoy\.                                                                                                                                                                    
  &nbsp;   | Eisenkorner daraus                                 | …\.                                                                   | 6,48\. Dufrenoy\.                                                                                                                                                                    
  47       | Salés                                              | 3,47\.                                                                | &nbsp;                                                                                                                                                                               
  48       | Agen                                               | 3,59 bis 3,62\.                                                       | &nbsp;                                                                                                                                                                               
@@ -2420,9 +2420,9 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  44       | Apt Nr\. 1                           | 96                             
  &nbsp;   | Apt Nr\. 2                           | 12                             
  45       | Vouillé Nr\. 1                       | 35                             
- 46       | Chateau\-Renard Nr\. 1               | 74                             
- &nbsp;   | Chateau\-Renard Nr\. 2               | 21                             
- &nbsp;   | Chateau\-Renard Nr\. 3               | 10                             
+ 46       | Château\-Renard Nr\. 1               | 74                             
+ &nbsp;   | Château\-Renard Nr\. 2               | 21                             
+ &nbsp;   | Château\-Renard Nr\. 3               | 10                             
  47       | Salés Nr\. 1                         | 84                             
  &nbsp;   | Salés Nr\. 2                         | 15                             
  48       | Agen Nr\. 1                          | 22                             
@@ -2704,7 +2704,7 @@ grüne Kügelchen auf.
 
 45\. Vouillé. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
-46\. Chateau-Renard. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
+46\. Château-Renard. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
 47\. Salés. Die Grundmasse aus dem Lichtgrauen in das Dunkelgraue übergehend.
 
