@@ -30,7 +30,7 @@ Wien, den 23. Februar 1843.
 
 *) Mémoire historique et physique sur les chutes des pierres tombées sur la surface de la terre a diverses époques. Orléans 1812. 8.
 
-*) Experiments and Observations on certain stony and metalline Substances, wich at different Times are said to have fallen on the Earth, also on various Kinds of native Iron, in den Philos. Transact. of the Roy. Soc. of London for 1802. Part I. S. 168; deutsch in Gilberts Annalen der Physik, B. 13, S. 291, unter dem Titel: Versuche und Bemerkungen über Stein- und Metallmassen, die zu verschiedenen Zeiten auf die Erde gefallen sein sollen, und über die gediegenen Eisenmassen.
+*) Experiments and Observations on certain stony and metalline Substances, wich at different Times are said to have fallen on the Earth, also on various Kinds of native Iron, in den Philos. Transact. of the Roy. Soc. of London for 1802. Part 1. S. 168; deutsch in Gilberts Annalen der Physik, B. 13, S. 291, unter dem Titel: Versuche und Bemerkungen über Stein- und Metallmassen, die zu verschiedenen Zeiten auf die Erde gefallen sein sollen, und über die gediegenen Eisenmassen.
 
 *) Über Feuer-Meteore und über die mit denselben herabgefallenen Massen. Wien 1819, im Verlage bei J. G. Heubner. 8. Nebst vielen Aufsätzen in Gilberts Annalen.
 
@@ -679,7 +679,7 @@ A. Ganze und fast ganze Steine, oder doch in dem Zustande, wie sie auf die Erde 
 
 5\. Noch einer der größeren Steine; sehr lehrreich wegen einer unvollkommen überrindeten Fläche, aus welcher die Grundmasse durchblickt. — Beschrieben und abgebildet im angeführten Werke, Seite 33, Taf. 6. Fig. 3. — 1 Pfund 6 7/8 Loth. — 1808. 24. 4. — Aufgefunden wie Nr. 2-4.
 
-6\. Ein mittelgroßer Stein, anscheinend ein Bruchstück, oder die Hälfte eines Steines, aber im Herabfallen zerbrochen; die natürliche Bruchfläche teilweise verändert (etwas braun gefärbt und mit einzelnen kleinen Rindetröpfchen besetzt), also in dem Zustande wie er auf die Erde kam. Ein sehr belehrendes Stück. — Beschrieben und abgebildet im angeführten Werke, S. 36, Taf. VI. Fig. 4. — 1 Pfund 7/8 Loth. — 1808. 24. 5. — Wurde am Tage des Ereignisses aufgefunden und später der Kommission übergeben.
+6\. Ein mittelgroßer Stein, anscheinend ein Bruchstück, oder die Hälfte eines Steines, aber im Herabfallen zerbrochen; die natürliche Bruchfläche teilweise verändert (etwas braun gefärbt und mit einzelnen kleinen Rindetröpfchen besetzt), also in dem Zustande wie er auf die Erde kam. Ein sehr belehrendes Stück. — Beschrieben und abgebildet im angeführten Werke, S. 36, Taf. 6. Fig. 4. — 1 Pfund 7/8 Loth. — 1808. 24. 5. — Wurde am Tage des Ereignisses aufgefunden und später der Kommission übergeben.
 
 7\. Ganzer, mittelgroßer Stein, mit stark glänzender Rinde, an einigen Stellen etwas entblößt. — 1 Pfd. 1/4 Loth. — 1808. 24. 6. — Durch die Kommission überbracht.
 
