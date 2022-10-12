@@ -513,7 +513,7 @@ Wien, den 23. Februar 1843.
  30         | 1768     | 13\. September                                     | Lucé\.                    
  28         | 1768     | 20\. November                                      | Mauerkirchen\.            
  63         | 1773     | 17\. November                                      | Sigena\.                  
- 65         | 1785     | 19\. Februar                                       | Eichstadt\.               
+ 65         | 1785     | 19\. Februar                                       | Eichstädt\.               
  33         | 1787     | 1\. Oktober                                        | Charkow\.                 
  64         | 1790     | 24\. Juli                                          | Barbotan\.                
  14         | 1794     | 16\. Juni                                          | Siena\.                   
@@ -2230,7 +2230,7 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  62       | Seres                                              | 3,71\.                                                                | 3,60\. John\.                                                                                                                                                                        
  63       | Sigena                                             | 3,63\.                                                                | &nbsp;                                                                                                                                                                               
  64       | Barbotan                                           | 3,62\.                                                                | &nbsp;                                                                                                                                                                               
- 65       | Eichstadt                                          | 3,60\.                                                                | 3,70\. Schreibers\.                                                                                                                                                                  
+ 65       | Eichstädt                                          | 3,60\.                                                                | 3,70\. Schreibers\.                                                                                                                                                                  
  66       | Groß\-Divina                                      | 3,55 bis 3,56\.                                                       | &nbsp;                                                                                                                                                                               
  67       | Zebrak                                             | 3,60\.                                                                | 3,6\. Zippe\.                                                                                                                                                                        
  68       | Timochin                                           | 3,60\.                                                                | 3,7\. Klaproth\.                                                                                                                                                                     
@@ -2458,8 +2458,8 @@ w\. dass von Charcas in Mexico (Chladni S. 337) mit anderen bekannten mexikanisc
  63       | Sigena Nr\. 1                        | 8                              
  64       | Barbotan Nr\. 1                      | 59                             
  &nbsp;   | Barbotan Nr\. 2                      | 47                             
- 65       | Eichstadt Nr\. 1                     | 42                             
- &nbsp;   | Eichstadt Nr\. 2                     | 6                              
+ 65       | Eichstädt Nr\. 1                     | 42                             
+ &nbsp;   | Eichstädt Nr\. 2                     | 6                              
  66       | Groß\-Divina Nr\. 1                 | 30                             
  67       | Zebrak Nr\. 1                        | 120                            
  68       | Timochin Nr\. 1                      | 28                             
@@ -2754,7 +2754,7 @@ grüne Kügelchen auf.
 
 (65., 66., 67., 68.)
 
-65\. Eichstadt. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesäten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
+65\. Eichstädt. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesäten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
 
 66\. Groß-Divina. Dunkelgraue, oder zwischen licht- und dunkelgrau schwankende, durch eine Menge von eingesäten Rostflecken, mehr oder weniger ins Braune ziehende Grundmasse (Zugleich die eisenreichsten Meteorsteine.)
 
