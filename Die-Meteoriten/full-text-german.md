@@ -262,7 +262,7 @@ Wien, den 23. Februar 1843.
 
 64\. Barbotan (und Roquefort) ehemals Gascogne, Dépt. du Gers (und Dépt. des Landes).
 
-18\. Chantonnay, Dépt. de la Vendee.
+18\. Chantonnay, Dépt. de la Vendée.
 
 60\. Charsonville, Dépt. du Loiret.
 
@@ -925,7 +925,7 @@ Nach dem, was Bigot de Morogues in dem Werke: Memoire sur les chutes des pierres
 
 ### 18\. Chantonnay.
 
-Zwischen Nantes und La Rochelle, Dépt. de la Vendee, Frankreich.
+Zwischen Nantes und La Rochelle, Dépt. de la Vendée, Frankreich.
 
 5\. August 1812, Nachts 2 Uhr.
 
