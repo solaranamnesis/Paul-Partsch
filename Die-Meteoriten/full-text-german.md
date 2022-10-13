@@ -92,7 +92,7 @@ Wien, den 23. Februar 1843.
 
 21\. Weston (Connecticut).
 
-22\. La Baffe (Epinal).
+22\. La Baffe (Épinal).
 
 23\. Benares (Krakhut).
 
