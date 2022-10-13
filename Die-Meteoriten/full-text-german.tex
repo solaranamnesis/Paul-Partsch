@@ -1,1 +1,494 @@
+\documentclass[a4paper, 11pt, oneside, polutonikogreek, german]{article}
+\usepackage{gfsbaskerville}
+% Load encoding definitions (after font package)
+\usepackage[LGR,T1]{fontenc}
+\usepackage{textalpha}
 
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily}
+
+% Babel package:
+\usepackage{babel}
+
+% With XeTeX$\$LuaTeX, load fontspec after babel to use Unicode
+% fonts for Latin script and LGR for Greek:
+\ifdefined\luatexversion \usepackage{fontspec}\fi
+\ifdefined\XeTeXrevision \usepackage{fontspec}\fi
+
+% "Lipsiakos" italic font `cbleipzig`:
+\newcommand*{\lishape}{\fontencoding{LGR}\fontfamily{cmr}%
+		       \fontshape{li}\selectfont}
+\DeclareTextFontCommand{\textli}{\lishape}
+
+\usepackage{booktabs}
+\setlength{\emergencystretch}{15pt}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\begin{document}
+\begin{titlepage} % Suppresses headers and footers on the title page
+	\centering % Centre everything on the title page
+	%\scshape % Use small caps for all text on the title page
+
+	%------------------------------------------------
+	%	Title
+	%------------------------------------------------
+	
+	\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick horizontal rule
+	\rule{\textwidth}{0.4pt} % Thin horizontal rule
+	
+	\vspace{1\baselineskip} % Whitespace above the title
+	
+	{\scshape\LARGE Die Meteoriten oder\\[1.25pt] vom Himmel gefallenen \\[1.25pt] Steine und Eisenmassen\\[1.25pt] im k. k. Hof-Mineralien-Kabinette\\[4pt] zu Wien.}
+	
+	\vspace{1\baselineskip} % Whitespace above the title
+
+	\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt} % Thin horizontal rule
+	\rule{\textwidth}{1.6pt} % Thick horizontal rule
+	
+	\vspace{1\baselineskip} % Whitespace after the title block
+	
+	%------------------------------------------------
+	%	Subtitle
+	%------------------------------------------------
+	
+	{\scshape Beschrieben,\\ und durch wissenschaftliche und geschichtliche \\ Zusätze erläutert \\ von \\ Paul Partsch,} % Subtitle or further description
+	
+	\vspace*{1\baselineskip} % Whitespace under the subtitle
+	
+    {\scshape\scriptsize Kustos an dem genannten Kabinette. \\ Mit einer Abbildung.} % Subtitle or further description
+    
+	%------------------------------------------------
+	%	Editor(s)
+	%------------------------------------------------
+    \vspace*{\fill}
+
+	\vspace{1\baselineskip}
+
+	{\small\scshape Wien 1843.}
+	
+	{\small\scshape{Verlag von Kaulfuss Witwe, Prandel \& Komp.}}
+	
+	\vspace{0.5\baselineskip} % Whitespace after the title block
+
+    \scshape Internet Archive Online Edition  % Publication year
+	
+	{\scshape\small Namensnennung Nicht-kommerziell Weitergabe unter gleichen Bedingungen 4.0 International} % Publisher
+\end{titlepage}
+\setlength{\parskip}{1mm plus1mm minus1mm}
+\clearpage
+\tableofcontents
+\clearpage
+\vspace*{\fill}
+\begin{quote}
+   Es lässt sich als ausgemacht ansehen, dass sie nicht von der Erde, sondern von einem anderen Weltkörper herstammen, und folglich die Beschaffenheit der außerhalb der Erde vorkommenden wägbaren Stoffe verkünden. In dieser Beziehung haben die Meteorsteine ein außerordentliches Interesse. - Berzelius
+\end{quote}
+\vspace*{\fill}
+\clearpage
+\section*{Vorwort.}
+\paragraph{}
+In dem k. k. Hof-Mineralien-Kabinette zu Wien befinden sich acht Sammlungen in Glasschränken zur Schau gestellt, die jede Woche zweimal, Mittwoche und Sonnabend, von Jedermann besehen und benützt werden können. Nachdem der Herausgeber vorliegender Schrift eine kurze allgemeine Übersicht dieser Sammlungen des k. k. Mineralien-Kabinettes kürzlich in Druck gelegt hat, beginnt er das darin gegebene Versprechen, von jeder derselben, je nach Bedürfnis und Zweckmäßigkeit, entweder spezielle Verzeichnisse oder doch ausgedehntere Übersichten nachfolgen zu lassen, dadurch in Ausführung zu bringen, dass er zuerst das vorliegende beschreibende Verzeichnis erscheinen lässt. Die Meteoriten-Sammlung des k. k. Mineralien-Kabinettes ist zwar von allen daselbst befindlichen der Anzahl der Stücke nach die kleinste, aber doch die reichste und vollständigste in der Anzahl von Lokalitäten und Exemplaren unter allen bestehenden Sammlungen ihrer Art, und überhaupt eine der merkwürdigsten Zusammenstellungen von unorganischen Körpern.\footnote{Die Meteoriten-Sammlung des k. k. Mineralien-Kabinettes enthielt im Monate Februar 1843, mit Ausschluss aller Pseudometeoriten, die wir später anführen werden, 94 verschiedene Lokalitäten von Meteoriten, und zwar 69 von Meteorsteinen, und 25 von Meteoreisen in 258 Stücken oder eigentlich Nummern, da zuweilen mehrere kleine Stücke unter Einem Nummer vereinigt sind. (Im Jahre 1806 zählte sie 7, im Jahre 1819. 36, im Jahre 1836. 58 Lokalitäten.) - Von Meteoriten, mit Ausschluss aller Pseudometeoriten, besaßen zwischen den Jahren 1840 und 1842: das k. Mineralien-Kabinett der Universität zu Berlin, mit welcher die Sammlung Chladnis vereinigt ist, 78 Lokalitäten; Baron Reichenbach in Wien 68 (wovon jedoch 19 nur in kleinen Splittern); die Galerie der Mineralogie im k. Museum der Naturgeschichte zu Paris 42; Gubernialrat Neumann in Prag 40 (meistens in ganz kleinen Fragmenten); die Mineralien-Sammlung im britischen Museum zu London und die Mineralien-Sammlung der Universität zu Göttingen jede 35; Professor John in Berlin 28 (ebenfalls meist in ganz kleinen Stückchen); die Mineralien-Sammlung der Akademie der Wissenschaften zu St. Petersburg und Baron Berzelius in Stockholm 18; Straßenbaudirektor Braumüller zu Brünn 17; die Mineralien-Sammlung des Herrn Turner in England, ehemals Eigentum des H. Heuland in London 15; die Mineralien-Sammlung des Marquis de Drée zu Paris 14. Diess sind die an Meteoriten reichsten Sammlungen; andere öffentliche und Privat-Sammlungen besitzen selten mehr als 12 Lokalitäten; so die Ecole des Mines zu Paris und die Mineralien-Sammlung des Grafen Beroldingen in Wien 12; die Privat-Mineralien-Sammlung des Königs von Dänemark zu Kopenhagen 11; das herzogliche Naturalien-Kabinett zu Gotha 10; die Mineralien-Sammlung der Universität zu Uppsala, die Mineralien-Sammlung der Akademie der Wissenschaften zu München, Professor Pfaff zu Kiel und die Universitäts-Sammlung in Parma 9; das Joanneum zu Grätz und die Sammlungen der Bergakademie zu Freiberg 8; die Mineralien-Sammlung der Universität zu Wilna, jetzt in Kiew 7; die Mineralien-Sammlung der vaterländischen Museen zu Prag und Pesth, dann die der Prager Universität jede 6; u. s. w. Die Meteoriten-Sammlung, die von Herrn Heinrich Heuland in London zusammengebracht später Eigentum des Herrn Heath zu Madras in Ostindien wurde, zählte 43 Lokalitäten von echten Meteoriten. Nach Europa zurückgebracht, wurden sie im Jahre 1837 von Herrn Carl Pötschke in Wien angekauft und daselbst vereinzelt.} Wer würde denn nicht mit ungewöhnlichem Interesse eine so große Anzahl jener rätselhaften Ankömmlinge von Außen hier vereiniget betrachten ? diese aus dem großen Weltraume oberhalb unserer Atmosphäre stammenden Massen (entweder fest gewordene kosmische Materie, oder Stücke eines zersprungenen Planeten), daher vom Himmel gefallene Steine und Eisenmassen genannt, Aerolithen oder Luftsteine von denjenigen, die ihre Entstehung in unserer Atmosphäre suchen, Mondsteine von denen, die sie durch Vulkane oder elektrische Entladungen aus diesem Erdtrabanten ausschleudern lassen, gewöhnlich aber Meteorsteine und Meteoreisen, oder mit einem gemeinschaftlichen Nahmen Meteoriten genannt, weil sie am Himmel als Meteore oder Feuerkugeln erscheinen, aus welchen, unter heftigem Schall und Geprassel, jene Massen, meist Steine, seltener wunderbare Eisenblöcke, noch heiß und nach Schwefel riechend, auf die Erde niederstürzen. Das schon seit den ältesten Zeiten beobachtete Niederfallen dieser Massen auf unseren Planeten hat von jeher den größten Eindruck auf das menschliche Gemüt gemacht, daher mehrere Völker des Altertums, Phönizier, Griechen, Römer u. a. m., die sie heilige Steine oder Bätylien nannten, ihnen, zumal als Symbol der Mutter der Götter, abergläubische Verehrung bezeigten, und dieselben, wie uns alte Geschichtsschreiber und antike Münzen lehren, in Tempeln aufbewahrten und in Triumphzügen herumführten.\footnote{Münter: Über die vom Himmel gefallenen Steine, Bätylien genannt, Kopenhagen und Leipzig 1805. 8, (auch in Gilberts Annalen der Physik, B. 21, S. 51-84, unter dem Titel: Vergleichung der Bätylien der Alten mit den Steinen, welche in neueren Zeiten vom Himmel gefallen sind.) - Von Dalberg: Über Meteor-Cultus der Alten, vorzüglich in Bezug auf Steine, die vom Himmel gefallen. Heidelberg 1811. 8.} Obwohl das Ereignis des Niederfallens durch mehrere Dezennien des vorigen Jahrhunderts bezweifelt, ja hartnäckig geleugnet, die daran Glaubenden verspoltet und verlacht wurden, so hat dieser Gegenstand seit dem berühmten Steinregen von L’Aigle in der Normandie am 26. April 1803, den das französische National-Institut durch sein Mitglied, den bekannten Physiker, Herrn Biot, untersuchen ließ, in neuerer Zeit doch so viel allgemeine Aufmerksamkeit erregt, und so verschiedene Untersuchungen und Beleuchtungen von Seite der Gelehrten zur Folge gehabt, dass jeder Gebildete, namentlich seit dem Erscheinen der verdienstvollen Schriften von Izarn\footnote{Des pierres tombées du ciel ou Lithologie atmosphérique. Paris 1803. 8.} und Bigot de Morogues,\footnote{Mémoire historique et physique sur les chutes des pierres tombées sur la surface de la terre a diverses époques. Orléans 1812. 8.} vorzüglich aber durch die klassischen Arbeiten von Howard,\footnote{Experiments and Observations on certain stony and metalline Substances, wich at different Times are said to have fallen on the Earth, also on various Kinds of native Iron, in den Philos. Transact. of the Roy. Soc. of London for 1802. Part 1. S. 168; deutsch in Gilberts Annalen der Physik, B. 13, S. 291, unter dem Titel: Versuche und Bemerkungen über Stein- und Metallmassen, die zu verschiedenen Zeiten auf die Erde gefallen sein sollen, und über die gediegenen Eisenmassen.} Chladni\footnote{Über Feuer-Meteore und über die mit denselben herabgefallenen Massen. Wien 1819, im Verlage bei J. G. Heubner. 8. Nebst vielen Aufsätzen in Gilberts Annalen.} und Karl von Schreibers\footnote{Nachrichten von dem Steinregen zu Stannern in Mähren, in Gilberts Annalen der Physik. B. 29. 1808. S. 225. - Beiträge zur Geschichte und Kenntnis meteorischer Stein- und Metallmassen und der Erscheinungen, welche deren Niederfallen zu begleiten pflegen, Wien 1820, im Verlage von J. G. Heubner, Folio. Mit Abbildungen. - Über den Meteorstein-Niederfall auf der Herrschaft Wessely in Mähren, in Baumgartners Zeitschrift für Physik und verwandte Wissenschaften. B. 1. 1832. S. 193-256.} wenigstens mit den Tatsachen des Phänomens, wenn auch nicht über die Herkunft dieser merkwürdigen Massen, die uns nie völlig klar werden, und immer Gegenstand mehr oder weniger gewagter Theorien bleiben wird, im Reinen ist. Die erwähnten wissenschaftlichen Untersuchungen haben jedoch in der naturhistorischen Betrachtung der Meteorsteine und Meteoreisenmassen, zu denen die Arbeiten des Herrn von Schreibers, des verdienstvollen Gründers unserer Meteoriten-Sammlung, und die technischen Untersuchungen einiger Meteoreisenmassen durch Herrn von Widmannstätten den Grund legten, ungeachtet der schönen Beiträge, welche die Herren Gustav Rose\footnote{Poggendorffs Annalen der Physik und Chemie. B. 4. S. 173.} und Cordier,\footnote{Annales de Chemie et de Physique. T. 34. pag. 132.} vorzüglich aber Berzelius\footnote{Poggendorffs Annalen. Bd. 33. S. 1 und 113 auch Jahresbericht über die Fortschritte der physischen Wissenschaften 15. Jahrgang S. 227.} dazu in neuerer Zeit lieferten, noch große Lücken in der genauen naturhistorischen Kenntnis dieser rätselhaften Körper gelassen. Die Ursache mag darin liegen, dass nur wenige bedeutende Sammlungen von Meteoriten bestehen, und in diesen wenigen diese kostbaren Produkte nicht in jenem Zustande vorhanden sind, der zu einer genauen Untersuchung und Kenntnis dieser, gleich den Gebirgsarten gemengten Massen unumgänglich notwendig ist; nämlich in einem durch künstliche Zubereitung entstehenden Zustand, der ihr Inneres aufschließt, und ihre wahre Beschaffenheit erst kennen lehrt. Wir meinen die Anfertigung von gut polierten Schnittflächen bei Meteorsteinen; von fein polierten Schnittflächen, die sonst keine andere Veränderung zu erleiden brauchen, dann von polierten Flächen, die weiter entweder durch Hitze-Einwirkung blau, violett oder rot anlaufen gemacht, oder durch Anwendung von metallischen Säuren (Salz- oder Salpetersäure) mehr oder weniger stark geätzt worden sind, bei Meteoreisenmassen. Da dieses mit vieler Mühe und großem Zeitaufwande, mit nicht unbedeutenden Kosten und nicht geringer Verminderung des Volums und Gewichts der so wertvollen Meteoriten in der Sammlung des k. k. Mineralien-Kabinettes ausgeführt worden ist (die Ätzung der Eisenmassen meist von Herrn von Widmannstätten, dem Entdecker der nach ihm benannten merkwürdigen Figuren), so bietet sie ganz allein unter allen bestehenden Meteoriten-Sammlungen Gelegenheit dar, die Eigenschaften, den Charakter und die Verwandtschaften der Meteoriten vollständig ins Klare zu bringen. Dieser Umstand hat uns bestimmt, dieselben nach den einzelnen Lokalitäten mit kurzen Beschreibungen oder Diagnosen zu versehen, durch die Darstellung ihrer Anordnung und ihrer Reihenfolge und eine angehängte Verwandtschaftstabelle die Ähnlichkeiten und Verschiedenheiten, die sie darbieten (wovon die ersteren im Allgemeinen geringer, die anderen viel grösser sind, als sich mancher Mineraloge vorstellt), zu zeigen, ohne dabei jedoch in eine mikroskopische Untersuchung der Meteorsteine einzugehen, die besseren Augen vorbehalten bleibt und wozu einer der ausgezeichnetsten hiesigen Gelehrten, selbst im Besitze einer der bedeutendsten Meteoriten-Sammlungen und, was bei derlei Untersuchungen fast unumgänglich notwendig ist, zugleich Chemiker, bereits zahlreiche Materialien gesammelt hat, deren baldige Bekanntmachung zu wünschen ist. Wir haben somit, soweit es der Hauptzweck dieses beschreibenden Verzeichnisses gestattete (das übrigens mit Ausschluss der Tabellen, Anmerkungen, Zusätze u. s. w. größtenteils ein Abdruck des von uns verfassten amtlichen Kabinetts-Kataloges ist) bei der Herausgabe desselben gestrebt, zugleich einen wissenschaftlichen Beitrag zur Kenntnis der Meteoriten zu geben, In dieser Absicht haben wir auch am Schlusse eine Tabelle über die spezifischen Gewichte sämtlicher im k. k. Mineralien-Kabinette aufbewahrter Meteoriten beigefügt. Die Wiegungen hat der Kustos-Adjunkt an diesem Kabinette Herr Karl Rumler mit aller Sorgfalt bei einer Temperatur von 140 R. ausgeführt, und es wurden dieser Tabelle auch alle anderen in verschiedenen Werken und Abhandlungen zerstreuten Angaben der spezifischen Gewichte von Meteoriten und auch einige noch nicht veröffentlichte beigefügt. Die historischen Beigaben und erläuternden wissenschaftlichen Anmerkungen werden Wissenschaftsfreunden in diesen Blättern vielleicht ebenfalls nicht unwillkommen sein. Noch manches Material (worunter schön ausgeführte Zeichnungen von sämtlichen durch Ätzen bei den verschiedenen Meteoreisenmassen zum Vorschein kommenden Figuren), liegt zur Bekanntmachung bereit, und wird, falls die Annalen des Wiener Museums der Naturgeschichte wieder aufleben sollten, dem Publikum vorgelegt werden. Möge dasjenige, was wir hier bieten, ein freundliches Andenken denjenigen sein, die Gelegenheit haben, die Meteoriten-Sammlung des k. k. Mineralien-Kabinettes zu sehen und Anderen, namentlich Eigentümern oder Vorstehern von Mineralien-Sammlungen, Besitzern von einzelnen Meteoriten u. s. w. Veranlassung werden, der Sammlung des k. k. Mineralien-Kabinettes im Interesse der Wissenschaft Bereicherungen an Meteoriten zukommen zu lassen. Für eine bereits so reiche Sammlung ist jede neue Lokalität ein hochanzuschlagender Gewinn, und daher dem Geber (nebst der Gegengabe von anderen Meteoriten oder Mineralien, wenn es gewünscht wird), der vollste Dank gesichert.
+
+Wien, den 23. Februar 1843.
+\clearpage
+\section{Übersicht der Meteoriten im k. k. Mineralien-Kabinette nach der Reihenfolge ihrer Aufstellung.}
+\begin{center}
+\small
+(Die Nummern dienen zur Erleichterung des Aufsuchens im vorliegenden Kataloge.)
+\end{center}
+\subsection{Meteorsteine.}
+\begin{enumerate}
+    \small
+    \item Alais (St. Etienne de Lolm und Valence).
+    \item Simonod
+    \item Kapland (Bokkeveld).
+    \item Chassigny (Langres).
+    \item Juvenas.
+    \item Stannern.
+    \item Konstantinopel.
+    \item Jonzac.
+    \item Bialistock.
+    \item Lontalax.
+    \item Nobleborough (Nobleboro, Maine).
+    \item Mässing (Eggenfelden).
+    \item Parma (Casignano).
+    \item Siena.
+    \item Ensisheim.
+    \item L'Aigle.
+    \item Liponas.
+    \item Chantonnay.
+    \item Renazzo (Ferrara).
+    \item Richmond (Virginien).
+    \item Weston (Connecticut).
+    \item La Baffe (Épinal).
+    \item Benares (Krakhut).
+    \item Gouv. Poltawa.
+    \item Krasno-Ugol.
+    \item Erxleben.
+    \item Gouv. Simbirsk.
+    \item Mauerkirchen.
+    \item Nashville (Tennessee).
+    \item Lucé.
+    \item Lissa.
+    \item Owahu (Hanaruru).
+    \item Charkow (Ukraine).
+    \item Zaborzika.
+    \item Bachmut.
+    \item Politz (Köstriz).
+    \item Kuleschofka.
+    \item Slobodka.
+    \item Milena.
+    \item Forsyth (Georgien).
+    \item Yorkshire (Wold-Cottage).
+    \item Glasgow (High Possil).
+    \item Berlanguillas (Burgos).
+    \item Apt (Saurette).
+    \item Vouillé (Poitiers).
+    \item Château-Renard (Triguères).
+    \item Salés (Villefranche).
+    \item Agen.
+    \item Nanjemoy (Maryland).
+    \item Asco.
+    \item Toulouse.
+    \item Blansko.
+    \item Wessely.
+    \item Limerick (Adair).
+    \item Grüneberg (Heinrichau).
+    \item Tipperary (Mooresfort).
+    \item Gouv. Kursk.
+    \item Lixna (Dünaburg).
+    \item Tabor (Plan).
+    \item Charsonville (Orléans).
+    \item Doroninsk.
+    \item Seres (Makedonien).
+    \item Sigena (Sena).
+    \item Barbotan (Roquefort, Créon Juillac).
+    \item Eichstädt (Wittens).
+    \item Groß-Divina (Budetin).
+    \item Zebrak (Horzowitz).
+    \item Timochin (Smolensk).
+    \item Macao (Rio Assu).
+\end{enumerate}
+\subsection{Meteoreisen.}
+\begin{enumerate}
+    \small
+    \item Atacama.
+    \item Krasnojarsk (Sibirien, Pallas).
+    \item Brahin.
+    \item Sachsen (Steinbach oder Grimma ? mit dem Eisen, angeblich aus Norwegen).
+    \item Bitburg.
+    \item Toluca (Xiquipilco).
+    \item Elbogen.
+    \item Agram (Hraschina).
+    \item Lenarto.
+    \item Red-River (Louisiana oder Texas).
+    \item Durango.
+    \item Guilford.
+    \item Caille (Grasse).
+    \item Ashville (Buncombe).
+    \item Tennessee.
+    \item Bohumilitz.
+    \item Bahia (Bemdegò).
+    \item Zacatecas.
+    \item Rasgatà.
+    \item Tucuman (Otumpa).
+    \item Senegal.
+    \item Kap der guten Hoffnung.
+    \item Clairborne (Alabama).
+\end{enumerate}
+\subsection{Anhang.}
+\begin{enumerate}
+    \small
+    \item Oaxaca.
+    \item Grönland (Baffingsbay).
+\end{enumerate}
+\clearpage
+\section{Übersicht der Meteoriten im k. k. Mineralien-Kabinette, nach den Fall- oder Fundorten.}
+\begin{center}
+\small
+(Die Nummern beziehen sich auf die Reihenfolge in der Übersicht Nr. 1., und dienen zur Erleichterung des Aufsuchens im vorliegenden Kataloge.)
+\end{center}
+\subsection{Meteorsteine.}
+\subsubsection{Europa}
+\begin{center}
+Frankreich.
+\end{center}
+48\. Agen, Dépt. Lot et Garonne.
+
+1\. Alais, Dépt. du Gard.
+
+44\. Apt, Dépt. de Vaucluse.
+
+50\. Asco, Insel Korsika.
+
+64\. Barbotan (und Roquefort) ehemals Gascogne, Dépt. du Gers (und Dépt. des Landes).
+
+18\. Chantonnay, Dépt. de la Vendee.
+
+60\. Charsonville, Dépt. du Loiret.
+
+4\. Chassigny, Dépt. de la haute Marne.
+
+46\. Château-Renard, Dépt. du Loiret.
+
+15\. Ensisheim, ehemals Elsass, jetzt Dépt. du Haut-Rhin.
+
+8\. Jonzac, Dépt. de la Charente inferieure.
+
+5\. Juvenas, Dépt. de l'Ardeche.
+
+22\. La Baffe, Dépt. des Vosges.
+
+16\. L'Aigle, ehemals Normandie, Dépt. de l'Orne.
+
+17\. Liponas, Dépt. de l'Ain.
+
+30\. Lucé, Dépt. de la Sarthe.
+
+47\. Salés, Dépt. du Rhone.
+
+2\. Simonod, Dépt. de l'Ain.
+
+51\. Toulouse, Dépt. de la Haute-Garonne.
+
+45\. Vouillé, Dépt. de la Vienne.
+
+England.
+
+41\. Wold-Cottage, Yorkshire.
+
+Schottland.
+
+42\. High-Possil, Glasgow.
+
+Irland.
+
+56\. Mooresfort, Grafschaft Tipperary.
+
+54\. Adair, Grafschaft Limerick.
+
+Spanien.
+
+43\. Berlanguillas, Alt-Kastilien.
+
+63\. Sigena, Aragonien.
+
+Italien.
+
+13\. Casignano, Herzogtum Parma.
+
+19\. Renazzo, Provinz Ferrara, Kirchenstaat.
+
+14\. Siena, Toskana.
+
+Deutschland.
+
+59\. Tabor, ehemals Bechiner, jetzt Taborer Kreis, Böhmen.
+
+67\. Zebrak, Berauner Kreis, Böhmen.
+
+31\. Lissa, Bunzlauer Kreis, Böhmen.
+
+6\. Stannern, Iglauer Kreis, Mähren.
+
+52\. Blansko, Brünner Kreis, Mähren.
+
+53\. Wessely, Hradischer Kreis, Mähren.
+
+28\. Mauerkirchen, ehemals Bayern, jetzt Inn-Kreis, Ober-Österreich.
+
+12\. Mässing, Unter-Donau-Kreis, Niederbaiern.
+
+65\. Eichstädt, Regenkreis, Franken, Baiern.
+
+36\. Politz bei Gera, Fürstentum Reuß.
+
+26\. Erxleben, Regierungsbezirk Magdeburg, preußische Provinz Sachsen.
+
+55\. Grüneberg, Regierungsbezirk Liegnitz, Provinz Schlesien.
+
+Ungarn.
+
+66\. Groß-Divina, Trentschiner-Komitat.
+
+Kroatien.
+
+39\. Milena, Warasdiner-Komitat.
+
+Russland.
+
+35\. Bachmut, Gouv. Ekaterinoslaw.
+
+9\. Bialistock, gleichnamige Provinz.
+
+33\. Charkow, gleichnamiges Gouvernement.
+
+25\. Krasno-Ugol, Gouv. Räsan.
+
+37\. Kuleschofka, Gouv. Poltawa.
+
+57\. Kursk, (Gouv.)
+
+58\. Lixna, Dünaburger Kreis, Gouv. Witepsk.
+
+10\. Lontalax, Finnland.
+
+24\. Poltawa (Gouv.)
+
+27\. Simbirsk (Gouv.)
+
+38\. Slobodka, Gouv. Smolensk.
+
+68\. Timochin, Gouv. Smolensk.
+
+34\. Zaborzika, Gouv. Wolhynien.
+
+Türkei.
+
+7\. Konstantinopel.
+
+62\. Seres, Makedonien.
+
+\subsubsection{Asien.}
+
+61\. Doroninsk, Gouv. Irkutsk, Sibirien.
+
+23\. Benares, Bengalen, Ostindien.
+
+\subsubsection{Afrika.}
+
+3\. Kapland (Bokkeveld bei Tulpagh).
+
+\subsubsection{Amerika.}
+
+11\. Nobleborough, Maine, Vereinigte Staaten von Nord-Amerika.
+
+21\. Weston, Connecticut, Vereinigte Staaten von Nord-Amerika.
+
+49\. Nanjemoy, Maryland, Vereinigte Staaten von Nord-Amerika.
+
+20\. Richmond, Virginien, Vereinigte Staaten von Nord-Amerika.
+
+29\. Nashville, Tennessee, Vereinigte Staaten von Nord-Amerika.
+
+40\. Forsyth, Georgien, Vereinigte Staaten von Nord-Amerika.
+
+69\. Macao, Provinz Rio grande do Norte, Brasilien.
+
+\subsubsection{Australien.}
+
+32\. Owahu, eine der Sandwich-Inseln.
+
+\subsection{1\. Meteoreisen.}
+
+\subsubsection{A\. Europa}
+
+Frankreich.
+
+82\. Caille, Dépt. du Var.
+
+Deutschland.
+
+76\. Elbogen, Elbogner Kreis, Böhmen.
+
+85\. Bohumilitz, Prachiner Kreis, Böhmen.
+
+73\. Sachsen (Steinbach bei Eibenstock im Erzgebirgischen Kreise oder Grimma ? im Leipziger Kreise).
+
+74\. Bitburg, Regierungsbezirk Trier, Rheinpreußen.
+
+Ungarn.
+
+78\. Lenarto, Saroscher Komitat.
+
+Kroatien.
+
+77\. Agram, Agramer Komitat.
+
+Russland.
+
+72\. Brahin, Gouv. Minsk, ehemals Litauen.
+
+\subsubsection{B\. Asien.}
+
+Sibirien.
+
+71\. Krasnojarsk, Gouv. Jeniseisk.
+
+\subsubsection{C\. Afrika.}
+
+90\. Senegambien (am oberen Teil des Senegalstromes).
+
+91\. Kap der guten Hoffnung (zwischen dem Sonntags- und Boschesmannsflüsse).
+
+\subsubsection{D\. Amerika.}
+
+94\. Grönland (Baffingsbay)
+
+Vereinigte Staaten von Nord-Amerika.
+
+84\. Tennessee. (Cocke-County in Staate Tennessee).
+
+83\. Ashville, Nord-Carolina.
+
+81\. Guilford, Nord-Carolina.
+
+92\. Clairborne, Staat Alabama.
+
+79\. Louisiana oder Texas ? (am Red-River oder roten Flüsse).
+
+Vereinigte Mexikanische Bundesstaaten.
+
+80\. Durango, im gleichnamigen Staate.
+
+87\. Zacatecas, im gleichnamigen Staate.
+
+75\. Toluca, (Xiquipilio, im Staate Mexiko).
+
+93\. Oaxaca, (in der Misteca, im Staate Oaxaca).
+
+Columbien. (Neu-Granada.)
+
+88\. Rasgatà, nordöstlich von Santa Fe de Bogotá.
+
+Bolivia. (ehemals Peru.)
+
+70\. Atacama. (Wüste Atacama, an der Grenze von Chili).
+
+Brasilien.
+
+86\. Bahia, am Bache Bemdegò bei Monte Santo, Capitanie Bahia.
+
+Vereinigte Staaten am Rio de la Plata.
+
+89\. Tucuman. (Otumpa, im Staate Tucuman.)
+
+\section{Übersicht der Meteoriten im k. k. Mineralien-Kabinette, nach der Zeitfolge ihres Niederfallens.}
+
+(Die Nummern beziehen sich auf die Reihenfolge in der Übersicht Nr. 1, und dienen zur Erleichterung des Aufsuchens im vorliegenden Kataloge.)
+
+ 
+\clearpage
+\section{Wegweiser.}
+\paragraph{}
+Die Meteoriten-Sammlung des k. k. Mineralien-Kabinettes ist in einem langen pultförmigen Glasschrank, mit nach zwei Seiten abfallenden Glaswänden, in der Mitte des vierten Saales aufgestellt. Auf der waagerechten Ebene des Glasschrankes erheben sich, nach der Länge desselben ziehend, jedoch beiderseits noch Raum lassend, drei breite niedere Stufen, wodurch im Ganzen fünf Abteilungen entstehen. Die obere oder zweite, beiden Seiten des Pult-Schrankes gemeinschaftliche Stufe, (mit Abteilung Nr. 1 bezeichnet) enthält die größten Stücke, deren Volum eine systematische Einreihung unter die anderen nicht erlaubte, nämlich die zwei berühmten großen Eisenmassen von Elbogen und Agram, große Stücke der Eisenmassen von Atacama, Lenarto, Bohumilitz, Bahia und Krasnojarsk, einen großen ganzen Meteorstein von Tabor, einen solchen von Wessely, und einen von Lissa, drei große ganze Steine von Stannern, ein großes Fragment des Steines von Chantonnay und zwei große ganze Steine von L’Aigle (letztere zwei auf der Rückseite des Schrankes). Die Reihenfolge der nach ihren Verwandtschaften zusammengestellten Meteoriten kleineren Formates beginnt in der vorderen, gegen den dritten Saal des Mineralien-Kabinettes gekehrten Hälfte des Schrankes; hier sind auf der untersten, mit Nr. 2 bezeichneten Abteilung, auf der Ebene des Schrankes, unterhalb der ersten Stufe die Meteorsteine, welche kein gediegenes Eisen enthalten (Nr. 1 bis 12 der Tabelle Nr. 1.) aufgestellt; von da wendet sich die Reihe auf die Rückseite des Glasschrankes, der auf der ersten Stufe (Abteilung Nr. 3) und in der Abteilung unterhalb derselben (Abteilung Nr.4) auf einem ausgedehnten Raume die anderen, weit zahlreicheren Meteorsteine, welche gediegenes Eisen einschließen (von Nr. 13 bis 69 der Tabelle Nr. 1.) enthält. Die Reihe springt von der Abteilung Nr. 4 nun wieder auf die Vorderseite des Glasschrankes, wo die erste Stufe, mit Abteilung Nr.5 bezeichnet, die kleineren Stücke von Meteoreisen trägt; Anfangs die ästigen mit Olivin (von Nr. 70 bis 73), darauf die derben oder formlosen (von Nr. 74 bis 94), womit die Sammlung endet. — Alle Stücke liegen auf ovalen, weiß lackierten, mit goldenen Leisten gezierten Untersätzen von verschiedener Größe und Höhe, auf welchen eine Etiquette den Namen der Lokalität, das Falljahr, und wenn (wie bei allen Eisenmassen, mit alleiniger Ausnahme der Agramer) die Fallzeit nicht bekannt ist, die Zeit ihrer Auffindung oder Bekanntwerdung angibt. Die bei jeder Lokalität mit Nr. 1 beginnenden Nummern auf den Untersätzen beziehen sich auf die Beschreibung der Lokalität, sowohl in dem Kabinetts- als dem vorliegenden gedruckten Kataloge.
+
+\section{1\. Meteorsteine.}
+
+Nr\. 1 bis 69.
+
+\subsection{1\. Alais.}
+
+St. Etienne de Lolm und Valence, Dépt. du Gard, Frankreich.
+
+15\. Mai 1806, 5 Uhr Abends.
+
+Bräunlich schwarze, teils bröckliche und zerreibliche, teils (durch Zerreibung entstandene) pulverige Substanz, hie und da mit weißen Salz-Effloreszierungen (nach Berzelius: Bittersalz mit Nickelvitriol), in welcher selbst mittelst der Lupe weder kugelige Ausscheidungen, noch gediegenes Eisen und Magnetkies (die jedoch den Analysen zufolge in sehr kleiner Menge vorhanden sind), unterschieden werden können.
+
+1\. Größere und kleinere Bröckchen, mit Pulver vermischt und, bis auf zwei, ohne Rindensubstanz; von einem der zwei allda gefallenen, und alsbald zerbröckelten Steine, die zusammen 12 Pfund wogen. — Etwas über 3/32 Loth oder 25 1/2 Gran — 1816. 35. 44, und 1838. 27. 2.* — Teils aus der Mineralien-Sammlung des Marquis de Drée in Paris durch den Direktor der vereinigten k. k. Hof-Naturalien-Kabinette, Carl von Schreibers, in Tausch erhalten, teils von Herrn Gubernialrat Neumann in Prag eingetauscht.
+
+*) Die hier und bei allen anderen Lokalitäten von Meteoriten befindlichen Zahlen bedeuten das Jahr und die Nummer des Acquisitions-Postens, dann die Nummer des Stückes in dem respektiven Acquisitions-Posten der Kabinetts-Kataloge.
+
+\subsection{2\. Simonod.}
+
+\clearpage
+\end{document}
