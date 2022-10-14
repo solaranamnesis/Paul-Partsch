@@ -6,4 +6,4 @@ Public Domain Works of Paul Partsch (1791 - 1856)
 English - Plain Text  
 English - PDF  
 [German - Plain Text](Die-Meteoriten/full-text-german.md)  
-[German - PDF] | [Biolinum] | [Fraktur] | [Schwabacher]  
+[German - PDF](https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_baskerville.pdf) | [Biolinum](https://cdn.solaranamnesis.com/PaulPartsch/partsch_meteoriten_zu_wien_1843_german_biolinum.pdf) | [Fraktur] | [Schwabacher]  
