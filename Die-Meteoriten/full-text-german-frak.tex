@@ -32,15 +32,22 @@
 \usepackage[titles]{tocloft}
 \usepackage{sectsty}
 
-\sectionfont{\Huge}
-\subsectionfont{\LARGE}
-\subsubsectionfont{\Large}
-\paragraphfont{\normalsize}
+\allsectionsfont{\frakfamily}
+\sectionfont{\frakfamily\LARGE}
+\subsectionfont{\frakfamily\Large}
+\subsubsectionfont{\frakfamily\large}
+
+\paragraphfont{\large}
 \begin{document}
 \frakfamily
 \renewcommand{\contentsname}{
 \frakfamily{Inhaltsverzeichnis}
 }
+
+\renewcommand{\cftsecfont}{\frakfamily}
+\renewcommand{\cftsubsecfont}{\frakfamily}
+\renewcommand{\cftsubsubsecfont}{\frakfamily}
+
 % fix toc page numbers
 \let\origcftsecfont\cft
 \let\origcftsecpagefont\cftsecpagefont
@@ -55,6 +62,9 @@
 \let\origcftsubsubsecafterpnum\cftsubsubsecafterpnum
 \renewcommand{\cftsubsubsecpagefont}{\frakfamily{\origcftsubsubsecpagefont}}
 \renewcommand{\cftsubsubsecafterpnum}{\frakfamily{\origcftsubsubsecafterpnum}}
+
+\renewcommand\thefootnote{\swabfamily{\arabic{footnote}}}
+
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	%\scshape % Use small caps for all text on the title page
@@ -106,12 +116,12 @@
 \end{titlepage}
 \setlength{\parskip}{1mm plus1mm minus1mm}
 \clearpage
-\tableofcontents
-\clearpage
-\Large
 \pagestyle{fancy}
 \fancyhf{}
 \cfoot{\frakfamily{\thepage}}
+\tableofcontents
+\clearpage
+\Large
 \vspace*{\fill}
 \begin{quote}
    Es l"asst sich als ausgemacht ansehen, dass sie nicht von der Erde, sondern von einem anderen Weltk"orper herstammen, und folglich die Beschaffenheit der au"serhalb der Erde vorkommenden w"agbaren Stoffe verk"unden. In dieser Beziehung haben die Meteorsteine ein au"serordentliches Interesse. --- Berzelius
